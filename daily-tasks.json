@@ -1,13 +1,14 @@
 {
   "date": "23-Apr",
-  "generatedAt": "2026-04-23T10:31:51.355Z",
+  "generatedAt": "2026-04-23T10:41:24.996Z",
   "members": [
     {
       "member": "Minh Thư",
       "tasks": [
         {
           "date": "23-Apr",
-          "task": "UV: D60 TEE PPTX 37 pages (2.5)\n\nDue:24/4"
+          "dueDate": "24/4",
+          "task": "UV: D60 TEE PPTX 37 pages (2.5)"
         }
       ]
     },
@@ -16,11 +17,13 @@
       "tasks": [
         {
           "date": "23-Apr",
-          "task": "SN Outdated Content: 6. SpO2 ~11 mins Illus (4)\nDue 23/4"
+          "dueDate": "23/4",
+          "task": "SN Outdated Content: 6. SpO2 ~11 mins Illus (4)"
         },
         {
           "date": "23-Apr",
-          "task": "HOME - Concept art - fixing -- CLIENT FEEDBACK 21/4\nDue: 23/4"
+          "dueDate": "23/4",
+          "task": "HOME - Concept art - fixing -- CLIENT FEEDBACK 21/4"
         }
       ]
     },
@@ -29,7 +32,8 @@
       "tasks": [
         {
           "date": "23-Apr",
-          "task": "North Carolina Museum Video 6 - 1 min (1)\nDue 23/4"
+          "dueDate": "23/4",
+          "task": "North Carolina Museum Video 6 - 1 min (1)"
         }
       ]
     },
@@ -38,7 +42,8 @@
       "tasks": [
         {
           "date": "23-Apr",
-          "task": "ELX Advisors: Anim (5 ngày) \nDue 24/4"
+          "dueDate": "24/4",
+          "task": "ELX Advisors: Anim (5 ngày)"
         }
       ]
     },
@@ -47,11 +52,13 @@
       "tasks": [
         {
           "date": "23-Apr",
-          "task": "SOUK scenario 1 anim fixing (0.25)\nDue 29/4"
+          "dueDate": "29/4",
+          "task": "SOUK scenario 1 anim fixing (0.25)"
         },
         {
           "date": "23-Apr",
-          "task": "SN Priority: 8. Signs of Addisonian Crisis (NCLEX Safety Focus) ~ 7' (2.5)\n\nDue 29/4"
+          "dueDate": "29/4",
+          "task": "SN Priority: 8. Signs of Addisonian Crisis (NCLEX Safety Focus) ~ 7' (2.5)"
         }
       ]
     },
@@ -60,7 +67,8 @@
       "tasks": [
         {
           "date": "23-Apr",
-          "task": "North Carolina Museum Video 4 - 4 min (4)\nDue 29/4"
+          "dueDate": "29/4",
+          "task": "North Carolina Museum Video 4 - 4 min (4)"
         }
       ]
     }
