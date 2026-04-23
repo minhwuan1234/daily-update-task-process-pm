@@ -1,0 +1,24 @@
+name: Receive Daily Tasks
+
+on:
+  repository_dispatch:
+    types: [daily-tasks]
+
+jobs:
+  save-tasks:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Save tasks to JSON
+        run: |
+          echo '${{ toJson(github.event.client_payload) }}' > daily-tasks.json
+
+      - name: Commit and push
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add daily-tasks.json
+          git diff --cached --quiet || git commit -m "Update daily tasks - ${{ github.event.client_payload.date }}"
+          git push
