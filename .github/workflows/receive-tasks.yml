@@ -2,20 +2,27 @@ name: Receive Daily Tasks
 
 on:
   repository_dispatch:
-    types: [daily-update-task-process-pm]   # ← đổi thành đúng tên n8n đang gửi
+    types: [daily-update-task-process-pm]
 
 jobs:
   save-tasks:
     runs-on: ubuntu-latest
     permissions:
-      contents: write                        # ← thêm dòng này, fine-grained token cần
+      contents: write
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
 
       - name: Save tasks to JSON
+        env:
+          PAYLOAD: ${{ toJson(github.event.client_payload) }}
         run: |
-          echo '${{ toJson(github.event.client_payload) }}' > daily-tasks.json
+          python3 -c "
+          import os, json
+          payload = json.loads(os.environ['PAYLOAD'])
+          with open('daily-tasks.json', 'w', encoding='utf-8') as f:
+              json.dump(payload, f, ensure_ascii=False, indent=2)
+          "
 
       - name: Commit and push
         run: |
