@@ -2,11 +2,13 @@ name: Receive Daily Tasks
 
 on:
   repository_dispatch:
-    types: [daily-tasks]
+    types: [daily-update-task-process-pm]   # ← đổi thành đúng tên n8n đang gửi
 
 jobs:
   save-tasks:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write                        # ← thêm dòng này, fine-grained token cần
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
