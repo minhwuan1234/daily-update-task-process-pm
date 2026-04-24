@@ -1,0 +1,104 @@
+{
+  "generatedAt": "2026-04-24T03:46:23Z",
+  "total": 7,
+  "tasks": [
+    {
+      "taskId": "193cb0a9-d143-4ead-89bb-bd4e78b530d9",
+      "title": "SN Priority: 8. Signs of Addisonian Crisis (NCLEX Safety Focus) ~ 7' (2.5)",
+      "status": "completed",
+      "startDate": "2026-04-23T00:00:00Z",
+      "dueDate": "2026-04-29T00:00:00Z",
+      "assignees": [
+        {
+          "userId": "ou_d4705f336444cf58b915433056857d56",
+          "type": "user"
+        }
+      ],
+      "tasklistId": "eb4234bf-c611-4e74-9798-1c288f1f04e5"
+    },
+    {
+      "taskId": "b38160cd-51cc-470c-ad85-6f777f25578d",
+      "title": "North Carolina Museum Video 8 - 2.5 min (2.5)",
+      "status": "completed",
+      "startDate": "2026-04-24T00:00:00Z",
+      "dueDate": "2026-04-30T00:00:00Z",
+      "assignees": [
+        {
+          "userId": "ou_d4705f336444cf58b915433056857d56",
+          "type": "user"
+        }
+      ],
+      "tasklistId": "dd2705f9-b532-4585-b787-15b623847c4f"
+    },
+    {
+      "taskId": "891eabca-7382-4f77-b9ef-cf13fa66f287",
+      "title": "North Carolina Museum Video 9 - 1 min (2-2.5)",
+      "status": "completed",
+      "startDate": "2026-04-24T00:00:00Z",
+      "dueDate": "2026-04-30T00:00:00Z",
+      "assignees": [
+        {
+          "userId": "ou_d4705f336444cf58b915433056857d56",
+          "type": "user"
+        }
+      ],
+      "tasklistId": "dd2705f9-b532-4585-b787-15b623847c4f"
+    },
+    {
+      "taskId": "83c0c8fa-6361-4ddb-9d70-7e54a4e70f38",
+      "title": "North Carolina Museum Video 4 - 4 min (4)",
+      "status": "completed",
+      "startDate": "2026-04-23T00:00:00Z",
+      "dueDate": "2026-04-29T00:00:00Z",
+      "assignees": [
+        {
+          "userId": "ou_d4705f336444cf58b915433056857d56",
+          "type": "user"
+        }
+      ],
+      "tasklistId": "dd2705f9-b532-4585-b787-15b623847c4f"
+    },
+    {
+      "taskId": "ad9f8ed0-1707-47d3-8ac3-119e83a82a41",
+      "title": "SOUK scenario 2  fixing (0.25)",
+      "status": "completed",
+      "startDate": "2026-04-24T00:00:00Z",
+      "dueDate": "2026-04-24T00:00:00Z",
+      "assignees": [
+        {
+          "userId": "ou_d4705f336444cf58b915433056857d56",
+          "type": "user"
+        }
+      ],
+      "tasklistId": "0e0485fc-1147-4c8b-9e12-479ecbbdf458"
+    },
+    {
+      "taskId": "c0bd1b28-6b93-41f1-a7ea-fad5574eb477",
+      "title": "ELX Advisors: Anim (5 ngày) ",
+      "status": "completed",
+      "startDate": "2026-04-18T00:00:00Z",
+      "dueDate": "2026-04-24T00:00:00Z",
+      "assignees": [
+        {
+          "userId": "ou_d4705f336444cf58b915433056857d56",
+          "type": "user"
+        }
+      ],
+      "tasklistId": "4f707f01-1386-470e-971c-a932154be876"
+    },
+    {
+      "taskId": "9834f22e-fe9f-47e0-a943-746c4863072d",
+      "title": "UV: D60 TEE PPTX 37 pages (2.5)",
+      "status": "completed",
+      "startDate": "2026-04-22T00:00:00Z",
+      "dueDate": "2026-04-24T00:00:00Z",
+      "assignees": [
+        {
+          "userId": "ou_d4705f336444cf58b915433056857d56",
+          "type": "user"
+        }
+      ],
+      "tasklistId": "a1341ef9-158e-4bfc-8ee8-e3fe2def4d3e"
+    }
+  ]
+}
