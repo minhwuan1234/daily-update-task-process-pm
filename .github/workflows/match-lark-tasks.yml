@@ -1,0 +1,116 @@
+name: Match Lark Tasks
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 2 * * 1-5'  # Chạy mỗi ngày thường lúc 9h sáng GMT+7
+
+jobs:
+  match-tasks:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Match GitHub tasks with Lark
+        env:
+          USER_TOKEN: ${{ secrets.LARK_USER_TOKEN }}
+          TASKLIST_ID: ${{ secrets.LARK_TASKLIST_ID }}
+        run: |
+          python3 << 'EOF'
+          import json, os, urllib.request, urllib.error
+          from datetime import datetime
+
+          USER_TOKEN  = os.environ['USER_TOKEN']
+          TASKLIST_ID = os.environ['TASKLIST_ID']
+
+          # ── Đọc daily-tasks.json ──
+          with open('daily-tasks.json', 'r', encoding='utf-8') as f:
+              github_data = json.load(f)
+
+          # ── Lấy tasks từ Lark ──
+          req = urllib.request.Request(
+              f'https://open.larksuite.com/open-apis/task/v2/tasklists/{TASKLIST_ID}/tasks?page_size=100',
+              headers={
+                  'Authorization': f'Bearer {USER_TOKEN}',
+                  'Content-Type':  'application/json',
+              }
+          )
+          with urllib.request.urlopen(req) as res:
+              lark_data = json.loads(res.read())
+
+          if lark_data.get('code') != 0:
+              print(f"Lark API error: {lark_data.get('msg')}")
+              exit(1)
+
+          lark_tasks = lark_data.get('data', {}).get('items', [])
+          print(f"Lark tasks fetched: {len(lark_tasks)}")
+
+          # ── Normalize để match keyword ──
+          def normalize(s):
+              import re
+              return re.sub(r'[^a-z0-9\s]', '', (s or '').lower()).strip()
+
+          def match_task(task_text, lark_tasks):
+              keywords = [w for w in normalize(task_text).split() if len(w) > 3]
+              best, best_score = None, 0
+              for lt in lark_tasks:
+                  title = normalize(lt.get('summary', ''))
+                  score = sum(1 for kw in keywords if kw in title)
+                  if score > best_score:
+                      best, best_score = lt, score
+              return best if best_score > 0 else None
+
+          def parse_ts(ts):
+              if not ts: return None
+              return datetime.utcfromtimestamp(int(ts)/1000).strftime('%Y-%m-%dT%H:%M:%SZ')
+
+          # ── Match từng task ──
+          results = []
+          for member in github_data.get('members', []):
+              for t in member.get('tasks', []):
+                  lark_match = match_task(t['task'], lark_tasks)
+                  results.append({
+                      'member':    member['member'],
+                      'taskTitle': t['task'],
+                      'dueDate':   t.get('dueDate'),
+                      'date':      t.get('date'),
+                      'larkTask':  {
+                          'taskId':    lark_match['guid'],
+                          'title':     lark_match['summary'],
+                          'status':    'completed' if lark_match.get('completed_at') else 'in_progress',
+                          'startDate': parse_ts(lark_match.get('start', {}).get('timestamp')),
+                          'dueDate':   parse_ts(lark_match.get('due', {}).get('timestamp')),
+                          'assignees': [
+                              {'userId': m['id'], 'type': m['type']}
+                              for m in lark_match.get('members', [])
+                              if m.get('role') == 'assignee'
+                          ],
+                      } if lark_match else None,
+                  })
+
+          output = {
+              'generatedAt': datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ'),
+              'date':        github_data.get('date'),
+              'total':       len(results),
+              'matched':     sum(1 for r in results if r['larkTask']),
+              'unmatched':   sum(1 for r in results if not r['larkTask']),
+              'tasks':       results,
+          }
+
+          with open('lark-matched-tasks.json', 'w', encoding='utf-8') as f:
+              json.dump(output, f, ensure_ascii=False, indent=2)
+
+          print(f"Done — matched: {output['matched']}/{output['total']}")
+          EOF
+
+      - name: Commit and push
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add lark-matched-tasks.json
+          git diff --cached --quiet || git commit -m "Update lark matched tasks - $(date +'%Y-%m-%d')"
+          git push
