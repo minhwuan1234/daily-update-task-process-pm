@@ -87,7 +87,7 @@ jobs:
                       all_tasks.append({
                           'taskId':     td.get('guid'),
                           'title':      td.get('summary'),
-                          'status':     'completed' if td.get('completed_at') else 'in_progress',
+                          'status': 'completed' if td.get('completed_at') and td.get('completed_at') != '0' else 'in_progress',
                           'startDate':  parse_ts((td.get('start') or {}).get('timestamp')),
                           'dueDate':    parse_ts((td.get('due') or {}).get('timestamp')),
                           'assignees':  [
