@@ -3,7 +3,7 @@ name: Fetch Lark Tasks
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 2 * * 1-5'  # 9h sáng GMT+7
+    - cron: '0 2 * * 1-5'
 
 jobs:
   fetch-tasks:
@@ -21,7 +21,7 @@ jobs:
           TASKLIST_IDS: ${{ secrets.LARK_TASKLIST_ID }}
         run: |
           python3 << 'EOF'
-          import json, os, urllib.request
+          import json, os, urllib.request, urllib.error
           from datetime import datetime
 
           USER_TOKEN   = os.environ['USER_TOKEN']
@@ -35,8 +35,14 @@ jobs:
                       'Content-Type':  'application/json',
                   }
               )
-              with urllib.request.urlopen(req) as res:
-                  return json.loads(res.read())
+              try:
+                  with urllib.request.urlopen(req) as res:
+                      return json.loads(res.read())
+              except urllib.error.HTTPError as e:
+                  body = e.read().decode('utf-8')
+                  print(f"HTTPError {e.code} for {url}")
+                  print(f"Response body: {body}")
+                  raise
 
           def parse_ts(ts):
               if not ts: return None
@@ -45,45 +51,53 @@ jobs:
           all_tasks = []
 
           for tasklist_id in TASKLIST_IDS:
-              print(f"Fetching tasklist: {tasklist_id}")
+              print(f"\nFetching tasklist: {tasklist_id}")
               page_token = None
 
               while True:
-                  url = f'https://open.larksuite.com/open-apis/task/v2/tasklists/{tasklist_id}/tasks?page_size=100'
+                  # ── Thử endpoint v1 thay vì v2 ──
+                  url = f'https://open.larksuite.com/open-apis/task/v2/tasklists/{tasklist_id}/tasks?page_size=50'
                   if page_token:
                       url += f'&page_token={page_token}'
 
+                  print(f"GET {url}")
                   data = lark_get(url)
+                  print(f"Response code: {data.get('code')}, msg: {data.get('msg')}")
 
                   if data.get('code') != 0:
-                      print(f"Error fetching tasklist {tasklist_id}: {data.get('msg')}")
+                      print(f"Lark error: {data.get('msg')}")
                       break
 
                   items = data.get('data', {}).get('items', [])
-                  print(f"  → {len(items)} tasks")
+                  print(f"Items count: {len(items)}")
+                  if items:
+                      print(f"First item sample: {json.dumps(items[0], ensure_ascii=False)[:200]}")
 
                   for t in items:
-                      # Lấy chi tiết từng task để có đủ thông tin
-                      detail = lark_get(
-                          f"https://open.larksuite.com/open-apis/task/v2/tasks/{t['guid']}"
-                      )
-                      task_detail = detail.get('data', {}).get('task', t)
+                      task_guid = t.get('guid') or t.get('id')
+                      if not task_guid:
+                          print(f"No guid found in: {t}")
+                          continue
+
+                      # Lấy chi tiết task
+                      detail_url = f'https://open.larksuite.com/open-apis/task/v2/tasks/{task_guid}'
+                      detail = lark_get(detail_url)
+                      td = detail.get('data', {}).get('task', t)
 
                       all_tasks.append({
-                          'taskId':     task_detail.get('guid'),
-                          'title':      task_detail.get('summary'),
-                          'status':     'completed' if task_detail.get('completed_at') else 'in_progress',
-                          'startDate':  parse_ts(task_detail.get('start', {}).get('timestamp')),
-                          'dueDate':    parse_ts(task_detail.get('due', {}).get('timestamp')),
+                          'taskId':     td.get('guid'),
+                          'title':      td.get('summary'),
+                          'status':     'completed' if td.get('completed_at') else 'in_progress',
+                          'startDate':  parse_ts((td.get('start') or {}).get('timestamp')),
+                          'dueDate':    parse_ts((td.get('due') or {}).get('timestamp')),
                           'assignees':  [
                               {'userId': m['id'], 'type': m.get('type')}
-                              for m in task_detail.get('members', [])
+                              for m in td.get('members', [])
                               if m.get('role') == 'assignee'
                           ],
                           'tasklistId': tasklist_id,
                       })
 
-                  # Pagination
                   if data.get('data', {}).get('has_more'):
                       page_token = data['data']['page_token']
                   else:
@@ -98,7 +112,7 @@ jobs:
           with open('lark-tasks.json', 'w', encoding='utf-8') as f:
               json.dump(output, f, ensure_ascii=False, indent=2)
 
-          print(f"Done — total tasks: {len(all_tasks)}")
+          print(f"\nDone — total tasks: {len(all_tasks)}")
           EOF
 
       - name: Commit and push
