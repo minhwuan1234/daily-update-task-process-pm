@@ -1,0 +1,110 @@
+name: Fetch Lark Tasks
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 2 * * 1-5'  # 9h sáng GMT+7
+
+jobs:
+  fetch-tasks:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Fetch tasks from Lark
+        env:
+          USER_TOKEN:   ${{ secrets.LARK_USER_TOKEN }}
+          TASKLIST_IDS: ${{ secrets.LARK_TASKLIST_ID }}
+        run: |
+          python3 << 'EOF'
+          import json, os, urllib.request
+          from datetime import datetime
+
+          USER_TOKEN   = os.environ['USER_TOKEN']
+          TASKLIST_IDS = [tid.strip() for tid in os.environ['TASKLIST_IDS'].split(',') if tid.strip()]
+
+          def lark_get(url):
+              req = urllib.request.Request(
+                  url,
+                  headers={
+                      'Authorization': f'Bearer {USER_TOKEN}',
+                      'Content-Type':  'application/json',
+                  }
+              )
+              with urllib.request.urlopen(req) as res:
+                  return json.loads(res.read())
+
+          def parse_ts(ts):
+              if not ts: return None
+              return datetime.utcfromtimestamp(int(ts) / 1000).strftime('%Y-%m-%dT%H:%M:%SZ')
+
+          all_tasks = []
+
+          for tasklist_id in TASKLIST_IDS:
+              print(f"Fetching tasklist: {tasklist_id}")
+              page_token = None
+
+              while True:
+                  url = f'https://open.larksuite.com/open-apis/task/v2/tasklists/{tasklist_id}/tasks?page_size=100'
+                  if page_token:
+                      url += f'&page_token={page_token}'
+
+                  data = lark_get(url)
+
+                  if data.get('code') != 0:
+                      print(f"Error fetching tasklist {tasklist_id}: {data.get('msg')}")
+                      break
+
+                  items = data.get('data', {}).get('items', [])
+                  print(f"  → {len(items)} tasks")
+
+                  for t in items:
+                      # Lấy chi tiết từng task để có đủ thông tin
+                      detail = lark_get(
+                          f"https://open.larksuite.com/open-apis/task/v2/tasks/{t['guid']}"
+                      )
+                      task_detail = detail.get('data', {}).get('task', t)
+
+                      all_tasks.append({
+                          'taskId':     task_detail.get('guid'),
+                          'title':      task_detail.get('summary'),
+                          'status':     'completed' if task_detail.get('completed_at') else 'in_progress',
+                          'startDate':  parse_ts(task_detail.get('start', {}).get('timestamp')),
+                          'dueDate':    parse_ts(task_detail.get('due', {}).get('timestamp')),
+                          'assignees':  [
+                              {'userId': m['id'], 'type': m.get('type')}
+                              for m in task_detail.get('members', [])
+                              if m.get('role') == 'assignee'
+                          ],
+                          'tasklistId': tasklist_id,
+                      })
+
+                  # Pagination
+                  if data.get('data', {}).get('has_more'):
+                      page_token = data['data']['page_token']
+                  else:
+                      break
+
+          output = {
+              'generatedAt': datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ'),
+              'total':       len(all_tasks),
+              'tasks':       all_tasks,
+          }
+
+          with open('lark-tasks.json', 'w', encoding='utf-8') as f:
+              json.dump(output, f, ensure_ascii=False, indent=2)
+
+          print(f"Done — total tasks: {len(all_tasks)}")
+          EOF
+
+      - name: Commit and push
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add lark-tasks.json
+          git diff --cached --quiet || git commit -m "Update lark tasks - $(date +'%Y-%m-%d')"
+          git push
