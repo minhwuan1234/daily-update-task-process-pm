@@ -1,6 +1,6 @@
 {
   "date": "24-Apr",
-  "generatedAt": "2026-04-24T02:39:42.623Z",
+  "generatedAt": "2026-04-24T02:44:31.064Z",
   "members": [
     {
       "member": "Minh Thư",
@@ -27,8 +27,8 @@
       "tasks": [
         {
           "date": "24-Apr",
-          "dueDate": "20/4",
-          "task": "F. Social: post 5"
+          "dueDate": "30/4",
+          "task": "North Carolina Museum Video 9 - 1 min (2-2.5)"
         }
       ]
     },
@@ -39,6 +39,11 @@
           "date": "24-Apr",
           "dueDate": "24/4",
           "task": "ELX Advisors: Anim (5 ngày)"
+        },
+        {
+          "date": "24-Apr",
+          "dueDate": "29/4",
+          "task": "SOUK scenario 2  fixing (0.25)"
         }
       ]
     },
@@ -64,5 +69,5 @@
     }
   ],
   "totalMembers": 6,
-  "totalTasks": 6
+  "totalTasks": 7
 }
