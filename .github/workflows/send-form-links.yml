@@ -15,44 +15,18 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Send form link to each member via Lark Bot DM
+      - name: Send form link to each member via Lark DM
         env:
-          LARK_APP_ID:     ${{ secrets.LARK_APP_ID }}
-          LARK_APP_SECRET: ${{ secrets.LARK_APP_SECRET }}
+          LARK_USER_TOKEN: ${{ secrets.LARK_USER_TOKEN }}
           FORM_BASE_URL:   "http://127.0.0.1:5500/index.html"
         run: |
           python3 << 'EOF'
           import json, os, urllib.request, urllib.error
           from datetime import datetime, timezone
 
-          APP_ID        = os.environ['LARK_APP_ID']
-          APP_SECRET    = os.environ['LARK_APP_SECRET']
+          USER_TOKEN    = os.environ['LARK_USER_TOKEN']
           FORM_BASE_URL = os.environ['FORM_BASE_URL']
           TODAY         = datetime.now(timezone.utc).strftime('%d/%m/%Y')
-
-          # ══════════════════════════════════════
-          # BƯỚC 1: Lấy Bot App Access Token
-          # ══════════════════════════════════════
-          def get_bot_token():
-              payload = json.dumps({
-                  "app_id":     APP_ID,
-                  "app_secret": APP_SECRET,
-              }).encode()
-              req = urllib.request.Request(
-                  "https://open.larksuite.com/open-apis/auth/v3/tenant_access_token/internal",
-                  data=payload,
-                  headers={"Content-Type": "application/json"},
-                  method="POST"
-              )
-              with urllib.request.urlopen(req) as res:
-                  data = json.loads(res.read())
-              if data.get("code") != 0:
-                  raise Exception(f"Bot token failed: {data}")
-              token = data["tenant_access_token"]
-              print(f"✅ Bot token: {token[:20]}...")
-              return token
-
-          BOT_TOKEN = get_bot_token()
 
           # ══════════════════════════════════════
           # HELPERS
@@ -63,7 +37,7 @@ jobs:
                   url,
                   data=body,
                   headers={
-                      "Authorization": f"Bearer {BOT_TOKEN}",
+                      "Authorization": f"Bearer {USER_TOKEN}",
                       "Content-Type":  "application/json",
                   },
                   method="POST"
@@ -76,7 +50,7 @@ jobs:
                   raise
 
           # ══════════════════════════════════════
-          # BƯỚC 2: Đọc + group tasks theo user_id
+          # BƯỚC 1: Đọc + group tasks theo user_id
           # ══════════════════════════════════════
           with open("lark-tasks.json", "r", encoding="utf-8") as f:
               data = json.load(f)
@@ -94,7 +68,7 @@ jobs:
           print(f"Found {len(user_tasks)} members with active tasks\n")
 
           # ══════════════════════════════════════
-          # BƯỚC 3: Build card + gửi DM thẳng user_id
+          # BƯỚC 2: Build card + gửi DM
           # ══════════════════════════════════════
           def format_task_lines(tasks):
               lines = []
@@ -179,7 +153,6 @@ jobs:
                   "success":   res.get("code") == 0
               })
 
-          # ── Summary ──
           success = sum(1 for r in results if r["success"])
           print(f"\n📊 Done: {success}/{len(results)} DMs sent successfully")
           for r in results:
