@@ -1,43 +1,42 @@
-name: Send Form Links to Members
+name: Collect Standup Responses
 
 on:
-  workflow_run:
-    workflows: ["Fetch Lark Tasks"]
-    types: [completed]
+  push:
+    paths:
+      - 'responses/**/*.json'
   workflow_dispatch:
 
 jobs:
-  send-links:
+  collect:
     runs-on: ubuntu-latest
-    if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' }}
+    permissions:
+      contents: read
 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Send form link to each member via Lark Bot DM
+      - name: Collect + send summary to PM
         env:
           LARK_APP_ID:     ${{ secrets.LARK_APP_ID }}
           LARK_APP_SECRET: ${{ secrets.LARK_APP_SECRET }}
-          FORM_BASE_URL:   "http://127.0.0.1:5500/index.html"
+          PM_OPEN_ID:      ${{ secrets.PM_OPEN_ID }}
         run: |
           python3 << 'EOF'
-          import json, os, urllib.request, urllib.error
+          import json, os, glob
           from datetime import datetime, timezone
 
-          APP_ID        = os.environ['LARK_APP_ID']
-          APP_SECRET    = os.environ['LARK_APP_SECRET']
-          FORM_BASE_URL = os.environ['FORM_BASE_URL']
-          TODAY         = datetime.now(timezone.utc).strftime('%d/%m/%Y')
+          APP_ID     = os.environ['LARK_APP_ID']
+          APP_SECRET = os.environ['LARK_APP_SECRET']
+          PM_OPEN_ID = os.environ['PM_OPEN_ID']
+          TODAY      = datetime.now(timezone.utc).strftime('%Y-%m-%d')
+          TODAY_LABEL = datetime.now(timezone.utc).strftime('%d/%m/%Y')
 
-          # ══════════════════════════════════════
-          # BƯỚC 1: Lấy Bot tenant_access_token
-          # ══════════════════════════════════════
+          import urllib.request, urllib.error
+
+          # ── Bot token ──
           def get_bot_token():
-              payload = json.dumps({
-                  "app_id":     APP_ID,
-                  "app_secret": APP_SECRET,
-              }).encode()
+              payload = json.dumps({"app_id": APP_ID, "app_secret": APP_SECRET}).encode()
               req = urllib.request.Request(
                   "https://open.larksuite.com/open-apis/auth/v3/tenant_access_token/internal",
                   data=payload,
@@ -48,143 +47,132 @@ jobs:
                   data = json.loads(res.read())
               if data.get("code") != 0:
                   raise Exception(f"Bot token failed: {data}")
-              token = data["tenant_access_token"]
-              print(f"✅ Bot token: {token[:20]}...")
-              return token
+              return data["tenant_access_token"]
 
           BOT_TOKEN = get_bot_token()
 
-          # ══════════════════════════════════════
-          # HELPERS
-          # ══════════════════════════════════════
           def lark_post(url, payload):
               body = json.dumps(payload).encode()
               req = urllib.request.Request(
-                  url,
-                  data=body,
+                  url, data=body,
                   headers={
                       "Authorization": f"Bearer {BOT_TOKEN}",
                       "Content-Type":  "application/json",
                   },
                   method="POST"
               )
-              try:
-                  with urllib.request.urlopen(req) as res:
-                      return json.loads(res.read())
-              except urllib.error.HTTPError as e:
-                  print(f"POST {url} → HTTPError {e.code}: {e.read().decode()}")
-                  raise
+              with urllib.request.urlopen(req) as res:
+                  return json.loads(res.read())
 
-          # ══════════════════════════════════════
-          # BƯỚC 2: Đọc + group tasks
-          # userId trong lark-tasks.json thực chất
-          # là open_id (prefix ou_) — dùng thẳng
-          # ══════════════════════════════════════
-          with open("lark-tasks.json", "r", encoding="utf-8") as f:
-              data = json.load(f)
+          # ── Đọc tất cả response hôm nay ──
+          response_files = glob.glob(f"responses/{TODAY}/*.json")
+          print(f"Found {len(response_files)} responses for {TODAY}")
 
-          user_tasks = {}
-          for task in data.get("tasks", []):
-              if task.get("status") == "completed":
-                  continue
-              for assignee in task.get("assignees", []):
-                  open_id = assignee.get("userId")  # thực ra là open_id
-                  if not open_id:
-                      continue
-                  user_tasks.setdefault(open_id, []).append(task)
+          if not response_files:
+              print("No responses yet, skipping summary.")
+              exit(0)
 
-          print(f"Found {len(user_tasks)} members with active tasks\n")
+          responses = []
+          for f in sorted(response_files):
+              with open(f, encoding='utf-8') as fp:
+                  responses.append(json.load(fp))
 
-          # ══════════════════════════════════════
-          # BƯỚC 3: Build card + gửi DM
-          # ══════════════════════════════════════
-          def format_task_lines(tasks):
-              lines = []
-              for i, t in enumerate(tasks[:2], 1):
-                  due = ""
-                  if t.get("dueDate"):
-                      d = datetime.strptime(t["dueDate"], "%Y-%m-%dT%H:%M:%SZ")
-                      due = f" · due **{d.strftime('%d/%m')}**"
-                  lines.append(f"{i}. {t['title']}{due}")
-              return "\n".join(lines)
+          # ── Đọc lark-tasks.json để biết tổng số member ──
+          total_members = 0
+          try:
+              with open("lark-tasks.json", encoding='utf-8') as f:
+                  lark_data = json.load(f)
+              # Đếm unique open_id có task hôm nay
+              member_ids = set()
+              for task in lark_data.get("tasks", []):
+                  if task.get("status") != "completed":
+                      for a in task.get("assignees", []):
+                          if a.get("userId"):
+                              member_ids.add(a["userId"])
+              total_members = len(member_ids)
+          except:
+              total_members = len(responses)
 
-          def build_card(open_id, tasks):
-              return {
-                  "config": {"wide_screen_mode": True},
-                  "header": {
-                      "title": {
-                          "tag":     "plain_text",
-                          "content": f"📋 Daily Standup — {TODAY}"
-                      },
-                      "template": "orange"
+          submitted = len(responses)
+
+          # ── Build summary text ──
+          progress_icon = {
+              "done":        "✅",
+              "in_progress": "🔄",
+              "not_started": "⏳",
+              "blocked":     "🚫",
+          }
+
+          summary_lines = []
+          for r in responses:
+              user_id = r.get("userId", "unknown")
+              tasks   = r.get("tasks", [])
+              msg     = r.get("message", "")
+
+              task_lines = []
+              for t in tasks:
+                  icon  = progress_icon.get(t.get("progress", ""), "❓")
+                  title = t.get("title", "")
+                  task_lines.append(f"  {icon} {title}")
+
+              block = f"**{user_id}**\n" + "\n".join(task_lines)
+              if msg:
+                  block += f"\n  💬 _{msg}_"
+              summary_lines.append(block)
+
+          summary_text = "\n\n".join(summary_lines)
+
+          # ── Build Lark card gửi PM ──
+          card = {
+              "config": {"wide_screen_mode": True},
+              "header": {
+                  "title": {
+                      "tag":     "plain_text",
+                      "content": f"📊 Daily Standup Summary — {TODAY_LABEL}"
                   },
-                  "elements": [
+                  "template": "green" if submitted == total_members else "orange"
+              },
+              "elements": [
+                  {
+                      "tag": "div",
+                      "text": {
+                          "tag":     "lark_md",
+                          "content": f"**Đã submit: {submitted}/{total_members} thành viên**"
+                      }
+                  },
+                  {"tag": "hr"},
+                  {
+                      "tag": "div",
+                      "text": {
+                          "tag":     "lark_md",
+                          "content": summary_text
+                      }
+                  },
+                  *([
+                      {"tag": "hr"},
                       {
                           "tag": "div",
                           "text": {
                               "tag":     "lark_md",
-                              "content": (
-                                  f"Xin chào! Hôm nay bạn có **{len(tasks)} task** cần update:\n\n"
-                                  f"{format_task_lines(tasks)}"
-                              )
+                              "content": f"⚠️ Chưa submit: {total_members - submitted} thành viên"
                           }
-                      },
-                      {"tag": "hr"},
-                      {
-                          "tag": "action",
-                          "actions": [{
-                              "tag":  "button",
-                              "text": {
-                                  "tag":     "plain_text",
-                                  "content": "✍️ Điền Daily Standup"
-                              },
-                              "type": "primary",
-                              "url":  f"{FORM_BASE_URL}?userId={open_id}"
-                          }]
-                      },
-                      {
-                          "tag": "note",
-                          "elements": [{
-                              "tag":     "plain_text",
-                              "content": "Form sẽ tự điền task của bạn. Chỉ cần chọn progress và submit 🚀"
-                          }]
                       }
-                  ]
+                  ] if submitted < total_members else [])
+              ]
+          }
+
+          res = lark_post(
+              "https://open.larksuite.com/open-apis/im/v1/messages?receive_id_type=open_id",
+              {
+                  "receive_id": PM_OPEN_ID,
+                  "msg_type":   "interactive",
+                  "content":    json.dumps(card)
               }
+          )
 
-          def send_dm(open_id, tasks):
-              card = build_card(open_id, tasks)
-              res = lark_post(
-                  "https://open.larksuite.com/open-apis/im/v1/messages?receive_id_type=open_id",
-                  {
-                      "receive_id": open_id,
-                      "msg_type":   "interactive",
-                      "content":    json.dumps(card)
-                  }
-              )
-              if res.get("code") == 0:
-                  print(f"  ✅ Sent to {open_id} ({len(tasks)} tasks)")
-              else:
-                  print(f"  ❌ Failed {open_id}: {res.get('msg')} (code {res.get('code')})")
-              return res
-
-          # ══════════════════════════════════════
-          # MAIN LOOP
-          # ══════════════════════════════════════
-          results = []
-          for open_id, tasks in user_tasks.items():
-              print(f"Processing: {open_id}")
-              res = send_dm(open_id, tasks)
-              results.append({
-                  "openId":    open_id,
-                  "taskCount": len(tasks),
-                  "success":   res.get("code") == 0
-              })
-
-          success = sum(1 for r in results if r["success"])
-          print(f"\n📊 Done: {success}/{len(results)} DMs sent successfully")
-          for r in results:
-              status = "✅" if r["success"] else "❌"
-              print(f"  {status} {r['openId']} — {r['taskCount']} tasks")
+          if res.get("code") == 0:
+              print(f"✅ Summary sent to PM ({PM_OPEN_ID})")
+          else:
+              print(f"❌ Failed to send summary: {res.get('msg')}")
 
           EOF
