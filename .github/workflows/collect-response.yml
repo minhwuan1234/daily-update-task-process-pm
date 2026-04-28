@@ -1,1 +1,178 @@
+name: Collect Standup Responses
 
+on:
+  push:
+    paths:
+      - 'responses/**/*.json'
+  workflow_dispatch:
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Collect + send summary to PM
+        env:
+          LARK_APP_ID:     ${{ secrets.LARK_APP_ID }}
+          LARK_APP_SECRET: ${{ secrets.LARK_APP_SECRET }}
+          PM_OPEN_ID:      ${{ secrets.PM_OPEN_ID }}
+        run: |
+          python3 << 'EOF'
+          import json, os, glob
+          from datetime import datetime, timezone
+
+          APP_ID     = os.environ['LARK_APP_ID']
+          APP_SECRET = os.environ['LARK_APP_SECRET']
+          PM_OPEN_ID = os.environ['PM_OPEN_ID']
+          TODAY      = datetime.now(timezone.utc).strftime('%Y-%m-%d')
+          TODAY_LABEL = datetime.now(timezone.utc).strftime('%d/%m/%Y')
+
+          import urllib.request, urllib.error
+
+          # ── Bot token ──
+          def get_bot_token():
+              payload = json.dumps({"app_id": APP_ID, "app_secret": APP_SECRET}).encode()
+              req = urllib.request.Request(
+                  "https://open.larksuite.com/open-apis/auth/v3/tenant_access_token/internal",
+                  data=payload,
+                  headers={"Content-Type": "application/json"},
+                  method="POST"
+              )
+              with urllib.request.urlopen(req) as res:
+                  data = json.loads(res.read())
+              if data.get("code") != 0:
+                  raise Exception(f"Bot token failed: {data}")
+              return data["tenant_access_token"]
+
+          BOT_TOKEN = get_bot_token()
+
+          def lark_post(url, payload):
+              body = json.dumps(payload).encode()
+              req = urllib.request.Request(
+                  url, data=body,
+                  headers={
+                      "Authorization": f"Bearer {BOT_TOKEN}",
+                      "Content-Type":  "application/json",
+                  },
+                  method="POST"
+              )
+              with urllib.request.urlopen(req) as res:
+                  return json.loads(res.read())
+
+          # ── Đọc tất cả response hôm nay ──
+          response_files = glob.glob(f"responses/{TODAY}/*.json")
+          print(f"Found {len(response_files)} responses for {TODAY}")
+
+          if not response_files:
+              print("No responses yet, skipping summary.")
+              exit(0)
+
+          responses = []
+          for f in sorted(response_files):
+              with open(f, encoding='utf-8') as fp:
+                  responses.append(json.load(fp))
+
+          # ── Đọc lark-tasks.json để biết tổng số member ──
+          total_members = 0
+          try:
+              with open("lark-tasks.json", encoding='utf-8') as f:
+                  lark_data = json.load(f)
+              # Đếm unique open_id có task hôm nay
+              member_ids = set()
+              for task in lark_data.get("tasks", []):
+                  if task.get("status") != "completed":
+                      for a in task.get("assignees", []):
+                          if a.get("userId"):
+                              member_ids.add(a["userId"])
+              total_members = len(member_ids)
+          except:
+              total_members = len(responses)
+
+          submitted = len(responses)
+
+          # ── Build summary text ──
+          progress_icon = {
+              "done":        "✅",
+              "in_progress": "🔄",
+              "not_started": "⏳",
+              "blocked":     "🚫",
+          }
+
+          summary_lines = []
+          for r in responses:
+              user_id = r.get("userId", "unknown")
+              tasks   = r.get("tasks", [])
+              msg     = r.get("message", "")
+
+              task_lines = []
+              for t in tasks:
+                  icon  = progress_icon.get(t.get("progress", ""), "❓")
+                  title = t.get("title", "")
+                  task_lines.append(f"  {icon} {title}")
+
+              block = f"**{user_id}**\n" + "\n".join(task_lines)
+              if msg:
+                  block += f"\n  💬 _{msg}_"
+              summary_lines.append(block)
+
+          summary_text = "\n\n".join(summary_lines)
+
+          # ── Build Lark card gửi PM ──
+          card = {
+              "config": {"wide_screen_mode": True},
+              "header": {
+                  "title": {
+                      "tag":     "plain_text",
+                      "content": f"📊 Daily Standup Summary — {TODAY_LABEL}"
+                  },
+                  "template": "green" if submitted == total_members else "orange"
+              },
+              "elements": [
+                  {
+                      "tag": "div",
+                      "text": {
+                          "tag":     "lark_md",
+                          "content": f"**Đã submit: {submitted}/{total_members} thành viên**"
+                      }
+                  },
+                  {"tag": "hr"},
+                  {
+                      "tag": "div",
+                      "text": {
+                          "tag":     "lark_md",
+                          "content": summary_text
+                      }
+                  },
+                  *([
+                      {"tag": "hr"},
+                      {
+                          "tag": "div",
+                          "text": {
+                              "tag":     "lark_md",
+                              "content": f"⚠️ Chưa submit: {total_members - submitted} thành viên"
+                          }
+                      }
+                  ] if submitted < total_members else [])
+              ]
+          }
+
+          res = lark_post(
+              "https://open.larksuite.com/open-apis/im/v1/messages?receive_id_type=open_id",
+              {
+                  "receive_id": PM_OPEN_ID,
+                  "msg_type":   "interactive",
+                  "content":    json.dumps(card)
+              }
+          )
+
+          if res.get("code") == 0:
+              print(f"✅ Summary sent to PM ({PM_OPEN_ID})")
+          else:
+              print(f"❌ Failed to send summary: {res.get('msg')}")
+
+          EOF
