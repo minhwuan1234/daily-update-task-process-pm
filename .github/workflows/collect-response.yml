@@ -1,170 +1,196 @@
 name: Collect Standup Responses
 
 on:
-  push:
-    paths:
-      - 'responses.json'
+  repository_dispatch:
+    types: [standup-response]
   workflow_dispatch:
 
 jobs:
   collect:
     runs-on: ubuntu-latest
     permissions:
-      contents: read
+      contents: write
 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Send individual response to PM
+      - name: Save response + send to PM
         env:
           LARK_APP_ID:     ${{ secrets.LARK_APP_ID }}
           LARK_APP_SECRET: ${{ secrets.LARK_APP_SECRET }}
           PM_OPEN_ID:      ${{ secrets.PM_OPEN_ID }}
+          PAYLOAD:         ${{ toJson(github.event.client_payload) }}
         run: |
           python3 << 'EOF'
           import json, os
           from datetime import datetime, timezone
           import urllib.request, urllib.error
 
-          APP_ID     = os.environ['LARK_APP_ID']
-          APP_SECRET = os.environ['LARK_APP_SECRET']
-          PM_OPEN_ID = os.environ['PM_OPEN_ID']
-          TODAY      = datetime.now(timezone.utc).strftime('%Y-%m-%d')
+          APP_ID      = os.environ['LARK_APP_ID']
+          APP_SECRET  = os.environ['LARK_APP_SECRET']
+          PM_OPEN_ID  = os.environ['PM_OPEN_ID']
           TODAY_LABEL = datetime.now(timezone.utc).strftime('%d/%m/%Y')
 
-          # ── Bot token ──
-          def get_bot_token():
-              payload = json.dumps({"app_id": APP_ID, "app_secret": APP_SECRET}).encode()
-              req = urllib.request.Request(
-                  "https://open.larksuite.com/open-apis/auth/v3/tenant_access_token/internal",
-                  data=payload,
-                  headers={"Content-Type": "application/json"},
-                  method="POST"
-              )
-              with urllib.request.urlopen(req) as res:
-                  data = json.loads(res.read())
-              if data.get("code") != 0:
-                  raise Exception(f"Bot token failed: {data}")
-              return data["tenant_access_token"]
+          # ── Parse payload từ form ──
+          payload = json.loads(os.environ['PAYLOAD'])
+          user_id = payload.get('userId', 'unknown')
+          date    = payload.get('date', datetime.now(timezone.utc).strftime('%Y-%m-%d'))
 
-          BOT_TOKEN = get_bot_token()
-
-          def lark_post(url, payload):
-              body = json.dumps(payload).encode()
-              req = urllib.request.Request(
-                  url, data=body,
-                  headers={
-                      "Authorization": f"Bearer {BOT_TOKEN}",
-                      "Content-Type":  "application/json",
-                  },
-                  method="POST"
-              )
-              with urllib.request.urlopen(req) as res:
-                  return json.loads(res.read())
+          print(f"Received response from: {user_id} ({date})")
 
           # ── Đọc members.json ──
           members = {}
           try:
-              with open("members.json", encoding="utf-8") as f:
+              with open('members.json', encoding='utf-8') as f:
                   members = json.load(f)
           except:
               pass
 
-          # ── Đọc responses.json ──
-          with open("responses.json", encoding="utf-8") as f:
-              data = json.load(f)
+          display_name = members.get(user_id, user_id)
 
-          responses  = data.get("responses", [])
-          total_submitted = len(responses)
+          # ── Đọc responses.json hiện tại ──
+          existing = {'date': date, 'responses': []}
+          try:
+              with open('responses.json', encoding='utf-8') as f:
+                  existing = json.load(f)
+          except:
+              pass
 
-          if not responses:
-              print("No responses yet.")
-              exit(0)
+          # Nếu ngày mới → reset
+          if existing.get('date') != date:
+              existing = {'date': date, 'responses': []}
 
-          # ── Lấy response mới nhất (sort theo submittedAt) ──
-          latest = sorted(responses, key=lambda r: r.get("submittedAt", ""), reverse=True)[0]
+          # Upsert theo userId
+          idx = next((i for i, r in enumerate(existing['responses']) if r.get('userId') == user_id), -1)
+          if idx >= 0:
+              existing['responses'][idx] = payload
+          else:
+              existing['responses'].append(payload)
+
+          # ── Ghi responses.json ──
+          with open('responses.json', 'w', encoding='utf-8') as f:
+              json.dump(existing, f, ensure_ascii=False, indent=2)
+
+          # ── Git commit ──
+          os.system('git config user.name "github-actions[bot]"')
+          os.system('git config user.email "github-actions[bot]@users.noreply.github.com"')
+          os.system('git add responses.json')
+          os.system(f'git diff --cached --quiet || git commit -m "standup: {user_id} - {date}"')
+          os.system('git push')
+
+          print(f"✅ Saved response for {display_name}")
+
+          # ── Bot token ──
+          def get_bot_token():
+              payload_data = json.dumps({'app_id': APP_ID, 'app_secret': APP_SECRET}).encode()
+              req = urllib.request.Request(
+                  'https://open.larksuite.com/open-apis/auth/v3/tenant_access_token/internal',
+                  data=payload_data,
+                  headers={'Content-Type': 'application/json'},
+                  method='POST'
+              )
+              with urllib.request.urlopen(req) as res:
+                  data = json.loads(res.read())
+              if data.get('code') != 0:
+                  raise Exception(f"Bot token failed: {data}")
+              return data['tenant_access_token']
+
+          BOT_TOKEN = get_bot_token()
+
+          def lark_post(url, body):
+              req = urllib.request.Request(
+                  url,
+                  data=json.dumps(body).encode(),
+                  headers={
+                      'Authorization': f'Bearer {BOT_TOKEN}',
+                      'Content-Type': 'application/json',
+                  },
+                  method='POST'
+              )
+              with urllib.request.urlopen(req) as res:
+                  return json.loads(res.read())
 
           # ── Tổng số member ──
           total_members = 0
           try:
-              with open("lark-tasks.json", encoding="utf-8") as f:
+              with open('lark-tasks.json', encoding='utf-8') as f:
                   lark_data = json.load(f)
               member_ids = set()
-              for task in lark_data.get("tasks", []):
-                  if task.get("status") != "completed":
-                      for a in task.get("assignees", []):
-                          if a.get("userId"):
-                              member_ids.add(a["userId"])
+              for task in lark_data.get('tasks', []):
+                  if task.get('status') != 'completed':
+                      for a in task.get('assignees', []):
+                          if a.get('userId'):
+                              member_ids.add(a['userId'])
               total_members = len(member_ids)
           except:
-              total_members = total_submitted
+              total_members = len(existing['responses'])
 
-          # ── Build card ──
-          user_id      = latest.get("userId", "unknown")
-          display_name = members.get(user_id, user_id)  # fallback về open_id nếu chưa có trong members.json
-          tasks        = latest.get("tasks", [])
-          message      = latest.get("message", "")
-          submitted_at = latest.get("submittedAt", "")
+          total_submitted = len(existing['responses'])
+
+          # ── Build Lark card ──
+          tasks        = payload.get('tasks', [])
+          message      = payload.get('message', '')
+          submitted_at = payload.get('submittedAt', '')
 
           task_lines = []
           for t in tasks:
-              progress = t.get("progress", "—")
-              title    = t.get("title", "")
-              task_lines.append(f"**{title}**\n  📊 {progress}")
+              progress = t.get('progress', '—')
+              title    = t.get('title', '')
+              task_lines.append(f'**{title}**\n  📊 {progress}')
 
-          task_text = "\n\n".join(task_lines)
+          task_text = '\n\n'.join(task_lines)
           if message:
-              task_text += f"\n\n💬 _{message}_"
+              task_text += f'\n\n💬 _{message}_'
 
           card = {
-              "config": {"wide_screen_mode": True},
-              "header": {
-                  "title": {
-                      "tag":     "plain_text",
-                      "content": f"📋 Standup mới — {TODAY_LABEL}"
+              'config': {'wide_screen_mode': True},
+              'header': {
+                  'title': {
+                      'tag':     'plain_text',
+                      'content': f'📋 Standup mới — {TODAY_LABEL}'
                   },
-                  "template": "orange"
+                  'template': 'orange'
               },
-              "elements": [
+              'elements': [
                   {
-                      "tag": "div",
-                      "text": {
-                          "tag":     "lark_md",
-                          "content": f"👤 **{display_name}** vừa submit\n📅 {submitted_at[:16].replace('T', ' ')} UTC"
+                      'tag': 'div',
+                      'text': {
+                          'tag':     'lark_md',
+                          'content': f'👤 **{display_name}** vừa submit\n📅 {submitted_at[:16].replace("T", " ")} UTC'
                       }
                   },
-                  {"tag": "hr"},
+                  {'tag': 'hr'},
                   {
-                      "tag": "div",
-                      "text": {
-                          "tag":     "lark_md",
-                          "content": task_text
+                      'tag': 'div',
+                      'text': {
+                          'tag':     'lark_md',
+                          'content': task_text
                       }
                   },
-                  {"tag": "hr"},
+                  {'tag': 'hr'},
                   {
-                      "tag": "div",
-                      "text": {
-                          "tag":     "lark_md",
-                          "content": f"✅ Đã submit: **{total_submitted}/{total_members}** thành viên hôm nay"
+                      'tag': 'div',
+                      'text': {
+                          'tag':     'lark_md',
+                          'content': f'✅ Đã submit: **{total_submitted}/{total_members}** thành viên hôm nay'
                       }
                   }
               ]
           }
 
           res = lark_post(
-              "https://open.larksuite.com/open-apis/im/v1/messages?receive_id_type=open_id",
+              'https://open.larksuite.com/open-apis/im/v1/messages?receive_id_type=open_id',
               {
-                  "receive_id": PM_OPEN_ID,
-                  "msg_type":   "interactive",
-                  "content":    json.dumps(card)
+                  'receive_id': PM_OPEN_ID,
+                  'msg_type':   'interactive',
+                  'content':    json.dumps(card)
               }
           )
 
-          if res.get("code") == 0:
-              print(f"✅ Sent to PM: {display_name} ({user_id})")
+          if res.get('code') == 0:
+              print(f'✅ Sent to PM: {display_name}')
           else:
-              print(f"❌ Failed: {res.get('msg')}")
+              print(f'❌ Failed: {res.get("msg")}')
 
           EOF
