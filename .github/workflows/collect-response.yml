@@ -16,11 +16,12 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Collect + send summary to PM
+      - name: Send individual response to PM
         env:
           LARK_APP_ID:     ${{ secrets.LARK_APP_ID }}
           LARK_APP_SECRET: ${{ secrets.LARK_APP_SECRET }}
           PM_OPEN_ID:      ${{ secrets.PM_OPEN_ID }}
+          CHANGED_FILES:   ${{ github.event.commits[0].added }}${{ github.event.commits[0].modified }}
         run: |
           python3 << 'EOF'
           import json, os, glob
@@ -64,25 +65,26 @@ jobs:
               with urllib.request.urlopen(req) as res:
                   return json.loads(res.read())
 
-          # ── Đọc tất cả response hôm nay ──
-          response_files = glob.glob(f"responses/{TODAY}/*.json")
-          print(f"Found {len(response_files)} responses for {TODAY}")
-
+          # ── Tìm file response vừa được push ──
+          # Lấy file mới nhất trong responses/TODAY/
+          response_files = sorted(glob.glob(f"responses/{TODAY}/*.json"))
           if not response_files:
-              print("No responses yet, skipping summary.")
+              print("No response files found, skipping.")
               exit(0)
 
-          responses = []
-          for f in sorted(response_files):
-              with open(f, encoding='utf-8') as fp:
-                  responses.append(json.load(fp))
+          # Lấy file được modified gần nhất
+          latest_file = max(response_files, key=os.path.getmtime)
+          print(f"Processing: {latest_file}")
 
-          # ── Đọc lark-tasks.json để biết tổng số member ──
+          with open(latest_file, encoding='utf-8') as f:
+              r = json.load(f)
+
+          # ── Đọc tổng số member ──
           total_members = 0
+          submitted = len(response_files)
           try:
               with open("lark-tasks.json", encoding='utf-8') as f:
                   lark_data = json.load(f)
-              # Đếm unique open_id có task hôm nay
               member_ids = set()
               for task in lark_data.get("tasks", []):
                   if task.get("status") != "completed":
@@ -91,53 +93,45 @@ jobs:
                               member_ids.add(a["userId"])
               total_members = len(member_ids)
           except:
-              total_members = len(responses)
+              total_members = submitted
 
-          submitted = len(responses)
+          # ── Build card cho PM ──
+          user_id = r.get("userId", "unknown")
+          tasks   = r.get("tasks", [])
+          message = r.get("message", "")
+          submitted_at = r.get("submittedAt", "")
 
-          # ── Build summary text ──
-          progress_icon = {
-              "done":        "✅",
-              "in_progress": "🔄",
-              "not_started": "⏳",
-              "blocked":     "🚫",
-          }
+          task_lines = []
+          for t in tasks:
+              progress = t.get("progress", "—")
+              title    = t.get("title", "")
+              task_lines.append(f"**{title}**
+  📊 {progress}")
 
-          summary_lines = []
-          for r in responses:
-              user_id = r.get("userId", "unknown")
-              tasks   = r.get("tasks", [])
-              msg     = r.get("message", "")
+          task_text = "
 
-              task_lines = []
-              for t in tasks:
-                  icon  = progress_icon.get(t.get("progress", ""), "❓")
-                  title = t.get("title", "")
-                  task_lines.append(f"  {icon} {title}")
+".join(task_lines)
+          if message:
+              task_text += f"
 
-              block = f"**{user_id}**\n" + "\n".join(task_lines)
-              if msg:
-                  block += f"\n  💬 _{msg}_"
-              summary_lines.append(block)
+💬 _{message}_"
 
-          summary_text = "\n\n".join(summary_lines)
-
-          # ── Build Lark card gửi PM ──
           card = {
               "config": {"wide_screen_mode": True},
               "header": {
                   "title": {
                       "tag":     "plain_text",
-                      "content": f"📊 Daily Standup Summary — {TODAY_LABEL}"
+                      "content": f"📋 Standup mới — {TODAY_LABEL}"
                   },
-                  "template": "green" if submitted == total_members else "orange"
+                  "template": "orange"
               },
               "elements": [
                   {
                       "tag": "div",
                       "text": {
                           "tag":     "lark_md",
-                          "content": f"**Đã submit: {submitted}/{total_members} thành viên**"
+                          "content": f"👤 **{user_id}** vừa submit
+📅 {submitted_at[:16].replace('T', ' ')} UTC"
                       }
                   },
                   {"tag": "hr"},
@@ -145,19 +139,17 @@ jobs:
                       "tag": "div",
                       "text": {
                           "tag":     "lark_md",
-                          "content": summary_text
+                          "content": task_text
                       }
                   },
-                  *([
-                      {"tag": "hr"},
-                      {
-                          "tag": "div",
-                          "text": {
-                              "tag":     "lark_md",
-                              "content": f"⚠️ Chưa submit: {total_members - submitted} thành viên"
-                          }
+                  {"tag": "hr"},
+                  {
+                      "tag": "div",
+                      "text": {
+                          "tag":     "lark_md",
+                          "content": f"✅ Đã submit: **{submitted}/{total_members}** thành viên hôm nay"
                       }
-                  ] if submitted < total_members else [])
+                  }
               ]
           }
 
@@ -171,8 +163,8 @@ jobs:
           )
 
           if res.get("code") == 0:
-              print(f"✅ Summary sent to PM ({PM_OPEN_ID})")
+              print(f"✅ Sent to PM: {user_id} response")
           else:
-              print(f"❌ Failed to send summary: {res.get('msg')}")
+              print(f"❌ Failed: {res.get('msg')}")
 
           EOF
