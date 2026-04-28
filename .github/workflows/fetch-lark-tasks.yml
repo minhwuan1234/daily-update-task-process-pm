@@ -16,8 +16,10 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
+      - name: Install dependencies
+        run: pip install PyNaCl --quiet --break-system-packages
+
       - name: Refresh Lark Token
-        id: refresh
         env:
           REFRESH_TOKEN: ${{ secrets.LARK_REFRESH_TOKEN }}
           APP_ID:        ${{ secrets.LARK_APP_ID }}
@@ -27,6 +29,8 @@ jobs:
         run: |
           python3 << 'EOF'
           import json, os, urllib.request, urllib.error
+          from base64 import b64encode
+          from nacl import encoding, public
 
           refresh_token = os.environ['REFRESH_TOKEN']
           app_id        = os.environ['APP_ID']
@@ -59,24 +63,24 @@ jobs:
           new_refresh_token = data["data"]["refresh_token"]
           print(f"New access token: {new_access_token[:20]}...")
 
-          # ── Update secrets trên GitHub ──
-          def get_public_key():
-              req = urllib.request.Request(
-                  f"https://api.github.com/repos/{repo}/actions/secrets/public-key",
-                  headers={
-                      "Authorization": f"Bearer {gh_token}",
-                      "Accept": "application/vnd.github+json",
-                  }
-              )
-              with urllib.request.urlopen(req) as res:
-                  return json.loads(res.read())
+          # ── Lấy public key của repo ──
+          req = urllib.request.Request(
+              f"https://api.github.com/repos/{repo}/actions/secrets/public-key",
+              headers={
+                  "Authorization": f"Bearer {gh_token}",
+                  "Accept": "application/vnd.github+json",
+              }
+          )
+          with urllib.request.urlopen(req) as res:
+              pk_data = json.loads(res.read())
 
-          def update_secret(secret_name, secret_value, key_id, public_key):
-              from base64 import b64encode
-              from nacl import encoding, public
+          key_id  = pk_data["key_id"]
+          pub_key = pk_data["key"]
 
-              pk = public.PublicKey(public_key.encode(), encoding.Base64Encoder())
-              sealed = public.SealedBox(pk).encrypt(secret_value.encode())
+          # ── Encrypt và update secret ──
+          def update_secret(secret_name, secret_value):
+              pk      = public.PublicKey(pub_key.encode(), encoding.Base64Encoder())
+              sealed  = public.SealedBox(pk).encrypt(secret_value.encode())
               encrypted = b64encode(sealed).decode()
 
               payload = json.dumps({
@@ -97,22 +101,15 @@ jobs:
               with urllib.request.urlopen(req) as res:
                   print(f"Updated {secret_name}: {res.status}")
 
-          pk_data  = get_public_key()
-          key_id   = pk_data["key_id"]
-          pub_key  = pk_data["key"]
+          update_secret("LARK_USER_TOKEN",    new_access_token)
+          update_secret("LARK_REFRESH_TOKEN", new_refresh_token)
 
-          update_secret("LARK_USER_TOKEN",    new_access_token,  key_id, pub_key)
-          update_secret("LARK_REFRESH_TOKEN", new_refresh_token, key_id, pub_key)
-
-          # ── Ghi token ra file tạm để step sau dùng ──
+          # ── Ghi token ra file tạm ──
           with open("/tmp/lark_token.txt", "w") as f:
               f.write(new_access_token)
 
           print("Done refreshing tokens")
           EOF
-
-          # Install PyNaCl để encrypt secret
-          pip install PyNaCl --quiet --break-system-packages
 
       - name: Fetch tasks from Lark
         env:
@@ -122,7 +119,6 @@ jobs:
           import json, os, urllib.request, urllib.error
           from datetime import datetime
 
-          # Đọc token mới từ file tạm
           with open("/tmp/lark_token.txt") as f:
               USER_TOKEN = f.read().strip()
 
