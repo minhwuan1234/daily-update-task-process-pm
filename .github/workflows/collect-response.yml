@@ -63,6 +63,14 @@ jobs:
               with urllib.request.urlopen(req) as res:
                   return json.loads(res.read())
 
+          # ── Đọc members.json ──
+          members = {}
+          try:
+              with open("members.json", encoding="utf-8") as f:
+                  members = json.load(f)
+          except:
+              pass
+
           # ── Đọc responses.json ──
           with open("responses.json", encoding="utf-8") as f:
               data = json.load(f)
@@ -94,6 +102,7 @@ jobs:
 
           # ── Build card ──
           user_id      = latest.get("userId", "unknown")
+          display_name = members.get(user_id, user_id)  # fallback về open_id nếu chưa có trong members.json
           tasks        = latest.get("tasks", [])
           message      = latest.get("message", "")
           submitted_at = latest.get("submittedAt", "")
@@ -122,7 +131,7 @@ jobs:
                       "tag": "div",
                       "text": {
                           "tag":     "lark_md",
-                          "content": f"👤 **{user_id}** vừa submit\n📅 {submitted_at[:16].replace('T', ' ')} UTC"
+                          "content": f"👤 **{display_name}** vừa submit\n📅 {submitted_at[:16].replace('T', ' ')} UTC"
                       }
                   },
                   {"tag": "hr"},
@@ -154,7 +163,7 @@ jobs:
           )
 
           if res.get("code") == 0:
-              print(f"✅ Sent to PM: {user_id}")
+              print(f"✅ Sent to PM: {display_name} ({user_id})")
           else:
               print(f"❌ Failed: {res.get('msg')}")
 
