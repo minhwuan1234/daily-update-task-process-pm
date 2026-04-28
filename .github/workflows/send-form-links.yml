@@ -15,29 +15,70 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Send form link to each member via Lark DM
+      - name: Send form link to each member via Lark Bot DM
         env:
-          LARK_USER_TOKEN: ${{ secrets.LARK_USER_TOKEN }}
+          LARK_APP_ID:     ${{ secrets.LARK_APP_ID }}
+          LARK_APP_SECRET: ${{ secrets.LARK_APP_SECRET }}
           FORM_BASE_URL:   "http://127.0.0.1:5500/index.html"
         run: |
           python3 << 'EOF'
           import json, os, urllib.request, urllib.error
           from datetime import datetime, timezone
 
-          USER_TOKEN    = os.environ['LARK_USER_TOKEN']
+          APP_ID        = os.environ['LARK_APP_ID']
+          APP_SECRET    = os.environ['LARK_APP_SECRET']
           FORM_BASE_URL = os.environ['FORM_BASE_URL']
           TODAY         = datetime.now(timezone.utc).strftime('%d/%m/%Y')
 
           # ══════════════════════════════════════
+          # BƯỚC 1: Lấy Bot tenant_access_token
+          # ══════════════════════════════════════
+          def get_bot_token():
+              payload = json.dumps({
+                  "app_id":     APP_ID,
+                  "app_secret": APP_SECRET,
+              }).encode()
+              req = urllib.request.Request(
+                  "https://open.larksuite.com/open-apis/auth/v3/tenant_access_token/internal",
+                  data=payload,
+                  headers={"Content-Type": "application/json"},
+                  method="POST"
+              )
+              with urllib.request.urlopen(req) as res:
+                  data = json.loads(res.read())
+              if data.get("code") != 0:
+                  raise Exception(f"Bot token failed: {data}")
+              token = data["tenant_access_token"]
+              print(f"✅ Bot token: {token[:20]}...")
+              return token
+
+          BOT_TOKEN = get_bot_token()
+
+          # ══════════════════════════════════════
           # HELPERS
           # ══════════════════════════════════════
+          def lark_get(url):
+              req = urllib.request.Request(
+                  url,
+                  headers={
+                      "Authorization": f"Bearer {BOT_TOKEN}",
+                      "Content-Type":  "application/json",
+                  }
+              )
+              try:
+                  with urllib.request.urlopen(req) as res:
+                      return json.loads(res.read())
+              except urllib.error.HTTPError as e:
+                  print(f"GET {url} → HTTPError {e.code}: {e.read().decode()}")
+                  raise
+
           def lark_post(url, payload):
               body = json.dumps(payload).encode()
               req = urllib.request.Request(
                   url,
                   data=body,
                   headers={
-                      "Authorization": f"Bearer {USER_TOKEN}",
+                      "Authorization": f"Bearer {BOT_TOKEN}",
                       "Content-Type":  "application/json",
                   },
                   method="POST"
@@ -50,7 +91,27 @@ jobs:
                   raise
 
           # ══════════════════════════════════════
-          # BƯỚC 1: Đọc + group tasks theo user_id
+          # BƯỚC 2: user_id → open_id
+          # Dùng single user endpoint thay vì batch
+          # ══════════════════════════════════════
+          def get_open_id(user_id):
+              url = (
+                  f"https://open.larksuite.com/open-apis/contact/v3/users/{user_id}"
+                  f"?user_id_type=user_id"
+              )
+              res = lark_get(url)
+              if res.get("code") != 0:
+                  print(f"  ❌ Cannot resolve open_id for {user_id}: {res.get('msg')}")
+                  return None
+              open_id = res.get("data", {}).get("user", {}).get("open_id")
+              if not open_id:
+                  print(f"  ❌ open_id not found in response for {user_id}")
+                  return None
+              print(f"  ✅ {user_id} → open_id: {open_id}")
+              return open_id
+
+          # ══════════════════════════════════════
+          # BƯỚC 3: Đọc + group tasks theo user_id
           # ══════════════════════════════════════
           with open("lark-tasks.json", "r", encoding="utf-8") as f:
               data = json.load(f)
@@ -68,7 +129,7 @@ jobs:
           print(f"Found {len(user_tasks)} members with active tasks\n")
 
           # ══════════════════════════════════════
-          # BƯỚC 2: Build card + gửi DM
+          # BƯỚC 4: Build card + gửi DM bằng open_id
           # ══════════════════════════════════════
           def format_task_lines(tasks):
               lines = []
@@ -124,20 +185,21 @@ jobs:
                   ]
               }
 
-          def send_dm(user_id, tasks):
+          def send_dm(open_id, user_id, tasks):
               card = build_card(user_id, tasks)
               res = lark_post(
-                  "https://open.larksuite.com/open-apis/im/v1/messages?receive_id_type=user_id",
+                  # Bot gửi DM bằng open_id
+                  "https://open.larksuite.com/open-apis/im/v1/messages?receive_id_type=open_id",
                   {
-                      "receive_id": user_id,
+                      "receive_id": open_id,
                       "msg_type":   "interactive",
                       "content":    json.dumps(card)
                   }
               )
               if res.get("code") == 0:
-                  print(f"  ✅ Sent to {user_id} ({len(tasks)} tasks)")
+                  print(f"  ✅ Sent to {open_id} ({len(tasks)} tasks)")
               else:
-                  print(f"  ❌ Failed {user_id}: {res.get('msg')} (code {res.get('code')})")
+                  print(f"  ❌ Failed {open_id}: {res.get('msg')} (code {res.get('code')})")
               return res
 
           # ══════════════════════════════════════
@@ -145,10 +207,17 @@ jobs:
           # ══════════════════════════════════════
           results = []
           for user_id, tasks in user_tasks.items():
-              print(f"Processing: {user_id}")
-              res = send_dm(user_id, tasks)
+              print(f"\nProcessing: {user_id}")
+
+              open_id = get_open_id(user_id)
+              if not open_id:
+                  results.append({"userId": user_id, "success": False, "reason": "no open_id"})
+                  continue
+
+              res = send_dm(open_id, user_id, tasks)
               results.append({
                   "userId":    user_id,
+                  "openId":    open_id,
                   "taskCount": len(tasks),
                   "success":   res.get("code") == 0
               })
@@ -157,6 +226,6 @@ jobs:
           print(f"\n📊 Done: {success}/{len(results)} DMs sent successfully")
           for r in results:
               status = "✅" if r["success"] else "❌"
-              print(f"  {status} {r['userId']} — {r['taskCount']} tasks")
+              print(f"  {status} {r['userId']} — {r.get('taskCount', 0)} tasks")
 
           EOF
