@@ -4,8 +4,8 @@ on:
   workflow_run:
     workflows: ["Receive Daily Tasks"]
     types: [completed]
-  workflow_dispatch:  # giữ lại để vẫn có thể chạy thủ công
-  
+  workflow_dispatch:
+
 jobs:
   fetch-tasks:
     runs-on: ubuntu-latest
@@ -16,16 +16,116 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
+      - name: Refresh Lark Token
+        id: refresh
+        env:
+          REFRESH_TOKEN: ${{ secrets.LARK_REFRESH_TOKEN }}
+          APP_ID:        ${{ secrets.LARK_APP_ID }}
+          APP_SECRET:    ${{ secrets.LARK_APP_SECRET }}
+          GH_TOKEN:      ${{ secrets.PAT_TOKEN }}
+          REPO:          ${{ github.repository }}
+        run: |
+          python3 << 'EOF'
+          import json, os, urllib.request, urllib.error
+
+          refresh_token = os.environ['REFRESH_TOKEN']
+          app_id        = os.environ['APP_ID']
+          app_secret    = os.environ['APP_SECRET']
+          gh_token      = os.environ['GH_TOKEN']
+          repo          = os.environ['REPO']
+
+          # ── Refresh access token ──
+          payload = json.dumps({
+              "grant_type":    "refresh_token",
+              "refresh_token": refresh_token,
+              "app_id":        app_id,
+              "app_secret":    app_secret,
+          }).encode()
+
+          req = urllib.request.Request(
+              "https://open.larksuite.com/open-apis/authen/v1/refresh_access_token",
+              data=payload,
+              headers={"Content-Type": "application/json"},
+              method="POST"
+          )
+          with urllib.request.urlopen(req) as res:
+              data = json.loads(res.read())
+
+          if data.get("code") != 0:
+              print(f"Refresh failed: {data}")
+              exit(1)
+
+          new_access_token  = data["data"]["access_token"]
+          new_refresh_token = data["data"]["refresh_token"]
+          print(f"New access token: {new_access_token[:20]}...")
+
+          # ── Update secrets trên GitHub ──
+          def get_public_key():
+              req = urllib.request.Request(
+                  f"https://api.github.com/repos/{repo}/actions/secrets/public-key",
+                  headers={
+                      "Authorization": f"Bearer {gh_token}",
+                      "Accept": "application/vnd.github+json",
+                  }
+              )
+              with urllib.request.urlopen(req) as res:
+                  return json.loads(res.read())
+
+          def update_secret(secret_name, secret_value, key_id, public_key):
+              from base64 import b64encode
+              from nacl import encoding, public
+
+              pk = public.PublicKey(public_key.encode(), encoding.Base64Encoder())
+              sealed = public.SealedBox(pk).encrypt(secret_value.encode())
+              encrypted = b64encode(sealed).decode()
+
+              payload = json.dumps({
+                  "encrypted_value": encrypted,
+                  "key_id": key_id,
+              }).encode()
+
+              req = urllib.request.Request(
+                  f"https://api.github.com/repos/{repo}/actions/secrets/{secret_name}",
+                  data=payload,
+                  headers={
+                      "Authorization": f"Bearer {gh_token}",
+                      "Accept": "application/vnd.github+json",
+                      "Content-Type": "application/json",
+                  },
+                  method="PUT"
+              )
+              with urllib.request.urlopen(req) as res:
+                  print(f"Updated {secret_name}: {res.status}")
+
+          pk_data  = get_public_key()
+          key_id   = pk_data["key_id"]
+          pub_key  = pk_data["key"]
+
+          update_secret("LARK_USER_TOKEN",    new_access_token,  key_id, pub_key)
+          update_secret("LARK_REFRESH_TOKEN", new_refresh_token, key_id, pub_key)
+
+          # ── Ghi token ra file tạm để step sau dùng ──
+          with open("/tmp/lark_token.txt", "w") as f:
+              f.write(new_access_token)
+
+          print("Done refreshing tokens")
+          EOF
+
+          # Install PyNaCl để encrypt secret
+          pip install PyNaCl --quiet --break-system-packages
+
       - name: Fetch tasks from Lark
         env:
-          USER_TOKEN:   ${{ secrets.LARK_USER_TOKEN }}
           TASKLIST_IDS: ${{ secrets.LARK_TASKLIST_ID }}
         run: |
           python3 << 'EOF'
           import json, os, urllib.request, urllib.error
           from datetime import datetime
 
-          USER_TOKEN   = os.environ['USER_TOKEN']
+          # Đọc token mới từ file tạm
+          with open("/tmp/lark_token.txt") as f:
+              USER_TOKEN = f.read().strip()
+
           TASKLIST_IDS = [tid.strip() for tid in os.environ['TASKLIST_IDS'].split(',') if tid.strip()]
 
           def lark_get(url):
@@ -41,8 +141,7 @@ jobs:
                       return json.loads(res.read())
               except urllib.error.HTTPError as e:
                   body = e.read().decode('utf-8')
-                  print(f"HTTPError {e.code} for {url}")
-                  print(f"Response body: {body}")
+                  print(f"HTTPError {e.code}: {body}")
                   raise
 
           def parse_ts(ts):
@@ -56,39 +155,29 @@ jobs:
               page_token = None
 
               while True:
-                  # ── Thử endpoint v1 thay vì v2 ──
                   url = f'https://open.larksuite.com/open-apis/task/v2/tasklists/{tasklist_id}/tasks?page_size=50'
                   if page_token:
                       url += f'&page_token={page_token}'
 
-                  print(f"GET {url}")
                   data = lark_get(url)
-                  print(f"Response code: {data.get('code')}, msg: {data.get('msg')}")
-
                   if data.get('code') != 0:
-                      print(f"Lark error: {data.get('msg')}")
+                      print(f"Error: {data.get('msg')}")
                       break
 
                   items = data.get('data', {}).get('items', [])
-                  print(f"Items count: {len(items)}")
-                  if items:
-                      print(f"First item sample: {json.dumps(items[0], ensure_ascii=False)[:200]}")
+                  print(f"Items: {len(items)}")
 
                   for t in items:
-                      task_guid = t.get('guid') or t.get('id')
-                      if not task_guid:
-                          print(f"No guid found in: {t}")
-                          continue
+                      task_guid = t.get('guid')
+                      if not task_guid: continue
 
-                      # Lấy chi tiết task
-                      detail_url = f'https://open.larksuite.com/open-apis/task/v2/tasks/{task_guid}'
-                      detail = lark_get(detail_url)
+                      detail = lark_get(f'https://open.larksuite.com/open-apis/task/v2/tasks/{task_guid}')
                       td = detail.get('data', {}).get('task', t)
 
                       all_tasks.append({
                           'taskId':     td.get('guid'),
                           'title':      td.get('summary'),
-                          'status': 'completed' if td.get('completed_at') and td.get('completed_at') != '0' else 'in_progress',
+                          'status':     'completed' if td.get('completed_at') and td.get('completed_at') != '0' else 'in_progress',
                           'startDate':  parse_ts((td.get('start') or {}).get('timestamp')),
                           'dueDate':    parse_ts((td.get('due') or {}).get('timestamp')),
                           'assignees':  [
@@ -113,7 +202,7 @@ jobs:
           with open('lark-tasks.json', 'w', encoding='utf-8') as f:
               json.dump(output, f, ensure_ascii=False, indent=2)
 
-          print(f"\nDone — total tasks: {len(all_tasks)}")
+          print(f"\nDone — total: {len(all_tasks)}")
           EOF
 
       - name: Commit and push
