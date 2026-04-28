@@ -3,7 +3,7 @@ name: Collect Standup Responses
 on:
   push:
     paths:
-      - 'responses/**/*.json'
+      - 'responses.json'
   workflow_dispatch:
 
 jobs:
@@ -21,19 +21,17 @@ jobs:
           LARK_APP_ID:     ${{ secrets.LARK_APP_ID }}
           LARK_APP_SECRET: ${{ secrets.LARK_APP_SECRET }}
           PM_OPEN_ID:      ${{ secrets.PM_OPEN_ID }}
-          CHANGED_FILES:   ${{ github.event.commits[0].added }}${{ github.event.commits[0].modified }}
         run: |
           python3 << 'EOF'
-          import json, os, glob
+          import json, os
           from datetime import datetime, timezone
+          import urllib.request, urllib.error
 
           APP_ID     = os.environ['LARK_APP_ID']
           APP_SECRET = os.environ['LARK_APP_SECRET']
           PM_OPEN_ID = os.environ['PM_OPEN_ID']
           TODAY      = datetime.now(timezone.utc).strftime('%Y-%m-%d')
           TODAY_LABEL = datetime.now(timezone.utc).strftime('%d/%m/%Y')
-
-          import urllib.request, urllib.error
 
           # ── Bot token ──
           def get_bot_token():
@@ -65,25 +63,24 @@ jobs:
               with urllib.request.urlopen(req) as res:
                   return json.loads(res.read())
 
-          # ── Tìm file response vừa được push ──
-          # Lấy file mới nhất trong responses/TODAY/
-          response_files = sorted(glob.glob(f"responses/{TODAY}/*.json"))
-          if not response_files:
-              print("No response files found, skipping.")
+          # ── Đọc responses.json ──
+          with open("responses.json", encoding="utf-8") as f:
+              data = json.load(f)
+
+          responses  = data.get("responses", [])
+          total_submitted = len(responses)
+
+          if not responses:
+              print("No responses yet.")
               exit(0)
 
-          # Lấy file được modified gần nhất
-          latest_file = max(response_files, key=os.path.getmtime)
-          print(f"Processing: {latest_file}")
+          # ── Lấy response mới nhất (sort theo submittedAt) ──
+          latest = sorted(responses, key=lambda r: r.get("submittedAt", ""), reverse=True)[0]
 
-          with open(latest_file, encoding='utf-8') as f:
-              r = json.load(f)
-
-          # ── Đọc tổng số member ──
+          # ── Tổng số member ──
           total_members = 0
-          submitted = len(response_files)
           try:
-              with open("lark-tasks.json", encoding='utf-8') as f:
+              with open("lark-tasks.json", encoding="utf-8") as f:
                   lark_data = json.load(f)
               member_ids = set()
               for task in lark_data.get("tasks", []):
@@ -93,28 +90,23 @@ jobs:
                               member_ids.add(a["userId"])
               total_members = len(member_ids)
           except:
-              total_members = submitted
+              total_members = total_submitted
 
-          # ── Build card cho PM ──
-          user_id = r.get("userId", "unknown")
-          tasks   = r.get("tasks", [])
-          message = r.get("message", "")
-          submitted_at = r.get("submittedAt", "")
+          # ── Build card ──
+          user_id      = latest.get("userId", "unknown")
+          tasks        = latest.get("tasks", [])
+          message      = latest.get("message", "")
+          submitted_at = latest.get("submittedAt", "")
 
           task_lines = []
           for t in tasks:
               progress = t.get("progress", "—")
               title    = t.get("title", "")
-              task_lines.append(f"**{title}**
-  📊 {progress}")
+              task_lines.append(f"**{title}**\n  📊 {progress}")
 
-          task_text = "
-
-".join(task_lines)
+          task_text = "\n\n".join(task_lines)
           if message:
-              task_text += f"
-
-💬 _{message}_"
+              task_text += f"\n\n💬 _{message}_"
 
           card = {
               "config": {"wide_screen_mode": True},
@@ -130,8 +122,7 @@ jobs:
                       "tag": "div",
                       "text": {
                           "tag":     "lark_md",
-                          "content": f"👤 **{user_id}** vừa submit
-📅 {submitted_at[:16].replace('T', ' ')} UTC"
+                          "content": f"👤 **{user_id}** vừa submit\n📅 {submitted_at[:16].replace('T', ' ')} UTC"
                       }
                   },
                   {"tag": "hr"},
@@ -147,7 +138,7 @@ jobs:
                       "tag": "div",
                       "text": {
                           "tag":     "lark_md",
-                          "content": f"✅ Đã submit: **{submitted}/{total_members}** thành viên hôm nay"
+                          "content": f"✅ Đã submit: **{total_submitted}/{total_members}** thành viên hôm nay"
                       }
                   }
               ]
@@ -163,7 +154,7 @@ jobs:
           )
 
           if res.get("code") == 0:
-              print(f"✅ Sent to PM: {user_id} response")
+              print(f"✅ Sent to PM: {user_id}")
           else:
               print(f"❌ Failed: {res.get('msg')}")
 
