@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-24T04:11:35Z",
-  "total": 7,
+  "generatedAt": "2026-04-28T03:32:52Z",
+  "total": 6,
   "tasks": [
     {
       "taskId": "193cb0a9-d143-4ead-89bb-bd4e78b530d9",
@@ -15,6 +15,20 @@
         }
       ],
       "tasklistId": "eb4234bf-c611-4e74-9798-1c288f1f04e5"
+    },
+    {
+      "taskId": "98cfa263-1af3-4b8e-a275-bab5fca1679f",
+      "title": "North Caroline Museum - Production - Video 2 - 1 min (1)",
+      "status": "in_progress",
+      "startDate": "2026-04-28T02:00:00Z",
+      "dueDate": "2026-04-29T11:00:00Z",
+      "assignees": [
+        {
+          "userId": "ou_d4705f336444cf58b915433056857d56",
+          "type": "user"
+        }
+      ],
+      "tasklistId": "dd2705f9-b532-4585-b787-15b623847c4f"
     },
     {
       "taskId": "b38160cd-51cc-470c-ad85-6f777f25578d",
@@ -59,25 +73,11 @@
       "tasklistId": "dd2705f9-b532-4585-b787-15b623847c4f"
     },
     {
-      "taskId": "ad9f8ed0-1707-47d3-8ac3-119e83a82a41",
-      "title": "SOUK scenario 2  fixing (0.25)",
+      "taskId": "a9d1ca27-078d-4f9b-a81a-873053fa747a",
+      "title": "HOME - SB (1.5-2) -- CLIENT FEEBDAKC 24/4",
       "status": "in_progress",
-      "startDate": "2026-04-24T00:00:00Z",
-      "dueDate": "2026-04-24T00:00:00Z",
-      "assignees": [
-        {
-          "userId": "ou_d4705f336444cf58b915433056857d56",
-          "type": "user"
-        }
-      ],
-      "tasklistId": "0e0485fc-1147-4c8b-9e12-479ecbbdf458"
-    },
-    {
-      "taskId": "c0bd1b28-6b93-41f1-a7ea-fad5574eb477",
-      "title": "ELX Advisors: Anim (5 ngày) ",
-      "status": "in_progress",
-      "startDate": "2026-04-18T00:00:00Z",
-      "dueDate": "2026-04-24T00:00:00Z",
+      "startDate": "2026-04-28T01:00:00Z",
+      "dueDate": "2026-04-30T11:00:00Z",
       "assignees": [
         {
           "userId": "ou_d4705f336444cf58b915433056857d56",
@@ -85,20 +85,6 @@
         }
       ],
       "tasklistId": "4f707f01-1386-470e-971c-a932154be876"
-    },
-    {
-      "taskId": "9834f22e-fe9f-47e0-a943-746c4863072d",
-      "title": "UV: D60 TEE PPTX 37 pages (2.5)",
-      "status": "in_progress",
-      "startDate": "2026-04-22T00:00:00Z",
-      "dueDate": "2026-04-24T00:00:00Z",
-      "assignees": [
-        {
-          "userId": "ou_d4705f336444cf58b915433056857d56",
-          "type": "user"
-        }
-      ],
-      "tasklistId": "a1341ef9-158e-4bfc-8ee8-e3fe2def4d3e"
     }
   ]
 }
