@@ -1,0 +1,699 @@
+/* =============================================
+   RESET & BASE
+   ============================================= */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --orange:        #FF9333;
+  --orange-text:   #FE8A22;
+  --orange-dark:   #e8821e;
+  --bg-cream:      #FCF8F3;
+  --text-dark:     #303030;
+  --text-mid:      #5E5E5E;
+  --text-label:    #333333;
+  --border:        #C5C5C5;
+  --radius-sm:     6px;
+  --radius-md:     8px;
+  --radius-card:   20px;
+
+  /* Motion */
+  --ease-out:      cubic-bezier(0.22, 1, 0.36, 1);
+  --duration-fast: 180ms;
+  --duration-med:  320ms;
+}
+
+body {
+  font-family: 'Rethink Sans', sans-serif;
+  background: #1a1a2e;
+  max-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+/* =============================================
+   PAGE WRAPPER — entrance animation
+   ============================================= */
+.page-wrapper {
+  width: 100vw;
+  max-height: 100vh;
+  display: flex;
+
+  animation: fadeSlideUp 0.6s var(--ease-out) both;
+}
+
+@keyframes fadeSlideUp {
+  from { opacity: 0; transform: translateY(24px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* =============================================
+   CARD (outer container)
+   ============================================= */
+.card {
+  display: flex;
+  width: 100%;
+  max-height: 100vh;
+  overflow: hidden;
+  background: var(--bg-cream);
+}
+
+/* =============================================
+   LEFT PANEL
+   ============================================= */
+.left-panel {
+  position: relative;
+  width: 50%;
+  flex-shrink: 0;
+  overflow: hidden;
+  background: #2a2a3e;
+}
+
+/* GIF background layer */
+.hero-gif {
+  position: absolute;
+  inset: 0;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  animation: heroScale 1s var(--ease-out) both;
+}
+
+@keyframes heroScale {
+  from { transform: scale(1.06); }
+  to   { transform: scale(1); }
+}
+
+/* Gradient overlay để quote dễ đọc */
+.quote-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to top,
+    rgba(0,0,0,0.65) 20%,
+    rgba(0,0,0,0.3) 40%,
+    rgba(0,0,0,0) 60%
+  );
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 80px 40px;
+
+  animation: fadeIn 0.8s 0.3s var(--ease-out) both;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+.quote-mark {
+  font-family: 'Freeman', sans-serif;
+  font-size: 48px;
+  color: white;
+  line-height: 1;
+  margin-bottom: 8px;
+  display: block;
+  width: fit-content;
+  align-self: flex-start;
+
+  /* clip whitespace thừa của font */
+  display: inline-flex;
+  align-items: center;
+  height: 0.5em;        /* ← ép đúng height chữ thực */
+}
+
+.quote-text {
+  font-family: 'Freeman', sans-serif;
+  font-size: 28px;
+  color: white;
+  line-height: 1.5;
+}
+
+/* =============================================
+   RIGHT PANEL
+   ============================================= */
+.right-panel {
+  flex: 1;
+  background: var(--bg-cream);
+  padding: 56px 56px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 28px;
+  overflow-y: auto;
+  min-height: 100vh;
+}
+
+/* =============================================
+   FORM HEADER
+   ============================================= */
+.form-header {
+  animation: fadeSlideUp 0.5s 0.15s var(--ease-out) both;
+}
+
+.title-row {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin-bottom: 6px;
+}
+
+.form-title {
+  font-family: 'Freeman', sans-serif;
+  font-size: 48px;
+  font-weight: 500;
+  color: var(--text-dark);
+  position: relative;
+  display: inline-block;
+}
+
+.gap-8 {
+    display: flex;
+    flex-direction: column;
+    gap: 8px; 
+}
+
+.spark {
+  font-size: 22px;
+  color: var(--orange);
+  position: absolute;
+  top: -4px;
+
+  animation: sparkPulse 2s ease-in-out infinite;
+}
+
+@keyframes sparkPulse {
+  0%, 100% { transform: scale(1) rotate(0deg);   opacity: 1; }
+  50%       { transform: scale(1.3) rotate(20deg); opacity: 0.7; }
+}
+
+.rocket-icon {
+  font-size: 52px;
+  animation: rocketFloat 3s ease-in-out infinite;
+  transform-origin: center;
+}
+
+@keyframes rocketFloat {
+  0%, 100% { transform: translateY(0) rotate(-15deg); }
+  50%       { transform: translateY(-8px) rotate(-5deg); }
+}
+
+.form-subtitle {
+  font-size: 16px;
+  color: var(--text-mid);
+}
+
+/* =============================================
+   FORM BODY
+   ============================================= */
+.form-body {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  animation: fadeSlideUp 0.5s 0.25s var(--ease-out) both;
+}
+
+/* =============================================
+   FIELD GROUPS
+   ============================================= */
+.field-group {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.field-label {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text-label);
+  letter-spacing: 0.01em;
+  display: flex;        /* ← thêm */
+  align-items: center;  /* ← thêm */
+}
+
+/* Shared input styles */
+.field-input,
+.field-select,
+.field-textarea {
+  width: 100%;
+  padding: 11px 14px;
+  background: var(--bg-cream);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  font-family: 'Rethink Sans', sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  color: var(--orange-text);
+  outline: none;
+
+  transition:
+    border-color var(--duration-fast) ease,
+    box-shadow   var(--duration-fast) ease,
+    transform    var(--duration-fast) ease;
+}
+
+.field-input::placeholder,
+.field-textarea::placeholder {
+  color: #aaa;
+  font-weight: 400;
+}
+
+/* Focus state */
+.field-input:focus,
+.field-select:focus,
+.field-textarea:focus {
+  border-color: var(--orange-text);
+  box-shadow: 0 0 0 3px rgba(254, 138, 34, 0.18);
+  transform: translateY(-1px);
+}
+
+/* Hover state */
+.field-input:hover,
+.field-select:hover,
+.field-textarea:hover {
+  border-color: var(--orange-dark);
+}
+
+/* Select wrapper */
+.select-wrapper {
+  position: relative;
+}
+
+.field-select {
+  appearance: none;
+  cursor: pointer;
+  padding-right: 36px;
+}
+
+.select-arrow {
+  position: absolute;
+  right: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 18px;
+  color: var(--text-label);
+  pointer-events: none;
+  line-height: 1;
+}
+
+/* Textarea */
+.field-textarea {
+  resize: vertical;
+  min-height: 100px;
+  font-weight: 400;
+  color: #595959;
+  font-size: 14px;
+}
+
+/* =============================================
+   SUBMIT BUTTON
+   ============================================= */
+.submit-btn {
+  width: 100%;
+  padding: 14px;
+  margin-top: 6px;
+  background: var(--orange);
+  border: none;
+  border-radius: var(--radius-md);
+  font-family: 'Freeman', sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  color: #000;
+  cursor: pointer;
+  letter-spacing: 0.01em;
+
+  transition:
+    background  var(--duration-fast) ease,
+    transform   var(--duration-fast) ease,
+    box-shadow  var(--duration-fast) ease;
+}
+
+.submit-btn:hover {
+  background: var(--orange-dark);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(255, 147, 51, 0.4);
+}
+
+.submit-btn:active {
+  transform: translateY(0) scale(0.98);
+  box-shadow: none;
+}
+
+/* Shake animation (validation fail) */
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  20%       { transform: translateX(-8px); }
+  40%       { transform: translateX(8px); }
+  60%       { transform: translateX(-5px); }
+  80%       { transform: translateX(5px); }
+}
+
+.submit-btn.shake {
+  animation: shake 0.4s ease;
+  background: #e55;
+}
+
+/* =============================================
+   RESPONSIVE — Tablet (≤ 900px)
+   ============================================= */
+@media (max-width: 900px) {
+  .card {
+    flex-direction: column;
+    min-height: 100vh;
+  }
+
+  .left-panel {
+    width: 100%;
+    height: 300px;
+    position: relative;
+    flex-shrink: 0;
+  }
+
+  .quote-overlay {
+    padding: 20px 24px;
+  }
+
+  .quote-text {
+    font-size: 28px;
+  }
+
+  .right-panel {
+    padding: 32px 36px;
+    min-height: unset;
+    justify-content: flex-start;
+  }
+
+  .form-title {
+    font-size: 36px;
+  }
+}
+
+/* =============================================
+   RESPONSIVE — Mobile (≤ 520px)
+   ============================================= */
+@media (max-width: 520px) {
+  .left-panel {
+    height: 220px;
+  }
+
+  .quote-text {
+    font-size: 28px;
+  }
+
+  .quote-mark {
+    font-size: 36px;
+  }
+
+  .right-panel {
+    padding: 24px 20px;
+    gap: 20px;
+  }
+
+  .form-title {
+    font-size: 28px;
+  }
+
+  .rocket-icon {
+    font-size: 38px;
+  }
+
+  .submit-btn {
+    font-size: 17px;
+    padding: 12px;
+  }
+}
+
+/* =============================================
+   LOADING STATE
+   ============================================= */
+.loading-state,
+.error-state {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  gap: 16px;
+  color: var(--text-mid);
+  font-size: 15px;
+  min-height: 300px;
+}
+
+.error-state { color: #c0392b; }
+.error-icon  { font-size: 40px; }
+
+.spinner {
+  width: 36px;
+  height: 36px;
+  border: 3px solid #e0d6cc;
+  border-top-color: var(--orange);
+  border-radius: 50%;
+  animation: spin 0.7s linear infinite;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+/* =============================================
+   AUTOFILLED INPUT (read-only)
+   ============================================= */
+.field-input.autofilled {
+  color: var(--text-dark);
+  font-weight: 500;
+  font-size: 14px;
+  background: #f5f0e8;
+  border-color: #ddd;
+  cursor: default;
+  user-select: none;
+}
+
+/* =============================================
+   TASK META (due date badge)
+   ============================================= */
+.task-meta {
+  font-size: 11px;
+  font-weight: 400;
+  color: #fff;
+  background: var(--orange);
+  padding: 2px 8px;
+  border-radius: 20px;
+  margin-left: 8px;
+  vertical-align: middle;
+}
+
+.optional {
+  font-size: 11px;
+  font-weight: 400;
+  color: #aaa;
+  margin-left: 4px;
+}
+
+/* field-group flex direction fix */
+.field-group {
+  flex-direction: column;
+}
+
+/* ── States ── */
+.state-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 60vh;
+  gap: 12px;
+  color: var(--text-mid);
+  font-size: 15px;
+  width: 100%;
+  text-align: center;
+}
+.state-icon { font-size: 48px; line-height: 1; }
+.state-sub  { font-size: 13px; color: #aaa; }
+
+/* ── Spinner ── */
+.spinner {
+  width: 38px; height: 38px;
+  border: 3px solid #e8ddd0;
+  border-top-color: var(--orange);
+  border-radius: 50%;
+  animation: spin 0.7s linear infinite;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+
+/* ── Autofilled input ── */
+.field-input.is-autofilled {
+  background: #f5f0e8;
+  color: var(--text-dark);
+  font-weight: 500;
+  font-size: 14px;
+  border-color: #ddd;
+  cursor: default;
+}
+
+/* ── Due date badge ── */
+.badge-due {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 500;
+  color: #fff;
+  background: var(--orange);
+  padding: 1px 8px;
+  border-radius: 20px;
+  margin-left: 8px;
+  vertical-align: middle;
+}
+
+/* ── Label hint ── */
+.label-hint {
+  font-size: 11px;
+  font-weight: 400;
+  color: #bbb;
+  margin-left: 6px;
+}
+
+/* ── Field error highlight ── */
+.field-error {
+  border-color: #e55 !important;
+  box-shadow: 0 0 0 3px rgba(220, 50, 50, 0.15) !important;
+}
+
+/* =============================================
+   PROGRESS PICKER
+   ============================================= */
+.progress-picker {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.progress-btn {
+  flex: 1;
+  min-width: calc(10% - 6px);
+  padding: 8px 4px;
+  background: #f0ebe3;
+  border: 1.5px solid #e0d8ce;
+  border-radius: 6px;
+  font-family: 'Rethink Sans', sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  color: #999;
+  cursor: pointer;
+  transition: all 140ms ease;
+  text-align: center;
+}
+
+.progress-btn:hover {
+  background: #ffe8cc;
+  border-color: var(--orange);
+  color: var(--orange-dark);
+  transform: translateY(-1px);
+}
+
+.progress-btn.active {
+  background: var(--orange);
+  border-color: var(--orange-dark);
+  color: #fff;
+  transform: translateY(-2px);
+  box-shadow: 0 3px 10px rgba(255, 147, 51, 0.35);
+}
+
+.progress-btn.is-done.active {
+  background: #4caf50;
+  border-color: #388e3c;
+  box-shadow: 0 3px 10px rgba(76, 175, 80, 0.35);
+}
+
+/* Progress track bar */
+.progress-track-wrap {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 6px;
+}
+
+.progress-track {
+  flex: 1;
+  height: 6px;
+  background: #e8e0d6;
+  border-radius: 99px;
+  overflow: hidden;
+}
+
+.progress-fill {
+  height: 100%;
+  width: 0%;
+  background: linear-gradient(90deg, #FE8A22, #ffb347);
+  border-radius: 99px;
+  transition: width 0.4s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.progress-value-label {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--orange);
+  min-width: 36px;
+  text-align: right;
+  transition: color 0.3s ease;
+}
+
+/* Error shake cho picker */
+@keyframes pickerShake {
+  0%, 100% { transform: translateX(0); }
+  25%       { transform: translateX(-6px); }
+  75%       { transform: translateX(6px); }
+}
+
+.picker-error {
+  animation: pickerShake 0.35s ease;
+  outline: 2px solid #e55;
+  border-radius: 8px;
+}
+
+/* ── States ── */
+.state-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 60vh;
+  gap: 12px;
+  color: var(--text-mid);
+  font-size: 15px;
+  width: 100%;
+  text-align: center;
+}
+.state-icon { font-size: 48px; line-height: 1; }
+.state-sub  { font-size: 13px; color: #aaa; }
+
+.spinner {
+  width: 38px; height: 38px;
+  border: 3px solid #e8ddd0;
+  border-top-color: var(--orange);
+  border-radius: 50%;
+  animation: spin 0.7s linear infinite;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+
+.field-input.is-autofilled {
+  background: #f5f0e8;
+  color: var(--text-dark);
+  font-weight: 500;
+  font-size: 14px;
+  border-color: #ddd;
+  cursor: default;
+}
+
+.badge-due {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 500;
+  color: #fff;
+  background: var(--orange);
+  padding: 1px 8px;
+  border-radius: 20px;
+  /* bỏ margin-left: 8px */
+}
