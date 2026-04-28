@@ -1,0 +1,191 @@
+name: Send Form Links to Members
+
+on:
+  workflow_run:
+    workflows: ["Fetch Lark Tasks"]
+    types: [completed]
+  workflow_dispatch:
+
+jobs:
+  send-links:
+    runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' }}
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Send form link to each member via Lark DM
+        env:
+          LARK_USER_TOKEN: ${{ secrets.LARK_USER_TOKEN }}
+          FORM_BASE_URL: "http://127.0.0.1:5500/index.html"
+        run: |
+          python3 << 'EOF'
+          import json, os, urllib.request, urllib.error
+          from datetime import datetime
+
+          USER_TOKEN    = os.environ['LARK_USER_TOKEN']
+          FORM_BASE_URL = os.environ['FORM_BASE_URL']
+          TODAY         = datetime.utcnow().strftime('%d/%m/%Y')
+
+          # ── Đọc lark-tasks.json ──
+          with open('lark-tasks.json', 'r', encoding='utf-8') as f:
+              data = json.load(f)
+
+          tasks = data.get('tasks', [])
+
+          # ── Group tasks theo userId ──
+          # userId là assignee thực từ Lark
+          user_tasks = {}
+          for task in tasks:
+              # Bỏ qua task đã completed
+              if task.get('status') == 'completed':
+                  continue
+
+              for assignee in task.get('assignees', []):
+                  uid = assignee.get('userId')
+                  if not uid:
+                      continue
+                  if uid not in user_tasks:
+                      user_tasks[uid] = []
+                  user_tasks[uid].append(task)
+
+          print(f"Found {len(user_tasks)} members with tasks today")
+
+          # ── Gửi DM cho từng user ──
+          def lark_post(url, payload):
+              body = json.dumps(payload).encode()
+              req = urllib.request.Request(
+                  url,
+                  data=body,
+                  headers={
+                      'Authorization': f'Bearer {USER_TOKEN}',
+                      'Content-Type':  'application/json',
+                  },
+                  method='POST'
+              )
+              try:
+                  with urllib.request.urlopen(req) as res:
+                      return json.loads(res.read())
+              except urllib.error.HTTPError as e:
+                  body = e.read().decode()
+                  print(f"HTTPError {e.code}: {body}")
+                  raise
+
+          def format_task_summary(tasks):
+              """Build danh sách task ngắn gọn để hiển thị trong message"""
+              lines = []
+              for i, t in enumerate(tasks[:2], 1):  # Tối đa 2 task
+                  due = ''
+                  if t.get('dueDate'):
+                      d = datetime.strptime(t['dueDate'], '%Y-%m-%dT%H:%M:%SZ')
+                      due = f" (due {d.strftime('%d/%m')})"
+                  lines.append(f"  {i}. {t['title']}{due}")
+              return '\n'.join(lines)
+
+          def send_dm(user_id, tasks):
+              form_url = f"{FORM_BASE_URL}?userId={user_id}"
+              task_summary = format_task_summary(tasks)
+              task_count = len(tasks)
+
+              # Build Lark Interactive Card message
+              message_content = {
+                  "type": "template",
+                  "data": {
+                      "template_id": None  # Không dùng template, dùng raw card
+                  }
+              }
+
+              # Dùng raw interactive card
+              card = {
+                  "config": {
+                      "wide_screen_mode": True
+                  },
+                  "header": {
+                      "title": {
+                          "tag": "plain_text",
+                          "content": f"📋 Daily Standup — {TODAY}"
+                      },
+                      "template": "orange"
+                  },
+                  "elements": [
+                      {
+                          "tag": "div",
+                          "text": {
+                              "tag": "lark_md",
+                              "content": f"Xin chào! Hôm nay bạn có **{task_count} task** cần update:\n\n{task_summary}"
+                          }
+                      },
+                      {
+                          "tag": "hr"
+                      },
+                      {
+                          "tag": "action",
+                          "actions": [
+                              {
+                                  "tag": "button",
+                                  "text": {
+                                      "tag": "plain_text",
+                                      "content": "✍️ Điền Daily Standup"
+                                  },
+                                  "type": "primary",
+                                  "url": form_url
+                              }
+                          ]
+                      },
+                      {
+                          "tag": "note",
+                          "elements": [
+                              {
+                                  "tag": "plain_text",
+                                  "content": f"Form sẽ tự động điền task của bạn. Chỉ cần chọn progress và submit 🚀"
+                              }
+                          ]
+                      }
+                  ]
+              }
+
+              # Gửi DM — tạo conversation với user trước
+              # Bước 1: Tạo/lấy chat_id của DM với user
+              create_chat_res = lark_post(
+                  'https://open.larksuite.com/open-apis/im/v1/chats',
+                  {
+                      "chat_mode": "p2p",
+                      "user_id_type": "user_id",
+                      "user_ids": [user_id]
+                  }
+              )
+
+              # Lark p2p chat: dùng open_id để tạo DM
+              # Thực tế gửi DM dùng receive_id = user open_id
+              send_res = lark_post(
+                  'https://open.larksuite.com/open-apis/im/v1/messages?receive_id_type=user_id',
+                  {
+                      "receive_id": user_id,
+                      "msg_type":   "interactive",
+                      "content":    json.dumps(card)
+                  }
+              )
+
+              if send_res.get('code') == 0:
+                  print(f"✅ Sent to {user_id} ({task_count} tasks)")
+              else:
+                  print(f"❌ Failed {user_id}: {send_res.get('msg')} | code: {send_res.get('code')}")
+
+              return send_res
+
+          # ── Gửi cho từng user ──
+          results = []
+          for user_id, tasks in user_tasks.items():
+              res = send_dm(user_id, tasks)
+              results.append({
+                  'userId': user_id,
+                  'taskCount': len(tasks),
+                  'success': res.get('code') == 0
+              })
+
+          # ── Summary ──
+          success = sum(1 for r in results if r['success'])
+          print(f"\n📊 Done: {success}/{len(results)} messages sent successfully")
+
+          EOF
