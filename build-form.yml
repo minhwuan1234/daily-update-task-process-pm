@@ -1,0 +1,37 @@
+name: Build and Deploy Form
+
+on:
+  push:
+    paths:
+      - 'index.html'
+      - 'style.css'
+      - 'assets/**'
+  workflow_dispatch:
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Inject PAT into index.html
+        env:
+          FORM_PAT: ${{ secrets.FORM_PAT }}
+        run: |
+          # Replace placeholder với PAT thực từ secret
+          sed -i "s|%%FORM_PAT%%|${FORM_PAT}|g" index.html
+          echo "✅ PAT injected"
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./
+          publish_branch: gh-pages
+          exclude_assets: '.github,*.json,*.yml,*.md'
