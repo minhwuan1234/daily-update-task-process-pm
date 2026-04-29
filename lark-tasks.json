@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-29T07:51:59Z",
-  "total": 6,
+  "generatedAt": "2026-04-29T08:16:24Z",
+  "total": 5,
   "tasks": [
     {
       "taskId": "193cb0a9-d143-4ead-89bb-bd4e78b530d9",
@@ -71,20 +71,6 @@
         }
       ],
       "tasklistId": "dd2705f9-b532-4585-b787-15b623847c4f"
-    },
-    {
-      "taskId": "a9d1ca27-078d-4f9b-a81a-873053fa747a",
-      "title": "HOME - SB (1.5-2) -- CLIENT FEEBDAKC 24/4",
-      "status": "in_progress",
-      "startDate": "2026-04-28T01:00:00Z",
-      "dueDate": "2026-04-30T11:00:00Z",
-      "assignees": [
-        {
-          "userId": "ou_d4705f336444cf58b915433056857d56",
-          "type": "user"
-        }
-      ],
-      "tasklistId": "4f707f01-1386-470e-971c-a932154be876"
     }
   ]
 }
