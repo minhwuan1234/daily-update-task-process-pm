@@ -19,7 +19,7 @@ jobs:
         env:
           LARK_APP_ID:     ${{ secrets.LARK_APP_ID }}
           LARK_APP_SECRET: ${{ secrets.LARK_APP_SECRET }}
-          FORM_BASE_URL: "https://minhwuan1234.github.io/daily-update-task-process-pm/index.html"
+          FORM_BASE_URL:   "http://127.0.0.1:5500/index.html"
         run: |
           python3 << 'EOF'
           import json, os, urllib.request, urllib.error
@@ -109,26 +109,42 @@ jobs:
               return "\n".join(lines)
 
           def build_card(open_id, tasks):
+              # Build task elements với hr giữa các task
+              task_elements = []
+              for i, t in enumerate(tasks[:2], 1):
+                  due = ""
+                  if t.get("dueDate"):
+                      d = datetime.strptime(t["dueDate"], "%Y-%m-%dT%H:%M:%SZ")
+                      due = f" · due **{d.strftime('%d/%m')}**"
+                  task_elements.append({
+                      "tag": "div",
+                      "text": {
+                          "tag":     "lark_md",
+                          "content": f"{i}. {t['title']}{due}"
+                      }
+                  })
+                  if i < min(len(tasks), 2):
+                      task_elements.append({"tag": "hr"})
+
               return {
                   "config": {"wide_screen_mode": True},
                   "header": {
                       "title": {
                           "tag":     "plain_text",
-                          "content": f"📋 Daily Standup — {TODAY}"
+                          "content": f"🌿 Update tình hình — {TODAY}"
                       },
-                      "template": "orange"
+                      "template": "green"
                   },
                   "elements": [
                       {
                           "tag": "div",
                           "text": {
                               "tag":     "lark_md",
-                              "content": (
-                                  f"Xin chào! Hôm nay bạn có **{len(tasks)} task** cần update:\n\n"
-                                  f"{format_task_lines(tasks)}"
-                              )
+                              "content": f"Xin chào! Hôm nay bạn có **{len(tasks)} task** cần update:"
                           }
                       },
+                      {"tag": "hr"},
+                      *task_elements,
                       {"tag": "hr"},
                       {
                           "tag": "action",
