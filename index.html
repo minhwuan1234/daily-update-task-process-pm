@@ -170,9 +170,8 @@
   // CONFIG
   // ═══════════════════════════════════════════════
   const GITHUB_RAW   = 'https://raw.githubusercontent.com/minhwuan1234/daily-update-task-process-pm/main/lark-tasks.json';
-  const GITHUB_OWNER = 'minhwuan1234';
-  const GITHUB_REPO  = 'daily-update-task-process-pm';
-  const GITHUB_PAT   = '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'; // injected at build time
+  // Worker URL — thay bằng URL sau khi deploy Cloudflare Worker
+  const WORKER_URL   = 'https://daily-standup-proxy.minhwuan889.workers.dev';
 
   const qs  = (id) => document.getElementById(id);
   const uid = () => new URLSearchParams(location.search).get('userId');
@@ -294,28 +293,17 @@
     }
   }
 
-  // ── Trigger GitHub Actions via repository_dispatch ──
-  // PAT chỉ dùng để trigger workflow, không ghi file trực tiếp
+  // ── Gọi Cloudflare Worker (PAT ẩn trong Worker, không bao giờ ra browser) ──
   async function writeToGitHub(date, userId, payload) {
-    const res = await fetch(
-      `https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/dispatches`,
-      {
-        method: 'POST',
-        headers: {
-          'Authorization': `Bearer ${GITHUB_PAT}`,
-          'Accept': 'application/vnd.github+json',
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({
-          event_type: 'standup-response',
-          client_payload: payload
-        })
-      }
-    );
+    const res = await fetch(WORKER_URL, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(payload)
+    });
 
     if (!res.ok) {
       const err = await res.json();
-      throw new Error(err.message || `GitHub dispatch error ${res.status}`);
+      throw new Error(err.error || `Worker error ${res.status}`);
     }
   }
 
