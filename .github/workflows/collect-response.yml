@@ -57,22 +57,18 @@ jobs:
           except:
               pass
 
-          # Nếu ngày mới → reset
           if existing.get('date') != date:
               existing = {'date': date, 'responses': []}
 
-          # Upsert theo userId
           idx = next((i for i, r in enumerate(existing['responses']) if r.get('userId') == user_id), -1)
           if idx >= 0:
               existing['responses'][idx] = payload
           else:
               existing['responses'].append(payload)
 
-          # ── Ghi responses.json ──
           with open('responses.json', 'w', encoding='utf-8') as f:
               json.dump(existing, f, ensure_ascii=False, indent=2)
 
-          # ── Git commit ──
           os.system('git config user.name "github-actions[bot]"')
           os.system('git config user.email "github-actions[bot]@users.noreply.github.com"')
           os.system('git add responses.json')
@@ -133,24 +129,39 @@ jobs:
           message      = payload.get('message', '')
           submitted_at = payload.get('submittedAt', '')
 
-          task_lines = []
-          for t in tasks:
+          # Build task elements với hr giữa các task
+          task_elements = []
+          for i, t in enumerate(tasks):
               progress = t.get('progress', '—')
               title    = t.get('title', '')
-              task_lines.append(f'**{title}**\n  📈 Progress: {progress}')
+              task_elements.append({
+                  'tag': 'div',
+                  'text': {
+                      'tag':     'lark_md',
+                      'content': f'**{title}**\n  📈 Progress: {progress}'
+                  }
+              })
+              if i < len(tasks) - 1:
+                  task_elements.append({'tag': 'hr'})
 
-          task_text = '\n\n'.join(task_lines)
           if message:
-              task_text += f'\n\n🗒️ Comment: _{message}_'
+              task_elements.append({'tag': 'hr'})
+              task_elements.append({
+                  'tag': 'div',
+                  'text': {
+                      'tag':     'lark_md',
+                      'content': f'🗒️ Comment: _{message}_'
+                  }
+              })
 
           card = {
               'config': {'wide_screen_mode': True},
               'header': {
                   'title': {
                       'tag':     'plain_text',
-                      'content': f'📋 Standup mới — {TODAY_LABEL}'
+                      'content': f'🌿 Update tình hình — {TODAY_LABEL}'
                   },
-                  'template': 'orange'
+                  'template': 'green'
               },
               'elements': [
                   {
@@ -161,13 +172,7 @@ jobs:
                       }
                   },
                   {'tag': 'hr'},
-                  {
-                      'tag': 'div',
-                      'text': {
-                          'tag':     'lark_md',
-                          'content': task_text
-                      }
-                  },
+                  *task_elements,
                   {'tag': 'hr'},
                   {
                       'tag': 'div',
