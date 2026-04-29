@@ -77,17 +77,11 @@ jobs:
           key_id  = pk_data["key_id"]
           pub_key = pk_data["key"]
 
-          # ── Encrypt và update secret ──
           def update_secret(secret_name, secret_value):
               pk      = public.PublicKey(pub_key.encode(), encoding.Base64Encoder())
               sealed  = public.SealedBox(pk).encrypt(secret_value.encode())
               encrypted = b64encode(sealed).decode()
-
-              payload = json.dumps({
-                  "encrypted_value": encrypted,
-                  "key_id": key_id,
-              }).encode()
-
+              payload = json.dumps({"encrypted_value": encrypted, "key_id": key_id}).encode()
               req = urllib.request.Request(
                   f"https://api.github.com/repos/{repo}/actions/secrets/{secret_name}",
                   data=payload,
@@ -104,14 +98,13 @@ jobs:
           update_secret("LARK_USER_TOKEN",    new_access_token)
           update_secret("LARK_REFRESH_TOKEN", new_refresh_token)
 
-          # ── Ghi token ra file tạm ──
           with open("/tmp/lark_token.txt", "w") as f:
               f.write(new_access_token)
 
           print("Done refreshing tokens")
           EOF
 
-      - name: Fetch tasks from Lark
+      - name: Fetch and match tasks from Lark
         env:
           TASKLIST_IDS: ${{ secrets.LARK_TASKLIST_ID }}
         run: |
@@ -136,22 +129,49 @@ jobs:
                   with urllib.request.urlopen(req) as res:
                       return json.loads(res.read())
               except urllib.error.HTTPError as e:
-                  body = e.read().decode('utf-8')
-                  print(f"HTTPError {e.code}: {body}")
+                  print(f"HTTPError {e.code}: {e.read().decode()}")
                   raise
 
           def parse_ts(ts):
               if not ts: return None
               return datetime.utcfromtimestamp(int(ts) / 1000).strftime('%Y-%m-%dT%H:%M:%SZ')
 
-          all_tasks = []
+          # ── Đọc daily-tasks.json từ N8N ──
+          with open('daily-tasks.json', 'r', encoding='utf-8') as f:
+              daily = json.load(f)
+
+          # ── Đọc members.json để map tên → open_id ──
+          with open('members.json', 'r', encoding='utf-8') as f:
+              members_map = json.load(f)
+          # Đảo ngược: tên → open_id
+          # members.json format: { "ou_xxx": "Minh Quân" }
+          name_to_id = {v: k for k, v in members_map.items()}
+          print(f"Member map: {name_to_id}")
+
+          # ── Build danh sách tên task cần tìm ──
+          # { task_title: [member_name, ...] }
+          task_to_members = {}
+          for m in daily.get('members', []):
+              member_name = m.get('member', '')
+              for t in m.get('tasks', []):
+                  title = t.get('task', '').strip()
+                  if title:
+                      task_to_members.setdefault(title, []).append(member_name)
+
+          print(f"\nTasks to find: {len(task_to_members)}")
+          for title in task_to_members:
+              print(f"  - {title[:60]}")
+
+          # ── Fetch tất cả task chưa done từ Lark (completed=false) ──
+          all_lark_tasks = []
 
           for tasklist_id in TASKLIST_IDS:
               print(f"\nFetching tasklist: {tasklist_id}")
               page_token = None
 
               while True:
-                  url = f'https://open.larksuite.com/open-apis/task/v2/tasklists/{tasklist_id}/tasks?page_size=50'
+                  # completed=false → bỏ qua task đã done, tiết kiệm API
+                  url = f'https://open.larksuite.com/open-apis/task/v2/tasklists/{tasklist_id}/tasks?page_size=50&completed=false'
                   if page_token:
                       url += f'&page_token={page_token}'
 
@@ -161,22 +181,24 @@ jobs:
                       break
 
                   items = data.get('data', {}).get('items', [])
-                  print(f"Items: {len(items)}")
+                  print(f"  Items (incomplete only): {len(items)}")
 
                   for t in items:
                       task_guid = t.get('guid')
-                      if not task_guid: continue
+                      if not task_guid:
+                          continue
 
+                      # Fetch detail để lấy assignees, dates
                       detail = lark_get(f'https://open.larksuite.com/open-apis/task/v2/tasks/{task_guid}')
                       td = detail.get('data', {}).get('task', t)
 
-                      all_tasks.append({
-                          'taskId':     td.get('guid'),
-                          'title':      td.get('summary'),
-                          'status':     'completed' if td.get('completed_at') and td.get('completed_at') != '0' else 'in_progress',
-                          'startDate':  parse_ts((td.get('start') or {}).get('timestamp')),
-                          'dueDate':    parse_ts((td.get('due') or {}).get('timestamp')),
-                          'assignees':  [
+                      all_lark_tasks.append({
+                          'taskId':    td.get('guid'),
+                          'title':     td.get('summary', '').strip(),
+                          'status':    'in_progress',
+                          'startDate': parse_ts((td.get('start') or {}).get('timestamp')),
+                          'dueDate':   parse_ts((td.get('due') or {}).get('timestamp')),
+                          'assignees': [
                               {'userId': m['id'], 'type': m.get('type')}
                               for m in td.get('members', [])
                               if m.get('role') == 'assignee'
@@ -189,16 +211,49 @@ jobs:
                   else:
                       break
 
+          print(f"\nTotal incomplete tasks from Lark: {len(all_lark_tasks)}")
+
+          # ── Match task theo tên + inject userId từ members.json ──
+          matched_tasks = []
+
+          for lark_task in all_lark_tasks:
+              lark_title = lark_task['title']
+
+              # Tìm task trong daily-tasks.json khớp tên
+              if lark_title in task_to_members:
+                  member_names = task_to_members[lark_title]
+                  print(f"\n✅ Matched: {lark_title[:60]}")
+
+                  # Nếu assignees đã có từ Lark → dùng luôn
+                  if lark_task['assignees']:
+                      print(f"   Assignees from Lark: {[a['userId'] for a in lark_task['assignees']]}")
+                      matched_tasks.append(lark_task)
+                  else:
+                      # Nếu không có assignee từ Lark → dùng members.json map tên → open_id
+                      assignees = []
+                      for name in member_names:
+                          open_id = name_to_id.get(name)
+                          if open_id:
+                              assignees.append({'userId': open_id, 'type': 'user'})
+                              print(f"   Mapped {name} → {open_id}")
+                          else:
+                              print(f"   ⚠️ No userId for {name} — add to members.json")
+                      lark_task['assignees'] = assignees
+                      matched_tasks.append(lark_task)
+
+          print(f"\nMatched {len(matched_tasks)}/{len(task_to_members)} tasks")
+
+          # ── Ghi lark-tasks.json ──
           output = {
               'generatedAt': datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ'),
-              'total':       len(all_tasks),
-              'tasks':       all_tasks,
+              'total':       len(matched_tasks),
+              'tasks':       matched_tasks,
           }
 
           with open('lark-tasks.json', 'w', encoding='utf-8') as f:
               json.dump(output, f, ensure_ascii=False, indent=2)
 
-          print(f"\nDone — total: {len(all_tasks)}")
+          print(f"\nDone — written {len(matched_tasks)} matched tasks to lark-tasks.json")
           EOF
 
       - name: Commit and push
