@@ -137,11 +137,11 @@ jobs:
           for t in tasks:
               progress = t.get('progress', '—')
               title    = t.get('title', '')
-              task_lines.append(f'**{title}**\n  📊 {progress}')
+              task_lines.append(f'**{title}**\n  📈 Progress: {progress}')
 
           task_text = '\n\n'.join(task_lines)
           if message:
-              task_text += f'\n\n💬 _{message}_'
+              task_text += f'\n\n🗒️ Comment: _{message}_'
 
           card = {
               'config': {'wide_screen_mode': True},
