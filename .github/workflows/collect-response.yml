@@ -30,7 +30,9 @@ jobs:
           APP_ID      = os.environ['LARK_APP_ID']
           APP_SECRET  = os.environ['LARK_APP_SECRET']
           PM_OPEN_ID  = os.environ['PM_OPEN_ID']
-          TODAY_LABEL = datetime.now(timezone.utc).strftime('%d/%m/%Y')
+          from datetime import timedelta
+          VN_TZ       = timezone(timedelta(hours=7))
+          TODAY_LABEL = datetime.now(VN_TZ).strftime('%d/%m/%Y')
 
           # ── Parse payload từ form ──
           payload = json.loads(os.environ['PAYLOAD'])
@@ -168,7 +170,7 @@ jobs:
                       'tag': 'div',
                       'text': {
                           'tag':     'lark_md',
-                          'content': f'👤 **{display_name}** vừa submit\n📅 {submitted_at[:16].replace("T", " ")} UTC'
+                          'content': f'👤 **{display_name}** vừa submit\n📅 {(datetime.fromisoformat(submitted_at.replace("Z","+00:00")).astimezone(VN_TZ)).strftime("%d/%m/%Y %H:%M")} (GMT+7)'
                       }
                   },
                   {'tag': 'hr'},
