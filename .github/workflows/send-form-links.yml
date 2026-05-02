@@ -2,7 +2,7 @@ name: Send Form Links to Members
 
 on:
   workflow_run:
-    workflows: ["Fetch Lark Tasks"]
+    workflows: ["Receive Daily Tasks"]
     types: [completed]
   workflow_dispatch:
 
@@ -30,14 +30,9 @@ jobs:
           FORM_BASE_URL = os.environ['FORM_BASE_URL']
           TODAY         = datetime.now(timezone.utc).strftime('%d/%m/%Y')
 
-          # ══════════════════════════════════════
-          # BƯỚC 1: Lấy Bot tenant_access_token
-          # ══════════════════════════════════════
+          # ── Bot token ──
           def get_bot_token():
-              payload = json.dumps({
-                  "app_id":     APP_ID,
-                  "app_secret": APP_SECRET,
-              }).encode()
+              payload = json.dumps({"app_id": APP_ID, "app_secret": APP_SECRET}).encode()
               req = urllib.request.Request(
                   "https://open.larksuite.com/open-apis/auth/v3/tenant_access_token/internal",
                   data=payload,
@@ -48,20 +43,15 @@ jobs:
                   data = json.loads(res.read())
               if data.get("code") != 0:
                   raise Exception(f"Bot token failed: {data}")
-              token = data["tenant_access_token"]
-              print(f"✅ Bot token: {token[:20]}...")
-              return token
+              return data["tenant_access_token"]
 
           BOT_TOKEN = get_bot_token()
+          print(f"✅ Bot token: {BOT_TOKEN[:20]}...")
 
-          # ══════════════════════════════════════
-          # HELPERS
-          # ══════════════════════════════════════
           def lark_post(url, payload):
               body = json.dumps(payload).encode()
               req = urllib.request.Request(
-                  url,
-                  data=body,
+                  url, data=body,
                   headers={
                       "Authorization": f"Bearer {BOT_TOKEN}",
                       "Content-Type":  "application/json",
@@ -72,55 +62,36 @@ jobs:
                   with urllib.request.urlopen(req) as res:
                       return json.loads(res.read())
               except urllib.error.HTTPError as e:
-                  print(f"POST {url} → HTTPError {e.code}: {e.read().decode()}")
+                  print(f"HTTPError {e.code}: {e.read().decode()}")
                   raise
 
-          # ══════════════════════════════════════
-          # BƯỚC 2: Đọc + group tasks
-          # userId trong lark-tasks.json thực chất
-          # là open_id (prefix ou_) — dùng thẳng
-          # ══════════════════════════════════════
-          with open("lark-tasks.json", "r", encoding="utf-8") as f:
-              data = json.load(f)
+          # ── Đọc daily-tasks.json từ N8N ──
+          with open("daily-tasks.json", "r", encoding="utf-8") as f:
+              daily = json.load(f)
 
-          user_tasks = {}
-          for task in data.get("tasks", []):
-              if task.get("status") == "completed":
-                  continue
-              for assignee in task.get("assignees", []):
-                  open_id = assignee.get("userId")  # thực ra là open_id
-                  if not open_id:
-                      continue
-                  user_tasks.setdefault(open_id, []).append(task)
+          # ── Đọc members.json: { "Tên": "open_id" } ──
+          with open("members.json", "r", encoding="utf-8") as f:
+              members_map = json.load(f)
 
-          print(f"Found {len(user_tasks)} members with active tasks\n")
+          print(f"Found {len(daily.get('members', []))} members in daily-tasks.json")
 
-          # ══════════════════════════════════════
-          # BƯỚC 3: Build card + gửi DM
-          # ══════════════════════════════════════
+          # ── Build card + gửi DM ──
           def format_task_lines(tasks):
               lines = []
               for i, t in enumerate(tasks[:2], 1):
-                  due = ""
-                  if t.get("dueDate"):
-                      d = datetime.strptime(t["dueDate"], "%Y-%m-%dT%H:%M:%SZ")
-                      due = f" · due **{d.strftime('%d/%m')}**"
-                  lines.append(f"{i}. {t['title']}{due}")
+                  due = f" · due **{t.get('dueDate', '')}**" if t.get('dueDate') else ''
+                  lines.append(f"{i}. {t.get('task', '')}{due}")
               return "\n".join(lines)
 
           def build_card(open_id, tasks):
-              # Build task elements với hr giữa các task
               task_elements = []
               for i, t in enumerate(tasks[:2], 1):
-                  due = ""
-                  if t.get("dueDate"):
-                      d = datetime.strptime(t["dueDate"], "%Y-%m-%dT%H:%M:%SZ")
-                      due = f" · due **{d.strftime('%d/%m')}**"
+                  due = f" · due **{t.get('dueDate', '')}**" if t.get('dueDate') else ''
                   task_elements.append({
                       "tag": "div",
                       "text": {
                           "tag":     "lark_md",
-                          "content": f"{i}. {t['title']}{due}"
+                          "content": f"{i}. {t.get('task', '')}{due}"
                       }
                   })
                   if i < min(len(tasks), 2):
@@ -140,7 +111,7 @@ jobs:
                           "tag": "div",
                           "text": {
                               "tag":     "lark_md",
-                              "content": f"Xin chào! Hôm nay bạn có **{len(tasks)} task** cần update:"
+                              "content": f"Xin chào! Hôm nay bạn có **{len(tasks[:2])} task** cần update:"
                           }
                       },
                       {"tag": "hr"},
@@ -150,10 +121,7 @@ jobs:
                           "tag": "action",
                           "actions": [{
                               "tag":  "button",
-                              "text": {
-                                  "tag":     "plain_text",
-                                  "content": "✍️ Điền Daily Standup"
-                              },
+                              "text": {"tag": "plain_text", "content": "✍️ Điền Daily Standup"},
                               "type": "primary",
                               "url":  f"{FORM_BASE_URL}?userId={open_id}"
                           }]
@@ -168,39 +136,34 @@ jobs:
                   ]
               }
 
-          def send_dm(open_id, tasks):
-              card = build_card(open_id, tasks)
-              res = lark_post(
-                  "https://open.larksuite.com/open-apis/im/v1/messages?receive_id_type=open_id",
-                  {
-                      "receive_id": open_id,
-                      "msg_type":   "interactive",
-                      "content":    json.dumps(card)
-                  }
-              )
-              if res.get("code") == 0:
-                  print(f"  ✅ Sent to {open_id} ({len(tasks)} tasks)")
-              else:
-                  print(f"  ❌ Failed {open_id}: {res.get('msg')} (code {res.get('code')})")
-              return res
-
-          # ══════════════════════════════════════
-          # MAIN LOOP
-          # ══════════════════════════════════════
           results = []
-          for open_id, tasks in user_tasks.items():
-              print(f"Processing: {open_id}")
-              res = send_dm(open_id, tasks)
-              results.append({
-                  "openId":    open_id,
-                  "taskCount": len(tasks),
-                  "success":   res.get("code") == 0
-              })
+          for member in daily.get("members", []):
+              name  = member.get("member", "")
+              tasks = member.get("tasks", [])
+
+              if not tasks:
+                  print(f"  ⚠️ {name}: no tasks, skipping")
+                  continue
+
+              open_id = members_map.get(name)
+              if not open_id:
+                  print(f"  ⚠️ {name}: không tìm thấy userId trong members.json")
+                  continue
+
+              print(f"Processing: {name} → {open_id}")
+              card = build_card(open_id, tasks)
+              res  = lark_post(
+                  "https://open.larksuite.com/open-apis/im/v1/messages?receive_id_type=open_id",
+                  {"receive_id": open_id, "msg_type": "interactive", "content": json.dumps(card)}
+              )
+
+              if res.get("code") == 0:
+                  print(f"  ✅ Sent to {name}")
+              else:
+                  print(f"  ❌ Failed {name}: {res.get('msg')} (code {res.get('code')})")
+
+              results.append({"name": name, "openId": open_id, "success": res.get("code") == 0})
 
           success = sum(1 for r in results if r["success"])
-          print(f"\n📊 Done: {success}/{len(results)} DMs sent successfully")
-          for r in results:
-              status = "✅" if r["success"] else "❌"
-              print(f"  {status} {r['openId']} — {r['taskCount']} tasks")
-
+          print(f"\n📊 Done: {success}/{len(results)} DMs sent")
           EOF
