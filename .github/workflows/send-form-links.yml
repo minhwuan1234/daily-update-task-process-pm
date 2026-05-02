@@ -136,6 +136,8 @@ jobs:
                   ]
               }
 
+          MY_OPEN_ID = "ou_a3cd717fbf6c8058d12c76c980f52eb7"
+
           results = []
           for member in daily.get("members", []):
               name  = member.get("member", "")
@@ -152,17 +154,28 @@ jobs:
 
               print(f"Processing: {name} → {open_id}")
               card = build_card(open_id, tasks)
-              res  = lark_post(
+
+              # Gửi cho member
+              res = lark_post(
                   "https://open.larksuite.com/open-apis/im/v1/messages?receive_id_type=open_id",
                   {"receive_id": open_id, "msg_type": "interactive", "content": json.dumps(card)}
               )
-
               if res.get("code") == 0:
                   print(f"  ✅ Sent to {name}")
               else:
                   print(f"  ❌ Failed {name}: {res.get('msg')} (code {res.get('code')})")
-
               results.append({"name": name, "openId": open_id, "success": res.get("code") == 0})
+
+              # Gửi bản copy cho Minh Quân (nếu không phải chính mình)
+              if open_id != MY_OPEN_ID:
+                  res2 = lark_post(
+                      "https://open.larksuite.com/open-apis/im/v1/messages?receive_id_type=open_id",
+                      {"receive_id": MY_OPEN_ID, "msg_type": "interactive", "content": json.dumps(card)}
+                  )
+                  if res2.get("code") == 0:
+                      print(f"  ✅ Copy sent to Minh Quân")
+                  else:
+                      print(f"  ❌ Copy failed: {res2.get('msg')}")
 
           success = sum(1 for r in results if r["success"])
           print(f"\n📊 Done: {success}/{len(results)} DMs sent")
