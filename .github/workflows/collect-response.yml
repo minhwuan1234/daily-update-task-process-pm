@@ -186,18 +186,22 @@ jobs:
               ]
           }
 
-          res = lark_post(
-              'https://open.larksuite.com/open-apis/im/v1/messages?receive_id_type=open_id',
-              {
-                  'receive_id': PM_OPEN_ID,
-                  'msg_type':   'interactive',
-                  'content':    json.dumps(card)
-              }
-          )
+          MY_OPEN_ID = 'ou_a3cd717fbf6c8058d12c76c980f52eb7'
+          receivers  = list({PM_OPEN_ID, MY_OPEN_ID})  # dùng set để tránh gửi 2 lần nếu trùng
 
-          if res.get('code') == 0:
-              print(f'✅ Sent to PM: {display_name}')
-          else:
-              print(f'❌ Failed: {res.get("msg")}')
+          for receiver in receivers:
+              res = lark_post(
+                  'https://open.larksuite.com/open-apis/im/v1/messages?receive_id_type=open_id',
+                  {
+                      'receive_id': receiver,
+                      'msg_type':   'interactive',
+                      'content':    json.dumps(card)
+                  }
+              )
+              label = 'PM' if receiver == PM_OPEN_ID else 'Minh Quân'
+              if res.get('code') == 0:
+                  print(f'✅ Sent to {label} ({receiver})')
+              else:
+                  print(f'❌ Failed {label}: {res.get("msg")}')
 
           EOF
