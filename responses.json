@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-05-02",
-      "message": "KO Ạ",
+      "message": "KO áº ",
       "submittedAt": "2026-05-02T09:03:18.602Z",
       "tasks": [
         {
@@ -13,6 +13,19 @@
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-05-02T09:07:52.341Z",
+      "date": "2026-05-02",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "SmoothKP: Video 1 ~1.5mins (1.5)",
+          "progress": "80%"
+        }
+      ],
+      "message": "ko ạ"
     }
   ]
 }
