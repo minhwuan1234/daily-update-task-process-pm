@@ -169,7 +169,7 @@
   // ═══════════════════════════════════════════════
   // CONFIG
   // ═══════════════════════════════════════════════
-  const GITHUB_RAW   = 'https://raw.githubusercontent.com/minhwuan1234/daily-update-task-process-pm/main/lark-tasks.json';
+  const GITHUB_RAW   = 'https://raw.githubusercontent.com/minhwuan1234/daily-update-task-process-pm/main/daily-tasks.json';
   // Worker URL — thay bằng URL sau khi deploy Cloudflare Worker
   const WORKER_URL   = 'https://daily-standup-proxy.minhwuan889.workers.dev';
 
@@ -228,14 +228,45 @@
     });
   }
 
-  // ── Fetch tasks ──
+  // ── Fetch tasks từ daily-tasks.json ──
   async function fetchTasksForUser(userId) {
-    const res = await fetch(`${GITHUB_RAW}?t=${Date.now()}`);
-    if (!res.ok) throw new Error(`GitHub fetch failed: ${res.status}`);
-    const data = await res.json();
-    return data.tasks
-      .filter(t => t.status !== 'completed')
-      .filter(t => (t.assignees || []).some(a => a.userId === userId));
+    // Đọc members.json để map userId → tên
+    const [dailyRes, membersRes] = await Promise.all([
+      fetch(`${GITHUB_RAW}?t=${Date.now()}`),
+      fetch('https://raw.githubusercontent.com/minhwuan1234/daily-update-task-process-pm/main/members.json?t=' + Date.now())
+    ]);
+    if (!dailyRes.ok) throw new Error(`GitHub fetch failed: ${dailyRes.status}`);
+
+    const daily   = await dailyRes.json();
+    const members = membersRes.ok ? await membersRes.json() : {};
+
+    // Đảo ngược members: { "Tên": "open_id" } → { "open_id": "Tên" }
+    const idToName = Object.fromEntries(Object.entries(members).map(([name, id]) => [id, name]));
+    const memberName = idToName[userId];
+
+    if (!memberName) throw new Error(`Không tìm thấy tên cho userId: ${userId}`);
+
+    // Tìm member trong daily-tasks
+    const member = (daily.members || []).find(m => m.member === memberName);
+    if (!member || !member.tasks?.length) return [];
+
+    // Convert sang format cũ để form dùng được
+    return member.tasks.map((t, i) => ({
+      taskId:   `${userId}-${i}`,
+      title:    t.task,
+      dueDate:  t.dueDate ? convertDueDate(t.dueDate) : null,
+      status:   'in_progress',
+      assignees: [{ userId }]
+    }));
+  }
+
+  // Convert dueDate từ "30/4" → ISO string
+  function convertDueDate(str) {
+    if (!str) return null;
+    const parts = str.split('/');
+    if (parts.length < 2) return null;
+    const year = new Date().getFullYear();
+    return new Date(`${year}-${parts[1].padStart(2,'0')}-${parts[0].padStart(2,'0')}T00:00:00Z`).toISOString();
   }
 
   // ── Fill form ──
