@@ -2,17 +2,17 @@
   "date": "2026-05-02",
   "responses": [
     {
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-05-02T09:03:18.602Z",
       "date": "2026-05-02",
+      "message": "KO Ạ",
+      "submittedAt": "2026-05-02T09:03:18.602Z",
       "tasks": [
         {
+          "progress": "50%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "HOME - Concept Art fix #2",
-          "progress": "50%"
+          "title": "HOME - Concept Art fix #2"
         }
       ],
-      "message": "KO Ạ"
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     }
   ]
 }
