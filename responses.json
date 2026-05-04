@@ -41,17 +41,17 @@
       "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
     },
     {
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-05-04T04:15:40.268Z",
       "date": "2026-05-04",
+      "message": "Cius",
+      "submittedAt": "2026-05-04T04:15:40.268Z",
       "tasks": [
         {
+          "progress": "100%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "HOME - Concept Art fix #2",
-          "progress": "100%"
+          "title": "HOME - Concept Art fix #2"
         }
       ],
-      "message": "Cius"
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     }
   ]
 }
