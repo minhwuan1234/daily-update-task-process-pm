@@ -27,35 +27,29 @@
       <!-- RIGHT PANEL -->
       <div class="right-panel">
 
-        <!-- LOADING -->
         <div id="state-loading" class="state-box">
           <div class="spinner"></div>
           <p>Đang tải task của bạn...</p>
         </div>
 
-        <!-- ERROR -->
         <div id="state-error" class="state-box" style="display:none;">
           <p class="state-icon">⚠️</p>
           <p id="error-msg">Không tìm thấy task.</p>
         </div>
 
-        <!-- SUCCESS -->
         <div id="state-success" class="state-box" style="display:none;">
           <p class="state-icon">✅</p>
           <p>Standup của bạn đã được ghi nhận!</p>
           <p class="state-sub">Cảm ơn bạn đã update hôm nay 🙌</p>
         </div>
 
-        <!-- FORM -->
         <div id="state-form" style="display:none; flex-direction:column; gap:32px; width:100%;">
 
           <div class="form-header">
             <div class="title-row">
               <div class="gap-8">
                 <h1 class="form-title">Daily Standup<span class="spark">✦</span></h1>
-                <p class="form-subtitle">
-                  Checkin hôm nay — <span id="today-label"></span>
-                </p>
+                <p class="form-subtitle">Checkin hôm nay — <span id="today-label"></span></p>
               </div>
               <div class="rocket-icon">🚀</div>
             </div>
@@ -65,10 +59,7 @@
 
             <!-- TASK 1 -->
             <div class="field-group">
-              <label class="field-label">
-                Task 1
-                <span class="badge-due" id="due1"></span>
-              </label>
+              <label class="field-label">Task 1 <span class="badge-due" id="due1"></span></label>
               <input class="field-input is-autofilled" id="task1-title" type="text" readonly />
             </div>
 
@@ -88,36 +79,32 @@
                 <button class="progress-btn is-done" data-val="100">100%</button>
               </div>
               <div class="progress-track-wrap">
-                <div class="progress-track">
-                  <div class="progress-fill" id="fill1"></div>
-                </div>
+                <div class="progress-track"><div class="progress-fill" id="fill1"></div></div>
                 <span class="progress-value-label" id="label1">—</span>
               </div>
             </div>
 
-            <!-- TIME TASK 1 -->
             <div class="field-group">
               <label class="field-label">Nay tốn nhiều time cho task này khum</label>
-              <div class="time-picker" id="time-picker1" data-value="">
-                <button class="time-btn" data-val="0.5">0.5h</button>
-                <button class="time-btn" data-val="1">1h</button>
-                <button class="time-btn" data-val="1.5">1.5h</button>
-                <button class="time-btn" data-val="2">2h</button>
-                <button class="time-btn" data-val="2.5">2.5h</button>
-                <button class="time-btn" data-val="3">3h</button>
-                <button class="time-btn" data-val="3.5">3.5h</button>
-                <button class="time-btn" data-val="4">4h</button>
-                <button class="time-btn" data-val="4.5">4.5h</button>
-                <button class="time-btn" data-val="5+">5h+</button>
+              <div class="select-wrapper">
+                <select class="field-select" id="time-select1">
+                  <option value="">-- Chọn thời gian --</option>
+                  <option value="0.5">0.5h</option><option value="1">1h</option>
+                  <option value="1.5">1.5h</option><option value="2">2h</option>
+                  <option value="2.5">2.5h</option><option value="3">3h</option>
+                  <option value="3.5">3.5h</option><option value="4">4h</option>
+                  <option value="4.5">4.5h</option><option value="5">5h</option>
+                  <option value="5.5">5.5h</option><option value="6">6h</option>
+                  <option value="6.5">6.5h</option><option value="7">7h</option>
+                  <option value="7.5">7.5h</option><option value="8">8h</option>
+                </select>
+                <span class="select-arrow">&#8964;</span>
               </div>
             </div>
 
-            <!-- TASK 2 (ẩn nếu chỉ có 1 task) -->
+            <!-- TASK 2 -->
             <div class="field-group" id="group-task2" style="display:none;">
-              <label class="field-label">
-                Task 2
-                <span class="badge-due" id="due2"></span>
-              </label>
+              <label class="field-label">Task 2 <span class="badge-due" id="due2"></span></label>
               <input class="field-input is-autofilled" id="task2-title" type="text" readonly />
             </div>
 
@@ -137,40 +124,36 @@
                 <button class="progress-btn is-done" data-val="100">100%</button>
               </div>
               <div class="progress-track-wrap">
-                <div class="progress-track">
-                  <div class="progress-fill" id="fill2"></div>
-                </div>
+                <div class="progress-track"><div class="progress-fill" id="fill2"></div></div>
                 <span class="progress-value-label" id="label2">—</span>
               </div>
             </div>
 
-            <!-- TIME TASK 2 -->
             <div class="field-group" id="group-time2" style="display:none;">
               <label class="field-label">Task này thì seo</label>
-              <div class="time-picker" id="time-picker2" data-value="">
-                <button class="time-btn" data-val="0.5">0.5h</button>
-                <button class="time-btn" data-val="1">1h</button>
-                <button class="time-btn" data-val="1.5">1.5h</button>
-                <button class="time-btn" data-val="2">2h</button>
-                <button class="time-btn" data-val="2.5">2.5h</button>
-                <button class="time-btn" data-val="3">3h</button>
-                <button class="time-btn" data-val="3.5">3.5h</button>
-                <button class="time-btn" data-val="4">4h</button>
-                <button class="time-btn" data-val="4.5">4.5h</button>
-                <button class="time-btn" data-val="5+">5h+</button>
+              <div class="select-wrapper">
+                <select class="field-select" id="time-select2">
+                  <option value="">-- Chọn thời gian --</option>
+                  <option value="0.5">0.5h</option><option value="1">1h</option>
+                  <option value="1.5">1.5h</option><option value="2">2h</option>
+                  <option value="2.5">2.5h</option><option value="3">3h</option>
+                  <option value="3.5">3.5h</option><option value="4">4h</option>
+                  <option value="4.5">4.5h</option><option value="5">5h</option>
+                  <option value="5.5">5.5h</option><option value="6">6h</option>
+                  <option value="6.5">6.5h</option><option value="7">7h</option>
+                  <option value="7.5">7.5h</option><option value="8">8h</option>
+                </select>
+                <span class="select-arrow">&#8964;</span>
               </div>
             </div>
 
             <!-- MESSAGE -->
             <div class="field-group">
               <label class="field-label">Hôm nay có phát sinh thêm task nào ngoài lịch hem (VD: sửa feedback của khách cho task A, lên guideline cho task B,...)? Có thì note cho chị thời gian nhó hihi</label>
-              <textarea class="field-textarea" id="message"
-                placeholder="Nhập task phát sinh nếu có nhé..."></textarea>
+              <textarea class="field-textarea" id="message" placeholder="Nhập task phát sinh nếu có nhé..."></textarea>
             </div>
 
-            <button class="submit-btn" id="submit-btn" type="button">
-              Submit
-            </button>
+            <button class="submit-btn" id="submit-btn" type="button">Submit</button>
 
           </div>
         </div>
@@ -180,7 +163,6 @@
   </div>
 
   <script>
-  // ── Daily Quote + Image (đổi theo ngày, múi giờ VN) ──
   const QUOTES = [
     "I heard this story about a fish. He swims up to this older fish and says, I'm trying to find this thing they call the ocean. The ocean? says the older fish. That's what you're in right now. This? says the young fish. This is water. What I want is the ocean.",
     "I think I have this thing where everybody has to think I'm the greatest. And if they aren't completely knocked out and dazzled and slightly intimidated by me, I don't feel good about myself.",
@@ -190,34 +172,22 @@
     "Not anyone can become a great artist, but a great artist can come from anywhere."
   ];
   const IMAGES = [
-    'assets/hero-1.png',
-    'assets/hero-2.png',
-    'assets/hero-3.png',
-    'assets/hero-4.png',
-    'assets/hero-5.png',
-    'assets/hero-6.png'
+    'assets/hero-1.png','assets/hero-2.png','assets/hero-3.png',
+    'assets/hero-4.png','assets/hero-5.png','assets/hero-6.png'
   ];
   const vnDay = new Date(new Date().toLocaleString('en-US', { timeZone: 'Asia/Ho_Chi_Minh' })).getDay();
   const dayIdx = vnDay === 0 ? 5 : (vnDay - 1) % QUOTES.length;
   document.getElementById('daily-quote').textContent = QUOTES[dayIdx];
   document.querySelector('.hero-gif').style.backgroundImage = `url('${IMAGES[dayIdx]}')`;
 
-  // ═══════════════════════════════════════════════
-  // CONFIG
-  // ═══════════════════════════════════════════════
-  const GITHUB_RAW   = 'https://raw.githubusercontent.com/minhwuan1234/daily-update-task-process-pm/main/daily-tasks.json';
-  // Worker URL — thay bằng URL sau khi deploy Cloudflare Worker
-  const WORKER_URL   = 'https://daily-standup-proxy.minhwuan889.workers.dev';
+  const GITHUB_RAW = 'https://raw.githubusercontent.com/minhwuan1234/daily-update-task-process-pm/main/daily-tasks.json';
+  const WORKER_URL = 'https://daily-standup-proxy.minhwuan889.workers.dev';
 
   const qs  = (id) => document.getElementById(id);
   const uid = () => new URLSearchParams(location.search).get('userId');
 
-  // ── Progress picker logic ──
   function initPicker(pickerId, fillId, labelId) {
-    const picker = qs(pickerId);
-    const fill   = qs(fillId);
-    const label  = qs(labelId);
-
+    const picker = qs(pickerId), fill = qs(fillId), label = qs(labelId);
     picker.querySelectorAll('.progress-btn').forEach(btn => {
       btn.addEventListener('click', () => {
         picker.querySelectorAll('.progress-btn').forEach(b => b.classList.remove('active'));
@@ -243,22 +213,6 @@
   initPicker('picker1', 'fill1', 'label1');
   initPicker('picker2', 'fill2', 'label2');
 
-  // ── Time picker logic ──
-  function initTimePicker(pickerId) {
-    const picker = qs(pickerId);
-    picker.querySelectorAll('.time-btn').forEach(btn => {
-      btn.addEventListener('click', () => {
-        picker.querySelectorAll('.time-btn').forEach(b => b.classList.remove('active'));
-        btn.classList.add('active');
-        picker.dataset.value = btn.dataset.val;
-      });
-    });
-  }
-
-  initTimePicker('time-picker1');
-  initTimePicker('time-picker2');
-
-  // ── States ──
   function showState(name) {
     ['loading','error','success','form'].forEach(s => {
       const el = qs(`state-${s}`);
@@ -269,49 +223,35 @@
 
   function fmtDate(iso) {
     if (!iso) return '';
-    const d = new Date(iso);
-    return d.toLocaleDateString('vi-VN', { day:'2-digit', month:'2-digit' });
+    return new Date(iso).toLocaleDateString('vi-VN', { day:'2-digit', month:'2-digit' });
   }
 
   function todayLabel() {
-    return new Date().toLocaleDateString('vi-VN', {
-      weekday:'long', day:'2-digit', month:'2-digit', year:'numeric'
-    });
+    return new Date().toLocaleDateString('vi-VN', { weekday:'long', day:'2-digit', month:'2-digit', year:'numeric' });
   }
 
-  // ── Fetch tasks từ daily-tasks.json ──
   async function fetchTasksForUser(userId) {
-    // Đọc members.json để map userId → tên
     const [dailyRes, membersRes] = await Promise.all([
       fetch(`${GITHUB_RAW}?t=${Date.now()}`),
       fetch('https://raw.githubusercontent.com/minhwuan1234/daily-update-task-process-pm/main/members.json?t=' + Date.now())
     ]);
     if (!dailyRes.ok) throw new Error(`GitHub fetch failed: ${dailyRes.status}`);
-
-    const daily   = await dailyRes.json();
+    const daily = await dailyRes.json();
     const members = membersRes.ok ? await membersRes.json() : {};
-
-    // Đảo ngược members: { "Tên": "open_id" } → { "open_id": "Tên" }
     const idToName = Object.fromEntries(Object.entries(members).map(([name, id]) => [id, name]));
     const memberName = idToName[userId];
-
     if (!memberName) throw new Error(`Không tìm thấy tên cho userId: ${userId}`);
-
-    // Tìm member trong daily-tasks
     const member = (daily.members || []).find(m => m.member === memberName);
     if (!member || !member.tasks?.length) return [];
-
-    // Convert sang format cũ để form dùng được
     return member.tasks.map((t, i) => ({
-      taskId:   `${userId}-${i}`,
-      title:    t.task,
-      dueDate:  t.dueDate ? convertDueDate(t.dueDate) : null,
-      status:   'in_progress',
+      taskId: `${userId}-${i}`,
+      title: t.task,
+      dueDate: t.dueDate ? convertDueDate(t.dueDate) : null,
+      status: 'in_progress',
       assignees: [{ userId }]
     }));
   }
 
-  // Convert dueDate từ "30/4" → ISO string
   function convertDueDate(str) {
     if (!str) return null;
     const parts = str.split('/');
@@ -320,15 +260,11 @@
     return new Date(`${year}-${parts[1].padStart(2,'0')}-${parts[0].padStart(2,'0')}T00:00:00Z`).toISOString();
   }
 
-  // ── Fill form ──
   function fillForm(tasks) {
     qs('today-label').textContent = todayLabel();
-    const t1 = tasks[0];
-    const t2 = tasks[1] || null;
-
+    const t1 = tasks[0], t2 = tasks[1] || null;
     qs('task1-title').value = t1.title || '';
     if (t1.dueDate) qs('due1').textContent = `Due ${fmtDate(t1.dueDate)}`;
-
     if (t2) {
       qs('task2-title').value = t2.title || '';
       if (t2.dueDate) qs('due2').textContent = `Due ${fmtDate(t2.dueDate)}`;
@@ -338,21 +274,22 @@
     }
   }
 
-  // ── Submit ──
   async function handleSubmit() {
     const hasTwoTasks = qs('group-task2').style.display !== 'none';
-    const prog1   = qs('picker1').dataset.value;
-    const prog2   = hasTwoTasks ? qs('picker2').dataset.value : null;
+    const prog1 = qs('picker1').dataset.value;
+    const prog2 = hasTwoTasks ? qs('picker2').dataset.value : null;
+    const time1 = qs('time-select1').value;
+    const time2 = hasTwoTasks ? qs('time-select2').value : null;
     const message = qs('message').value.trim();
 
     if (!prog1) { highlightPicker('picker1'); return; }
     if (hasTwoTasks && !prog2) { highlightPicker('picker2'); return; }
 
     const btn = qs('submit-btn');
-    btn.disabled    = true;
+    btn.disabled = true;
     btn.textContent = 'Đang gửi...';
 
-    const today  = new Date().toISOString().split('T')[0];
+    const today = new Date().toISOString().split('T')[0];
     const userId = uid();
 
     const payload = {
@@ -360,8 +297,8 @@
       submittedAt: new Date().toISOString(),
       date: today,
       tasks: [
-        { taskId: window._myTasks[0]?.taskId, title: window._myTasks[0]?.title, progress: prog1 + '%' },
-        ...(hasTwoTasks ? [{ taskId: window._myTasks[1]?.taskId, title: window._myTasks[1]?.title, progress: prog2 + '%' }] : [])
+        { taskId: window._myTasks[0]?.taskId, title: window._myTasks[0]?.title, progress: prog1 + '%', timeSpent: time1 ? time1 + 'h' : '—' },
+        ...(hasTwoTasks ? [{ taskId: window._myTasks[1]?.taskId, title: window._myTasks[1]?.title, progress: prog2 + '%', timeSpent: time2 ? time2 + 'h' : '—' }] : [])
       ],
       message,
     };
@@ -370,20 +307,18 @@
       await writeToGitHub(today, userId, payload);
       showState('success');
     } catch (err) {
-      btn.disabled    = false;
+      btn.disabled = false;
       btn.textContent = 'Submit';
       alert(`❌ Gửi thất bại: ${err.message}`);
     }
   }
 
-  // ── Gọi Cloudflare Worker (PAT ẩn trong Worker, không bao giờ ra browser) ──
   async function writeToGitHub(date, userId, payload) {
     const res = await fetch(WORKER_URL, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(payload)
     });
-
     if (!res.ok) {
       const err = await res.json();
       throw new Error(err.error || `Worker error ${res.status}`);
@@ -396,7 +331,6 @@
     el.addEventListener('animationend', () => el.classList.remove('picker-error'), { once: true });
   }
 
-  // ── Init ──
   async function init() {
     const userId = uid();
     if (!userId) {
