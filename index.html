@@ -94,6 +94,23 @@
               </div>
             </div>
 
+            <!-- TIME TASK 1 -->
+            <div class="field-group">
+              <label class="field-label">Task 1 — Thời gian thực hiện</label>
+              <div class="time-picker" id="time-picker1" data-value="">
+                <button class="time-btn" data-val="0.5">0.5h</button>
+                <button class="time-btn" data-val="1">1h</button>
+                <button class="time-btn" data-val="1.5">1.5h</button>
+                <button class="time-btn" data-val="2">2h</button>
+                <button class="time-btn" data-val="2.5">2.5h</button>
+                <button class="time-btn" data-val="3">3h</button>
+                <button class="time-btn" data-val="3.5">3.5h</button>
+                <button class="time-btn" data-val="4">4h</button>
+                <button class="time-btn" data-val="4.5">4.5h</button>
+                <button class="time-btn" data-val="5+">5h+</button>
+              </div>
+            </div>
+
             <!-- TASK 2 (ẩn nếu chỉ có 1 task) -->
             <div class="field-group" id="group-task2" style="display:none;">
               <label class="field-label">
@@ -125,11 +142,28 @@
               </div>
             </div>
 
+            <!-- TIME TASK 2 -->
+            <div class="field-group" id="group-time2" style="display:none;">
+              <label class="field-label">Task 2 — Thời gian thực hiện</label>
+              <div class="time-picker" id="time-picker2" data-value="">
+                <button class="time-btn" data-val="0.5">0.5h</button>
+                <button class="time-btn" data-val="1">1h</button>
+                <button class="time-btn" data-val="1.5">1.5h</button>
+                <button class="time-btn" data-val="2">2h</button>
+                <button class="time-btn" data-val="2.5">2.5h</button>
+                <button class="time-btn" data-val="3">3h</button>
+                <button class="time-btn" data-val="3.5">3.5h</button>
+                <button class="time-btn" data-val="4">4h</button>
+                <button class="time-btn" data-val="4.5">4.5h</button>
+                <button class="time-btn" data-val="5+">5h+</button>
+              </div>
+            </div>
+
             <!-- MESSAGE -->
             <div class="field-group">
-              <label class="field-label">Cần bọn chị hỗ trợ gì hem ?</label>
+              <label class="field-label">Hôm nay có task nào phát sinh không ?</label>
               <textarea class="field-textarea" id="message"
-                placeholder="Cần support ở task nào cứ nhắn nha"></textarea>
+                placeholder="Nhập task phát sinh nếu có nhé..."></textarea>
             </div>
 
             <button class="submit-btn" id="submit-btn" type="button">
@@ -207,6 +241,21 @@
   initPicker('picker1', 'fill1', 'label1');
   initPicker('picker2', 'fill2', 'label2');
 
+  // ── Time picker logic ──
+  function initTimePicker(pickerId) {
+    const picker = qs(pickerId);
+    picker.querySelectorAll('.time-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        picker.querySelectorAll('.time-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        picker.dataset.value = btn.dataset.val;
+      });
+    });
+  }
+
+  initTimePicker('time-picker1');
+  initTimePicker('time-picker2');
+
   // ── States ──
   function showState(name) {
     ['loading','error','success','form'].forEach(s => {
@@ -283,6 +332,7 @@
       if (t2.dueDate) qs('due2').textContent = `Due ${fmtDate(t2.dueDate)}`;
       qs('group-task2').style.display = 'flex';
       qs('group-prog2').style.display = 'flex';
+      qs('group-time2').style.display = 'flex';
     }
   }
 
