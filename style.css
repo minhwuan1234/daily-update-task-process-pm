@@ -171,6 +171,9 @@ body {
   display: inline-block;
 }
 
+.gap-8 {
+ gap: 8px;
+}
 .spark {
   font-size: 22px;
   color: var(--orange);
