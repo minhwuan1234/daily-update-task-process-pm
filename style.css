@@ -704,12 +704,12 @@ body {
 .time-btn {
   flex: 1;
   min-width: calc(10% - 6px);
-  padding: 7px 4px;
+  padding: 8px 4px;
   background: #f0ebe3;
   border: 1.5px solid #e0d8ce;
   border-radius: 6px;
   font-family: 'Rethink Sans', sans-serif;
-  font-size: 11px;
+  font-size: 12px;
   font-weight: 600;
   color: #999;
   cursor: pointer;
@@ -718,16 +718,16 @@ body {
 }
 
 .time-btn:hover {
-  background: #e8f4f0;
-  border-color: #4caf50;
-  color: #388e3c;
+  background: #ffe8cc;
+  border-color: var(--orange);
+  color: var(--orange-dark);
   transform: translateY(-1px);
 }
 
 .time-btn.active {
-  background: #4caf50;
-  border-color: #388e3c;
+  background: var(--orange);
+  border-color: var(--orange-dark);
   color: #fff;
   transform: translateY(-2px);
-  box-shadow: 0 3px 10px rgba(76, 175, 80, 0.3);
+  box-shadow: 0 3px 10px rgba(255, 147, 51, 0.35);
 }
