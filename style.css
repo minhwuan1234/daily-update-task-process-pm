@@ -87,13 +87,11 @@ body {
   to   { transform: scale(1); }
 }
 
-/* Blur layer đè lên GIF */
+/* Overlay tối nhẹ */
 .hero-blur {
   position: absolute;
   inset: 0;
-  backdrop-filter: blur(6px);
-  -webkit-backdrop-filter: blur(6px);
-  background: rgba(0, 0, 0, 0.15);
+  background: rgba(0, 0, 0, 0.25);
 }
 
 /* Gradient overlay để quote dễ đọc */
@@ -130,7 +128,7 @@ body {
 
 .quote-text {
   font-family: 'Freeman', sans-serif;
-  font-size: 20px;
+  font-size: 28px;
   color: white;
   line-height: 1.5;
 }
