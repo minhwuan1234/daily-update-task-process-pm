@@ -2,17 +2,17 @@
   "date": "2026-05-04",
   "responses": [
     {
-      "userId": "ou_e273fec35061a42660190f8c70f19882",
-      "submittedAt": "2026-05-04T02:28:40.804Z",
       "date": "2026-05-04",
+      "message": "đang đợi khách chốt những cái cần feedback",
+      "submittedAt": "2026-05-04T02:28:40.804Z",
       "tasks": [
         {
+          "progress": "10%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "title": "ELX anim fixing (v2)",
-          "progress": "10%"
+          "title": "ELX anim fixing (v2)"
         }
       ],
-      "message": "đang đợi khách chốt những cái cần feedback"
+      "userId": "ou_e273fec35061a42660190f8c70f19882"
     }
   ]
 }
