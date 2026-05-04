@@ -29,7 +29,7 @@
 body {
   font-family: 'Rethink Sans', sans-serif;
   background: #1a1a2e;
-  max-height: 100vh;
+  min-height: 100vh;
   margin: 0;
   padding: 0;
 }
@@ -39,7 +39,7 @@ body {
    ============================================= */
 .page-wrapper {
   width: 100vw;
-  max-height: 100vh;
+  min-height: 100vh;
   display: flex;
 
   animation: fadeSlideUp 0.6s var(--ease-out) both;
@@ -56,7 +56,7 @@ body {
 .card {
   display: flex;
   width: 100%;
-  max-height: 100vh;
+  min-height: 100vh;
   overflow: hidden;
   background: var(--bg-cream);
 }
@@ -87,20 +87,29 @@ body {
   to   { transform: scale(1); }
 }
 
+/* Blur layer đè lên GIF */
+.hero-blur {
+  position: absolute;
+  inset: 0;
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  background: rgba(0, 0, 0, 0.15);
+}
+
 /* Gradient overlay để quote dễ đọc */
 .quote-overlay {
   position: absolute;
   inset: 0;
   background: linear-gradient(
-    to top,
-    rgba(0,0,0,0.65) 20%,
-    rgba(0,0,0,0.3) 40%,
-    rgba(0,0,0,0) 60%
+    to bottom,
+    rgba(0,0,0,0.05) 0%,
+    rgba(0,0,0,0.55) 45%,
+    rgba(0,0,0,0.72) 100%
   );
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
-  padding: 80px 40px;
+  padding: 32px 28px;
 
   animation: fadeIn 0.8s 0.3s var(--ease-out) both;
 }
@@ -117,18 +126,11 @@ body {
   line-height: 1;
   margin-bottom: 8px;
   display: block;
-  width: fit-content;
-  align-self: flex-start;
-
-  /* clip whitespace thừa của font */
-  display: inline-flex;
-  align-items: center;
-  height: 0.5em;        /* ← ép đúng height chữ thực */
 }
 
 .quote-text {
   font-family: 'Freeman', sans-serif;
-  font-size: 28px;
+  font-size: 20px;
   color: white;
   line-height: 1.5;
 }
@@ -139,7 +141,7 @@ body {
 .right-panel {
   flex: 1;
   background: var(--bg-cream);
-  padding: 56px 56px;
+  padding: 52px 64px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -164,17 +166,11 @@ body {
 
 .form-title {
   font-family: 'Freeman', sans-serif;
-  font-size: 48px;
-  font-weight: 500;
+  font-size: 42px;
+  font-weight: 400;
   color: var(--text-dark);
   position: relative;
   display: inline-block;
-}
-
-.gap-8 {
-    display: flex;
-    flex-direction: column;
-    gap: 8px; 
 }
 
 .spark {
@@ -182,6 +178,7 @@ body {
   color: var(--orange);
   position: absolute;
   top: -4px;
+  right: -20px;
 
   animation: sparkPulse 2s ease-in-out infinite;
 }
@@ -213,7 +210,7 @@ body {
 .form-body {
   display: flex;
   flex-direction: column;
-  gap: 24px;
+  gap: 16px;
   animation: fadeSlideUp 0.5s 0.25s var(--ease-out) both;
 }
 
@@ -223,7 +220,7 @@ body {
 .field-group {
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 7px;
 }
 
 .field-label {
@@ -231,8 +228,6 @@ body {
   font-weight: 600;
   color: var(--text-label);
   letter-spacing: 0.01em;
-  display: flex;        /* ← thêm */
-  align-items: center;  /* ← thêm */
 }
 
 /* Shared input styles */
@@ -378,7 +373,7 @@ body {
   }
 
   .quote-text {
-    font-size: 28px;
+    font-size: 16px;
   }
 
   .right-panel {
@@ -388,7 +383,7 @@ body {
   }
 
   .form-title {
-    font-size: 36px;
+    font-size: 34px;
   }
 }
 
@@ -401,7 +396,7 @@ body {
   }
 
   .quote-text {
-    font-size: 28px;
+    font-size: 14px;
   }
 
   .quote-mark {
@@ -695,5 +690,44 @@ body {
   background: var(--orange);
   padding: 1px 8px;
   border-radius: 20px;
-  /* bỏ margin-left: 8px */
+  margin-left: 8px;
+  vertical-align: middle;
+}
+
+/* ── Time Picker ── */
+.time-picker {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.time-btn {
+  flex: 1;
+  min-width: calc(10% - 6px);
+  padding: 7px 4px;
+  background: #f0ebe3;
+  border: 1.5px solid #e0d8ce;
+  border-radius: 6px;
+  font-family: 'Rethink Sans', sans-serif;
+  font-size: 11px;
+  font-weight: 600;
+  color: #999;
+  cursor: pointer;
+  transition: all 140ms ease;
+  text-align: center;
+}
+
+.time-btn:hover {
+  background: #e8f4f0;
+  border-color: #4caf50;
+  color: #388e3c;
+  transform: translateY(-1px);
+}
+
+.time-btn.active {
+  background: #4caf50;
+  border-color: #388e3c;
+  color: #fff;
+  transform: translateY(-2px);
+  box-shadow: 0 3px 10px rgba(76, 175, 80, 0.3);
 }
