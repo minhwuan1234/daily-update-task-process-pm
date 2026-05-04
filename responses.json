@@ -16,7 +16,7 @@
     },
     {
       "date": "2026-05-04",
-      "message": "MÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂi ngÃÂÃÂÃÂÃÂ°ÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂi push team product ÃÂÃÂÃÂÃÂiÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂn dailystandup hÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ e nhÃÂÃÂÃÂÃÂ© =))",
+      "message": "MÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ»ÃÂÃÂÃÂÃÂi ngÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ»ÃÂÃÂÃÂÃÂi push team product ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂiÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ»ÃÂÃÂÃÂÃÂn dailystandup hÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ»ÃÂÃÂÃÂÃÂ e nhÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© =))",
       "submittedAt": "2026-05-04T02:58:26.738Z",
       "tasks": [
         {
@@ -28,17 +28,17 @@
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     },
     {
+      "userId": "ou_717eedeefe94e9824fbd72716d7eb234",
+      "submittedAt": "2026-05-04T04:52:31.066Z",
       "date": "2026-05-04",
-      "message": "ok",
-      "submittedAt": "2026-05-04T03:39:37.026Z",
       "tasks": [
         {
-          "progress": "60%",
           "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
-          "title": "North Carolina Museum Video 11 - 2 min (2)"
+          "title": "North Carolina Museum Video 11 - 2 min (2)",
+          "progress": "10%"
         }
       ],
-      "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
+      "message": "cái phần này e đang ko biết work với mấy cái map ngta cung cấp ra sao \"The British arrived off Tybee Island, near the port of Savannah on December 23 and within a few days maneuvered into position to take Savannah—\""
     },
     {
       "date": "2026-05-04",
