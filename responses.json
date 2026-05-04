@@ -16,7 +16,7 @@
     },
     {
       "date": "2026-05-04",
-      "message": "MÃÂ¡ÃÂ»ÃÂi ngÃÂÃÂ°ÃÂ¡ÃÂ»ÃÂi push team product ÃÂÃÂiÃÂ¡ÃÂ»ÃÂn dailystandup hÃÂ¡ÃÂ»ÃÂ e nhÃÂÃÂ© =))",
+      "message": "MÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂi ngÃÂÃÂÃÂÃÂ°ÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂi push team product ÃÂÃÂÃÂÃÂiÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂn dailystandup hÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ e nhÃÂÃÂÃÂÃÂ© =))",
       "submittedAt": "2026-05-04T02:58:26.738Z",
       "tasks": [
         {
@@ -39,6 +39,19 @@
         }
       ],
       "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
+    },
+    {
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-05-04T04:15:40.268Z",
+      "date": "2026-05-04",
+      "tasks": [
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "HOME - Concept Art fix #2",
+          "progress": "100%"
+        }
+      ],
+      "message": "Cius"
     }
   ]
 }
