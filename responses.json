@@ -16,7 +16,7 @@
     },
     {
       "date": "2026-05-04",
-      "message": "MÃ¡Â»Âi ngÃÂ°Ã¡Â»Âi push team product ÃÂiÃ¡Â»Ân dailystandup hÃ¡Â»Â e nhÃÂ© =))",
+      "message": "MÃÂ¡ÃÂ»ÃÂi ngÃÂÃÂ°ÃÂ¡ÃÂ»ÃÂi push team product ÃÂÃÂiÃÂ¡ÃÂ»ÃÂn dailystandup hÃÂ¡ÃÂ»ÃÂ e nhÃÂÃÂ© =))",
       "submittedAt": "2026-05-04T02:58:26.738Z",
       "tasks": [
         {
@@ -28,17 +28,17 @@
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     },
     {
+      "userId": "ou_717eedeefe94e9824fbd72716d7eb234",
+      "submittedAt": "2026-05-04T03:39:37.026Z",
       "date": "2026-05-04",
-      "message": "OK",
-      "submittedAt": "2026-05-04T03:13:29.450Z",
       "tasks": [
         {
-          "progress": "40%",
           "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
-          "title": "North Carolina Museum Video 11 - 2 min (2)"
+          "title": "North Carolina Museum Video 11 - 2 min (2)",
+          "progress": "60%"
         }
       ],
-      "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
+      "message": "ok"
     }
   ]
 }
