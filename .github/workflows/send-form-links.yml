@@ -143,47 +143,33 @@ jobs:
               "ou_a3cd717fbf6c8058d12c76c980f52eb7",  # Minh Quân
           ]
 
+          # ── TEST MODE: chỉ gửi cho Minh Quân ──
+          TEST_OPEN_ID = "ou_a3cd717fbf6c8058d12c76c980f52eb7"
+
           results = []
           for member in daily.get("members", []):
               name  = member.get("member", "")
               tasks = member.get("tasks", [])
-
               if not tasks:
-                  print(f"  ⚠️ {name}: no tasks, skipping")
                   continue
 
               open_id = members_map.get(name)
               if not open_id:
-                  print(f"  ⚠️ {name}: không tìm thấy userId trong members.json")
+                  print(f"  ⚠️ {name}: không tìm thấy userId")
                   continue
 
-              print(f"Processing: {name} → {open_id}")
+              print(f"[TEST] Sending {name}'s card to Minh Quân")
               card = build_card(open_id, tasks)
-
-              # Gửi cho member
-              res = lark_post(
+              res  = lark_post(
                   "https://open.larksuite.com/open-apis/im/v1/messages?receive_id_type=open_id",
-                  {"receive_id": open_id, "msg_type": "interactive", "content": json.dumps(card)}
+                  {"receive_id": TEST_OPEN_ID, "msg_type": "interactive", "content": json.dumps(card)}
               )
               if res.get("code") == 0:
-                  print(f"  ✅ Sent to {name}")
+                  print(f"  ✅ Sent {name}'s card to Minh Quân")
               else:
-                  print(f"  ❌ Failed {name}: {res.get('msg')} (code {res.get('code')})")
-              results.append({"name": name, "openId": open_id, "success": res.get("code") == 0})
-
-              # Gửi bản copy cho tất cả PM
-              for pm_id in PM_RECEIVERS:
-                  if pm_id != open_id:
-                      pm_name = members_map.get(pm_id, pm_id)
-                      res2 = lark_post(
-                          "https://open.larksuite.com/open-apis/im/v1/messages?receive_id_type=open_id",
-                          {"receive_id": pm_id, "msg_type": "interactive", "content": json.dumps(card)}
-                      )
-                      if res2.get("code") == 0:
-                          print(f"  ✅ Copy sent to {pm_name}")
-                      else:
-                          print(f"  ❌ Copy failed {pm_name}: {res2.get('msg')}")
+                  print(f"  ❌ Failed: {res.get('msg')}")
+              results.append({"name": name, "success": res.get("code") == 0})
 
           success = sum(1 for r in results if r["success"])
-          print(f"\n📊 Done: {success}/{len(results)} DMs sent")
+          print(f"\n📊 [TEST] Done: {success}/{len(results)} cards sent to Minh Quân")
           EOF
