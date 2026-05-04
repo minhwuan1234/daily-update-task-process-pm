@@ -188,10 +188,16 @@ jobs:
               ]
           }
 
-          MY_OPEN_ID = 'ou_a3cd717fbf6c8058d12c76c980f52eb7'
-          receivers  = list({PM_OPEN_ID, MY_OPEN_ID})  # dùng set để tránh gửi 2 lần nếu trùng
+          # Danh sách tất cả PM nhận báo cáo
+          PM_RECEIVERS = [
+              'ou_7efb0c22f47740644cf374252d01fdba',  # Ánh
+              'ou_f56b91faf68ec98016490c56aac3daf2',  # Hà
+              'ou_e7ba57d42ce06163819095c8ed4685ab',  # Giang
+              'ou_a3cd717fbf6c8058d12c76c980f52eb7',  # Minh Quân
+          ]
 
-          for receiver in receivers:
+          for receiver in PM_RECEIVERS:
+              receiver_name = id_to_name.get(receiver, receiver)
               res = lark_post(
                   'https://open.larksuite.com/open-apis/im/v1/messages?receive_id_type=open_id',
                   {
@@ -200,10 +206,9 @@ jobs:
                       'content':    json.dumps(card)
                   }
               )
-              label = 'PM' if receiver == PM_OPEN_ID else 'Minh Quân'
               if res.get('code') == 0:
-                  print(f'✅ Sent to {label} ({receiver})')
+                  print(f'✅ Sent to {receiver_name}')
               else:
-                  print(f'❌ Failed {label}: {res.get("msg")}')
+                  print(f'❌ Failed {receiver_name}: {res.get("msg")}')
 
           EOF
