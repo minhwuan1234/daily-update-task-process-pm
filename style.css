@@ -91,7 +91,7 @@ body {
 .hero-blur {
   position: absolute;
   inset: 0;
-  background: rgba(0, 0, 0, 0.25);
+  background: rgba(0, 0, 0, 0.12);
 }
 
 /* Gradient overlay để quote dễ đọc */
@@ -218,7 +218,7 @@ body {
 .field-group {
   display: flex;
   flex-direction: column;
-  gap: 7px;
+  gap: 10px;
 }
 
 .field-label {
@@ -226,6 +226,7 @@ body {
   font-weight: 600;
   color: var(--text-label);
   letter-spacing: 0.01em;
+  align-items: center; 
 }
 
 /* Shared input styles */
