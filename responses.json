@@ -2,21 +2,21 @@
   "date": "2026-05-04",
   "responses": [
     {
+      "userId": "ou_e273fec35061a42660190f8c70f19882",
+      "submittedAt": "2026-05-04T03:10:11.135Z",
       "date": "2026-05-04",
-      "message": "Äang Äá»£i khÃ¡ch chá»t nhá»¯ng cÃ¡i cáº§n feedback",
-      "submittedAt": "2026-05-04T02:28:40.804Z",
       "tasks": [
         {
-          "progress": "10%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "title": "ELX anim fixing (v2)"
+          "title": "ELX anim fixing (v2)",
+          "progress": "50%"
         }
       ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
+      "message": "Update"
     },
     {
       "date": "2026-05-04",
-      "message": "Mọi người push team product điền dailystandup hộ e nhé =))",
+      "message": "Má»i ngÆ°á»i push team product Äiá»n dailystandup há» e nhÃ© =))",
       "submittedAt": "2026-05-04T02:58:26.738Z",
       "tasks": [
         {
