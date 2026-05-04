@@ -136,7 +136,12 @@ jobs:
                   ]
               }
 
-          MY_OPEN_ID = "ou_a3cd717fbf6c8058d12c76c980f52eb7"
+          PM_RECEIVERS = [
+              "ou_7efb0c22f47740644cf374252d01fdba",  # Ánh
+              "ou_f56b91faf68ec98016490c56aac3daf2",  # Hà
+              "ou_e7ba57d42ce06163819095c8ed4685ab",  # Giang
+              "ou_a3cd717fbf6c8058d12c76c980f52eb7",  # Minh Quân
+          ]
 
           results = []
           for member in daily.get("members", []):
@@ -166,16 +171,18 @@ jobs:
                   print(f"  ❌ Failed {name}: {res.get('msg')} (code {res.get('code')})")
               results.append({"name": name, "openId": open_id, "success": res.get("code") == 0})
 
-              # Gửi bản copy cho Minh Quân (nếu không phải chính mình)
-              if open_id != MY_OPEN_ID:
-                  res2 = lark_post(
-                      "https://open.larksuite.com/open-apis/im/v1/messages?receive_id_type=open_id",
-                      {"receive_id": MY_OPEN_ID, "msg_type": "interactive", "content": json.dumps(card)}
-                  )
-                  if res2.get("code") == 0:
-                      print(f"  ✅ Copy sent to Minh Quân")
-                  else:
-                      print(f"  ❌ Copy failed: {res2.get('msg')}")
+              # Gửi bản copy cho tất cả PM
+              for pm_id in PM_RECEIVERS:
+                  if pm_id != open_id:
+                      pm_name = members_map.get(pm_id, pm_id)
+                      res2 = lark_post(
+                          "https://open.larksuite.com/open-apis/im/v1/messages?receive_id_type=open_id",
+                          {"receive_id": pm_id, "msg_type": "interactive", "content": json.dumps(card)}
+                      )
+                      if res2.get("code") == 0:
+                          print(f"  ✅ Copy sent to {pm_name}")
+                      else:
+                          print(f"  ❌ Copy failed {pm_name}: {res2.get('msg')}")
 
           success = sum(1 for r in results if r["success"])
           print(f"\n📊 Done: {success}/{len(results)} DMs sent")
