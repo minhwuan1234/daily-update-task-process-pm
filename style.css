@@ -243,6 +243,7 @@ body {
   font-weight: 500;
   color: var( --text-dark);
   outline: none;
+  align-item: center;
 
   transition:
     border-color var(--duration-fast) ease,
