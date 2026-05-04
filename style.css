@@ -208,7 +208,7 @@ body {
 .form-body {
   display: flex;
   flex-direction: column;
-  gap: 16px;
+  gap: 24px;
   animation: fadeSlideUp 0.5s 0.25s var(--ease-out) both;
 }
 
@@ -239,9 +239,9 @@ body {
   border: 1px solid var(--border);
   border-radius: var(--radius-sm);
   font-family: 'Rethink Sans', sans-serif;
-  font-size: 15px;
+  font-size: 13px;
   font-weight: 500;
-  color: var(--orange-text);
+  color: var( --text-dark);
   outline: none;
 
   transition:
