@@ -1,31 +1,18 @@
 {
-  "date": "2026-05-02",
+  "date": "2026-05-04",
   "responses": [
     {
-      "date": "2026-05-02",
-      "message": "KO áº ",
-      "submittedAt": "2026-05-02T09:03:18.602Z",
+      "userId": "ou_e273fec35061a42660190f8c70f19882",
+      "submittedAt": "2026-05-04T02:28:40.804Z",
+      "date": "2026-05-04",
       "tasks": [
         {
-          "progress": "50%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "HOME - Concept Art fix #2"
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
+          "title": "ELX anim fixing (v2)",
+          "progress": "10%"
         }
       ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-05-02",
-      "message": "ko ạ",
-      "submittedAt": "2026-05-02T09:07:52.341Z",
-      "tasks": [
-        {
-          "progress": "80%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "title": "SmoothKP: Video 1 ~1.5mins (1.5)"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+      "message": "đang đợi khách chốt những cái cần feedback"
     }
   ]
 }
