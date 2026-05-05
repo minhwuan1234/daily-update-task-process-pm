@@ -1,57 +1,25 @@
 {
-  "date": "2026-05-04",
+  "date": "2026-05-05",
   "responses": [
     {
-      "date": "2026-05-04",
-      "message": "Update",
-      "submittedAt": "2026-05-04T03:10:11.135Z",
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-05-05T10:38:06.091Z",
+      "date": "2026-05-05",
       "tasks": [
         {
-          "progress": "50%",
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "title": "ELX anim fixing (v2)"
-        }
-      ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
-    },
-    {
-      "date": "2026-05-04",
-      "message": "MÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ»ÃÂÃÂÃÂÃÂi ngÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ»ÃÂÃÂÃÂÃÂi push team product ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂiÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ»ÃÂÃÂÃÂÃÂn dailystandup hÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ»ÃÂÃÂÃÂÃÂ e nhÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© =))",
-      "submittedAt": "2026-05-04T02:58:26.738Z",
-      "tasks": [
-        {
-          "progress": "10%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "title": "SmoothKP: Video 1 ~1.5mins (1.5)"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-05-04",
-      "message": "cái phần này e đang ko biết work với mấy cái map ngta cung cấp ra sao \"The British arrived off Tybee Island, near the port of Savannah on December 23 and within a few days maneuvered into position to take Savannah—\"",
-      "submittedAt": "2026-05-04T04:52:31.066Z",
-      "tasks": [
-        {
-          "progress": "10%",
-          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
-          "title": "North Carolina Museum Video 11 - 2 min (2)"
-        }
-      ],
-      "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
-    },
-    {
-      "date": "2026-05-04",
-      "message": "Cius",
-      "submittedAt": "2026-05-04T04:15:40.268Z",
-      "tasks": [
-        {
-          "progress": "100%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "HOME - Concept Art fix #2"
+          "title": "SN Flashcard: 10 cards (2.5)",
+          "progress": "0%",
+          "timeSpent": "—"
+        },
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
+          "title": "SN Flashcard: Card 8,9,10",
+          "progress": "100%",
+          "timeSpent": "8h"
         }
       ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+      "message": "Có feedback của SN nhưng chưa kịp sửa gì, tối về sửa"
     }
   ]
 }
