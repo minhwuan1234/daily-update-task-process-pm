@@ -2,24 +2,24 @@
   "date": "2026-05-05",
   "responses": [
     {
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-05-05T10:38:06.091Z",
       "date": "2026-05-05",
+      "message": "Có feedback của SN nhưng chưa kịp sửa gì, tối về sửa",
+      "submittedAt": "2026-05-05T10:38:06.091Z",
       "tasks": [
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "SN Flashcard: 10 cards (2.5)",
           "progress": "0%",
-          "timeSpent": "—"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "timeSpent": "—",
+          "title": "SN Flashcard: 10 cards (2.5)"
         },
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
-          "title": "SN Flashcard: Card 8,9,10",
           "progress": "100%",
-          "timeSpent": "8h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
+          "timeSpent": "8h",
+          "title": "SN Flashcard: Card 8,9,10"
         }
       ],
-      "message": "Có feedback của SN nhưng chưa kịp sửa gì, tối về sửa"
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     }
   ]
 }
