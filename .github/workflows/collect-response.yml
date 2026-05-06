@@ -136,25 +136,27 @@ jobs:
           # Build task elements với hr giữa các task
           task_elements = []
           for i, t in enumerate(tasks):
-              progress = t.get('progress', '—')
-              title    = t.get('title', '')
+              progress   = t.get('progress', '—')
+              title      = t.get('title', '')
+              time_spent = t.get('timeSpent', '')
+              time_line  = f'\n  ⏱️ Thời gian: {time_spent}' if time_spent and time_spent != '—' else ''
               task_elements.append({
                   'tag': 'div',
                   'text': {
                       'tag':     'lark_md',
-                      'content': f'**{title}**\n  📈 Progress: {progress}'
+                      'content': f'**{title}**\n  📈 Progress: {progress}{time_line}'
                   }
               })
               if i < len(tasks) - 1:
                   task_elements.append({'tag': 'hr'})
 
-          if message:
+          if message and message.strip() not in ('', '.'):
               task_elements.append({'tag': 'hr'})
               task_elements.append({
                   'tag': 'div',
                   'text': {
                       'tag':     'lark_md',
-                      'content': f'🗒️ Comment: _{message}_'
+                      'content': f'🆕 Task phát sinh: _{message}_'
                   }
               })
 
