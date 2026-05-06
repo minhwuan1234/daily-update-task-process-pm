@@ -2,24 +2,24 @@
   "date": "2026-05-06",
   "responses": [
     {
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
-      "submittedAt": "2026-05-06T10:44:39.083Z",
       "date": "2026-05-06",
+      "message": "Sửa Bảo tàng video 6 (1h)",
+      "submittedAt": "2026-05-06T10:44:39.083Z",
       "tasks": [
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "title": "SmoothKP: Video 1 ~1.5mins",
           "progress": "100%",
-          "timeSpent": "4h"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "timeSpent": "4h",
+          "title": "SmoothKP: Video 1 ~1.5mins"
         },
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
-          "title": "North Carolina Museum Video 8 - 2.5 min (2)",
           "progress": "20%",
-          "timeSpent": "3h"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
+          "timeSpent": "3h",
+          "title": "North Carolina Museum Video 8 - 2.5 min (2)"
         }
       ],
-      "message": "Sửa Bảo tàng video 6 (1h)"
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     },
     {
       "date": "2026-05-06",
