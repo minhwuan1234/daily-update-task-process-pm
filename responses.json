@@ -2,24 +2,24 @@
   "date": "2026-05-06",
   "responses": [
     {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-05-06T10:44:39.083Z",
       "date": "2026-05-06",
-      "message": ".",
-      "submittedAt": "2026-05-06T04:32:01.952Z",
       "tasks": [
         {
-          "progress": "100%",
           "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "2.5h",
-          "title": "SmoothKP: Video 1 ~1.5mins (1.5)"
+          "title": "SmoothKP: Video 1 ~1.5mins",
+          "progress": "100%",
+          "timeSpent": "4h"
         },
         {
-          "progress": "100%",
           "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
-          "timeSpent": "3h",
-          "title": "North Carolina Museum Video 6 - 1 min (1)"
+          "title": "North Carolina Museum Video 8 - 2.5 min (2)",
+          "progress": "20%",
+          "timeSpent": "3h"
         }
       ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+      "message": "Sửa Bảo tàng video 6 (1h)"
     },
     {
       "date": "2026-05-06",
@@ -29,8 +29,8 @@
         {
           "progress": "60%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "—",
-          "title": "SN Priority: 9. Cushing’s Syndrome (NCLEX Testable Points) 11 min (3)"
+          "timeSpent": "â",
+          "title": "SN Priority: 9. Cushingâs Syndrome (NCLEX Testable Points) 11 min (3)"
         }
       ],
       "userId": "ou_e273fec35061a42660190f8c70f19882"
