@@ -44,24 +44,24 @@
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     },
     {
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-05-07T11:35:24.684Z",
       "date": "2026-05-07",
+      "message": "Nô",
+      "submittedAt": "2026-05-07T11:35:24.684Z",
       "tasks": [
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "HOME - Concept Art fix #2",
           "progress": "100%",
-          "timeSpent": "1h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "timeSpent": "1h",
+          "title": "HOME - Concept Art fix #2"
         },
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
-          "title": "SN Flashcard: 8 cards - 12 13 14 15 16 17 18 28",
           "progress": "40%",
-          "timeSpent": "7h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
+          "timeSpent": "7h",
+          "title": "SN Flashcard: 8 cards - 12 13 14 15 16 17 18 28"
         }
       ],
-      "message": "Nô"
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     }
   ]
 }
