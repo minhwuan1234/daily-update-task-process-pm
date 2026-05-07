@@ -2,18 +2,18 @@
   "date": "2026-05-07",
   "responses": [
     {
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-05-07T10:57:27.753Z",
       "date": "2026-05-07",
-      "message": "dÃ¡ÂºÂ¡ hong",
-      "submittedAt": "2026-05-07T08:21:37.247Z",
       "tasks": [
         {
-          "progress": "90%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "8h",
-          "title": "SN Flashcard: 10 cards - 19 20 21 22 23 24 25 26 27 34"
+          "title": "SN Flashcard: 10 cards - 19 20 21 22 23 24 25 26 27 34",
+          "progress": "90%",
+          "timeSpent": "8h"
         }
       ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+      "message": "35p cuối giờ ngồi review SN 11. cho freelance"
     },
     {
       "date": "2026-05-07",
@@ -23,7 +23,7 @@
         {
           "progress": "40%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "â",
+          "timeSpent": "Ã¢ÂÂ",
           "title": "ELX anim fixing (v2) (1)"
         }
       ],
@@ -31,7 +31,7 @@
     },
     {
       "date": "2026-05-07",
-      "message": "Sửa SmoothKP Video 1 (1.5h)",
+      "message": "Sá»­a SmoothKP Video 1 (1.5h)",
       "submittedAt": "2026-05-07T10:55:30.949Z",
       "tasks": [
         {
