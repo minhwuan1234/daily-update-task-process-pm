@@ -16,24 +16,24 @@
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     },
     {
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
-      "submittedAt": "2026-05-08T10:53:25.243Z",
       "date": "2026-05-08",
+      "message": "Sửa SmoothKP Video 1 (5h)",
+      "submittedAt": "2026-05-08T10:53:25.243Z",
       "tasks": [
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "title": "CSL ICH Coping withgrief and anticipatory loss fix (1h)",
           "progress": "100%",
-          "timeSpent": "—"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "timeSpent": "—",
+          "title": "CSL ICH Coping withgrief and anticipatory loss fix (1h)"
         },
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
-          "title": "North Carolina Museum Video 8 - 2.5 min (2)",
           "progress": "90%",
-          "timeSpent": "3h"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
+          "timeSpent": "3h",
+          "title": "North Carolina Museum Video 8 - 2.5 min (2)"
         }
       ],
-      "message": "Sửa SmoothKP Video 1 (5h)"
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     }
   ]
 }
