@@ -1,14 +1,14 @@
 {
-  "date": "7-May",
-  "generatedAt": "2026-05-07T10:45:49.974Z",
+  "date": "8-May",
+  "generatedAt": "2026-05-08T10:45:14.845Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "7-May",
-          "dueDate": "8/5",
-          "task": "SN Flashcard: 10 cards - 19 20 21 22 23 24 25 26 27 34"
+          "date": "8-May",
+          "dueDate": "15/5",
+          "task": "SN Priority: 12.DKA vs HHS: How to Tell the Difference on the NCLEX - 5min (1.5)"
         }
       ]
     },
@@ -16,12 +16,7 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "7-May",
-          "dueDate": "8/5",
-          "task": "HOME - Concept Art fix #2"
-        },
-        {
-          "date": "7-May",
+          "date": "8-May",
           "dueDate": "8/5",
           "task": "SN Flashcard: 8 cards - 12 13 14 15 16 17 18 28"
         }
@@ -31,14 +26,9 @@
       "member": "Vân",
       "tasks": [
         {
-          "date": "7-May",
+          "date": "8-May",
           "dueDate": "8/5",
-          "task": "SN Flashcard: 3 cards (2) 29 30 31"
-        },
-        {
-          "date": "7-May",
-          "dueDate": null,
-          "task": "Off 0.5"
+          "task": "SN Flashcard: 3 cards (2) 29 30 31 -- chờ trim content -> 56 57"
         }
       ]
     },
@@ -46,9 +36,9 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "7-May",
-          "dueDate": "5/5",
-          "task": "ELX anim fixing (v2) (1)"
+          "date": "8-May",
+          "dueDate": "12/5",
+          "task": "SN Graduation Video - 1 min (1)"
         }
       ]
     },
@@ -56,7 +46,12 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "7-May",
+          "date": "8-May",
+          "dueDate": null,
+          "task": "CSL ICH Coping withgrief and anticipatory loss fix (1h)"
+        },
+        {
+          "date": "8-May",
           "dueDate": "13/5",
           "task": "North Carolina Museum Video 8 - 2.5 min (2)"
         }
@@ -66,18 +61,13 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "7-May",
+          "date": "8-May",
           "dueDate": "8/5",
-          "task": "SN Flashcard: 3 cards 32 33 35 -- wait for fixing content"
-        },
-        {
-          "date": "7-May",
-          "dueDate": "13/5",
-          "task": "North Carolina Museum Video 9 - 1 min (0.5)"
+          "task": "SN Flashcard: 3 cards 32 33 35"
         }
       ]
     }
   ],
   "totalMembers": 6,
-  "totalTasks": 9
+  "totalTasks": 7
 }
