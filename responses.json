@@ -2,18 +2,18 @@
   "date": "2026-05-08",
   "responses": [
     {
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-05-08T10:48:21.621Z",
       "date": "2026-05-08",
+      "message": "Sửa HOME 30 phút",
+      "submittedAt": "2026-05-08T10:48:21.621Z",
       "tasks": [
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "SN Flashcard: 8 cards - 12 13 14 15 16 17 18 28",
           "progress": "80%",
-          "timeSpent": "7.5h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "timeSpent": "7.5h",
+          "title": "SN Flashcard: 8 cards - 12 13 14 15 16 17 18 28"
         }
       ],
-      "message": "Sửa HOME 30 phút"
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     }
   ]
 }
