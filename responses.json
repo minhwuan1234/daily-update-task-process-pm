@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-05-08",
-      "message": "Sá»­a HOME 30 phÃºt",
+      "message": "SÃ¡Â»Â­a HOME 30 phÃÂºt",
       "submittedAt": "2026-05-08T10:48:21.621Z",
       "tasks": [
         {
@@ -17,13 +17,13 @@
     },
     {
       "date": "2026-05-08",
-      "message": "Sửa SmoothKP Video 1 (5h)",
+      "message": "Sá»­a SmoothKP Video 1 (5h)",
       "submittedAt": "2026-05-08T10:53:25.243Z",
       "tasks": [
         {
           "progress": "100%",
           "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "—",
+          "timeSpent": "â",
           "title": "CSL ICH Coping withgrief and anticipatory loss fix (1h)"
         },
         {
@@ -34,6 +34,20 @@
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-05-08T10:53:52.882Z",
+      "date": "2026-05-08",
+      "tasks": [
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "title": "SN Priority: 12.DKA vs HHS: How to Tell the Difference on the NCLEX - 5min (1.5)",
+          "progress": "30%",
+          "timeSpent": "4.5h"
+        }
+      ],
+      "message": "sáng làm card 34 và 58, 34 chưa xong chờ khách, btw cái SN 12 này chắc gần 6 phút nhé hem phải 5 phút :>"
     }
   ]
 }
