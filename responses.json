@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-05-11",
-      "message": "xong từ tuần trước rồi ạ, còn mỗi card 34 hnay sửa lại tý",
+      "message": "xong tá»« tuáº§n trÆ°á»c rá»i áº¡, cÃ²n má»i card 34 hnay sá»­a láº¡i tÃ½",
       "submittedAt": "2026-05-11T10:49:16.420Z",
       "tasks": [
         {
@@ -14,6 +14,20 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-05-11T10:50:51.835Z",
+      "date": "2026-05-11",
+      "tasks": [
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "North Carolina Museum Video 12 - 36s (0.75)",
+          "progress": "100%",
+          "timeSpent": "5.5h"
+        }
+      ],
+      "message": "không có gì, làm thêm được 1 card SN"
     }
   ]
 }
