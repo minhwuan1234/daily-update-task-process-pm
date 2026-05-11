@@ -16,18 +16,18 @@
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     },
     {
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-05-11T10:50:51.835Z",
       "date": "2026-05-11",
+      "message": "không có gì, làm thêm được 1 card SN",
+      "submittedAt": "2026-05-11T10:50:51.835Z",
       "tasks": [
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "North Carolina Museum Video 12 - 36s (0.75)",
           "progress": "100%",
-          "timeSpent": "5.5h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "timeSpent": "5.5h",
+          "title": "North Carolina Museum Video 12 - 36s (0.75)"
         }
       ],
-      "message": "không có gì, làm thêm được 1 card SN"
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     }
   ]
 }
