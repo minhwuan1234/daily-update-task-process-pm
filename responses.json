@@ -30,18 +30,18 @@
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     },
     {
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
-      "submittedAt": "2026-05-11T10:53:36.553Z",
       "date": "2026-05-11",
+      "message": "Bảo tàng video 8 (1h)",
+      "submittedAt": "2026-05-11T10:53:36.553Z",
       "tasks": [
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "title": "SN Priority: 10. Steroid Use and Cushing’s Syndrome (NCLEX Testable Points) (2)",
           "progress": "40%",
-          "timeSpent": "6.5h"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "timeSpent": "6.5h",
+          "title": "SN Priority: 10. Steroid Use and Cushing’s Syndrome (NCLEX Testable Points) (2)"
         }
       ],
-      "message": "Bảo tàng video 8 (1h)"
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     }
   ]
 }
