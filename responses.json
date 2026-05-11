@@ -1,53 +1,19 @@
 {
-  "date": "2026-05-08",
+  "date": "2026-05-11",
   "responses": [
     {
-      "date": "2026-05-08",
-      "message": "SÃ¡Â»Â­a HOME 30 phÃÂºt",
-      "submittedAt": "2026-05-08T10:48:21.621Z",
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-05-11T10:49:16.420Z",
+      "date": "2026-05-11",
       "tasks": [
         {
-          "progress": "80%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "7.5h",
-          "title": "SN Flashcard: 8 cards - 12 13 14 15 16 17 18 28"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-05-08",
-      "message": "Sá»­a SmoothKP Video 1 (5h)",
-      "submittedAt": "2026-05-08T10:53:25.243Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "â",
-          "title": "CSL ICH Coping withgrief and anticipatory loss fix (1h)"
-        },
-        {
-          "progress": "90%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
-          "timeSpent": "3h",
-          "title": "North Carolina Museum Video 8 - 2.5 min (2)"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-05-08",
-      "message": "sáng làm card 34 và 58, 34 chưa xong chờ khách, btw cái SN 12 này chắc gần 6 phút nhé hem phải 5 phút :>",
-      "submittedAt": "2026-05-08T10:53:52.882Z",
-      "tasks": [
-        {
-          "progress": "30%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "4.5h",
-          "title": "SN Priority: 12.DKA vs HHS: How to Tell the Difference on the NCLEX - 5min (1.5)"
+          "title": "SN Flashcard: 10 cards - 19 20 21 22 23 24 25 26 27 34 -> 58",
+          "progress": "100%",
+          "timeSpent": "1h"
         }
       ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+      "message": "xong từ tuần trước rồi ạ, còn mỗi card 34 hnay sửa lại tý"
     }
   ]
 }
