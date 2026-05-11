@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-05-11",
-      "message": "xong tá»« tuáº§n trÆ°á»c rá»i áº¡, cÃ²n má»i card 34 hnay sá»­a láº¡i tÃ½",
+      "message": "xong tÃ¡Â»Â« tuÃ¡ÂºÂ§n trÃÂ°Ã¡Â»Âc rÃ¡Â»Âi Ã¡ÂºÂ¡, cÃÂ²n mÃ¡Â»Âi card 34 hnay sÃ¡Â»Â­a lÃ¡ÂºÂ¡i tÃÂ½",
       "submittedAt": "2026-05-11T10:49:16.420Z",
       "tasks": [
         {
@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-05-11",
-      "message": "không có gì, làm thêm được 1 card SN",
+      "message": "khÃ´ng cÃ³ gÃ¬, lÃ m thÃªm ÄÆ°á»£c 1 card SN",
       "submittedAt": "2026-05-11T10:50:51.835Z",
       "tasks": [
         {
@@ -28,6 +28,20 @@
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-05-11T10:53:36.553Z",
+      "date": "2026-05-11",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "SN Priority: 10. Steroid Use and Cushing’s Syndrome (NCLEX Testable Points) (2)",
+          "progress": "40%",
+          "timeSpent": "6.5h"
+        }
+      ],
+      "message": "Bảo tàng video 8 (1h)"
     }
   ]
 }
