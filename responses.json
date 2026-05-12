@@ -36,18 +36,18 @@
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     },
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-05-12T10:51:50.758Z",
       "date": "2026-05-12",
+      "message": "sửa feedback nội bộ SN 12 (10p), sửa bảo tàng 10 (khoảng 40p), làm card divide demo 2 version cho Giang (40p) + 10p nhảy múa thể dục nếu không sẽ bị trĩ",
+      "submittedAt": "2026-05-12T10:51:50.758Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "North Carolina Museum Video 13 - ONLY 2.6 mins in total 3.6 min (2.5)",
           "progress": "30%",
-          "timeSpent": "6h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "6h",
+          "title": "North Carolina Museum Video 13 - ONLY 2.6 mins in total 3.6 min (2.5)"
         }
       ],
-      "message": "sửa feedback nội bộ SN 12 (10p), sửa bảo tàng 10 (khoảng 40p), làm card divide demo 2 version cho Giang (40p) + 10p nhảy múa thể dục nếu không sẽ bị trĩ"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }
