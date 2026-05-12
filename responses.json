@@ -9,17 +9,31 @@
         {
           "progress": "50%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "—",
+          "timeSpent": "â",
           "title": "ELX anim fixing\nDue"
         },
         {
           "progress": "0%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
-          "timeSpent": "—",
-          "title": "SN Priority: 11. Nursing Priorities for Addison’s vs Cushing’s (2)"
+          "timeSpent": "â",
+          "title": "SN Priority: 11. Nursing Priorities for Addisonâs vs Cushingâs (2)"
         }
       ],
       "userId": "ou_e273fec35061a42660190f8c70f19882"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-05-12T10:50:08.213Z",
+      "date": "2026-05-12",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "SN Priority: 10. Steroid Use and Cushing’s Syndrome (NCLEX Testable Points) (2)",
+          "progress": "90%",
+          "timeSpent": "7h"
+        }
+      ],
+      "message": "Sửa SmoothKP Video 1 (0.5h)\nSửa Forest ep 4 (0.5h)"
     }
   ]
 }
