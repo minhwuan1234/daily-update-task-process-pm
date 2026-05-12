@@ -571,12 +571,12 @@ body {
 .progress-btn {
   flex: 1;
   min-width: calc(10% - 6px);
-  padding: 8px 4px;
+  padding: 6px 2px;
   background: #f0ebe3;
   border: 1.5px solid #e0d8ce;
   border-radius: 6px;
   font-family: 'Rethink Sans', sans-serif;
-  font-size: 12px;
+  font-size: 11px;
   font-weight: 600;
   color: #999;
   cursor: pointer;
