@@ -1,67 +1,19 @@
 {
-  "date": "2026-05-12",
+  "date": "2026-05-13",
   "responses": [
     {
-      "date": "2026-05-12",
-      "message": "",
-      "submittedAt": "2026-05-12T10:49:28.390Z",
+      "userId": "ou_717eedeefe94e9824fbd72716d7eb234",
+      "submittedAt": "2026-05-13T10:50:29.240Z",
+      "date": "2026-05-13",
       "tasks": [
         {
-          "progress": "50%",
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "ÃÂ¢ÃÂÃÂ",
-          "title": "ELX anim fixing\nDue"
-        },
-        {
-          "progress": "0%",
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
-          "timeSpent": "ÃÂ¢ÃÂÃÂ",
-          "title": "SN Priority: 11. Nursing Priorities for AddisonÃÂ¢ÃÂÃÂs vs CushingÃÂ¢ÃÂÃÂs (2)"
-        }
-      ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
-    },
-    {
-      "date": "2026-05-12",
-      "message": "SÃ¡Â»Â­a SmoothKP Video 1 (0.5h)\nSÃ¡Â»Â­a Forest ep 4 (0.5h)",
-      "submittedAt": "2026-05-12T10:50:08.213Z",
-      "tasks": [
-        {
-          "progress": "90%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "7h",
-          "title": "SN Priority: 10. Steroid Use and CushingÃ¢ÂÂs Syndrome (NCLEX Testable Points) (2)"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-05-12",
-      "message": "sá»­a feedback ná»i bá» SN 12 (10p), sá»­a báº£o tÃ ng 10 (khoáº£ng 40p), lÃ m card divide demo 2 version cho Giang (40p) + 10p nháº£y mÃºa thá» dá»¥c náº¿u khÃ´ng sáº½ bá» trÄ©",
-      "submittedAt": "2026-05-12T10:51:50.758Z",
-      "tasks": [
-        {
-          "progress": "30%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "6h",
-          "title": "North Carolina Museum Video 13 - ONLY 2.6 mins in total 3.6 min (2.5)"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-05-12",
-      "message": "",
-      "submittedAt": "2026-05-12T11:04:43.778Z",
-      "tasks": [
-        {
+          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
+          "title": "Flashcard: 8 cards (2.5) 28 30 31 55 67 78 79 80",
           "progress": "100%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "8h",
-          "title": "Flashcard: 4 cards (1) 74 75 76 77"
+          "timeSpent": "3h"
         }
       ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+      "message": "clean up working files bảo tàng video 11: 1 tiếng"
     }
   ]
 }
