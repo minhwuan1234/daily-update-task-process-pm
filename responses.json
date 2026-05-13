@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-05-13",
-      "message": "clean up working files báº£o tÃ ng video 11: 1 tiáº¿ng",
+      "message": "clean up working files bÃ¡ÂºÂ£o tÃÂ ng video 11: 1 tiÃ¡ÂºÂ¿ng",
       "submittedAt": "2026-05-13T10:50:29.240Z",
       "tasks": [
         {
@@ -28,6 +28,20 @@
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-05-13T10:56:05.391Z",
+      "date": "2026-05-13",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "Flashcard: 11 cards (3) 50 51 52 53 54 59 63 64 65 66 81",
+          "progress": "90%",
+          "timeSpent": "7.5h"
+        }
+      ],
+      "message": "Cut video SOUK cho chi Giang khoang 30p a"
     }
   ]
 }
