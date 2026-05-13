@@ -16,18 +16,18 @@
       "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
     },
     {
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
-      "submittedAt": "2026-05-13T10:55:24.903Z",
       "date": "2026-05-13",
+      "message": "SN Priority ep 10 (3.5h)",
+      "submittedAt": "2026-05-13T10:55:24.903Z",
       "tasks": [
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "title": "CSL DRA At work site fix (1)",
           "progress": "60%",
-          "timeSpent": "4.5h"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "timeSpent": "4.5h",
+          "title": "CSL DRA At work site fix (1)"
         }
       ],
-      "message": "SN Priority ep 10 (3.5h)"
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     }
   ]
 }
