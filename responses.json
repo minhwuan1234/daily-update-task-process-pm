@@ -30,18 +30,18 @@
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     },
     {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-05-13T10:56:05.391Z",
       "date": "2026-05-13",
+      "message": "Cut video SOUK cho chi Giang khoang 30p a",
+      "submittedAt": "2026-05-13T10:56:05.391Z",
       "tasks": [
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "Flashcard: 11 cards (3) 50 51 52 53 54 59 63 64 65 66 81",
           "progress": "90%",
-          "timeSpent": "7.5h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "timeSpent": "7.5h",
+          "title": "Flashcard: 11 cards (3) 50 51 52 53 54 59 63 64 65 66 81"
         }
       ],
-      "message": "Cut video SOUK cho chi Giang khoang 30p a"
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     }
   ]
 }
