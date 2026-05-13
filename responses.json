@@ -2,18 +2,18 @@
   "date": "2026-05-13",
   "responses": [
     {
-      "userId": "ou_717eedeefe94e9824fbd72716d7eb234",
-      "submittedAt": "2026-05-13T10:50:29.240Z",
       "date": "2026-05-13",
+      "message": "clean up working files bảo tàng video 11: 1 tiếng",
+      "submittedAt": "2026-05-13T10:50:29.240Z",
       "tasks": [
         {
-          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
-          "title": "Flashcard: 8 cards (2.5) 28 30 31 55 67 78 79 80",
           "progress": "100%",
-          "timeSpent": "3h"
+          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
+          "timeSpent": "3h",
+          "title": "Flashcard: 8 cards (2.5) 28 30 31 55 67 78 79 80"
         }
       ],
-      "message": "clean up working files bảo tàng video 11: 1 tiếng"
+      "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
     }
   ]
 }
