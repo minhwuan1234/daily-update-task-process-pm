@@ -1,12 +1,12 @@
 {
-  "date": "12-May",
-  "generatedAt": "2026-05-12T10:45:48.651Z",
+  "date": "13-May",
+  "generatedAt": "2026-05-13T10:47:07.589Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "12-May",
+          "date": "13-May",
           "dueDate": "14/5",
           "task": "North Carolina Museum Video 13 - ONLY 2.6 mins in total 3.6 min (2.5)"
         }
@@ -16,9 +16,9 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "12-May",
-          "dueDate": "15/5",
-          "task": "Flashcard: 4 cards (1) 74 75 76 77"
+          "date": "13-May",
+          "dueDate": "18/5",
+          "task": "SOUK: MMP moodboard"
         }
       ]
     },
@@ -26,7 +26,7 @@
       "member": "Vân",
       "tasks": [
         {
-          "date": "12-May",
+          "date": "13-May",
           "dueDate": "15/5",
           "task": "Flashcard: 8 cards (2.5) 28 30 31 55 67 78 79 80"
         }
@@ -36,12 +36,7 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "12-May",
-          "dueDate": null,
-          "task": "ELX anim fixing\nDue"
-        },
-        {
-          "date": "12-May",
+          "date": "13-May",
           "dueDate": "15/5",
           "task": "SN Priority: 11. Nursing Priorities for Addison’s vs Cushing’s (2)"
         }
@@ -51,9 +46,9 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "12-May",
-          "dueDate": "15/5",
-          "task": "SN Priority: 10. Steroid Use and Cushing’s Syndrome (NCLEX Testable Points) (2)"
+          "date": "13-May",
+          "dueDate": "18/5",
+          "task": "CSL DRA At work site fix (1)"
         }
       ]
     },
@@ -61,13 +56,13 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "12-May",
-          "dueDate": "14/5",
-          "task": "AMD: Migraine in Older Adults ~3' (1)"
+          "date": "13-May",
+          "dueDate": "15/5",
+          "task": "Flashcard: 11 cards (3) 50 51 52 53 54 59 63 64 65 66 81"
         }
       ]
     }
   ],
   "totalMembers": 6,
-  "totalTasks": 7
+  "totalTasks": 6
 }
