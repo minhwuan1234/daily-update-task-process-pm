@@ -44,18 +44,18 @@
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     },
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-05-13T11:02:11.988Z",
       "date": "2026-05-13",
+      "message": "sáng off 0,25 nên thọt mất chút thời gian, bên cạnh đó thì cũng support Giang 1 chút cái SOUK nhưng không mất thgian đáng kể, chắc 10-15p",
+      "submittedAt": "2026-05-13T11:02:11.988Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "North Carolina Museum Video 13 - ONLY 2.6 mins in total 3.6 min (2.5)",
           "progress": "70%",
-          "timeSpent": "6h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "6h",
+          "title": "North Carolina Museum Video 13 - ONLY 2.6 mins in total 3.6 min (2.5)"
         }
       ],
-      "message": "sáng off 0,25 nên thọt mất chút thời gian, bên cạnh đó thì cũng support Giang 1 chút cái SOUK nhưng không mất thgian đáng kể, chắc 10-15p"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }
