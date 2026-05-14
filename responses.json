@@ -8,7 +8,7 @@
       "tasks": [
         {
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "SOUK: MMP moodboard tiếp 0.25\nHOME - Concept Art fix #3 (face cmt) (0.25)",
+          "title": "SOUK: MMP moodboard tiáº¿p 0.25\nHOME - Concept Art fix #3 (face cmt) (0.25)",
           "progress": "100%",
           "timeSpent": "3h"
         },
@@ -23,7 +23,7 @@
     },
     {
       "date": "2026-05-14",
-      "message": "task 2 chÆ°a lÃ m Äc gÃ¬ nhÆ°ng cháº¯c tÃ­ á» láº¡i lÃ m tiáº¿p",
+      "message": "task 2 chÃÂ°a lÃÂ m ÃÂc gÃÂ¬ nhÃÂ°ng chÃ¡ÂºÂ¯c tÃÂ­ Ã¡Â»Â lÃ¡ÂºÂ¡i lÃÂ m tiÃ¡ÂºÂ¿p",
       "submittedAt": "2026-05-14T10:49:01.692Z",
       "tasks": [
         {
@@ -36,10 +36,24 @@
           "progress": "30%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
           "timeSpent": "0.5h",
-          "title": "SOUK chuyá»n cáº£nh - added frames (1h)"
+          "title": "SOUK chuyÃ¡Â»Ân cÃ¡ÂºÂ£nh - added frames (1h)"
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_717eedeefe94e9824fbd72716d7eb234",
+      "submittedAt": "2026-05-14T10:50:15.494Z",
+      "date": "2026-05-14",
+      "tasks": [
+        {
+          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
+          "title": "North Carolina Museum Video 14 - ONLY 2.5 min in 4.5 min (3.5)",
+          "progress": "30%",
+          "timeSpent": "6.5h"
+        }
+      ],
+      "message": "sửa simplenursing 8 card: 1.5 tiếng"
     }
   ]
 }
