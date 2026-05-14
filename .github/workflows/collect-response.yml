@@ -156,7 +156,7 @@ jobs:
                   'tag': 'div',
                   'text': {
                       'tag':     'lark_md',
-                      'content': f'🆕 Task phát sinh: _{message}_'
+                      'content': f'🆕 Task khác hoặc Task phát sinh nếu có: _{message}_'
                   }
               })
 
