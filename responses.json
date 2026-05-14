@@ -1,61 +1,19 @@
 {
-  "date": "2026-05-13",
+  "date": "2026-05-14",
   "responses": [
     {
-      "date": "2026-05-13",
-      "message": "clean up working files bÃÂ¡ÃÂºÃÂ£o tÃÂÃÂ ng video 11: 1 tiÃÂ¡ÃÂºÃÂ¿ng",
-      "submittedAt": "2026-05-13T10:50:29.240Z",
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-05-14T01:45:42.211Z",
+      "date": "2026-05-14",
       "tasks": [
         {
-          "progress": "100%",
-          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
-          "timeSpent": "3h",
-          "title": "Flashcard: 8 cards (2.5) 28 30 31 55 67 78 79 80"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "SOUK: MMP moodboard",
+          "progress": "80%",
+          "timeSpent": "8h"
         }
       ],
-      "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
-    },
-    {
-      "date": "2026-05-13",
-      "message": "SN Priority ep 10 (3.5h)",
-      "submittedAt": "2026-05-13T10:55:24.903Z",
-      "tasks": [
-        {
-          "progress": "60%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "4.5h",
-          "title": "CSL DRA At work site fix (1)"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-05-13",
-      "message": "Cut video SOUK cho chi Giang khoang 30p a",
-      "submittedAt": "2026-05-13T10:56:05.391Z",
-      "tasks": [
-        {
-          "progress": "90%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "7.5h",
-          "title": "Flashcard: 11 cards (3) 50 51 52 53 54 59 63 64 65 66 81"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
-    },
-    {
-      "date": "2026-05-13",
-      "message": "sáng off 0,25 nên thọt mất chút thời gian, bên cạnh đó thì cũng support Giang 1 chút cái SOUK nhưng không mất thgian đáng kể, chắc 10-15p",
-      "submittedAt": "2026-05-13T11:02:11.988Z",
-      "tasks": [
-        {
-          "progress": "70%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "6h",
-          "title": "North Carolina Museum Video 13 - ONLY 2.6 mins in total 3.6 min (2.5)"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+      "message": "ko có gì"
     }
   ]
 }
