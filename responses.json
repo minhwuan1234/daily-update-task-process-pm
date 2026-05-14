@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-05-14",
-      "message": "ko có gì",
+      "message": "ko cÃ³ gÃ¬",
       "submittedAt": "2026-05-14T01:45:42.211Z",
       "tasks": [
         {
@@ -14,6 +14,26 @@
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+    },
+    {
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-05-14T10:49:01.692Z",
+      "date": "2026-05-14",
+      "tasks": [
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "title": "North Carolina Museum Video 13 - ONLY 2.6 mins in total 3.6 min (2.5)",
+          "progress": "100%",
+          "timeSpent": "8h"
+        },
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
+          "title": "SOUK chuyển cảnh - added frames (1h)",
+          "progress": "30%",
+          "timeSpent": "0.5h"
+        }
+      ],
+      "message": "task 2 chưa làm đc gì nhưng chắc tí ở lại làm tiếp"
     }
   ]
 }
