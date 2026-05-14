@@ -56,18 +56,18 @@
       "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
     },
     {
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
-      "submittedAt": "2026-05-14T10:56:01.273Z",
       "date": "2026-05-14",
+      "message": "Sửa CSL At work site game (5.5h)",
+      "submittedAt": "2026-05-14T10:56:01.273Z",
       "tasks": [
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "title": "North Carolina Museum Video 10 - 3 min (3)",
           "progress": "10%",
-          "timeSpent": "2.5h"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "timeSpent": "2.5h",
+          "title": "North Carolina Museum Video 10 - 3 min (3)"
         }
       ],
-      "message": "Sửa CSL At work site game (5.5h)"
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     }
   ]
 }
