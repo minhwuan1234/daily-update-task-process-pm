@@ -8,7 +8,7 @@
       "tasks": [
         {
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "SOUK: MMP moodboard tiáº¿p 0.25\nHOME - Concept Art fix #3 (face cmt) (0.25)",
+          "title": "SOUK: MMP moodboard tiÃ¡ÂºÂ¿p 0.25\nHOME - Concept Art fix #3 (face cmt) (0.25)",
           "progress": "100%",
           "timeSpent": "3h"
         },
@@ -23,7 +23,7 @@
     },
     {
       "date": "2026-05-14",
-      "message": "task 2 chÃÂ°a lÃÂ m ÃÂc gÃÂ¬ nhÃÂ°ng chÃ¡ÂºÂ¯c tÃÂ­ Ã¡Â»Â lÃ¡ÂºÂ¡i lÃÂ m tiÃ¡ÂºÂ¿p",
+      "message": "task 2 chÃÂÃÂ°a lÃÂÃÂ m ÃÂÃÂc gÃÂÃÂ¬ nhÃÂÃÂ°ng chÃÂ¡ÃÂºÃÂ¯c tÃÂÃÂ­ ÃÂ¡ÃÂ»ÃÂ lÃÂ¡ÃÂºÃÂ¡i lÃÂÃÂ m tiÃÂ¡ÃÂºÃÂ¿p",
       "submittedAt": "2026-05-14T10:49:01.692Z",
       "tasks": [
         {
@@ -36,14 +36,14 @@
           "progress": "30%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
           "timeSpent": "0.5h",
-          "title": "SOUK chuyÃ¡Â»Ân cÃ¡ÂºÂ£nh - added frames (1h)"
+          "title": "SOUK chuyÃÂ¡ÃÂ»ÃÂn cÃÂ¡ÃÂºÃÂ£nh - added frames (1h)"
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     },
     {
       "date": "2026-05-14",
-      "message": "sửa simplenursing 8 card: 1.5 tiếng",
+      "message": "sá»­a simplenursing 8 card: 1.5 tiáº¿ng",
       "submittedAt": "2026-05-14T10:50:15.494Z",
       "tasks": [
         {
@@ -54,6 +54,20 @@
         }
       ],
       "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-05-14T10:56:01.273Z",
+      "date": "2026-05-14",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "North Carolina Museum Video 10 - 3 min (3)",
+          "progress": "10%",
+          "timeSpent": "2.5h"
+        }
+      ],
+      "message": "Sửa CSL At work site game (5.5h)"
     }
   ]
 }
