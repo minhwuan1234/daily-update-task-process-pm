@@ -42,18 +42,18 @@
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     },
     {
-      "userId": "ou_717eedeefe94e9824fbd72716d7eb234",
-      "submittedAt": "2026-05-14T10:50:15.494Z",
       "date": "2026-05-14",
+      "message": "sửa simplenursing 8 card: 1.5 tiếng",
+      "submittedAt": "2026-05-14T10:50:15.494Z",
       "tasks": [
         {
-          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
-          "title": "North Carolina Museum Video 14 - ONLY 2.5 min in 4.5 min (3.5)",
           "progress": "30%",
-          "timeSpent": "6.5h"
+          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
+          "timeSpent": "6.5h",
+          "title": "North Carolina Museum Video 14 - ONLY 2.5 min in 4.5 min (3.5)"
         }
       ],
-      "message": "sửa simplenursing 8 card: 1.5 tiếng"
+      "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
     }
   ]
 }
