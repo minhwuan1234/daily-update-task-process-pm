@@ -16,24 +16,24 @@
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     },
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-05-14T10:49:01.692Z",
       "date": "2026-05-14",
+      "message": "task 2 chưa làm đc gì nhưng chắc tí ở lại làm tiếp",
+      "submittedAt": "2026-05-14T10:49:01.692Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "North Carolina Museum Video 13 - ONLY 2.6 mins in total 3.6 min (2.5)",
           "progress": "100%",
-          "timeSpent": "8h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "8h",
+          "title": "North Carolina Museum Video 13 - ONLY 2.6 mins in total 3.6 min (2.5)"
         },
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "title": "SOUK chuyển cảnh - added frames (1h)",
           "progress": "30%",
-          "timeSpent": "0.5h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
+          "timeSpent": "0.5h",
+          "title": "SOUK chuyển cảnh - added frames (1h)"
         }
       ],
-      "message": "task 2 chưa làm đc gì nhưng chắc tí ở lại làm tiếp"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }
