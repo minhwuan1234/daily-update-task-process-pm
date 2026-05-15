@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-05-15",
-      "message": "khÃÂÃÂ´ng cÃÂÃÂ³ gÃÂÃÂ¬ hÃÂ¡ÃÂºÃÂ¿t, lÃÂÃÂ m xong hÃÂ¡ÃÂºÃÂ¿t task phÃÂÃÂª",
+      "message": "khÃÂÃÂÃÂÃÂ´ng cÃÂÃÂÃÂÃÂ³ gÃÂÃÂÃÂÃÂ¬ hÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿t, lÃÂÃÂÃÂÃÂ m xong hÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿t task phÃÂÃÂÃÂÃÂª",
       "submittedAt": "2026-05-15T11:11:30.859Z",
       "tasks": [
         {
@@ -23,7 +23,7 @@
     },
     {
       "date": "2026-05-15",
-      "message": "2h sÃ¡Â»Â­a card Ã¡ÂºÂ¡",
+      "message": "2h sÃÂ¡ÃÂ»ÃÂ­a card ÃÂ¡ÃÂºÃÂ¡",
       "submittedAt": "2026-05-15T11:12:33.100Z",
       "tasks": [
         {
@@ -51,7 +51,7 @@
     },
     {
       "date": "2026-05-15",
-      "message": "sửa và export flashcard (tầm 2 tiếng?)",
+      "message": "sá»­a vÃ  export flashcard (táº§m 2 tiáº¿ng?)",
       "submittedAt": "2026-05-15T11:15:32.316Z",
       "tasks": [
         {
@@ -62,6 +62,26 @@
         }
       ],
       "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
+    },
+    {
+      "userId": "ou_e273fec35061a42660190f8c70f19882",
+      "submittedAt": "2026-05-15T11:28:51.871Z",
+      "date": "2026-05-15",
+      "tasks": [
+        {
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
+          "title": "North Carolina Museum Video 11 - 2 min (2)",
+          "progress": "40%",
+          "timeSpent": "—"
+        },
+        {
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
+          "title": "ELX anim fixing (v4) 0.25",
+          "progress": "90%",
+          "timeSpent": "—"
+        }
+      ],
+      "message": ""
     }
   ]
 }
