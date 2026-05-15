@@ -22,18 +22,18 @@
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     },
     {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-05-15T11:12:33.100Z",
       "date": "2026-05-15",
+      "message": "2h sửa card ạ",
+      "submittedAt": "2026-05-15T11:12:33.100Z",
       "tasks": [
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "SN Outdated Content: SpO2 ~11 mins Anim (3) - 2.5",
           "progress": "30%",
-          "timeSpent": "6h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "timeSpent": "6h",
+          "title": "SN Outdated Content: SpO2 ~11 mins Anim (3) - 2.5"
         }
       ],
-      "message": "2h sửa card ạ"
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     }
   ]
 }
