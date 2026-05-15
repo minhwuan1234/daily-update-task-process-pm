@@ -2,24 +2,24 @@
   "date": "2026-05-15",
   "responses": [
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-05-15T11:11:30.859Z",
       "date": "2026-05-15",
+      "message": "không có gì hết, làm xong hết task phê",
+      "submittedAt": "2026-05-15T11:11:30.859Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "UV: Booth Design D60 and D45 x2 version (0.75)",
           "progress": "100%",
-          "timeSpent": "6h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "6h",
+          "title": "UV: Booth Design D60 and D45 x2 version (0.75)"
         },
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "title": "Flashcard: 1 card (1h) 63",
           "progress": "100%",
-          "timeSpent": "1.5h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
+          "timeSpent": "1.5h",
+          "title": "Flashcard: 1 card (1h) 63"
         }
       ],
-      "message": "không có gì hết, làm xong hết task phê"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }
