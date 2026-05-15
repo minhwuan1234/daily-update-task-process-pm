@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-05-15",
-      "message": "khÃÂ´ng cÃÂ³ gÃÂ¬ hÃ¡ÂºÂ¿t, lÃÂ m xong hÃ¡ÂºÂ¿t task phÃÂª",
+      "message": "khÃÂÃÂ´ng cÃÂÃÂ³ gÃÂÃÂ¬ hÃÂ¡ÃÂºÃÂ¿t, lÃÂÃÂ m xong hÃÂ¡ÃÂºÃÂ¿t task phÃÂÃÂª",
       "submittedAt": "2026-05-15T11:11:30.859Z",
       "tasks": [
         {
@@ -23,7 +23,7 @@
     },
     {
       "date": "2026-05-15",
-      "message": "2h sá»­a card áº¡",
+      "message": "2h sÃ¡Â»Â­a card Ã¡ÂºÂ¡",
       "submittedAt": "2026-05-15T11:12:33.100Z",
       "tasks": [
         {
@@ -48,6 +48,20 @@
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_717eedeefe94e9824fbd72716d7eb234",
+      "submittedAt": "2026-05-15T11:15:32.316Z",
+      "date": "2026-05-15",
+      "tasks": [
+        {
+          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
+          "title": "North Carolina Museum Video 14 - ONLY 2.5 min in 4.5 min (3.5)",
+          "progress": "60%",
+          "timeSpent": "6h"
+        }
+      ],
+      "message": "sửa và export flashcard (tầm 2 tiếng?)"
     }
   ]
 }
