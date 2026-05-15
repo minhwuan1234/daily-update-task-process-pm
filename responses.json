@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-05-15",
-      "message": "khÃ´ng cÃ³ gÃ¬ háº¿t, lÃ m xong háº¿t task phÃª",
+      "message": "khÃÂ´ng cÃÂ³ gÃÂ¬ hÃ¡ÂºÂ¿t, lÃÂ m xong hÃ¡ÂºÂ¿t task phÃÂª",
       "submittedAt": "2026-05-15T11:11:30.859Z",
       "tasks": [
         {
@@ -23,7 +23,7 @@
     },
     {
       "date": "2026-05-15",
-      "message": "2h sửa card ạ",
+      "message": "2h sá»­a card áº¡",
       "submittedAt": "2026-05-15T11:12:33.100Z",
       "tasks": [
         {
@@ -34,6 +34,20 @@
         }
       ],
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-05-15T11:13:55.768Z",
+      "date": "2026-05-15",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "North Carolina Museum Video 10 - 3 min (3)",
+          "progress": "40%",
+          "timeSpent": "7.5h"
+        }
+      ],
+      "message": "SN Priority ep 10 (0.5h)"
     }
   ]
 }
