@@ -569,9 +569,10 @@ body {
 }
 
 .progress-btn {
-  flex: auto;
-  min-width: calc(10% - 6px);
-  padding: 6px 2px;
+  flex: 0 0 auto;           /* không stretch, hug content */
+  min-width: unset;         /* bỏ min-width cứng */
+  padding: 6px 12px;        /* padding ngang thoải mái hơn */
+  white-space: nowrap;      /* chữ không wrap */
   background: #f0ebe3;
   border: 1.5px solid #e0d8ce;
   border-radius: 6px;
