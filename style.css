@@ -569,7 +569,7 @@ body {
 }
 
 .progress-btn {
-  flex: 1;
+  flex: auto;
   min-width: calc(10% - 6px);
   padding: 6px 2px;
   background: #f0ebe3;
