@@ -1,87 +1,19 @@
 {
-  "date": "2026-05-15",
+  "date": "2026-05-18",
   "responses": [
     {
-      "date": "2026-05-15",
-      "message": "khÃÂÃÂÃÂÃÂ´ng cÃÂÃÂÃÂÃÂ³ gÃÂÃÂÃÂÃÂ¬ hÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿t, lÃÂÃÂÃÂÃÂ m xong hÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿t task phÃÂÃÂÃÂÃÂª",
-      "submittedAt": "2026-05-15T11:11:30.859Z",
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-05-18T01:43:55.157Z",
+      "date": "2026-05-18",
       "tasks": [
         {
-          "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "6h",
-          "title": "UV: Booth Design D60 and D45 x2 version (0.75)"
-        },
-        {
-          "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "timeSpent": "1.5h",
-          "title": "Flashcard: 1 card (1h) 63"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-05-15",
-      "message": "2h sÃÂ¡ÃÂ»ÃÂ­a card ÃÂ¡ÃÂºÃÂ¡",
-      "submittedAt": "2026-05-15T11:12:33.100Z",
-      "tasks": [
-        {
-          "progress": "30%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "6h",
-          "title": "SN Outdated Content: SpO2 ~11 mins Anim (3) - 2.5"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
-    },
-    {
-      "date": "2026-05-15",
-      "message": "SN Priority ep 10 (0.5h)",
-      "submittedAt": "2026-05-15T11:13:55.768Z",
-      "tasks": [
-        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "North Carolina Museum Video 14 - ONLY 2 min in 4.5 min (2)",
           "progress": "40%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "7.5h",
-          "title": "North Carolina Museum Video 10 - 3 min (3)"
+          "timeSpent": "8h"
         }
       ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-05-15",
-      "message": "sá»­a vÃ  export flashcard (táº§m 2 tiáº¿ng?)",
-      "submittedAt": "2026-05-15T11:15:32.316Z",
-      "tasks": [
-        {
-          "progress": "60%",
-          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
-          "timeSpent": "6h",
-          "title": "North Carolina Museum Video 14 - ONLY 2.5 min in 4.5 min (3.5)"
-        }
-      ],
-      "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
-    },
-    {
-      "date": "2026-05-15",
-      "message": "",
-      "submittedAt": "2026-05-15T11:28:51.871Z",
-      "tasks": [
-        {
-          "progress": "40%",
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "—",
-          "title": "North Carolina Museum Video 11 - 2 min (2)"
-        },
-        {
-          "progress": "90%",
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
-          "timeSpent": "—",
-          "title": "ELX anim fixing (v4) 0.25"
-        }
-      ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
+      "message": "Sửa flashcard SN nội bộ 1h"
     }
   ]
 }
