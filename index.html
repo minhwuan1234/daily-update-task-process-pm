@@ -43,6 +43,12 @@
           <p class="state-sub">Cảm ơn bạn đã update hôm nay 🙌</p>
         </div>
 
+        <div id="state-expired" class="state-box" style="display:none;">
+          <p class="state-icon">⏰</p>
+          <p>Link đã hết hạn rồi!</p>
+          <p class="state-sub">Link daily standup chỉ có hiệu lực trong ngày hôm đó.<br>Chờ tin nhắn mới từ bot vào sáng mai nhé 🌿</p>
+        </div>
+
         <div id="state-form" style="display:none; flex-direction:column; gap:32px; width:100%;">
 
           <div class="form-header">
@@ -186,6 +192,16 @@
   const qs  = (id) => document.getElementById(id);
   const uid = () => new URLSearchParams(location.search).get('userId');
 
+  // ── Kiểm tra link hết hạn ──────────────────────────────────────────────────
+  function isExpired() {
+    const expires = new URLSearchParams(location.search).get('expires');
+    if (!expires) return false;                      // không có param → không chặn
+    const expiryTime = new Date(expires).getTime();
+    if (isNaN(expiryTime)) return false;             // param sai format → không chặn
+    return Date.now() > expiryTime;
+  }
+  // ──────────────────────────────────────────────────────────────────────────
+
   function initPicker(pickerId, fillId, labelId) {
     const picker = qs(pickerId), fill = qs(fillId), label = qs(labelId);
     picker.querySelectorAll('.progress-btn').forEach(btn => {
@@ -214,7 +230,7 @@
   initPicker('picker2', 'fill2', 'label2');
 
   function showState(name) {
-    ['loading','error','success','form'].forEach(s => {
+    ['loading','error','success','expired','form'].forEach(s => {
       const el = qs(`state-${s}`);
       if (!el) return;
       el.style.display = (s === name) ? 'flex' : 'none';
@@ -332,6 +348,12 @@
   }
 
   async function init() {
+    // ── Check expired trước mọi thứ ──
+    if (isExpired()) {
+      showState('expired');
+      return;
+    }
+
     const userId = uid();
     if (!userId) {
       showState('error');
