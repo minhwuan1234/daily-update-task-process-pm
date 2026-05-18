@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-05-18",
-      "message": "Sá»­a flashcard SN ná»i bá» 1h",
+      "message": "SÃ¡Â»Â­a flashcard SN nÃ¡Â»Âi bÃ¡Â»Â 1h",
       "submittedAt": "2026-05-18T01:43:55.157Z",
       "tasks": [
         {
@@ -23,17 +23,31 @@
         {
           "progress": "70%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "—",
+          "timeSpent": "â",
           "title": "North Carolina Museum Video 11 - 2 min (2)"
         },
         {
           "progress": "100%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
-          "timeSpent": "—",
+          "timeSpent": "â",
           "title": "ELX anim fixing (v4) 0.25"
         }
       ],
       "userId": "ou_e273fec35061a42660190f8c70f19882"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-05-18T10:49:53.783Z",
+      "date": "2026-05-18",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "SN Outdated Content: SpO2 ~11 mins Anim (3) - 2.5",
+          "progress": "90%",
+          "timeSpent": "7.5h"
+        }
+      ],
+      "message": "Sua card SN (khach) - 0,5h"
     }
   ]
 }
