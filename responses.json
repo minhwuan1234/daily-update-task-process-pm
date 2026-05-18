@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-05-18",
-      "message": "SÃ¡Â»Â­a flashcard SN nÃ¡Â»Âi bÃ¡Â»Â 1h",
+      "message": "SÃÂ¡ÃÂ»ÃÂ­a flashcard SN nÃÂ¡ÃÂ»ÃÂi bÃÂ¡ÃÂ»ÃÂ 1h",
       "submittedAt": "2026-05-18T01:43:55.157Z",
       "tasks": [
         {
@@ -23,13 +23,13 @@
         {
           "progress": "70%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "â",
+          "timeSpent": "Ã¢ÂÂ",
           "title": "North Carolina Museum Video 11 - 2 min (2)"
         },
         {
           "progress": "100%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
-          "timeSpent": "â",
+          "timeSpent": "Ã¢ÂÂ",
           "title": "ELX anim fixing (v4) 0.25"
         }
       ],
@@ -48,6 +48,20 @@
         }
       ],
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-05-18T10:50:22.617Z",
+      "date": "2026-05-18",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "North Carolina Museum Video 10 - 3 min (3)",
+          "progress": "80%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
