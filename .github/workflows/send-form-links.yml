@@ -30,6 +30,11 @@ jobs:
           FORM_BASE_URL = os.environ['FORM_BASE_URL']
           TODAY         = datetime.now(timezone.utc).strftime('%d/%m/%Y')
 
+          # ── Tính expires = cuối ngày UTC hôm nay (23:59:59Z) ──
+          now_utc   = datetime.now(timezone.utc)
+          end_of_day = now_utc.replace(hour=23, minute=59, second=59, microsecond=0)
+          EXPIRES   = end_of_day.strftime('%Y-%m-%dT%H:%M:%SZ')   # e.g. 2026-05-18T23:59:59Z
+
           # ── Bot token ──
           def get_bot_token():
               payload = json.dumps({"app_id": APP_ID, "app_secret": APP_SECRET}).encode()
@@ -74,9 +79,16 @@ jobs:
               members_map = json.load(f)
 
           print(f"Found {len(daily.get('members', []))} members in daily-tasks.json")
+          print(f"Link expires at: {EXPIRES}")
+
+          # ── Build URL với expires param ──
+          def build_form_url(open_id):
+              return f"{FORM_BASE_URL}?userId={open_id}&expires={EXPIRES}"
 
           # ── Build card ──
           def build_card(open_id, tasks):
+              form_url = build_form_url(open_id)
+
               task_elements = []
               for i, t in enumerate(tasks[:2], 1):
                   due = f" · due **{t.get('dueDate', '')}**" if t.get('dueDate') else ''
@@ -116,14 +128,14 @@ jobs:
                               "tag":  "button",
                               "text": {"tag": "plain_text", "content": "✍️ Điền Daily Standup"},
                               "type": "primary",
-                              "url":  f"{FORM_BASE_URL}?userId={open_id}"
+                              "url":  form_url
                           }]
                       },
                       {
                           "tag": "note",
                           "elements": [{
                               "tag":     "plain_text",
-                              "content": "Form sẽ tự điền task của bạn. Chỉ cần chọn progress và submit 🚀"
+                              "content": f"Form sẽ tự điền task của bạn. Link hết hạn lúc 23:59 hôm nay ({TODAY}) 🕛"
                           }]
                       }
                   ]
@@ -178,4 +190,5 @@ jobs:
 
           success = sum(1 for r in results if r["success"])
           print(f"\n📊 Done: {success}/{len(results)} DMs sent")
+          print(f"🔗 All links expire at: {EXPIRES}")
           EOF
