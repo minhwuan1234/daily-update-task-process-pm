@@ -64,18 +64,18 @@
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     },
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-05-18T10:58:58.776Z",
       "date": "2026-05-18",
+      "message": "họp 45p\nsửa SN card 1 2 khoảng 30p\ncái LDA lần này hơi lắm nhân vật nên là vẽ hơi lâu",
+      "submittedAt": "2026-05-18T10:58:58.776Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "LDA Meet Maya ~2 min (1.5)",
           "progress": "30%",
-          "timeSpent": "6.5h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "6.5h",
+          "title": "LDA Meet Maya ~2 min (1.5)"
         }
       ],
-      "message": "họp 45p\nsửa SN card 1 2 khoảng 30p\ncái LDA lần này hơi lắm nhân vật nên là vẽ hơi lâu"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }
