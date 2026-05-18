@@ -2,18 +2,18 @@
   "date": "2026-05-18",
   "responses": [
     {
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-05-18T01:43:55.157Z",
       "date": "2026-05-18",
+      "message": "Sửa flashcard SN nội bộ 1h",
+      "submittedAt": "2026-05-18T01:43:55.157Z",
       "tasks": [
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "North Carolina Museum Video 14 - ONLY 2 min in 4.5 min (2)",
           "progress": "40%",
-          "timeSpent": "8h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "timeSpent": "8h",
+          "title": "North Carolina Museum Video 14 - ONLY 2 min in 4.5 min (2)"
         }
       ],
-      "message": "Sửa flashcard SN nội bộ 1h"
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     }
   ]
 }
