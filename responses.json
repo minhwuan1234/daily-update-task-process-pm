@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-05-18",
-      "message": "SÃÂ¡ÃÂ»ÃÂ­a flashcard SN nÃÂ¡ÃÂ»ÃÂi bÃÂ¡ÃÂ»ÃÂ 1h",
+      "message": "SÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a flashcard SN nÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂi bÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ 1h",
       "submittedAt": "2026-05-18T01:43:55.157Z",
       "tasks": [
         {
@@ -23,13 +23,13 @@
         {
           "progress": "70%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "Ã¢ÂÂ",
+          "timeSpent": "ÃÂ¢ÃÂÃÂ",
           "title": "North Carolina Museum Video 11 - 2 min (2)"
         },
         {
           "progress": "100%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
-          "timeSpent": "Ã¢ÂÂ",
+          "timeSpent": "ÃÂ¢ÃÂÃÂ",
           "title": "ELX anim fixing (v4) 0.25"
         }
       ],
@@ -62,6 +62,20 @@
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-05-18T10:58:58.776Z",
+      "date": "2026-05-18",
+      "tasks": [
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "title": "LDA Meet Maya ~2 min (1.5)",
+          "progress": "30%",
+          "timeSpent": "6.5h"
+        }
+      ],
+      "message": "họp 45p\nsửa SN card 1 2 khoảng 30p\ncái LDA lần này hơi lắm nhân vật nên là vẽ hơi lâu"
     }
   ]
 }
