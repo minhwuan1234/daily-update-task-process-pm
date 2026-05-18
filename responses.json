@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-05-18",
-      "message": "SÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a flashcard SN nÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂi bÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ 1h",
+      "message": "SÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ»ÃÂÃÂÃÂÃÂ­a flashcard SN nÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ»ÃÂÃÂÃÂÃÂi bÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ»ÃÂÃÂÃÂÃÂ 1h",
       "submittedAt": "2026-05-18T01:43:55.157Z",
       "tasks": [
         {
@@ -23,13 +23,13 @@
         {
           "progress": "70%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "ÃÂ¢ÃÂÃÂ",
+          "timeSpent": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ",
           "title": "North Carolina Museum Video 11 - 2 min (2)"
         },
         {
           "progress": "100%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
-          "timeSpent": "ÃÂ¢ÃÂÃÂ",
+          "timeSpent": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ",
           "title": "ELX anim fixing (v4) 0.25"
         }
       ],
@@ -65,7 +65,7 @@
     },
     {
       "date": "2026-05-18",
-      "message": "họp 45p\nsửa SN card 1 2 khoảng 30p\ncái LDA lần này hơi lắm nhân vật nên là vẽ hơi lâu",
+      "message": "há»p 45p\nsá»­a SN card 1 2 khoáº£ng 30p\ncÃ¡i LDA láº§n nÃ y hÆ¡i láº¯m nhÃ¢n váº­t nÃªn lÃ  váº½ hÆ¡i lÃ¢u",
       "submittedAt": "2026-05-18T10:58:58.776Z",
       "tasks": [
         {
@@ -76,6 +76,20 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_717eedeefe94e9824fbd72716d7eb234",
+      "submittedAt": "2026-05-18T11:09:03.087Z",
+      "date": "2026-05-18",
+      "tasks": [
+        {
+          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
+          "title": "North Carolina Museum Video 14 - ONLY 2.5 min in 4.5 min (3.5)",
+          "progress": "100%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
