@@ -1,19 +1,14 @@
 {
-  "date": "15-May",
-  "generatedAt": "2026-05-15T10:45:41.398Z",
+  "date": "18-May",
+  "generatedAt": "2026-05-18T10:45:47.576Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "15-May",
-          "dueDate": "18/5",
-          "task": "UV: Booth Design D60 and D45 x2 version (0.75)"
-        },
-        {
-          "date": "15-May",
-          "dueDate": "15/5",
-          "task": "Flashcard: 1 card (1h) 63"
+          "date": "18-May",
+          "dueDate": "20/5",
+          "task": "LDA Meet Maya ~2 min (1.5)"
         }
       ]
     },
@@ -21,7 +16,7 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "15-May",
+          "date": "18-May",
           "dueDate": "21/5",
           "task": "North Carolina Museum Video 14 - ONLY 2 min in 4.5 min (2)"
         }
@@ -31,7 +26,7 @@
       "member": "Vân",
       "tasks": [
         {
-          "date": "15-May",
+          "date": "18-May",
           "dueDate": "21/5",
           "task": "North Carolina Museum Video 14 - ONLY 2.5 min in 4.5 min (3.5)"
         }
@@ -41,14 +36,9 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "15-May",
+          "date": "18-May",
           "dueDate": "20/5",
           "task": "North Carolina Museum Video 11 - 2 min (2)"
-        },
-        {
-          "date": "15-May",
-          "dueDate": "15/5",
-          "task": "ELX anim fixing (v4) 0.25"
         }
       ]
     },
@@ -56,7 +46,7 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "15-May",
+          "date": "18-May",
           "dueDate": "20/5",
           "task": "North Carolina Museum Video 10 - 3 min (3)"
         }
@@ -66,7 +56,7 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "15-May",
+          "date": "18-May",
           "dueDate": "22/5",
           "task": "SN Outdated Content: SpO2 ~11 mins Anim (3) - 2.5"
         }
@@ -74,5 +64,5 @@
     }
   ],
   "totalMembers": 6,
-  "totalTasks": 8
+  "totalTasks": 6
 }
