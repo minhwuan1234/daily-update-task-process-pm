@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-05-19",
-      "message": "Sửa SN flashcard (khách)\nSửa AMD (khách)\nTổng: khoảng 1 tiếng",
+      "message": "Sá»­a SN flashcard (khÃ¡ch)\nSá»­a AMD (khÃ¡ch)\nTá»ng: khoáº£ng 1 tiáº¿ng",
       "submittedAt": "2026-05-19T10:47:50.045Z",
       "tasks": [
         {
@@ -15,11 +15,25 @@
         {
           "progress": "100%",
           "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-1",
-          "timeSpent": "—",
+          "timeSpent": "â",
           "title": "North Carolina Museum Video 14 - ONLY 2.5 min in 4.5 min (3.5)"
         }
       ],
       "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-05-19T10:51:18.746Z",
+      "date": "2026-05-19",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "SN Outdated Content: Temperature ~12.5 mins Anim (4)\nDue: pending",
+          "progress": "10%",
+          "timeSpent": "5h"
+        }
+      ],
+      "message": "Bảo tàng video 10 (3h)"
     }
   ]
 }
