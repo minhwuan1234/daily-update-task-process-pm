@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-05-19",
-      "message": "Sá»­a SN flashcard (khÃ¡ch)\nSá»­a AMD (khÃ¡ch)\nTá»ng: khoáº£ng 1 tiáº¿ng",
+      "message": "SÃ¡Â»Â­a SN flashcard (khÃÂ¡ch)\nSÃ¡Â»Â­a AMD (khÃÂ¡ch)\nTÃ¡Â»Âng: khoÃ¡ÂºÂ£ng 1 tiÃ¡ÂºÂ¿ng",
       "submittedAt": "2026-05-19T10:47:50.045Z",
       "tasks": [
         {
@@ -15,7 +15,7 @@
         {
           "progress": "100%",
           "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-1",
-          "timeSpent": "â",
+          "timeSpent": "Ã¢ÂÂ",
           "title": "North Carolina Museum Video 14 - ONLY 2.5 min in 4.5 min (3.5)"
         }
       ],
@@ -23,7 +23,7 @@
     },
     {
       "date": "2026-05-19",
-      "message": "Bảo tàng video 10 (3h)",
+      "message": "Báº£o tÃ ng video 10 (3h)",
       "submittedAt": "2026-05-19T10:51:18.746Z",
       "tasks": [
         {
@@ -34,6 +34,20 @@
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-05-19T10:52:41.212Z",
+      "date": "2026-05-19",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "SN Outdated Content: SpO2 ~11 mins Anim (3) - 2.5",
+          "progress": "100%",
+          "timeSpent": "4h"
+        }
+      ],
+      "message": "Sửa card (khách) 0,5h, sửa vid AMD (khách) 0,5h, card 108 - 113 3h"
     }
   ]
 }
