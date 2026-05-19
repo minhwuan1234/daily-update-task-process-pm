@@ -22,18 +22,18 @@
       "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
     },
     {
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
-      "submittedAt": "2026-05-19T10:51:18.746Z",
       "date": "2026-05-19",
+      "message": "Bảo tàng video 10 (3h)",
+      "submittedAt": "2026-05-19T10:51:18.746Z",
       "tasks": [
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "title": "SN Outdated Content: Temperature ~12.5 mins Anim (4)\nDue: pending",
           "progress": "10%",
-          "timeSpent": "5h"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "timeSpent": "5h",
+          "title": "SN Outdated Content: Temperature ~12.5 mins Anim (4)\nDue: pending"
         }
       ],
-      "message": "Bảo tàng video 10 (3h)"
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     }
   ]
 }
