@@ -2,24 +2,24 @@
   "date": "2026-05-19",
   "responses": [
     {
-      "userId": "ou_717eedeefe94e9824fbd72716d7eb234",
-      "submittedAt": "2026-05-19T10:47:50.045Z",
       "date": "2026-05-19",
+      "message": "Sửa SN flashcard (khách)\nSửa AMD (khách)\nTổng: khoảng 1 tiếng",
+      "submittedAt": "2026-05-19T10:47:50.045Z",
       "tasks": [
         {
-          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
-          "title": "Flashcard: 12 cards (3) 96-107",
           "progress": "40%",
-          "timeSpent": "7h"
+          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
+          "timeSpent": "7h",
+          "title": "Flashcard: 12 cards (3) 96-107"
         },
         {
-          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-1",
-          "title": "North Carolina Museum Video 14 - ONLY 2.5 min in 4.5 min (3.5)",
           "progress": "100%",
-          "timeSpent": "—"
+          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-1",
+          "timeSpent": "—",
+          "title": "North Carolina Museum Video 14 - ONLY 2.5 min in 4.5 min (3.5)"
         }
       ],
-      "message": "Sửa SN flashcard (khách)\nSửa AMD (khách)\nTổng: khoảng 1 tiếng"
+      "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
     }
   ]
 }
