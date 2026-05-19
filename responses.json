@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-05-19",
-      "message": "SÃ¡Â»Â­a SN flashcard (khÃÂ¡ch)\nSÃ¡Â»Â­a AMD (khÃÂ¡ch)\nTÃ¡Â»Âng: khoÃ¡ÂºÂ£ng 1 tiÃ¡ÂºÂ¿ng",
+      "message": "SÃÂ¡ÃÂ»ÃÂ­a SN flashcard (khÃÂÃÂ¡ch)\nSÃÂ¡ÃÂ»ÃÂ­a AMD (khÃÂÃÂ¡ch)\nTÃÂ¡ÃÂ»ÃÂng: khoÃÂ¡ÃÂºÃÂ£ng 1 tiÃÂ¡ÃÂºÃÂ¿ng",
       "submittedAt": "2026-05-19T10:47:50.045Z",
       "tasks": [
         {
@@ -15,7 +15,7 @@
         {
           "progress": "100%",
           "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-1",
-          "timeSpent": "Ã¢ÂÂ",
+          "timeSpent": "ÃÂ¢ÃÂÃÂ",
           "title": "North Carolina Museum Video 14 - ONLY 2.5 min in 4.5 min (3.5)"
         }
       ],
@@ -23,7 +23,7 @@
     },
     {
       "date": "2026-05-19",
-      "message": "Báº£o tÃ ng video 10 (3h)",
+      "message": "BÃ¡ÂºÂ£o tÃÂ ng video 10 (3h)",
       "submittedAt": "2026-05-19T10:51:18.746Z",
       "tasks": [
         {
@@ -37,7 +37,7 @@
     },
     {
       "date": "2026-05-19",
-      "message": "Sửa card (khách) 0,5h, sửa vid AMD (khách) 0,5h, card 108 - 113 3h",
+      "message": "Sá»­a card (khÃ¡ch) 0,5h, sá»­a vid AMD (khÃ¡ch) 0,5h, card 108 - 113 3h",
       "submittedAt": "2026-05-19T10:52:41.212Z",
       "tasks": [
         {
@@ -48,6 +48,20 @@
         }
       ],
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+    },
+    {
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-05-19T11:01:38.335Z",
+      "date": "2026-05-19",
+      "tasks": [
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "title": "LDA Meet Maya ~2 min (2.5)",
+          "progress": "90%",
+          "timeSpent": "6h"
+        }
+      ],
+      "message": "Sửa UV 1,5h còn đâu mấy cái hỏi linh tinh của mọi người"
     }
   ]
 }
