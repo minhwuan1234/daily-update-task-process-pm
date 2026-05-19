@@ -1,95 +1,25 @@
 {
-  "date": "2026-05-18",
+  "date": "2026-05-19",
   "responses": [
     {
-      "date": "2026-05-18",
-      "message": "SÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ»ÃÂÃÂÃÂÃÂ­a flashcard SN nÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ»ÃÂÃÂÃÂÃÂi bÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ»ÃÂÃÂÃÂÃÂ 1h",
-      "submittedAt": "2026-05-18T01:43:55.157Z",
+      "userId": "ou_717eedeefe94e9824fbd72716d7eb234",
+      "submittedAt": "2026-05-19T10:47:50.045Z",
+      "date": "2026-05-19",
       "tasks": [
         {
+          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
+          "title": "Flashcard: 12 cards (3) 96-107",
           "progress": "40%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "8h",
-          "title": "North Carolina Museum Video 14 - ONLY 2 min in 4.5 min (2)"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-05-18",
-      "message": "",
-      "submittedAt": "2026-05-18T10:46:30.812Z",
-      "tasks": [
-        {
-          "progress": "70%",
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ",
-          "title": "North Carolina Museum Video 11 - 2 min (2)"
+          "timeSpent": "7h"
         },
         {
+          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-1",
+          "title": "North Carolina Museum Video 14 - ONLY 2.5 min in 4.5 min (3.5)",
           "progress": "100%",
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
-          "timeSpent": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ",
-          "title": "ELX anim fixing (v4) 0.25"
+          "timeSpent": "—"
         }
       ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
-    },
-    {
-      "date": "2026-05-18",
-      "message": "Sua card SN (khach) - 0,5h",
-      "submittedAt": "2026-05-18T10:49:53.783Z",
-      "tasks": [
-        {
-          "progress": "90%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "7.5h",
-          "title": "SN Outdated Content: SpO2 ~11 mins Anim (3) - 2.5"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
-    },
-    {
-      "date": "2026-05-18",
-      "message": "",
-      "submittedAt": "2026-05-18T10:50:22.617Z",
-      "tasks": [
-        {
-          "progress": "80%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "8h",
-          "title": "North Carolina Museum Video 10 - 3 min (3)"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-05-18",
-      "message": "há»p 45p\nsá»­a SN card 1 2 khoáº£ng 30p\ncÃ¡i LDA láº§n nÃ y hÆ¡i láº¯m nhÃ¢n váº­t nÃªn lÃ  váº½ hÆ¡i lÃ¢u",
-      "submittedAt": "2026-05-18T10:58:58.776Z",
-      "tasks": [
-        {
-          "progress": "30%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "6.5h",
-          "title": "LDA Meet Maya ~2 min (1.5)"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-05-18",
-      "message": "",
-      "submittedAt": "2026-05-18T11:09:03.087Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
-          "timeSpent": "8h",
-          "title": "North Carolina Museum Video 14 - ONLY 2.5 min in 4.5 min (3.5)"
-        }
-      ],
-      "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
+      "message": "Sửa SN flashcard (khách)\nSửa AMD (khách)\nTổng: khoảng 1 tiếng"
     }
   ]
 }
