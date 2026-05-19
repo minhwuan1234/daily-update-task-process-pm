@@ -50,18 +50,18 @@
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     },
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-05-19T11:01:38.335Z",
       "date": "2026-05-19",
+      "message": "Sửa UV 1,5h còn đâu mấy cái hỏi linh tinh của mọi người",
+      "submittedAt": "2026-05-19T11:01:38.335Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "LDA Meet Maya ~2 min (2.5)",
           "progress": "90%",
-          "timeSpent": "6h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "6h",
+          "title": "LDA Meet Maya ~2 min (2.5)"
         }
       ],
-      "message": "Sửa UV 1,5h còn đâu mấy cái hỏi linh tinh của mọi người"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }
