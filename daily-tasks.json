@@ -1,24 +1,14 @@
 {
-  "date": "18-May",
-  "generatedAt": "2026-05-18T10:45:47.576Z",
+  "date": "19-May",
+  "generatedAt": "2026-05-19T10:45:23.625Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "18-May",
+          "date": "19-May",
           "dueDate": "20/5",
-          "task": "LDA Meet Maya ~2 min (1.5)"
-        }
-      ]
-    },
-    {
-      "member": "Thảo Vi",
-      "tasks": [
-        {
-          "date": "18-May",
-          "dueDate": "21/5",
-          "task": "North Carolina Museum Video 14 - ONLY 2 min in 4.5 min (2)"
+          "task": "LDA Meet Maya ~2 min (2.5)"
         }
       ]
     },
@@ -26,7 +16,12 @@
       "member": "Vân",
       "tasks": [
         {
-          "date": "18-May",
+          "date": "19-May",
+          "dueDate": "22/5",
+          "task": "Flashcard: 12 cards (3) 96-107"
+        },
+        {
+          "date": "19-May",
           "dueDate": "21/5",
           "task": "North Carolina Museum Video 14 - ONLY 2.5 min in 4.5 min (3.5)"
         }
@@ -36,7 +31,7 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "18-May",
+          "date": "19-May",
           "dueDate": "20/5",
           "task": "North Carolina Museum Video 11 - 2 min (2)"
         }
@@ -46,9 +41,9 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "18-May",
-          "dueDate": "20/5",
-          "task": "North Carolina Museum Video 10 - 3 min (3)"
+          "date": "19-May",
+          "dueDate": null,
+          "task": "SN Outdated Content: Temperature ~12.5 mins Anim (4)\nDue: pending"
         }
       ]
     },
@@ -56,13 +51,13 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "18-May",
+          "date": "19-May",
           "dueDate": "22/5",
           "task": "SN Outdated Content: SpO2 ~11 mins Anim (3) - 2.5"
         }
       ]
     }
   ],
-  "totalMembers": 6,
+  "totalMembers": 5,
   "totalTasks": 6
 }
