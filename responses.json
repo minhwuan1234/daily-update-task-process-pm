@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-05-20",
-      "message": "BÃ¡ÂºÂ£o tÃÂ ng video 10 (1.5h)",
+      "message": "BÃÂ¡ÃÂºÃÂ£o tÃÂÃÂ ng video 10 (1.5h)",
       "submittedAt": "2026-05-20T10:52:59.408Z",
       "tasks": [
         {
@@ -37,7 +37,7 @@
     },
     {
       "date": "2026-05-20",
-      "message": "cÃ¡c task sau ÄÃ¢y xen káº½ nhau nhÆ° lÃ¡ sen chen nhá»¥y vÃ ng\n~45p sá»­a UV Booth\n~1,2h sá»­a SN 12\n~ 45p cmt báº£o tÃ ng 16\ncÃ²n láº¡i lÃ m flashcard 91",
+      "message": "cÃÂ¡c task sau ÃÂÃÂ¢y xen kÃ¡ÂºÂ½ nhau nhÃÂ° lÃÂ¡ sen chen nhÃ¡Â»Â¥y vÃÂ ng\n~45p sÃ¡Â»Â­a UV Booth\n~1,2h sÃ¡Â»Â­a SN 12\n~ 45p cmt bÃ¡ÂºÂ£o tÃÂ ng 16\ncÃÂ²n lÃ¡ÂºÂ¡i lÃÂ m flashcard 91",
       "submittedAt": "2026-05-20T10:53:40.034Z",
       "tasks": [
         {
@@ -51,7 +51,7 @@
     },
     {
       "date": "2026-05-20",
-      "message": "Sáng: sửa bảo tàng video 12 1h + sửa SN graduation video 2h",
+      "message": "SÃ¡ng: sá»­a báº£o tÃ ng video 12 1h + sá»­a SN graduation video 2h",
       "submittedAt": "2026-05-20T11:27:28.089Z",
       "tasks": [
         {
@@ -62,6 +62,20 @@
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+    },
+    {
+      "userId": "ou_717eedeefe94e9824fbd72716d7eb234",
+      "submittedAt": "2026-05-20T11:46:25.415Z",
+      "date": "2026-05-20",
+      "tasks": [
+        {
+          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
+          "title": "Flashcard: 12 cards (3) 96-107",
+          "progress": "80%",
+          "timeSpent": "4h"
+        }
+      ],
+      "message": "sửa bảo tàng lần 1 (4 tiếng)"
     }
   ]
 }
