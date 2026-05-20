@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-05-20",
-      "message": "Báº£o tÃ ng video 10 (1.5h)",
+      "message": "BÃ¡ÂºÂ£o tÃÂ ng video 10 (1.5h)",
       "submittedAt": "2026-05-20T10:52:59.408Z",
       "tasks": [
         {
@@ -37,7 +37,7 @@
     },
     {
       "date": "2026-05-20",
-      "message": "các task sau đây xen kẽ nhau như lá sen chen nhụy vàng\n~45p sửa UV Booth\n~1,2h sửa SN 12\n~ 45p cmt bảo tàng 16\ncòn lại làm flashcard 91",
+      "message": "cÃ¡c task sau ÄÃ¢y xen káº½ nhau nhÆ° lÃ¡ sen chen nhá»¥y vÃ ng\n~45p sá»­a UV Booth\n~1,2h sá»­a SN 12\n~ 45p cmt báº£o tÃ ng 16\ncÃ²n láº¡i lÃ m flashcard 91",
       "submittedAt": "2026-05-20T10:53:40.034Z",
       "tasks": [
         {
@@ -48,6 +48,20 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-05-20T11:27:28.089Z",
+      "date": "2026-05-20",
+      "tasks": [
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "North Carolina Museum Video 18 - 4 min (4)",
+          "progress": "20%",
+          "timeSpent": "4h"
+        }
+      ],
+      "message": "Sáng: sửa bảo tàng video 12 1h + sửa SN graduation video 2h"
     }
   ]
 }
