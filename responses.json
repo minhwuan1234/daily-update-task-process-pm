@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-05-20",
-      "message": "Bảo tàng video 10 (1.5h)",
+      "message": "Báº£o tÃ ng video 10 (1.5h)",
       "submittedAt": "2026-05-20T10:52:59.408Z",
       "tasks": [
         {
@@ -34,6 +34,20 @@
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-05-20T10:53:40.034Z",
+      "date": "2026-05-20",
+      "tasks": [
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "title": "LDA Meet Maya ~2 min (2.5)",
+          "progress": "100%",
+          "timeSpent": "3h"
+        }
+      ],
+      "message": "các task sau đây xen kẽ nhau như lá sen chen nhụy vàng\n~45p sửa UV Booth\n~1,2h sửa SN 12\n~ 45p cmt bảo tàng 16\ncòn lại làm flashcard 91"
     }
   ]
 }
