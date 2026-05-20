@@ -50,18 +50,18 @@
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     },
     {
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-05-20T11:27:28.089Z",
       "date": "2026-05-20",
+      "message": "Sáng: sửa bảo tàng video 12 1h + sửa SN graduation video 2h",
+      "submittedAt": "2026-05-20T11:27:28.089Z",
       "tasks": [
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "North Carolina Museum Video 18 - 4 min (4)",
           "progress": "20%",
-          "timeSpent": "4h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "timeSpent": "4h",
+          "title": "North Carolina Museum Video 18 - 4 min (4)"
         }
       ],
-      "message": "Sáng: sửa bảo tàng video 12 1h + sửa SN graduation video 2h"
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     }
   ]
 }
