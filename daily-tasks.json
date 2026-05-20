@@ -1,14 +1,24 @@
 {
-  "date": "19-May",
-  "generatedAt": "2026-05-19T10:45:23.625Z",
+  "date": "20-May",
+  "generatedAt": "2026-05-20T10:45:24.865Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "19-May",
+          "date": "20-May",
           "dueDate": "20/5",
           "task": "LDA Meet Maya ~2 min (2.5)"
+        }
+      ]
+    },
+    {
+      "member": "Thảo Vi",
+      "tasks": [
+        {
+          "date": "20-May",
+          "dueDate": "28/5",
+          "task": "North Carolina Museum Video 18 - 4 min (4)"
         }
       ]
     },
@@ -16,14 +26,9 @@
       "member": "Vân",
       "tasks": [
         {
-          "date": "19-May",
+          "date": "20-May",
           "dueDate": "22/5",
           "task": "Flashcard: 12 cards (3) 96-107"
-        },
-        {
-          "date": "19-May",
-          "dueDate": "21/5",
-          "task": "North Carolina Museum Video 14 - ONLY 2.5 min in 4.5 min (3.5)"
         }
       ]
     },
@@ -31,9 +36,14 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "19-May",
+          "date": "20-May",
           "dueDate": "20/5",
           "task": "North Carolina Museum Video 11 - 2 min (2)"
+        },
+        {
+          "date": "20-May",
+          "dueDate": "22/5",
+          "task": "SN Priority: : 13. Diabetes Complications You Must Know for Nursing School - 5min (2)"
         }
       ]
     },
@@ -41,9 +51,14 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "19-May",
+          "date": "20-May",
           "dueDate": null,
           "task": "SN Outdated Content: Temperature ~12.5 mins Anim (4)\nDue: pending"
+        },
+        {
+          "date": "20-May",
+          "dueDate": "22/5",
+          "task": "SN Priority: 12.DKA vs HHS: How to Tell the Difference on the NCLEX - 6min (1.5)"
         }
       ]
     },
@@ -51,13 +66,13 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "19-May",
+          "date": "20-May",
           "dueDate": "22/5",
-          "task": "SN Outdated Content: SpO2 ~11 mins Anim (3) - 2.5"
+          "task": "Flashcard: 6 cards (2) 108 - 113"
         }
       ]
     }
   ],
-  "totalMembers": 5,
-  "totalTasks": 6
+  "totalMembers": 6,
+  "totalTasks": 8
 }
