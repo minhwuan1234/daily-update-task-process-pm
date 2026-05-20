@@ -64,18 +64,18 @@
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     },
     {
-      "userId": "ou_717eedeefe94e9824fbd72716d7eb234",
-      "submittedAt": "2026-05-20T11:46:25.415Z",
       "date": "2026-05-20",
+      "message": "sửa bảo tàng lần 1 (4 tiếng)",
+      "submittedAt": "2026-05-20T11:46:25.415Z",
       "tasks": [
         {
-          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
-          "title": "Flashcard: 12 cards (3) 96-107",
           "progress": "80%",
-          "timeSpent": "4h"
+          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
+          "timeSpent": "4h",
+          "title": "Flashcard: 12 cards (3) 96-107"
         }
       ],
-      "message": "sửa bảo tàng lần 1 (4 tiếng)"
+      "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
     }
   ]
 }
