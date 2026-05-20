@@ -16,24 +16,24 @@
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     },
     {
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
-      "submittedAt": "2026-05-20T10:52:59.408Z",
       "date": "2026-05-20",
+      "message": "Bảo tàng video 10 (1.5h)",
+      "submittedAt": "2026-05-20T10:52:59.408Z",
       "tasks": [
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "title": "SN Outdated Content: Temperature ~12.5 mins Anim (4)\nDue: pending",
           "progress": "50%",
-          "timeSpent": "5h"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "timeSpent": "5h",
+          "title": "SN Outdated Content: Temperature ~12.5 mins Anim (4)\nDue: pending"
         },
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
-          "title": "SN Priority: 12.DKA vs HHS: How to Tell the Difference on the NCLEX - 6min (1.5)",
           "progress": "10%",
-          "timeSpent": "1.5h"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
+          "timeSpent": "1.5h",
+          "title": "SN Priority: 12.DKA vs HHS: How to Tell the Difference on the NCLEX - 6min (1.5)"
         }
       ],
-      "message": "Bảo tàng video 10 (1.5h)"
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     }
   ]
 }
