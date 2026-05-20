@@ -36,18 +36,18 @@
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     },
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-05-20T10:53:40.034Z",
       "date": "2026-05-20",
+      "message": "các task sau đây xen kẽ nhau như lá sen chen nhụy vàng\n~45p sửa UV Booth\n~1,2h sửa SN 12\n~ 45p cmt bảo tàng 16\ncòn lại làm flashcard 91",
+      "submittedAt": "2026-05-20T10:53:40.034Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "LDA Meet Maya ~2 min (2.5)",
           "progress": "100%",
-          "timeSpent": "3h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "3h",
+          "title": "LDA Meet Maya ~2 min (2.5)"
         }
       ],
-      "message": "các task sau đây xen kẽ nhau như lá sen chen nhụy vàng\n~45p sửa UV Booth\n~1,2h sửa SN 12\n~ 45p cmt bảo tàng 16\ncòn lại làm flashcard 91"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }
