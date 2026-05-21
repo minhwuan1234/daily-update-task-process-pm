@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-05-21",
-      "message": "ÃÂn trÃ¡Â»Âm khoÃ¡ÂºÂ£ng 2h ÃÂÃ¡Â»Â cmt design 35 card cÃÂ¹ng HÃÂ \n30p cÃÂ²n lÃ¡ÂºÂ¡i mÃÂºa",
+      "message": "ÃÂÃÂn trÃÂ¡ÃÂ»ÃÂm khoÃÂ¡ÃÂºÃÂ£ng 2h ÃÂÃÂÃÂ¡ÃÂ»ÃÂ cmt design 35 card cÃÂÃÂ¹ng HÃÂÃÂ \n30p cÃÂÃÂ²n lÃÂ¡ÃÂºÃÂ¡i mÃÂÃÂºa",
       "submittedAt": "2026-05-21T10:51:03.530Z",
       "tasks": [
         {
@@ -31,7 +31,7 @@
     },
     {
       "date": "2026-05-21",
-      "message": "ThÃªm 0,5h sá»­a AMD (khÃ¡ch) áº¡",
+      "message": "ThÃÂªm 0,5h sÃ¡Â»Â­a AMD (khÃÂ¡ch) Ã¡ÂºÂ¡",
       "submittedAt": "2026-05-21T11:13:39.638Z",
       "tasks": [
         {
@@ -51,7 +51,7 @@
     },
     {
       "date": "2026-05-21",
-      "message": "Tìm ref ISTOS 1h",
+      "message": "TÃ¬m ref ISTOS 1h",
       "submittedAt": "2026-05-21T11:28:58.518Z",
       "tasks": [
         {
@@ -62,6 +62,20 @@
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+    },
+    {
+      "userId": "ou_e273fec35061a42660190f8c70f19882",
+      "submittedAt": "2026-05-21T11:54:37.465Z",
+      "date": "2026-05-21",
+      "tasks": [
+        {
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
+          "title": "SN Priority: : 13. Diabetes Complications You Must Know for Nursing School - 5min (2)",
+          "progress": "40%",
+          "timeSpent": "—"
+        }
+      ],
+      "message": ""
     }
   ]
 }
