@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-05-22",
-      "message": "cÃÂÃÂ²n lÃÂ¡ÃÂºÃÂ¡i sÃÂ¡ÃÂ»ÃÂ­a bÃÂ¡ÃÂºÃÂ£o tÃÂÃÂ ng 10 (~30p)\nbÃÂ¡ÃÂºÃÂ£o tÃÂÃÂ ng 13 (~1h)\nsÃÂ¡ÃÂ»ÃÂ­a nhÃÂÃÂ  6 (~30p)\nsÃÂ¡ÃÂ»ÃÂ­a card + guide (30p)",
+      "message": "cÃÂÃÂÃÂÃÂ²n lÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¡i sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a bÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ£o tÃÂÃÂÃÂÃÂ ng 10 (~30p)\nbÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ£o tÃÂÃÂÃÂÃÂ ng 13 (~1h)\nsÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a nhÃÂÃÂÃÂÃÂ  6 (~30p)\nsÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a card + guide (30p)",
       "submittedAt": "2026-05-22T10:48:34.148Z",
       "tasks": [
         {
@@ -23,13 +23,13 @@
         {
           "progress": "0%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "Ã¢ÂÂ",
+          "timeSpent": "ÃÂ¢ÃÂÃÂ",
           "title": "North Carolina Museum Video 12 - 36s (0.5)"
         },
         {
           "progress": "100%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
-          "timeSpent": "Ã¢ÂÂ",
+          "timeSpent": "ÃÂ¢ÃÂÃÂ",
           "title": "SN Priority: : 13. Diabetes Complications You Must Know for Nursing School - 5min (2)"
         }
       ],
@@ -51,7 +51,7 @@
     },
     {
       "date": "2026-05-22",
-      "message": "sửa sn flashcard 97-104",
+      "message": "sá»­a sn flashcard 97-104",
       "submittedAt": "2026-05-22T11:30:53.783Z",
       "tasks": [
         {
@@ -62,6 +62,26 @@
         }
       ],
       "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-05-22T11:34:17.327Z",
+      "date": "2026-05-22",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "Flashcard: 4 cards (1) 96 105-107",
+          "progress": "100%",
+          "timeSpent": "1.5h"
+        },
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
+          "title": "Healthcare Showreel (2)",
+          "progress": "60%",
+          "timeSpent": "6h"
+        }
+      ],
+      "message": "0,5h AMD (khách), 0,5h sửa card 108 - 113 đã cộng vào 1,5 h sửa card ở trên."
     }
   ]
 }
