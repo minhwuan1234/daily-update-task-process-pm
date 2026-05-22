@@ -36,18 +36,18 @@
       "userId": "ou_e273fec35061a42660190f8c70f19882"
     },
     {
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-05-22T11:26:48.716Z",
       "date": "2026-05-22",
+      "message": "",
+      "submittedAt": "2026-05-22T11:26:48.716Z",
       "tasks": [
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "North Carolina Museum Video 18 - 4 min (4)",
           "progress": "50%",
-          "timeSpent": "8h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "timeSpent": "8h",
+          "title": "North Carolina Museum Video 18 - 4 min (4)"
         }
       ],
-      "message": ""
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     }
   ]
 }
