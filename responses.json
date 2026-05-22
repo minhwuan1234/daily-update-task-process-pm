@@ -64,24 +64,24 @@
       "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
     },
     {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-05-22T11:34:17.327Z",
       "date": "2026-05-22",
+      "message": "0,5h AMD (khách), 0,5h sửa card 108 - 113 đã cộng vào 1,5 h sửa card ở trên.",
+      "submittedAt": "2026-05-22T11:34:17.327Z",
       "tasks": [
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "Flashcard: 4 cards (1) 96 105-107",
           "progress": "100%",
-          "timeSpent": "1.5h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "timeSpent": "1.5h",
+          "title": "Flashcard: 4 cards (1) 96 105-107"
         },
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
-          "title": "Healthcare Showreel (2)",
           "progress": "60%",
-          "timeSpent": "6h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
+          "timeSpent": "6h",
+          "title": "Healthcare Showreel (2)"
         }
       ],
-      "message": "0,5h AMD (khách), 0,5h sửa card 108 - 113 đã cộng vào 1,5 h sửa card ở trên."
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     }
   ]
 }
