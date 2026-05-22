@@ -50,18 +50,18 @@
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     },
     {
-      "userId": "ou_717eedeefe94e9824fbd72716d7eb234",
-      "submittedAt": "2026-05-22T11:30:53.783Z",
       "date": "2026-05-22",
+      "message": "sửa sn flashcard 97-104",
+      "submittedAt": "2026-05-22T11:30:53.783Z",
       "tasks": [
         {
-          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
-          "title": "SN Summer Strategy - 2 min (2)",
           "progress": "70%",
-          "timeSpent": "6.5h"
+          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
+          "timeSpent": "6.5h",
+          "title": "SN Summer Strategy - 2 min (2)"
         }
       ],
-      "message": "sửa sn flashcard 97-104"
+      "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
     }
   ]
 }
