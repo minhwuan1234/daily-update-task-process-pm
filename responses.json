@@ -2,18 +2,18 @@
   "date": "2026-05-22",
   "responses": [
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-05-22T10:48:34.148Z",
       "date": "2026-05-22",
+      "message": "còn lại sửa bảo tàng 10 (~30p)\nbảo tàng 13 (~1h)\nsửa nhà 6 (~30p)\nsửa card + guide (30p)",
+      "submittedAt": "2026-05-22T10:48:34.148Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "LDA Late Engagement Scenario ~2 min (1.5)",
           "progress": "40%",
-          "timeSpent": "5.5h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "5.5h",
+          "title": "LDA Late Engagement Scenario ~2 min (1.5)"
         }
       ],
-      "message": "còn lại sửa bảo tàng 10 (~30p)\nbảo tàng 13 (~1h)\nsửa nhà 6 (~30p)\nsửa card + guide (30p)"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }
