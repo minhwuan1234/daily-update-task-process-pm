@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-05-22",
-      "message": "cÃ²n láº¡i sá»­a báº£o tÃ ng 10 (~30p)\nbáº£o tÃ ng 13 (~1h)\nsá»­a nhÃ  6 (~30p)\nsá»­a card + guide (30p)",
+      "message": "cÃÂ²n lÃ¡ÂºÂ¡i sÃ¡Â»Â­a bÃ¡ÂºÂ£o tÃÂ ng 10 (~30p)\nbÃ¡ÂºÂ£o tÃÂ ng 13 (~1h)\nsÃ¡Â»Â­a nhÃÂ  6 (~30p)\nsÃ¡Â»Â­a card + guide (30p)",
       "submittedAt": "2026-05-22T10:48:34.148Z",
       "tasks": [
         {
@@ -23,17 +23,31 @@
         {
           "progress": "0%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "—",
+          "timeSpent": "â",
           "title": "North Carolina Museum Video 12 - 36s (0.5)"
         },
         {
           "progress": "100%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
-          "timeSpent": "—",
+          "timeSpent": "â",
           "title": "SN Priority: : 13. Diabetes Complications You Must Know for Nursing School - 5min (2)"
         }
       ],
       "userId": "ou_e273fec35061a42660190f8c70f19882"
+    },
+    {
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-05-22T11:26:48.716Z",
+      "date": "2026-05-22",
+      "tasks": [
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "North Carolina Museum Video 18 - 4 min (4)",
+          "progress": "50%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
