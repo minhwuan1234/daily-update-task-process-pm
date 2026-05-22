@@ -1,81 +1,19 @@
 {
-  "date": "2026-05-21",
+  "date": "2026-05-22",
   "responses": [
     {
-      "date": "2026-05-21",
-      "message": "",
-      "submittedAt": "2026-05-21T10:49:16.459Z",
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-05-22T10:48:34.148Z",
+      "date": "2026-05-22",
       "tasks": [
         {
-          "progress": "70%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "8h",
-          "title": "SN Priority: 12.DKA vs HHS: How to Tell the Difference on the NCLEX - 6min (1.5)"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-05-21",
-      "message": "ÃÂÃÂn trÃÂ¡ÃÂ»ÃÂm khoÃÂ¡ÃÂºÃÂ£ng 2h ÃÂÃÂÃÂ¡ÃÂ»ÃÂ cmt design 35 card cÃÂÃÂ¹ng HÃÂÃÂ \n30p cÃÂÃÂ²n lÃÂ¡ÃÂºÃÂ¡i mÃÂÃÂºa",
-      "submittedAt": "2026-05-21T10:51:03.530Z",
-      "tasks": [
-        {
-          "progress": "100%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "5.5h",
-          "title": "Flashcard: 5 cards 91-95"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-05-21",
-      "message": "ThÃÂªm 0,5h sÃ¡Â»Â­a AMD (khÃÂ¡ch) Ã¡ÂºÂ¡",
-      "submittedAt": "2026-05-21T11:13:39.638Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "4h",
-          "title": "Flashcard: 4 cards (1) 96 105-107"
-        },
-        {
-          "progress": "10%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
-          "timeSpent": "3.5h",
-          "title": "Healthcare Showreel (2)"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
-    },
-    {
-      "date": "2026-05-21",
-      "message": "TÃ¬m ref ISTOS 1h",
-      "submittedAt": "2026-05-21T11:28:58.518Z",
-      "tasks": [
-        {
+          "title": "LDA Late Engagement Scenario ~2 min (1.5)",
           "progress": "40%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "7h",
-          "title": "North Carolina Museum Video 18 - 4 min (4)"
+          "timeSpent": "5.5h"
         }
       ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-05-21",
-      "message": "",
-      "submittedAt": "2026-05-21T11:54:37.465Z",
-      "tasks": [
-        {
-          "progress": "40%",
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "—",
-          "title": "SN Priority: : 13. Diabetes Complications You Must Know for Nursing School - 5min (2)"
-        }
-      ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
+      "message": "còn lại sửa bảo tàng 10 (~30p)\nbảo tàng 13 (~1h)\nsửa nhà 6 (~30p)\nsửa card + guide (30p)"
     }
   ]
 }
