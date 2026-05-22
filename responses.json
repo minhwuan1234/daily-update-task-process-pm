@@ -16,24 +16,24 @@
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     },
     {
-      "userId": "ou_e273fec35061a42660190f8c70f19882",
-      "submittedAt": "2026-05-22T10:57:36.750Z",
       "date": "2026-05-22",
+      "message": "",
+      "submittedAt": "2026-05-22T10:57:36.750Z",
       "tasks": [
         {
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "title": "North Carolina Museum Video 12 - 36s (0.5)",
           "progress": "0%",
-          "timeSpent": "—"
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
+          "timeSpent": "—",
+          "title": "North Carolina Museum Video 12 - 36s (0.5)"
         },
         {
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
-          "title": "SN Priority: : 13. Diabetes Complications You Must Know for Nursing School - 5min (2)",
           "progress": "100%",
-          "timeSpent": "—"
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
+          "timeSpent": "—",
+          "title": "SN Priority: : 13. Diabetes Complications You Must Know for Nursing School - 5min (2)"
         }
       ],
-      "message": ""
+      "userId": "ou_e273fec35061a42660190f8c70f19882"
     }
   ]
 }
