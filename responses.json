@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-05-22",
-      "message": "cÃÂ²n lÃ¡ÂºÂ¡i sÃ¡Â»Â­a bÃ¡ÂºÂ£o tÃÂ ng 10 (~30p)\nbÃ¡ÂºÂ£o tÃÂ ng 13 (~1h)\nsÃ¡Â»Â­a nhÃÂ  6 (~30p)\nsÃ¡Â»Â­a card + guide (30p)",
+      "message": "cÃÂÃÂ²n lÃÂ¡ÃÂºÃÂ¡i sÃÂ¡ÃÂ»ÃÂ­a bÃÂ¡ÃÂºÃÂ£o tÃÂÃÂ ng 10 (~30p)\nbÃÂ¡ÃÂºÃÂ£o tÃÂÃÂ ng 13 (~1h)\nsÃÂ¡ÃÂ»ÃÂ­a nhÃÂÃÂ  6 (~30p)\nsÃÂ¡ÃÂ»ÃÂ­a card + guide (30p)",
       "submittedAt": "2026-05-22T10:48:34.148Z",
       "tasks": [
         {
@@ -23,13 +23,13 @@
         {
           "progress": "0%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "â",
+          "timeSpent": "Ã¢ÂÂ",
           "title": "North Carolina Museum Video 12 - 36s (0.5)"
         },
         {
           "progress": "100%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
-          "timeSpent": "â",
+          "timeSpent": "Ã¢ÂÂ",
           "title": "SN Priority: : 13. Diabetes Complications You Must Know for Nursing School - 5min (2)"
         }
       ],
@@ -48,6 +48,20 @@
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+    },
+    {
+      "userId": "ou_717eedeefe94e9824fbd72716d7eb234",
+      "submittedAt": "2026-05-22T11:30:53.783Z",
+      "date": "2026-05-22",
+      "tasks": [
+        {
+          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
+          "title": "SN Summer Strategy - 2 min (2)",
+          "progress": "70%",
+          "timeSpent": "6.5h"
+        }
+      ],
+      "message": "sửa sn flashcard 97-104"
     }
   ]
 }
