@@ -9,7 +9,7 @@
         {
           "progress": "100%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "â",
+          "timeSpent": "Ã¢ÂÂ",
           "title": "TTI English sub (2h)"
         }
       ],
@@ -28,6 +28,20 @@
         }
       ],
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+    },
+    {
+      "userId": "ou_717eedeefe94e9824fbd72716d7eb234",
+      "submittedAt": "2026-05-23T05:11:08.290Z",
+      "date": "2026-05-23",
+      "tasks": [
+        {
+          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
+          "title": "SN Summer Strategy - 2 min (2)",
+          "progress": "100%",
+          "timeSpent": "4h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
