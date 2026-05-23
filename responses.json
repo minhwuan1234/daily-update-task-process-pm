@@ -30,18 +30,18 @@
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     },
     {
-      "userId": "ou_717eedeefe94e9824fbd72716d7eb234",
-      "submittedAt": "2026-05-23T05:11:08.290Z",
       "date": "2026-05-23",
+      "message": "",
+      "submittedAt": "2026-05-23T05:11:08.290Z",
       "tasks": [
         {
-          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
-          "title": "SN Summer Strategy - 2 min (2)",
           "progress": "100%",
-          "timeSpent": "4h"
+          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
+          "timeSpent": "4h",
+          "title": "SN Summer Strategy - 2 min (2)"
         }
       ],
-      "message": ""
+      "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
     }
   ]
 }
