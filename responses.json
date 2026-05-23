@@ -1,87 +1,19 @@
 {
-  "date": "2026-05-22",
+  "date": "2026-05-23",
   "responses": [
     {
-      "date": "2026-05-22",
-      "message": "cÃÂÃÂÃÂÃÂ²n lÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¡i sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a bÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ£o tÃÂÃÂÃÂÃÂ ng 10 (~30p)\nbÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ£o tÃÂÃÂÃÂÃÂ ng 13 (~1h)\nsÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a nhÃÂÃÂÃÂÃÂ  6 (~30p)\nsÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a card + guide (30p)",
-      "submittedAt": "2026-05-22T10:48:34.148Z",
+      "userId": "ou_e273fec35061a42660190f8c70f19882",
+      "submittedAt": "2026-05-23T04:17:49.140Z",
+      "date": "2026-05-23",
       "tasks": [
         {
-          "progress": "40%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "5.5h",
-          "title": "LDA Late Engagement Scenario ~2 min (1.5)"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-05-22",
-      "message": "",
-      "submittedAt": "2026-05-22T10:57:36.750Z",
-      "tasks": [
-        {
-          "progress": "0%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "ÃÂ¢ÃÂÃÂ",
-          "title": "North Carolina Museum Video 12 - 36s (0.5)"
-        },
-        {
+          "title": "TTI English sub (2h)",
           "progress": "100%",
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
-          "timeSpent": "ÃÂ¢ÃÂÃÂ",
-          "title": "SN Priority: : 13. Diabetes Complications You Must Know for Nursing School - 5min (2)"
+          "timeSpent": "—"
         }
       ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
-    },
-    {
-      "date": "2026-05-22",
-      "message": "",
-      "submittedAt": "2026-05-22T11:26:48.716Z",
-      "tasks": [
-        {
-          "progress": "50%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "8h",
-          "title": "North Carolina Museum Video 18 - 4 min (4)"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-05-22",
-      "message": "sá»­a sn flashcard 97-104",
-      "submittedAt": "2026-05-22T11:30:53.783Z",
-      "tasks": [
-        {
-          "progress": "70%",
-          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
-          "timeSpent": "6.5h",
-          "title": "SN Summer Strategy - 2 min (2)"
-        }
-      ],
-      "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
-    },
-    {
-      "date": "2026-05-22",
-      "message": "0,5h AMD (khách), 0,5h sửa card 108 - 113 đã cộng vào 1,5 h sửa card ở trên.",
-      "submittedAt": "2026-05-22T11:34:17.327Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "1.5h",
-          "title": "Flashcard: 4 cards (1) 96 105-107"
-        },
-        {
-          "progress": "60%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
-          "timeSpent": "6h",
-          "title": "Healthcare Showreel (2)"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": ""
     }
   ]
 }
