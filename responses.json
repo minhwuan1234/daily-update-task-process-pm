@@ -30,24 +30,24 @@
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     },
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-05-25T11:26:33.484Z",
       "date": "2026-05-25",
+      "message": "họp mất khoảng 1h sáng ạ",
+      "submittedAt": "2026-05-25T11:26:33.484Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "LDA tiếp",
           "progress": "100%",
-          "timeSpent": "2.5h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "2.5h",
+          "title": "LDA tiếp"
         },
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "title": "North Carolina Museum Video 17 ~1.2 min (1.5)",
           "progress": "30%",
-          "timeSpent": "4h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
+          "timeSpent": "4h",
+          "title": "North Carolina Museum Video 17 ~1.2 min (1.5)"
         }
       ],
-      "message": "họp mất khoảng 1h sáng ạ"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }
