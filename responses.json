@@ -9,11 +9,25 @@
         {
           "progress": "90%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "—",
+          "timeSpent": "â",
           "title": "North Carolina Museum Video 12 - 36s (0.5)"
         }
       ],
       "userId": "ou_e273fec35061a42660190f8c70f19882"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-05-25T11:08:23.014Z",
+      "date": "2026-05-25",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "North Carolina Museum Video 13 - 3.6 min (3)",
+          "progress": "20%",
+          "timeSpent": "5h"
+        }
+      ],
+      "message": "Sửa bảo tàng video 10 (1.5h)\nSửa SN Priority ep 12 (1h)\nHọp (0.5h)"
     }
   ]
 }
