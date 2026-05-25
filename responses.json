@@ -50,18 +50,18 @@
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     },
     {
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-05-25T11:30:30.814Z",
       "date": "2026-05-25",
+      "message": "",
+      "submittedAt": "2026-05-25T11:30:30.814Z",
       "tasks": [
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "WWF RFP Moodboard",
           "progress": "90%",
-          "timeSpent": "—"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "timeSpent": "—",
+          "title": "WWF RFP Moodboard"
         }
       ],
-      "message": ""
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     }
   ]
 }
