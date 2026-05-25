@@ -9,7 +9,7 @@
         {
           "progress": "90%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "Ã¢ÂÂ",
+          "timeSpent": "ÃÂ¢ÃÂÃÂ",
           "title": "North Carolina Museum Video 12 - 36s (0.5)"
         }
       ],
@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-05-25",
-      "message": "Sá»­a báº£o tÃ ng video 10 (1.5h)\nSá»­a SN Priority ep 12 (1h)\nHá»p (0.5h)",
+      "message": "SÃ¡Â»Â­a bÃ¡ÂºÂ£o tÃÂ ng video 10 (1.5h)\nSÃ¡Â»Â­a SN Priority ep 12 (1h)\nHÃ¡Â»Âp (0.5h)",
       "submittedAt": "2026-05-25T11:08:23.014Z",
       "tasks": [
         {
@@ -31,14 +31,14 @@
     },
     {
       "date": "2026-05-25",
-      "message": "họp mất khoảng 1h sáng ạ",
+      "message": "há»p máº¥t khoáº£ng 1h sÃ¡ng áº¡",
       "submittedAt": "2026-05-25T11:26:33.484Z",
       "tasks": [
         {
           "progress": "100%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
           "timeSpent": "2.5h",
-          "title": "LDA tiếp"
+          "title": "LDA tiáº¿p"
         },
         {
           "progress": "30%",
@@ -48,6 +48,20 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-05-25T11:30:30.814Z",
+      "date": "2026-05-25",
+      "tasks": [
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "WWF RFP Moodboard",
+          "progress": "90%",
+          "timeSpent": "—"
+        }
+      ],
+      "message": ""
     }
   ]
 }
