@@ -1,47 +1,19 @@
 {
-  "date": "2026-05-23",
+  "date": "2026-05-25",
   "responses": [
     {
-      "date": "2026-05-23",
-      "message": "",
-      "submittedAt": "2026-05-23T04:17:49.140Z",
+      "userId": "ou_e273fec35061a42660190f8c70f19882",
+      "submittedAt": "2026-05-25T10:47:38.729Z",
+      "date": "2026-05-25",
       "tasks": [
         {
-          "progress": "100%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "Ã¢ÂÂ",
-          "title": "TTI English sub (2h)"
-        }
-      ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
-    },
-    {
-      "date": "2026-05-23",
-      "message": "",
-      "submittedAt": "2026-05-23T04:36:34.230Z",
-      "tasks": [
-        {
+          "title": "North Carolina Museum Video 12 - 36s (0.5)",
           "progress": "90%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "3.5h",
-          "title": "Healthcare Showreel (2)"
+          "timeSpent": "—"
         }
       ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
-    },
-    {
-      "date": "2026-05-23",
-      "message": "",
-      "submittedAt": "2026-05-23T05:11:08.290Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
-          "timeSpent": "4h",
-          "title": "SN Summer Strategy - 2 min (2)"
-        }
-      ],
-      "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
+      "message": ""
     }
   ]
 }
