@@ -9,7 +9,7 @@
         {
           "progress": "90%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "ÃÂ¢ÃÂÃÂ",
+          "timeSpent": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ",
           "title": "North Carolina Museum Video 12 - 36s (0.5)"
         }
       ],
@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-05-25",
-      "message": "SÃ¡Â»Â­a bÃ¡ÂºÂ£o tÃÂ ng video 10 (1.5h)\nSÃ¡Â»Â­a SN Priority ep 12 (1h)\nHÃ¡Â»Âp (0.5h)",
+      "message": "SÃÂ¡ÃÂ»ÃÂ­a bÃÂ¡ÃÂºÃÂ£o tÃÂÃÂ ng video 10 (1.5h)\nSÃÂ¡ÃÂ»ÃÂ­a SN Priority ep 12 (1h)\nHÃÂ¡ÃÂ»ÃÂp (0.5h)",
       "submittedAt": "2026-05-25T11:08:23.014Z",
       "tasks": [
         {
@@ -31,14 +31,14 @@
     },
     {
       "date": "2026-05-25",
-      "message": "há»p máº¥t khoáº£ng 1h sÃ¡ng áº¡",
+      "message": "hÃ¡Â»Âp mÃ¡ÂºÂ¥t khoÃ¡ÂºÂ£ng 1h sÃÂ¡ng Ã¡ÂºÂ¡",
       "submittedAt": "2026-05-25T11:26:33.484Z",
       "tasks": [
         {
           "progress": "100%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
           "timeSpent": "2.5h",
-          "title": "LDA tiáº¿p"
+          "title": "LDA tiÃ¡ÂºÂ¿p"
         },
         {
           "progress": "30%",
@@ -57,11 +57,25 @@
         {
           "progress": "90%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "—",
+          "timeSpent": "â",
           "title": "WWF RFP Moodboard"
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-05-25T11:48:54.593Z",
+      "date": "2026-05-25",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "Healthcare Showreel (2)",
+          "progress": "100%",
+          "timeSpent": "4h"
+        }
+      ],
+      "message": "4h card 151 - 158"
     }
   ]
 }
