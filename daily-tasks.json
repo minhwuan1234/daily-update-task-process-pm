@@ -1,17 +1,12 @@
 {
-  "date": "25-May",
-  "generatedAt": "2026-05-25T10:45:07.650Z",
+  "date": "26-May",
+  "generatedAt": "2026-05-26T15:24:06.912Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "25-May",
-          "dueDate": null,
-          "task": "LDA tiếp"
-        },
-        {
-          "date": "25-May",
+          "date": "26-May",
           "dueDate": "28/5",
           "task": "North Carolina Museum Video 17 ~1.2 min (1.5)"
         }
@@ -21,9 +16,9 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "25-May",
-          "dueDate": "25/5",
-          "task": "WWF RFP Moodboard"
+          "date": "26-May",
+          "dueDate": "28/5",
+          "task": "North Carolina Museum Video 18 - 4 min (3.5)"
         }
       ]
     },
@@ -31,9 +26,14 @@
       "member": "Vân",
       "tasks": [
         {
-          "date": "25-May",
+          "date": "26-May",
           "dueDate": "25/5",
           "task": "WWF RFP Moodboard"
+        },
+        {
+          "date": "26-May",
+          "dueDate": "28/5",
+          "task": "Article video -- Disadvantages of visual in teaching"
         }
       ]
     },
@@ -41,9 +41,14 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "25-May",
+          "date": "26-May",
           "dueDate": "27/5",
-          "task": "North Carolina Museum Video 12 - 36s (0.5)"
+          "task": "North Carolina Museum Video 12 - 36s (1.5)"
+        },
+        {
+          "date": "26-May",
+          "dueDate": "1/6",
+          "task": "SN Summer Strategy - 2 min (2)"
         }
       ]
     },
@@ -51,7 +56,7 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "25-May",
+          "date": "26-May",
           "dueDate": "27/5",
           "task": "North Carolina Museum Video 13 - 3.6 min (3)"
         }
@@ -61,13 +66,13 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "25-May",
-          "dueDate": null,
-          "task": "Healthcare Showreel (2)"
+          "date": "26-May",
+          "dueDate": "29/5",
+          "task": "Flashcard: 8 cards (2) 151-158"
         }
       ]
     }
   ],
   "totalMembers": 6,
-  "totalTasks": 7
+  "totalTasks": 8
 }
