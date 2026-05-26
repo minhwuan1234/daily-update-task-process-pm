@@ -20,6 +20,20 @@
         }
       ],
       "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-05-26T15:48:26.328Z",
+      "date": "2026-05-26",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "Flashcard: 8 cards (2) 151-158",
+          "progress": "80%",
+          "timeSpent": "6h"
+        }
+      ],
+      "message": "1h showreel fix, 1h SN vid 6 fix"
     }
   ]
 }
