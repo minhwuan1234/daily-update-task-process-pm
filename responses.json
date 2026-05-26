@@ -1,81 +1,25 @@
 {
-  "date": "2026-05-25",
+  "date": "2026-05-26",
   "responses": [
     {
-      "date": "2026-05-25",
-      "message": "",
-      "submittedAt": "2026-05-25T10:47:38.729Z",
+      "userId": "ou_717eedeefe94e9824fbd72716d7eb234",
+      "submittedAt": "2026-05-26T15:28:29.761Z",
+      "date": "2026-05-26",
       "tasks": [
         {
-          "progress": "90%",
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ",
-          "title": "North Carolina Museum Video 12 - 36s (0.5)"
-        }
-      ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
-    },
-    {
-      "date": "2026-05-25",
-      "message": "SÃÂ¡ÃÂ»ÃÂ­a bÃÂ¡ÃÂºÃÂ£o tÃÂÃÂ ng video 10 (1.5h)\nSÃÂ¡ÃÂ»ÃÂ­a SN Priority ep 12 (1h)\nHÃÂ¡ÃÂ»ÃÂp (0.5h)",
-      "submittedAt": "2026-05-25T11:08:23.014Z",
-      "tasks": [
-        {
-          "progress": "20%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "5h",
-          "title": "North Carolina Museum Video 13 - 3.6 min (3)"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-05-25",
-      "message": "hÃ¡Â»Âp mÃ¡ÂºÂ¥t khoÃ¡ÂºÂ£ng 1h sÃÂ¡ng Ã¡ÂºÂ¡",
-      "submittedAt": "2026-05-25T11:26:33.484Z",
-      "tasks": [
-        {
+          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
+          "title": "WWF RFP Moodboard",
           "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "2.5h",
-          "title": "LDA tiÃ¡ÂºÂ¿p"
+          "timeSpent": "3.5h"
         },
         {
+          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-1",
+          "title": "Article video -- Disadvantages of visual in teaching",
           "progress": "30%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "timeSpent": "4h",
-          "title": "North Carolina Museum Video 17 ~1.2 min (1.5)"
+          "timeSpent": "4.5h"
         }
       ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-05-25",
-      "message": "",
-      "submittedAt": "2026-05-25T11:30:30.814Z",
-      "tasks": [
-        {
-          "progress": "90%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "â",
-          "title": "WWF RFP Moodboard"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-05-25",
-      "message": "4h card 151 - 158",
-      "submittedAt": "2026-05-25T11:48:54.593Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "4h",
-          "title": "Healthcare Showreel (2)"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": ""
     }
   ]
 }
