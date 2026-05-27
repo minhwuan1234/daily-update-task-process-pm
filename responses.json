@@ -36,18 +36,18 @@
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     },
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-05-27T10:57:54.063Z",
       "date": "2026-05-27",
+      "message": "2h sáng làm nốt bảo tàng 17",
+      "submittedAt": "2026-05-27T10:57:54.063Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "Flashcard: 5 cards (1) 167-171",
           "progress": "100%",
-          "timeSpent": "6h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "6h",
+          "title": "Flashcard: 5 cards (1) 167-171"
         }
       ],
-      "message": "2h sáng làm nốt bảo tàng 17"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }
