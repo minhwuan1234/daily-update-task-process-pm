@@ -37,7 +37,7 @@
     },
     {
       "date": "2026-05-27",
-      "message": "2h sÃ¡ng lÃ m ná»t báº£o tÃ ng 17",
+      "message": "2h sÃÂ¡ng lÃÂ m nÃ¡Â»Ât bÃ¡ÂºÂ£o tÃÂ ng 17",
       "submittedAt": "2026-05-27T10:57:54.063Z",
       "tasks": [
         {
@@ -57,11 +57,25 @@
         {
           "progress": "50%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "—",
+          "timeSpent": "â",
           "title": "SN Summer Strategy - 2 min (2)"
         }
       ],
       "userId": "ou_e273fec35061a42660190f8c70f19882"
+    },
+    {
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-05-27T11:20:08.970Z",
+      "date": "2026-05-27",
+      "tasks": [
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "North Carolina Museum Video 18 - 4 min (3.5)",
+          "progress": "80%",
+          "timeSpent": "7.5h"
+        }
+      ],
+      "message": "sửa bảo tàng video 14 30 phút"
     }
   ]
 }
