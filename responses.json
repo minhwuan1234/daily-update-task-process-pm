@@ -1,39 +1,25 @@
 {
-  "date": "2026-05-26",
+  "date": "2026-05-27",
   "responses": [
     {
-      "date": "2026-05-26",
-      "message": "",
-      "submittedAt": "2026-05-26T15:28:29.761Z",
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-05-27T10:47:07.628Z",
+      "date": "2026-05-27",
       "tasks": [
         {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "Flashcard: 8 cards (1.5) 151-158",
           "progress": "100%",
-          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
-          "timeSpent": "3.5h",
-          "title": "WWF RFP Moodboard"
+          "timeSpent": "4h"
         },
         {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
+          "title": "Corporate training showreel (0.5)",
           "progress": "30%",
-          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-1",
-          "timeSpent": "4.5h",
-          "title": "Article video -- Disadvantages of visual in teaching"
+          "timeSpent": "4h"
         }
       ],
-      "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
-    },
-    {
-      "date": "2026-05-26",
-      "message": "1h showreel fix, 1h SN vid 6 fix",
-      "submittedAt": "2026-05-26T15:48:26.328Z",
-      "tasks": [
-        {
-          "progress": "80%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "6h",
-          "title": "Flashcard: 8 cards (2) 151-158"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": ""
     }
   ]
 }
