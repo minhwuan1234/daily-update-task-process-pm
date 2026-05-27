@@ -64,18 +64,18 @@
       "userId": "ou_e273fec35061a42660190f8c70f19882"
     },
     {
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-05-27T11:20:08.970Z",
       "date": "2026-05-27",
+      "message": "sửa bảo tàng video 14 30 phút",
+      "submittedAt": "2026-05-27T11:20:08.970Z",
       "tasks": [
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "North Carolina Museum Video 18 - 4 min (3.5)",
           "progress": "80%",
-          "timeSpent": "7.5h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "timeSpent": "7.5h",
+          "title": "North Carolina Museum Video 18 - 4 min (3.5)"
         }
       ],
-      "message": "sửa bảo tàng video 14 30 phút"
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     }
   ]
 }
