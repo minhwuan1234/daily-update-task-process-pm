@@ -50,18 +50,18 @@
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     },
     {
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
-      "submittedAt": "2026-05-28T10:59:18.313Z",
       "date": "2026-05-28",
+      "message": "Sửa Forest ep 5 (1.5h)\nSửa HSE Cervical Check - Form Video (0.5h)",
+      "submittedAt": "2026-05-28T10:59:18.313Z",
       "tasks": [
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "title": "Anthony Createvideo (1.5)",
           "progress": "50%",
-          "timeSpent": "6.5h"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "timeSpent": "6.5h",
+          "title": "Anthony Createvideo (1.5)"
         }
       ],
-      "message": "Sửa Forest ep 5 (1.5h)\nSửa HSE Cervical Check - Form Video (0.5h)"
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     }
   ]
 }
