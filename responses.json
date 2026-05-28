@@ -1,81 +1,19 @@
 {
-  "date": "2026-05-27",
+  "date": "2026-05-28",
   "responses": [
     {
-      "date": "2026-05-27",
-      "message": "",
-      "submittedAt": "2026-05-27T10:47:07.628Z",
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-05-28T10:46:31.016Z",
+      "date": "2026-05-28",
       "tasks": [
         {
-          "progress": "100%",
           "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "4h",
-          "title": "Flashcard: 8 cards (1.5) 151-158"
-        },
-        {
-          "progress": "30%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
-          "timeSpent": "4h",
-          "title": "Corporate training showreel (0.5)"
+          "title": "North Carolina Museum Video 16 - 3.1 min (3.5)",
+          "progress": "60%",
+          "timeSpent": "8h"
         }
       ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
-    },
-    {
-      "date": "2026-05-27",
-      "message": "",
-      "submittedAt": "2026-05-27T10:52:23.746Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "8h",
-          "title": "North Carolina Museum Video 13 - 3.6 min (3)"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-05-27",
-      "message": "2h sÃÂ¡ng lÃÂ m nÃ¡Â»Ât bÃ¡ÂºÂ£o tÃÂ ng 17",
-      "submittedAt": "2026-05-27T10:57:54.063Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "6h",
-          "title": "Flashcard: 5 cards (1) 167-171"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-05-27",
-      "message": "",
-      "submittedAt": "2026-05-27T11:10:28.389Z",
-      "tasks": [
-        {
-          "progress": "50%",
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "â",
-          "title": "SN Summer Strategy - 2 min (2)"
-        }
-      ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
-    },
-    {
-      "date": "2026-05-27",
-      "message": "sửa bảo tàng video 14 30 phút",
-      "submittedAt": "2026-05-27T11:20:08.970Z",
-      "tasks": [
-        {
-          "progress": "80%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "7.5h",
-          "title": "North Carolina Museum Video 18 - 4 min (3.5)"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+      "message": ""
     }
   ]
 }
