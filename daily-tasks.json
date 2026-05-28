@@ -1,14 +1,14 @@
 {
-  "date": "27-May",
-  "generatedAt": "2026-05-27T10:45:06.929Z",
+  "date": "28-May",
+  "generatedAt": "2026-05-28T10:45:07.470Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "27-May",
+          "date": "28-May",
           "dueDate": "29/5",
-          "task": "Flashcard: 5 cards (1) 167-171"
+          "task": "Klett: UI/UX Design Framework (1)"
         }
       ]
     },
@@ -16,9 +16,9 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "27-May",
+          "date": "28-May",
           "dueDate": "28/5",
-          "task": "North Carolina Museum Video 18 - 4 min (3.5)"
+          "task": "North Carolina Museum Video 18 - 4 min (3)"
         }
       ]
     },
@@ -26,14 +26,9 @@
       "member": "Vân",
       "tasks": [
         {
-          "date": "27-May",
+          "date": "28-May",
           "dueDate": "29/5",
           "task": "Flashcard: 8 cards (2) 159-166"
-        },
-        {
-          "date": "27-May",
-          "dueDate": "28/5",
-          "task": "Article video -- Disadvantages of visual in teaching"
         }
       ]
     },
@@ -41,9 +36,14 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "27-May",
+          "date": "28-May",
+          "dueDate": "29/5",
+          "task": "Article video Disadvantages of visual in teaching (1)"
+        },
+        {
+          "date": "28-May",
           "dueDate": "1/6",
-          "task": "SN Summer Strategy - 2 min (2)"
+          "task": "SN Summer Strategy - 2.5 min (2)"
         }
       ]
     },
@@ -51,9 +51,9 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "27-May",
-          "dueDate": "27/5",
-          "task": "North Carolina Museum Video 13 - 3.6 min (3)"
+          "date": "28-May",
+          "dueDate": "29/5",
+          "task": "Anthony Createvideo (1.5)"
         }
       ]
     },
@@ -61,18 +61,13 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "27-May",
-          "dueDate": "29/5",
-          "task": "Flashcard: 8 cards (1.5) 151-158"
-        },
-        {
-          "date": "27-May",
-          "dueDate": null,
-          "task": "Corporate training showreel (0.5)"
+          "date": "28-May",
+          "dueDate": "3/6",
+          "task": "North Carolina Museum Video 16 - 3.1 min (3.5)"
         }
       ]
     }
   ],
   "totalMembers": 6,
-  "totalTasks": 8
+  "totalTasks": 7
 }
