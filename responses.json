@@ -23,13 +23,13 @@
         {
           "progress": "0%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "ÃÂ¢ÃÂÃÂ",
+          "timeSpent": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ",
           "title": "Article video Disadvantages of visual in teaching (1)"
         },
         {
           "progress": "90%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
-          "timeSpent": "ÃÂ¢ÃÂÃÂ",
+          "timeSpent": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ",
           "title": "SN Summer Strategy - 2.5 min (2)"
         }
       ],
@@ -51,7 +51,7 @@
     },
     {
       "date": "2026-05-28",
-      "message": "Sá»­a Forest ep 5 (1.5h)\nSá»­a HSE Cervical Check - Form Video (0.5h)",
+      "message": "SÃ¡Â»Â­a Forest ep 5 (1.5h)\nSÃ¡Â»Â­a HSE Cervical Check - Form Video (0.5h)",
       "submittedAt": "2026-05-28T10:59:18.313Z",
       "tasks": [
         {
@@ -76,6 +76,20 @@
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+    },
+    {
+      "userId": "ou_717eedeefe94e9824fbd72716d7eb234",
+      "submittedAt": "2026-05-28T11:32:04.904Z",
+      "date": "2026-05-28",
+      "tasks": [
+        {
+          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
+          "title": "Flashcard: 8 cards (2) 159-166",
+          "progress": "60%",
+          "timeSpent": "6.5h"
+        }
+      ],
+      "message": "sửa bảo tàng(khách): 1 tiếng 30p"
     }
   ]
 }
