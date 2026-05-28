@@ -23,13 +23,13 @@
         {
           "progress": "0%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "Ã¢ÂÂ",
+          "timeSpent": "ÃÂ¢ÃÂÃÂ",
           "title": "Article video Disadvantages of visual in teaching (1)"
         },
         {
           "progress": "90%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
-          "timeSpent": "Ã¢ÂÂ",
+          "timeSpent": "ÃÂ¢ÃÂÃÂ",
           "title": "SN Summer Strategy - 2.5 min (2)"
         }
       ],
@@ -51,7 +51,7 @@
     },
     {
       "date": "2026-05-28",
-      "message": "Sửa Forest ep 5 (1.5h)\nSửa HSE Cervical Check - Form Video (0.5h)",
+      "message": "Sá»­a Forest ep 5 (1.5h)\nSá»­a HSE Cervical Check - Form Video (0.5h)",
       "submittedAt": "2026-05-28T10:59:18.313Z",
       "tasks": [
         {
@@ -62,6 +62,20 @@
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-05-28T11:00:42.843Z",
+      "date": "2026-05-28",
+      "tasks": [
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "North Carolina Museum Video 18 - 4 min (3)",
+          "progress": "100%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
