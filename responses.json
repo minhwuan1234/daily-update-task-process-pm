@@ -23,13 +23,13 @@
         {
           "progress": "0%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "â",
+          "timeSpent": "Ã¢ÂÂ",
           "title": "Article video Disadvantages of visual in teaching (1)"
         },
         {
           "progress": "90%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
-          "timeSpent": "â",
+          "timeSpent": "Ã¢ÂÂ",
           "title": "SN Summer Strategy - 2.5 min (2)"
         }
       ],
@@ -48,6 +48,20 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-05-28T10:59:18.313Z",
+      "date": "2026-05-28",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "Anthony Createvideo (1.5)",
+          "progress": "50%",
+          "timeSpent": "6.5h"
+        }
+      ],
+      "message": "Sửa Forest ep 5 (1.5h)\nSửa HSE Cervical Check - Form Video (0.5h)"
     }
   ]
 }
