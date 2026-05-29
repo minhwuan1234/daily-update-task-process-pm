@@ -1,95 +1,25 @@
 {
-  "date": "2026-05-28",
+  "date": "2026-05-29",
   "responses": [
     {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-05-28T10:46:31.016Z",
-      "date": "2026-05-28",
+      "userId": "ou_e273fec35061a42660190f8c70f19882",
+      "submittedAt": "2026-05-29T10:46:01.729Z",
+      "date": "2026-05-29",
       "tasks": [
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "North Carolina Museum Video 16 - 3.1 min (3.5)",
-          "progress": "60%",
-          "timeSpent": "8h"
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
+          "title": "Cervical check: Screen video fix #3 (1h fix)",
+          "progress": "100%",
+          "timeSpent": "—"
+        },
+        {
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
+          "title": "TEST: Gemini Omni tool",
+          "progress": "10%",
+          "timeSpent": "—"
         }
       ],
       "message": ""
-    },
-    {
-      "date": "2026-05-28",
-      "message": "",
-      "submittedAt": "2026-05-28T10:46:35.658Z",
-      "tasks": [
-        {
-          "progress": "0%",
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ",
-          "title": "Article video Disadvantages of visual in teaching (1)"
-        },
-        {
-          "progress": "90%",
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
-          "timeSpent": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ",
-          "title": "SN Summer Strategy - 2.5 min (2)"
-        }
-      ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
-    },
-    {
-      "date": "2026-05-28",
-      "message": "",
-      "submittedAt": "2026-05-28T10:47:11.804Z",
-      "tasks": [
-        {
-          "progress": "70%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "8h",
-          "title": "Klett: UI/UX Design Framework (1)"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-05-28",
-      "message": "SÃ¡Â»Â­a Forest ep 5 (1.5h)\nSÃ¡Â»Â­a HSE Cervical Check - Form Video (0.5h)",
-      "submittedAt": "2026-05-28T10:59:18.313Z",
-      "tasks": [
-        {
-          "progress": "50%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "6.5h",
-          "title": "Anthony Createvideo (1.5)"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-05-28",
-      "message": "",
-      "submittedAt": "2026-05-28T11:00:42.843Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "8h",
-          "title": "North Carolina Museum Video 18 - 4 min (3)"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-05-28",
-      "message": "sửa bảo tàng(khách): 1 tiếng 30p",
-      "submittedAt": "2026-05-28T11:32:04.904Z",
-      "tasks": [
-        {
-          "progress": "60%",
-          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
-          "timeSpent": "6.5h",
-          "title": "Flashcard: 8 cards (2) 159-166"
-        }
-      ],
-      "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
     }
   ]
 }
