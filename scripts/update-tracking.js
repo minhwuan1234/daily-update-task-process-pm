@@ -90,9 +90,14 @@ function main() {
     submissions.map((item) => item.submissionId)
   );
 
-  const todayResponses = responses[today] || responses;
+  const responseList = Array.isArray(responses.responses)
+    ? responses.responses
+    : Array.isArray(responses)
+      ? responses
+      : Object.entries(responses).map(([userId, data]) => ({ userId, ...data }));
 
-  for (const [userId, responseData] of Object.entries(todayResponses || {})) {
+  for (const responseData of responseList) {
+    const userId = responseData.userId;
     if (!userId || typeof responseData !== "object") continue;
 
     const member = membersById[userId] || {};
