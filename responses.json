@@ -9,17 +9,31 @@
         {
           "progress": "100%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "—",
+          "timeSpent": "â",
           "title": "Cervical check: Screen video fix #3 (1h fix)"
         },
         {
           "progress": "10%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
-          "timeSpent": "—",
+          "timeSpent": "â",
           "title": "TEST: Gemini Omni tool"
         }
       ],
       "userId": "ou_e273fec35061a42660190f8c70f19882"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-05-29T10:47:45.679Z",
+      "date": "2026-05-29",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "North Carolina Museum Video 16 - 3.1 min (3.5)",
+          "progress": "90%",
+          "timeSpent": "7h"
+        }
+      ],
+      "message": "0,5 h sua card, 0,25h hop vs Chi, bao tang la 7,25h"
     }
   ]
 }
