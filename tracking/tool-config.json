@@ -1,0 +1,12 @@
+{
+  "toolId": "daily-update",
+  "toolName": "Daily Update Task Process PM",
+  "description": "Track daily update submissions from team members.",
+  "trackingType": "daily_submission",
+  "memberSource": "members.json",
+  "primaryUserId": "lark_open_id",
+  "expectedFrequency": "daily",
+  "cutoffTime": "18:00",
+  "timezone": "Asia/Ho_Chi_Minh",
+  "adminDashboardEnabled": true
+}
