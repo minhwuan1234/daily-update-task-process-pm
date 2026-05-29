@@ -55,7 +55,7 @@ jobs:
 
       # 5. Chạy script chính
       - name: Run update-tracking.js
-        run: node update-tracking.js
+        run: node scripts/update-tracking.js
 
       # 6. Commit và push kết quả
       #    Nếu không có gì thay đổi (không có submission mới)
