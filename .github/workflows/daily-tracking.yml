@@ -1,23 +1,23 @@
 # ============================================================
 #  daily-tracking.yml
 #  Repo: daily-update-task-process-pm
-#  Đặt file này tại: .github/workflows/daily-tracking.yml
+#  Dat file nay tai: .github/workflows/daily-tracking.yml
 # ============================================================
 #
-#  Workflow này làm 2 việc:
-#    1. Chạy update-tracking.js → ghi tracking/daily-update-submissions.json
-#                                   và tracking/daily-update-summary.json
-#    2. Commit + push kết quả lên repo
-#
-#  Trigger: do n8n gọi qua GitHub API (workflow_dispatch)
-#  n8n endpoint: POST https://api.github.com/repos/minhwuan1234/daily-update-task-process-pm/actions/workflows/daily-tracking.yml/dispatches
+#  Trigger:
+#    1. Tu dong khi responses.json thay doi (member submit form)
+#    2. Thu cong qua tab Actions tren GitHub
 #
 # ============================================================
 
 name: Daily Tracking Update
 
 on:
-  # ── Trigger bởi n8n qua GitHub API ──
+  push:
+    branches: [main]
+    paths:
+      - "responses.json"
+
   workflow_dispatch:
 
 jobs:
@@ -25,41 +25,31 @@ jobs:
     name: Run update-tracking.js
     runs-on: ubuntu-latest
 
-    # Cho phép workflow đọc + ghi vào repo
     permissions:
       contents: write
 
     steps:
-      # 1. Checkout toàn bộ repo
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0   # cần full history để commit không bị lỗi
+          fetch-depth: 0
 
-      # 2. Setup Node.js
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: "20"
 
-      # 3. Tạo thư mục tracking nếu chưa có
       - name: Ensure tracking directory exists
         run: mkdir -p tracking
 
-      # 4. Khởi tạo file JSON rỗng nếu chưa tồn tại
-      #    (lần đầu chạy sẽ không có file này)
       - name: Init tracking files if missing
         run: |
           [ -f tracking/daily-update-submissions.json ] || echo "[]" > tracking/daily-update-submissions.json
           [ -f tracking/daily-update-summary.json ]     || echo "{}" > tracking/daily-update-summary.json
 
-      # 5. Chạy script chính
       - name: Run update-tracking.js
         run: node scripts/update-tracking.js
 
-      # 6. Commit và push kết quả
-      #    Nếu không có gì thay đổi (không có submission mới)
-      #    thì bước này tự skip, không tạo commit rỗng
       - name: Commit tracking output
         run: |
           git config user.name  "github-actions[bot]"
@@ -68,9 +58,8 @@ jobs:
           git add tracking/daily-update-submissions.json
           git add tracking/daily-update-summary.json
 
-          # Chỉ commit nếu có thay đổi thực sự
           if git diff --cached --quiet; then
-            echo "No changes to commit — tracking is already up to date."
+            echo "No changes to commit."
           else
             git commit -m "chore: update tracking $(date -u +'%Y-%m-%d %H:%M UTC')"
             git push
