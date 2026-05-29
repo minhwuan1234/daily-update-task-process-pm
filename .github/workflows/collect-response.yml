@@ -15,7 +15,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Save response + send to PM
+      - name: Save response + update tracking + send to PM
         env:
           LARK_APP_ID:     ${{ secrets.LARK_APP_ID }}
           LARK_APP_SECRET: ${{ secrets.LARK_APP_SECRET }}
@@ -24,20 +24,21 @@ jobs:
         run: |
           python3 << 'EOF'
           import json, os
-          from datetime import datetime, timezone
+          import pathlib
+          from datetime import datetime, timezone, timedelta
           import urllib.request, urllib.error
 
           APP_ID      = os.environ['LARK_APP_ID']
           APP_SECRET  = os.environ['LARK_APP_SECRET']
           PM_OPEN_ID  = os.environ['PM_OPEN_ID']
-          from datetime import timedelta
+
           VN_TZ       = timezone(timedelta(hours=7))
           TODAY_LABEL = datetime.now(VN_TZ).strftime('%d/%m/%Y')
 
           # ── Parse payload từ form ──
           payload = json.loads(os.environ['PAYLOAD'])
           user_id = payload.get('userId', 'unknown')
-          date    = payload.get('date', datetime.now(timezone.utc).strftime('%Y-%m-%d'))
+          date    = payload.get('date', datetime.now(VN_TZ).strftime('%Y-%m-%d'))
 
           print(f"Received response from: {user_id} ({date})")
 
@@ -46,8 +47,8 @@ jobs:
           try:
               with open('members.json', encoding='utf-8') as f:
                   members = json.load(f)
-          except:
-              pass
+          except Exception as e:
+              print(f"⚠️ Cannot read members.json: {e}")
 
           # Đảo ngược members.json: { "Tên": "open_id" } → { "open_id": "Tên" }
           id_to_name   = {v: k for k, v in members.items()}
@@ -58,13 +59,17 @@ jobs:
           try:
               with open('responses.json', encoding='utf-8') as f:
                   existing = json.load(f)
-          except:
-              pass
+          except Exception as e:
+              print(f"⚠️ Cannot read responses.json, create new one: {e}")
 
           if existing.get('date') != date:
               existing = {'date': date, 'responses': []}
 
-          idx = next((i for i, r in enumerate(existing['responses']) if r.get('userId') == user_id), -1)
+          idx = next(
+              (i for i, r in enumerate(existing['responses']) if r.get('userId') == user_id),
+              -1
+          )
+
           if idx >= 0:
               existing['responses'][idx] = payload
           else:
@@ -73,27 +78,217 @@ jobs:
           with open('responses.json', 'w', encoding='utf-8') as f:
               json.dump(existing, f, ensure_ascii=False, indent=2)
 
+          print(f"✅ Saved response for {display_name}")
+
+          # =========================================================
+          # TRACKING FILES
+          # Mục đích:
+          # - responses.json chỉ lưu dữ liệu submit của ngày hiện tại
+          # - tracking/daily-update-submissions.json lưu lịch sử dài hạn
+          # - tracking/daily-update-summary.json lưu số liệu tổng hợp theo ngày
+          # =========================================================
+
+          tracking_dir = pathlib.Path("tracking")
+          tracking_dir.mkdir(exist_ok=True)
+
+          submissions_file = tracking_dir / "daily-update-submissions.json"
+          summary_file     = tracking_dir / "daily-update-summary.json"
+          config_file      = tracking_dir / "tool-config.json"
+
+          # ── Tạo tool-config.json nếu chưa có ──
+          if not config_file.exists():
+              tool_config = {
+                  "toolId": "daily-update",
+                  "toolName": "Daily Update Task Process PM",
+                  "description": "Track daily update submissions from team members.",
+                  "trackingType": "daily_submission",
+                  "memberSource": "members.json",
+                  "primaryUserId": "lark_open_id",
+                  "expectedFrequency": "daily",
+                  "cutoffTime": "18:00",
+                  "timezone": "Asia/Ho_Chi_Minh",
+                  "adminDashboardEnabled": True
+              }
+
+              with open(config_file, "w", encoding="utf-8") as f:
+                  json.dump(tool_config, f, ensure_ascii=False, indent=2)
+
+          # ── Đọc submissions history ──
+          try:
+              with open(submissions_file, encoding="utf-8") as f:
+                  submissions = json.load(f)
+                  if not isinstance(submissions, list):
+                      submissions = []
+          except:
+              submissions = []
+
+          # ── Đọc summary ──
+          try:
+              with open(summary_file, encoding="utf-8") as f:
+                  summary = json.load(f)
+                  if not isinstance(summary, dict):
+                      summary = {}
+          except:
+              summary = {}
+
+          submitted_at = payload.get(
+              "submittedAt",
+              datetime.now(timezone.utc).isoformat()
+          )
+
+          tasks = payload.get("tasks", [])
+          message = payload.get("message", "")
+
+          # Check blocker đơn giản nếu sau này payload có field blocker/blockers
+          blocker_value = (
+              payload.get("blocker")
+              or payload.get("blockers")
+              or payload.get("hasBlocker")
+              or ""
+          )
+
+          has_blocker = False
+          if isinstance(blocker_value, bool):
+              has_blocker = blocker_value
+          else:
+              has_blocker = bool(str(blocker_value).strip())
+
+          # Tạo ID để tránh lưu trùng nếu workflow rerun
+          submission_id = f"daily-update_{date}_{user_id}_{submitted_at}"
+
+          existing_submission_ids = {
+              item.get("submissionId")
+              for item in submissions
+              if isinstance(item, dict)
+          }
+
+          if submission_id not in existing_submission_ids:
+              submissions.append({
+                  "submissionId": submission_id,
+                  "toolId": "daily-update",
+                  "toolName": "Daily Update Task Process PM",
+
+                  "userId": user_id,
+                  "memberName": display_name,
+
+                  "date": date,
+                  "submittedAt": submitted_at,
+                  "timezone": "Asia/Ho_Chi_Minh",
+
+                  "taskCount": len(tasks) if isinstance(tasks, list) else 0,
+                  "hasMessage": bool(str(message).strip()),
+                  "hasBlocker": has_blocker,
+
+                  "source": "github-actions",
+                  "responseFile": "responses.json"
+              })
+
+              print("✅ Added new tracking submission record")
+          else:
+              print("ℹ️ Tracking submission already exists, skipped duplicate")
+
+          # ── Build summary theo ngày ──
+          all_member_ids = set(members.values())
+
+          submitted_today = [
+              item for item in submissions
+              if isinstance(item, dict) and item.get("date") == date
+          ]
+
+          submitted_today_ids = {
+              item.get("userId")
+              for item in submitted_today
+              if item.get("userId")
+          }
+
+          members_summary = {}
+
+          for member_name, member_id in members.items():
+              user_submissions = [
+                  item for item in submitted_today
+                  if item.get("userId") == member_id
+              ]
+
+              latest_submission = None
+              if user_submissions:
+                  latest_submission = sorted(
+                      user_submissions,
+                      key=lambda x: x.get("submittedAt", ""),
+                      reverse=True
+                  )[0]
+
+              members_summary[member_id] = {
+                  "memberName": member_name,
+                  "userId": member_id,
+                  "status": "submitted" if latest_submission else "missing",
+                  "submittedAt": latest_submission.get("submittedAt") if latest_submission else None,
+                  "submissionCountToday": len(user_submissions)
+              }
+
+          total_members = len(all_member_ids)
+          submitted_members = len(submitted_today_ids)
+          missing_members = max(total_members - submitted_members, 0)
+
+          summary[date] = {
+              "toolId": "daily-update",
+              "toolName": "Daily Update Task Process PM",
+              "date": date,
+              "timezone": "Asia/Ho_Chi_Minh",
+              "updatedAt": datetime.now(timezone.utc).isoformat(),
+
+              "totalMembers": total_members,
+              "submittedMembers": submitted_members,
+              "missingMembers": missing_members,
+              "submissionRate": round(
+                  submitted_members / total_members * 100,
+                  2
+              ) if total_members else 0,
+
+              "members": members_summary
+          }
+
+          with open(submissions_file, "w", encoding="utf-8") as f:
+              json.dump(submissions, f, ensure_ascii=False, indent=2)
+
+          with open(summary_file, "w", encoding="utf-8") as f:
+              json.dump(summary, f, ensure_ascii=False, indent=2)
+
+          print("✅ Tracking files updated")
+
+          # ── Commit responses + tracking files ──
           os.system('git config user.name "github-actions[bot]"')
           os.system('git config user.email "github-actions[bot]@users.noreply.github.com"')
-          os.system('git add responses.json')
-          os.system(f'git diff --cached --quiet || git commit -m "standup: {user_id} - {date}"')
-          os.system('git push')
 
-          print(f"✅ Saved response for {display_name}")
+          os.system(
+              'git add responses.json tracking/tool-config.json tracking/daily-update-submissions.json tracking/daily-update-summary.json'
+          )
+
+          os.system(
+              f'git diff --cached --quiet || git commit -m "standup: {user_id} - {date}"'
+          )
+
+          os.system('git push')
 
           # ── Bot token ──
           def get_bot_token():
-              payload_data = json.dumps({'app_id': APP_ID, 'app_secret': APP_SECRET}).encode()
+              payload_data = json.dumps({
+                  'app_id': APP_ID,
+                  'app_secret': APP_SECRET
+              }).encode()
+
               req = urllib.request.Request(
                   'https://open.larksuite.com/open-apis/auth/v3/tenant_access_token/internal',
                   data=payload_data,
                   headers={'Content-Type': 'application/json'},
                   method='POST'
               )
+
               with urllib.request.urlopen(req) as res:
                   data = json.loads(res.read())
+
               if data.get('code') != 0:
                   raise Exception(f"Bot token failed: {data}")
+
               return data['tenant_access_token']
 
           BOT_TOKEN = get_bot_token()
@@ -108,23 +303,30 @@ jobs:
                   },
                   method='POST'
               )
+
               with urllib.request.urlopen(req) as res:
                   return json.loads(res.read())
 
           # ── Tổng số member ──
-          total_members = 0
+          total_members_for_card = 0
+
           try:
               with open('lark-tasks.json', encoding='utf-8') as f:
                   lark_data = json.load(f)
+
               member_ids = set()
+
               for task in lark_data.get('tasks', []):
                   if task.get('status') != 'completed':
                       for a in task.get('assignees', []):
                           if a.get('userId'):
                               member_ids.add(a['userId'])
-              total_members = len(member_ids)
-          except:
-              total_members = len(existing['responses'])
+
+              total_members_for_card = len(member_ids)
+
+          except Exception as e:
+              print(f"⚠️ Cannot count from lark-tasks.json: {e}")
+              total_members_for_card = len(existing['responses'])
 
           total_submitted = len(existing['responses'])
 
@@ -133,20 +335,22 @@ jobs:
           message      = payload.get('message', '')
           submitted_at = payload.get('submittedAt', '')
 
-          # Build task elements với hr giữa các task
           task_elements = []
+
           for i, t in enumerate(tasks):
               progress   = t.get('progress', '—')
               title      = t.get('title', '')
               time_spent = t.get('timeSpent', '')
               time_line  = f'\n  ⏱️ Thời gian: {time_spent}' if time_spent and time_spent != '—' else ''
+
               task_elements.append({
                   'tag': 'div',
                   'text': {
-                      'tag':     'lark_md',
+                      'tag': 'lark_md',
                       'content': f'**{title}**\n  📈 Progress: {progress}{time_line}'
                   }
               })
+
               if i < len(tasks) - 1:
                   task_elements.append({'tag': 'hr'})
 
@@ -155,16 +359,23 @@ jobs:
               task_elements.append({
                   'tag': 'div',
                   'text': {
-                      'tag':     'lark_md',
+                      'tag': 'lark_md',
                       'content': f'🆕 Task khác hoặc Task phát sinh nếu có: _{message}_'
                   }
               })
+
+          try:
+              submitted_at_display = datetime.fromisoformat(
+                  submitted_at.replace("Z", "+00:00")
+              ).astimezone(VN_TZ).strftime("%d/%m/%Y %H:%M")
+          except:
+              submitted_at_display = datetime.now(VN_TZ).strftime("%d/%m/%Y %H:%M")
 
           card = {
               'config': {'wide_screen_mode': True},
               'header': {
                   'title': {
-                      'tag':     'plain_text',
+                      'tag': 'plain_text',
                       'content': f'🌿 Update tình hình — {TODAY_LABEL}'
                   },
                   'template': 'green'
@@ -173,8 +384,8 @@ jobs:
                   {
                       'tag': 'div',
                       'text': {
-                          'tag':     'lark_md',
-                          'content': f'👤 **{display_name}** vừa submit\n📅 {(datetime.fromisoformat(submitted_at.replace("Z","+00:00")).astimezone(VN_TZ)).strftime("%d/%m/%Y %H:%M")} (GMT+7)'
+                          'tag': 'lark_md',
+                          'content': f'👤 **{display_name}** vừa submit\n📅 {submitted_at_display} (GMT+7)'
                       }
                   },
                   {'tag': 'hr'},
@@ -183,8 +394,8 @@ jobs:
                   {
                       'tag': 'div',
                       'text': {
-                          'tag':     'lark_md',
-                          'content': f'✅ Đã submit: **{total_submitted}/{total_members}** thành viên hôm nay'
+                          'tag': 'lark_md',
+                          'content': f'✅ Đã submit: **{total_submitted}/{total_members_for_card}** thành viên hôm nay'
                       }
                   }
               ]
@@ -200,14 +411,16 @@ jobs:
 
           for receiver in PM_RECEIVERS:
               receiver_name = id_to_name.get(receiver, receiver)
+
               res = lark_post(
                   'https://open.larksuite.com/open-apis/im/v1/messages?receive_id_type=open_id',
                   {
                       'receive_id': receiver,
-                      'msg_type':   'interactive',
-                      'content':    json.dumps(card)
+                      'msg_type': 'interactive',
+                      'content': json.dumps(card)
                   }
               )
+
               if res.get('code') == 0:
                   print(f'✅ Sent to {receiver_name}')
               else:
