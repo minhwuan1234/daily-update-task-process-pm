@@ -72,18 +72,18 @@
       "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
     },
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-06-01T11:06:56.500Z",
       "date": "2026-06-01",
+      "message": "trong lúc chờ feedback tranh thủ quẩy card 219",
+      "submittedAt": "2026-06-01T11:06:56.500Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "HOME - SB fixing #1",
           "progress": "100%",
-          "timeSpent": "6h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "6h",
+          "title": "HOME - SB fixing #1"
         }
       ],
-      "message": "trong lúc chờ feedback tranh thủ quẩy card 219"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }
