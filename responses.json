@@ -9,7 +9,7 @@
         {
           "progress": "20%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "â",
+          "timeSpent": "Ã¢ÂÂ",
           "title": "North Carolina Museum Video 14 - ONLY 2 min in 4.5 min (2)"
         }
       ],
@@ -28,6 +28,20 @@
         }
       ],
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+    },
+    {
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-06-01T10:50:14.233Z",
+      "date": "2026-06-01",
+      "tasks": [
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "SN Priority: 16. Left vs Right-Sided Heart Failure (NCLEX Must-Know) (2.5)",
+          "progress": "30%",
+          "timeSpent": "7h"
+        }
+      ],
+      "message": "Concept HOME 1h (tiếp)"
     }
   ]
 }
