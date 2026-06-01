@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-06-01",
-      "message": "sá»­a tá»­ cung 2 tiáº¿ng\nsá»­a SN (video 13, guadian, summer stratergy): 2 tiáº¿ng",
+      "message": "sÃ¡Â»Â­a tÃ¡Â»Â­ cung 2 tiÃ¡ÂºÂ¿ng\nsÃ¡Â»Â­a SN (video 13, guadian, summer stratergy): 2 tiÃ¡ÂºÂ¿ng",
       "submittedAt": "2026-06-01T10:53:20.723Z",
       "tasks": [
         {
@@ -31,7 +31,7 @@
     },
     {
       "date": "2026-06-01",
-      "message": "Concept HOME 1h (tiÃ¡ÂºÂ¿p)",
+      "message": "Concept HOME 1h (tiÃÂ¡ÃÂºÃÂ¿p)",
       "submittedAt": "2026-06-01T10:50:14.233Z",
       "tasks": [
         {
@@ -45,7 +45,7 @@
     },
     {
       "date": "2026-06-01",
-      "message": "- Họp (0.5h)\n- Sửa Anthony Createvideo Project 2 (1.5h)",
+      "message": "- Há»p (0.5h)\n- Sá»­a Anthony Createvideo Project 2 (1.5h)",
       "submittedAt": "2026-06-01T10:57:18.242Z",
       "tasks": [
         {
@@ -56,6 +56,20 @@
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_717eedeefe94e9824fbd72716d7eb234",
+      "submittedAt": "2026-06-01T11:02:56.694Z",
+      "date": "2026-06-01",
+      "tasks": [
+        {
+          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
+          "title": "Article video -- Disadvantages of visual in teaching - fixing (1.5)",
+          "progress": "100%",
+          "timeSpent": "6.5h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
