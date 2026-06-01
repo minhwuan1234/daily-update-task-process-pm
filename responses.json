@@ -44,18 +44,18 @@
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     },
     {
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
-      "submittedAt": "2026-06-01T10:57:18.242Z",
       "date": "2026-06-01",
+      "message": "- Họp (0.5h)\n- Sửa Anthony Createvideo Project 2 (1.5h)",
+      "submittedAt": "2026-06-01T10:57:18.242Z",
       "tasks": [
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "title": "North Carolina Museum Video 14 - ONLY 2.5 min in 4.5 min (2.5)",
           "progress": "20%",
-          "timeSpent": "6h"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "timeSpent": "6h",
+          "title": "North Carolina Museum Video 14 - ONLY 2.5 min in 4.5 min (2.5)"
         }
       ],
-      "message": "- Họp (0.5h)\n- Sửa Anthony Createvideo Project 2 (1.5h)"
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     }
   ]
 }
