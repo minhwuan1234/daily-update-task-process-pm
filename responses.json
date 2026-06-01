@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-06-01",
-      "message": "sÃ¡Â»Â­a tÃ¡Â»Â­ cung 2 tiÃ¡ÂºÂ¿ng\nsÃ¡Â»Â­a SN (video 13, guadian, summer stratergy): 2 tiÃ¡ÂºÂ¿ng",
+      "message": "sÃÂ¡ÃÂ»ÃÂ­a tÃÂ¡ÃÂ»ÃÂ­ cung 2 tiÃÂ¡ÃÂºÃÂ¿ng\nsÃÂ¡ÃÂ»ÃÂ­a SN (video 13, guadian, summer stratergy): 2 tiÃÂ¡ÃÂºÃÂ¿ng",
       "submittedAt": "2026-06-01T10:53:20.723Z",
       "tasks": [
         {
@@ -31,7 +31,7 @@
     },
     {
       "date": "2026-06-01",
-      "message": "Concept HOME 1h (tiÃÂ¡ÃÂºÃÂ¿p)",
+      "message": "Concept HOME 1h (tiÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿p)",
       "submittedAt": "2026-06-01T10:50:14.233Z",
       "tasks": [
         {
@@ -45,7 +45,7 @@
     },
     {
       "date": "2026-06-01",
-      "message": "- Há»p (0.5h)\n- Sá»­a Anthony Createvideo Project 2 (1.5h)",
+      "message": "- HÃ¡Â»Âp (0.5h)\n- SÃ¡Â»Â­a Anthony Createvideo Project 2 (1.5h)",
       "submittedAt": "2026-06-01T10:57:18.242Z",
       "tasks": [
         {
@@ -70,6 +70,20 @@
         }
       ],
       "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
+    },
+    {
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-06-01T11:06:56.500Z",
+      "date": "2026-06-01",
+      "tasks": [
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "title": "HOME - SB fixing #1",
+          "progress": "100%",
+          "timeSpent": "6h"
+        }
+      ],
+      "message": "trong lúc chờ feedback tranh thủ quẩy card 219"
     }
   ]
 }
