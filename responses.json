@@ -1,67 +1,19 @@
 {
-  "date": "2026-05-29",
+  "date": "2026-06-01",
   "responses": [
     {
-      "date": "2026-05-29",
-      "message": "",
-      "submittedAt": "2026-05-29T10:46:01.729Z",
+      "userId": "ou_e273fec35061a42660190f8c70f19882",
+      "submittedAt": "2026-06-01T10:45:49.146Z",
+      "date": "2026-06-01",
       "tasks": [
         {
-          "progress": "100%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "ÃÂ¢ÃÂÃÂ",
-          "title": "Cervical check: Screen video fix #3 (1h fix)"
-        },
-        {
-          "progress": "10%",
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
-          "timeSpent": "ÃÂ¢ÃÂÃÂ",
-          "title": "TEST: Gemini Omni tool"
+          "title": "North Carolina Museum Video 14 - ONLY 2 min in 4.5 min (2)",
+          "progress": "20%",
+          "timeSpent": "—"
         }
       ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
-    },
-    {
-      "date": "2026-05-29",
-      "message": "0,5 h sua card, 0,25h hop vs Chi, bao tang la 7,25h",
-      "submittedAt": "2026-05-29T10:47:45.679Z",
-      "tasks": [
-        {
-          "progress": "90%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "7h",
-          "title": "North Carolina Museum Video 16 - 3.1 min (3.5)"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
-    },
-    {
-      "date": "2026-05-29",
-      "message": "",
-      "submittedAt": "2026-05-29T10:51:03.996Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
-          "timeSpent": "8h",
-          "title": "Flashcard: 8 cards (2) 159-166"
-        }
-      ],
-      "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
-    },
-    {
-      "date": "2026-05-29",
-      "message": "",
-      "submittedAt": "2026-05-29T13:12:30.577Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "8h",
-          "title": "Anthony Createvideo (1.5)"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+      "message": ""
     }
   ]
 }
