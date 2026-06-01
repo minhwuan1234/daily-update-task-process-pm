@@ -58,18 +58,18 @@
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     },
     {
-      "userId": "ou_717eedeefe94e9824fbd72716d7eb234",
-      "submittedAt": "2026-06-01T11:02:56.694Z",
       "date": "2026-06-01",
+      "message": "",
+      "submittedAt": "2026-06-01T11:02:56.694Z",
       "tasks": [
         {
-          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
-          "title": "Article video -- Disadvantages of visual in teaching - fixing (1.5)",
           "progress": "100%",
-          "timeSpent": "6.5h"
+          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
+          "timeSpent": "6.5h",
+          "title": "Article video -- Disadvantages of visual in teaching - fixing (1.5)"
         }
       ],
-      "message": ""
+      "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
     }
   ]
 }
