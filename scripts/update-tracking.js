@@ -12,6 +12,9 @@ const membersPath = path.join(ROOT, "members.json");
 const submissionsPath = path.join(ROOT, "tracking", "daily-update-submissions.json");
 const summaryPath = path.join(ROOT, "tracking", "daily-update-summary.json");
 
+// Snapshot folder — luu responses theo tung ngay
+const snapshotDir = path.join(ROOT, "tracking", "snapshots");
+
 function readJson(filePath, fallback) {
   try {
     if (!fs.existsSync(filePath)) return fallback;
@@ -90,14 +93,9 @@ function main() {
     submissions.map((item) => item.submissionId)
   );
 
-  const responseList = Array.isArray(responses.responses)
-    ? responses.responses
-    : Array.isArray(responses)
-      ? responses
-      : Object.entries(responses).map(([userId, data]) => ({ userId, ...data }));
+  const todayResponses = responses[today] || responses;
 
-  for (const responseData of responseList) {
-    const userId = responseData.userId;
+  for (const [userId, responseData] of Object.entries(todayResponses || {})) {
     if (!userId || typeof responseData !== "object") continue;
 
     const member = membersById[userId] || {};
@@ -206,6 +204,17 @@ function main() {
 
   writeJson(submissionsPath, submissions);
   writeJson(summaryPath, summary);
+
+  // Luu snapshot responses.json cua ngay hom nay
+  const snapshotPath = path.join(snapshotDir, `responses-${today}.json`);
+  if (!fs.existsSync(snapshotPath)) {
+    // Chi luu lan dau trong ngay de tranh ghi de
+    writeJson(snapshotPath, responses);
+    console.log(`Snapshot saved: responses-${today}.json`);
+  } else {
+    // Cap nhat snapshot neu co submission moi
+    writeJson(snapshotPath, responses);
+  }
 
   console.log("Tracking updated successfully.");
 }
