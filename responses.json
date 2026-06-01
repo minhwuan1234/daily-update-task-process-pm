@@ -30,18 +30,18 @@
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     },
     {
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-06-01T10:50:14.233Z",
       "date": "2026-06-01",
+      "message": "Concept HOME 1h (tiếp)",
+      "submittedAt": "2026-06-01T10:50:14.233Z",
       "tasks": [
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "SN Priority: 16. Left vs Right-Sided Heart Failure (NCLEX Must-Know) (2.5)",
           "progress": "30%",
-          "timeSpent": "7h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "timeSpent": "7h",
+          "title": "SN Priority: 16. Left vs Right-Sided Heart Failure (NCLEX Must-Know) (2.5)"
         }
       ],
-      "message": "Concept HOME 1h (tiếp)"
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     }
   ]
 }
