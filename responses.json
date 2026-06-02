@@ -1,89 +1,19 @@
 {
-  "date": "2026-06-01",
+  "date": "2026-06-02",
   "responses": [
     {
-      "date": "2026-06-01",
-      "message": "sÃÂ¡ÃÂ»ÃÂ­a tÃÂ¡ÃÂ»ÃÂ­ cung 2 tiÃÂ¡ÃÂºÃÂ¿ng\nsÃÂ¡ÃÂ»ÃÂ­a SN (video 13, guadian, summer stratergy): 2 tiÃÂ¡ÃÂºÃÂ¿ng",
-      "submittedAt": "2026-06-01T10:53:20.723Z",
+      "userId": "ou_e273fec35061a42660190f8c70f19882",
+      "submittedAt": "2026-06-02T10:46:38.585Z",
+      "date": "2026-06-02",
       "tasks": [
         {
-          "progress": "20%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "3h",
-          "title": "North Carolina Museum Video 14 - ONLY 2 min in 4.5 min (2)"
+          "title": "North Carolina Museum Video 14 - ONLY 2 min in 4.5 min (2)",
+          "progress": "60%",
+          "timeSpent": "6h"
         }
       ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
-    },
-    {
-      "date": "2026-06-01",
-      "message": "Flashcard 3h",
-      "submittedAt": "2026-06-01T10:46:46.760Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "5h",
-          "title": "North Carolina Museum Video 16 - 3.1 min (3.5)"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
-    },
-    {
-      "date": "2026-06-01",
-      "message": "Concept HOME 1h (tiÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿p)",
-      "submittedAt": "2026-06-01T10:50:14.233Z",
-      "tasks": [
-        {
-          "progress": "30%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "7h",
-          "title": "SN Priority: 16. Left vs Right-Sided Heart Failure (NCLEX Must-Know) (2.5)"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-06-01",
-      "message": "- HÃ¡Â»Âp (0.5h)\n- SÃ¡Â»Â­a Anthony Createvideo Project 2 (1.5h)",
-      "submittedAt": "2026-06-01T10:57:18.242Z",
-      "tasks": [
-        {
-          "progress": "20%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "6h",
-          "title": "North Carolina Museum Video 14 - ONLY 2.5 min in 4.5 min (2.5)"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-06-01",
-      "message": "",
-      "submittedAt": "2026-06-01T11:02:56.694Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
-          "timeSpent": "6.5h",
-          "title": "Article video -- Disadvantages of visual in teaching - fixing (1.5)"
-        }
-      ],
-      "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
-    },
-    {
-      "date": "2026-06-01",
-      "message": "trong lúc chờ feedback tranh thủ quẩy card 219",
-      "submittedAt": "2026-06-01T11:06:56.500Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "6h",
-          "title": "HOME - SB fixing #1"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+      "message": "Sửa TTI, SN summer, Guadian: 2 tiếng"
     }
   ]
 }
