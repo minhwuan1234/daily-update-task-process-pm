@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-06-02",
-      "message": "Sửa TTI, SN summer, Guadian: 2 tiếng",
+      "message": "Sá»­a TTI, SN summer, Guadian: 2 tiáº¿ng",
       "submittedAt": "2026-06-02T10:46:38.585Z",
       "tasks": [
         {
@@ -14,6 +14,20 @@
         }
       ],
       "userId": "ou_e273fec35061a42660190f8c70f19882"
+    },
+    {
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-06-02T10:46:51.954Z",
+      "date": "2026-06-02",
+      "tasks": [
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "SN Priority: 16. Left vs Right-Sided Heart Failure (NCLEX Must-Know) (2.5)",
+          "progress": "80%",
+          "timeSpent": "7h"
+        }
+      ],
+      "message": "Sửa bảo tàng video 18 1h"
     }
   ]
 }
