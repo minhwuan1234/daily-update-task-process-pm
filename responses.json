@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-06-02",
-      "message": "SÃÂ¡ÃÂ»ÃÂ­a TTI, SN summer, Guadian: 2 tiÃÂ¡ÃÂºÃÂ¿ng",
+      "message": "SÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a TTI, SN summer, Guadian: 2 tiÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿ng",
       "submittedAt": "2026-06-02T10:46:38.585Z",
       "tasks": [
         {
@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-06-02",
-      "message": "SÃ¡Â»Â­a bÃ¡ÂºÂ£o tÃÂ ng video 18 1h",
+      "message": "SÃÂ¡ÃÂ»ÃÂ­a bÃÂ¡ÃÂºÃÂ£o tÃÂÃÂ ng video 18 1h",
       "submittedAt": "2026-06-02T10:46:51.954Z",
       "tasks": [
         {
@@ -56,6 +56,26 @@
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-06-02T10:54:14.620Z",
+      "date": "2026-06-02",
+      "tasks": [
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "title": "M7 Forest The Benefits of Farm Forests​ ~2 min (1.5)",
+          "progress": "50%",
+          "timeSpent": "6h"
+        },
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
+          "title": "0.5 review cards/bảo tàng chia ra 3-4 ngày trong tuần, 1-1.5h/ngày",
+          "progress": "0%",
+          "timeSpent": "0.5h"
+        }
+      ],
+      "message": "chưa review gì hết á, hình như hqua có review 1 xíu rồi, mà review cái lào cứ note ib nhé ạ\nmất 40p sửa bảo tàng 17 nữa\nsáng mất 30p nổ bánh xíu páo"
     }
   ]
 }
