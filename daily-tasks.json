@@ -1,14 +1,19 @@
 {
-  "date": "1-Jun",
-  "generatedAt": "2026-06-01T10:45:06.392Z",
+  "date": "2-Jun",
+  "generatedAt": "2026-06-02T10:45:10.666Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "1-Jun",
-          "dueDate": "3/6",
-          "task": "HOME - SB fixing #1"
+          "date": "2-Jun",
+          "dueDate": "4/6",
+          "task": "M7 Forest The Benefits of Farm Forests​ ~2 min (1.5)"
+        },
+        {
+          "date": "2-Jun",
+          "dueDate": null,
+          "task": "0.5 review cards/bảo tàng chia ra 3-4 ngày trong tuần, 1-1.5h/ngày"
         }
       ]
     },
@@ -16,7 +21,7 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "1-Jun",
+          "date": "2-Jun",
           "dueDate": "5/6",
           "task": "SN Priority: 16. Left vs Right-Sided Heart Failure (NCLEX Must-Know) (2.5)"
         }
@@ -26,9 +31,14 @@
       "member": "Vân",
       "tasks": [
         {
-          "date": "1-Jun",
+          "date": "2-Jun",
           "dueDate": "2/6",
           "task": "Article video -- Disadvantages of visual in teaching - fixing (1.5)"
+        },
+        {
+          "date": "2-Jun",
+          "dueDate": "5/6",
+          "task": "Flashcard: 10 cards (2.5) 201-210"
         }
       ]
     },
@@ -36,7 +46,7 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "1-Jun",
+          "date": "2-Jun",
           "dueDate": "3/6",
           "task": "North Carolina Museum Video 14 - ONLY 2 min in 4.5 min (2)"
         }
@@ -46,7 +56,7 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "1-Jun",
+          "date": "2-Jun",
           "dueDate": "3/6",
           "task": "North Carolina Museum Video 14 - ONLY 2.5 min in 4.5 min (2.5)"
         }
@@ -56,13 +66,13 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "1-Jun",
-          "dueDate": "3/6",
-          "task": "North Carolina Museum Video 16 - 3.1 min (3.5)"
+          "date": "2-Jun",
+          "dueDate": "5/6",
+          "task": "Flashcard: 8 cards (2)  211-218"
         }
       ]
     }
   ],
   "totalMembers": 6,
-  "totalTasks": 6
+  "totalTasks": 8
 }
