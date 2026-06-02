@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-06-02",
-      "message": "SÃ¡Â»Â­a TTI, SN summer, Guadian: 2 tiÃ¡ÂºÂ¿ng",
+      "message": "SÃÂ¡ÃÂ»ÃÂ­a TTI, SN summer, Guadian: 2 tiÃÂ¡ÃÂºÃÂ¿ng",
       "submittedAt": "2026-06-02T10:46:38.585Z",
       "tasks": [
         {
@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-06-02",
-      "message": "Sá»­a báº£o tÃ ng video 18 1h",
+      "message": "SÃ¡Â»Â­a bÃ¡ÂºÂ£o tÃÂ ng video 18 1h",
       "submittedAt": "2026-06-02T10:46:51.954Z",
       "tasks": [
         {
@@ -42,6 +42,20 @@
         }
       ],
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-06-02T10:53:51.534Z",
+      "date": "2026-06-02",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "North Carolina Museum Video 14 - ONLY 2.5 min in 4.5 min (2.5)",
+          "progress": "70%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
