@@ -44,18 +44,18 @@
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     },
     {
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
-      "submittedAt": "2026-06-02T10:53:51.534Z",
       "date": "2026-06-02",
+      "message": "",
+      "submittedAt": "2026-06-02T10:53:51.534Z",
       "tasks": [
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "title": "North Carolina Museum Video 14 - ONLY 2.5 min in 4.5 min (2.5)",
           "progress": "70%",
-          "timeSpent": "8h"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "timeSpent": "8h",
+          "title": "North Carolina Museum Video 14 - ONLY 2.5 min in 4.5 min (2.5)"
         }
       ],
-      "message": ""
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     }
   ]
 }
