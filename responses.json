@@ -78,24 +78,24 @@
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     },
     {
-      "userId": "ou_717eedeefe94e9824fbd72716d7eb234",
-      "submittedAt": "2026-06-02T11:11:32.595Z",
       "date": "2026-06-02",
+      "message": "",
+      "submittedAt": "2026-06-02T11:11:32.595Z",
       "tasks": [
         {
-          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
-          "title": "Article video -- Disadvantages of visual in teaching - fixing (1.5)",
           "progress": "100%",
-          "timeSpent": "—"
+          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
+          "timeSpent": "—",
+          "title": "Article video -- Disadvantages of visual in teaching - fixing (1.5)"
         },
         {
-          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-1",
-          "title": "Flashcard: 10 cards (2.5) 201-210",
           "progress": "60%",
-          "timeSpent": "8h"
+          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-1",
+          "timeSpent": "8h",
+          "title": "Flashcard: 10 cards (2.5) 201-210"
         }
       ],
-      "message": ""
+      "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
     }
   ]
 }
