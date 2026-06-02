@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-06-02",
-      "message": "SÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a TTI, SN summer, Guadian: 2 tiÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿ng",
+      "message": "SÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ»ÃÂÃÂÃÂÃÂ­a TTI, SN summer, Guadian: 2 tiÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ¿ng",
       "submittedAt": "2026-06-02T10:46:38.585Z",
       "tasks": [
         {
@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-06-02",
-      "message": "SÃÂ¡ÃÂ»ÃÂ­a bÃÂ¡ÃÂºÃÂ£o tÃÂÃÂ ng video 18 1h",
+      "message": "SÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a bÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ£o tÃÂÃÂÃÂÃÂ ng video 18 1h",
       "submittedAt": "2026-06-02T10:46:51.954Z",
       "tasks": [
         {
@@ -59,23 +59,43 @@
     },
     {
       "date": "2026-06-02",
-      "message": "chưa review gì hết á, hình như hqua có review 1 xíu rồi, mà review cái lào cứ note ib nhé ạ\nmất 40p sửa bảo tàng 17 nữa\nsáng mất 30p nổ bánh xíu páo",
+      "message": "chÆ°a review gÃ¬ háº¿t Ã¡, hÃ¬nh nhÆ° hqua cÃ³ review 1 xÃ­u rá»i, mÃ  review cÃ¡i lÃ o cá»© note ib nhÃ© áº¡\nmáº¥t 40p sá»­a báº£o tÃ ng 17 ná»¯a\nsÃ¡ng máº¥t 30p ná» bÃ¡nh xÃ­u pÃ¡o",
       "submittedAt": "2026-06-02T10:54:14.620Z",
       "tasks": [
         {
           "progress": "50%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
           "timeSpent": "6h",
-          "title": "M7 Forest The Benefits of Farm Forests​ ~2 min (1.5)"
+          "title": "M7 Forest The Benefits of Farm Forestsâ ~2 min (1.5)"
         },
         {
           "progress": "0%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
           "timeSpent": "0.5h",
-          "title": "0.5 review cards/bảo tàng chia ra 3-4 ngày trong tuần, 1-1.5h/ngày"
+          "title": "0.5 review cards/báº£o tÃ ng chia ra 3-4 ngÃ y trong tuáº§n, 1-1.5h/ngÃ y"
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_717eedeefe94e9824fbd72716d7eb234",
+      "submittedAt": "2026-06-02T11:11:32.595Z",
+      "date": "2026-06-02",
+      "tasks": [
+        {
+          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
+          "title": "Article video -- Disadvantages of visual in teaching - fixing (1.5)",
+          "progress": "100%",
+          "timeSpent": "—"
+        },
+        {
+          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-1",
+          "title": "Flashcard: 10 cards (2.5) 201-210",
+          "progress": "60%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
