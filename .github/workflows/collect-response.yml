@@ -427,7 +427,7 @@ jobs:
                   print(f'❌ Failed {receiver_name}: {res.get("msg")}')
 
                   # ── Ghi vao Google Sheets ──
-          APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyFQ5nPA7qvqjpokqtOCURdntTkRfu3u2md1VcNFBwuTRlvMR1DANUpMXm_2wqP58bP/exec'
+          APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzbSeUEKB4rQH_Th5BLnPzuK9PB3HJJcfvG0IOXwI4fTviXjv5RUn2mhRJD_o7NLZXE0A/exec'
 
           sheets_payload = {
               'toolId':      'daily-update',
