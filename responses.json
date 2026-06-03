@@ -76,18 +76,18 @@
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     },
     {
-      "userId": "ou_717eedeefe94e9824fbd72716d7eb234",
-      "submittedAt": "2026-06-03T11:28:12.529Z",
       "date": "2026-06-03",
+      "message": "1h làm thumbnail simple nursing",
+      "submittedAt": "2026-06-03T11:28:12.529Z",
       "tasks": [
         {
-          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
-          "title": "Flashcard: 10 cards (2.5) 201-210",
           "progress": "90%",
-          "timeSpent": "7h"
+          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
+          "timeSpent": "7h",
+          "title": "Flashcard: 10 cards (2.5) 201-210"
         }
       ],
-      "message": "1h làm thumbnail simple nursing"
+      "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
     }
   ]
 }
