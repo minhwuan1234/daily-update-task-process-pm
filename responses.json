@@ -57,23 +57,37 @@
     },
     {
       "date": "2026-06-03",
-      "message": "làm SN card dần dần",
+      "message": "lÃ m SN card dáº§n dáº§n",
       "submittedAt": "2026-06-03T11:13:50.201Z",
       "tasks": [
         {
           "progress": "100%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
           "timeSpent": "5h",
-          "title": "M7 Forest The Benefits of Farm Forests​ ~2 min (1.5)"
+          "title": "M7 Forest The Benefits of Farm Forestsâ ~2 min (1.5)"
         },
         {
           "progress": "100%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
           "timeSpent": "1.5h",
-          "title": "0.5 review illus chia ra 3-4 ngày trong tuần, 1-1.5h/ngày"
+          "title": "0.5 review illus chia ra 3-4 ngÃ y trong tuáº§n, 1-1.5h/ngÃ y"
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_717eedeefe94e9824fbd72716d7eb234",
+      "submittedAt": "2026-06-03T11:28:12.529Z",
+      "date": "2026-06-03",
+      "tasks": [
+        {
+          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
+          "title": "Flashcard: 10 cards (2.5) 201-210",
+          "progress": "90%",
+          "timeSpent": "7h"
+        }
+      ],
+      "message": "1h làm thumbnail simple nursing"
     }
   ]
 }
