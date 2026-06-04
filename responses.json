@@ -16,18 +16,18 @@
       "userId": "ou_e273fec35061a42660190f8c70f19882"
     },
     {
-      "userId": "ou_717eedeefe94e9824fbd72716d7eb234",
-      "submittedAt": "2026-06-04T10:53:35.030Z",
       "date": "2026-06-04",
+      "message": "sửa article video 3 tiếng\nlàm tiếp article video 3 tiếng rưỡi",
+      "submittedAt": "2026-06-04T10:53:35.030Z",
       "tasks": [
         {
-          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
-          "title": "Flashcard: 10 cards (2.5) 201-210",
           "progress": "100%",
-          "timeSpent": "1h"
+          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
+          "timeSpent": "1h",
+          "title": "Flashcard: 10 cards (2.5) 201-210"
         }
       ],
-      "message": "sửa article video 3 tiếng\nlàm tiếp article video 3 tiếng rưỡi"
+      "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
     }
   ]
 }
