@@ -1,19 +1,14 @@
 {
-  "date": "3-Jun",
-  "generatedAt": "2026-06-03T10:45:07.944Z",
+  "date": "4-Jun",
+  "generatedAt": "2026-06-04T10:45:06.616Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "3-Jun",
-          "dueDate": "4/6",
-          "task": "M7 Forest The Benefits of Farm Forests​ ~2 min (1.5)"
-        },
-        {
-          "date": "3-Jun",
-          "dueDate": null,
-          "task": "0.5 review illus chia ra 3-4 ngày trong tuần, 1-1.5h/ngày"
+          "date": "4-Jun",
+          "dueDate": "5/6",
+          "task": "Flashcard: 10 cards (2) 219-228"
         }
       ]
     },
@@ -21,12 +16,7 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "3-Jun",
-          "dueDate": "5/6",
-          "task": "SN Priority: 16. Left vs Right-Sided Heart Failure (NCLEX Must-Know) (2.5)"
-        },
-        {
-          "date": "3-Jun",
+          "date": "4-Jun",
           "dueDate": "5/6",
           "task": "Flashcard: 8 cards (2) 172-175 + 229-232 + 12/6"
         }
@@ -36,7 +26,7 @@
       "member": "Vân",
       "tasks": [
         {
-          "date": "3-Jun",
+          "date": "4-Jun",
           "dueDate": "5/6",
           "task": "Flashcard: 10 cards (2.5) 201-210"
         }
@@ -46,9 +36,9 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "3-Jun",
-          "dueDate": "3/6",
-          "task": "North Carolina Museum Video 14 - ONLY 2 min in 4.5 min (2.5)"
+          "date": "4-Jun",
+          "dueDate": "10/6",
+          "task": "North Carolina Museum Video 18 - 4 min (4)"
         }
       ]
     },
@@ -56,9 +46,9 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "3-Jun",
-          "dueDate": "3/6",
-          "task": "North Carolina Museum Video 14 - ONLY 2.5 min in 4.5 min (2.5)"
+          "date": "4-Jun",
+          "dueDate": "10/6",
+          "task": "North Carolina Museum Video 17 - 1.2 min (1.5)"
         }
       ]
     },
@@ -66,12 +56,7 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "3-Jun",
-          "dueDate": "5/6",
-          "task": "Flashcard: 8 cards (1.5)  211-218"
-        },
-        {
-          "date": "3-Jun",
+          "date": "4-Jun",
           "dueDate": "5/6",
           "task": "SN Priority: 14. Nursing Priorities for Diabetic Patients ~9min (2.5)"
         }
@@ -79,5 +64,5 @@
     }
   ],
   "totalMembers": 6,
-  "totalTasks": 9
+  "totalTasks": 6
 }
