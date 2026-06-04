@@ -9,7 +9,7 @@
         {
           "progress": "20%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "â",
+          "timeSpent": "Ã¢ÂÂ",
           "title": "North Carolina Museum Video 18 - 4 min (4)"
         }
       ],
@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-06-04",
-      "message": "sửa article video 3 tiếng\nlàm tiếp article video 3 tiếng rưỡi",
+      "message": "sá»­a article video 3 tiáº¿ng\nlÃ m tiáº¿p article video 3 tiáº¿ng rÆ°á»¡i",
       "submittedAt": "2026-06-04T10:53:35.030Z",
       "tasks": [
         {
@@ -28,6 +28,20 @@
         }
       ],
       "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
+    },
+    {
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-06-04T11:28:12.051Z",
+      "date": "2026-06-04",
+      "tasks": [
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "Flashcard: 8 cards (2) 172-175 + 229-232 + 12/6",
+          "progress": "70%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": "khummm"
     }
   ]
 }
