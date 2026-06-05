@@ -13,11 +13,11 @@
           "timeSpent": "7h"
         }
       ],
-      "message": "1h sÃÂ¡ÃÂ»ÃÂ­a card ÃÂ¡ÃÂºÃÂ¡"
+      "message": "1h sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a card ÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¡"
     },
     {
       "date": "2026-06-05",
-      "message": "sÃ¡Â»Â­a simple nursing (1 tiÃ¡ÂºÂ¿ng rÃÂ°Ã¡Â»Â¡i)",
+      "message": "sÃÂ¡ÃÂ»ÃÂ­a simple nursing (1 tiÃÂ¡ÃÂºÃÂ¿ng rÃÂÃÂ°ÃÂ¡ÃÂ»ÃÂ¡i)",
       "submittedAt": "2026-06-05T10:48:37.685Z",
       "tasks": [
         {
@@ -31,7 +31,7 @@
     },
     {
       "date": "2026-06-05",
-      "message": "- sÃ¡ng há»p khÃ¡ch HOME 30p\n- chá» thÆ° lÃ m há» card 230",
+      "message": "- sÃÂ¡ng hÃ¡Â»Âp khÃÂ¡ch HOME 30p\n- chÃ¡Â»Â thÃÂ° lÃÂ m hÃ¡Â»Â card 230",
       "submittedAt": "2026-06-05T10:51:43.894Z",
       "tasks": [
         {
@@ -51,17 +51,37 @@
     },
     {
       "date": "2026-06-05",
-      "message": "không làm bảo tàng\nsửa task của Oanh (6 tiếng)\nsửa TTI (2 tiếng)",
+      "message": "khÃ´ng lÃ m báº£o tÃ ng\nsá»­a task cá»§a Oanh (6 tiáº¿ng)\nsá»­a TTI (2 tiáº¿ng)",
       "submittedAt": "2026-06-05T10:53:05.154Z",
       "tasks": [
         {
           "progress": "20%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "—",
+          "timeSpent": "â",
           "title": "North Carolina Museum Video 18 - 4 min (4)"
         }
       ],
       "userId": "ou_e273fec35061a42660190f8c70f19882"
+    },
+    {
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-06-05T11:28:18.500Z",
+      "date": "2026-06-05",
+      "tasks": [
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "title": "Flashcard: 10 cards (2) 219-228",
+          "progress": "100%",
+          "timeSpent": "3h"
+        },
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
+          "title": "CSL Forest M6 fixing (0.5)",
+          "progress": "100%",
+          "timeSpent": "5h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
