@@ -1,47 +1,19 @@
 {
-  "date": "2026-06-04",
+  "date": "2026-06-05",
   "responses": [
     {
-      "date": "2026-06-04",
-      "message": "",
-      "submittedAt": "2026-06-04T10:45:44.379Z",
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-06-05T10:47:53.467Z",
+      "date": "2026-06-05",
       "tasks": [
         {
-          "progress": "20%",
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "Ã¢ÂÂ",
-          "title": "North Carolina Museum Video 18 - 4 min (4)"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "SN Priority: 14. Nursing Priorities for Diabetic Patients ~9min (2.5)",
+          "progress": "80%",
+          "timeSpent": "7h"
         }
       ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
-    },
-    {
-      "date": "2026-06-04",
-      "message": "sá»­a article video 3 tiáº¿ng\nlÃ m tiáº¿p article video 3 tiáº¿ng rÆ°á»¡i",
-      "submittedAt": "2026-06-04T10:53:35.030Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
-          "timeSpent": "1h",
-          "title": "Flashcard: 10 cards (2.5) 201-210"
-        }
-      ],
-      "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
-    },
-    {
-      "date": "2026-06-04",
-      "message": "khummm",
-      "submittedAt": "2026-06-04T11:28:12.051Z",
-      "tasks": [
-        {
-          "progress": "70%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "8h",
-          "title": "Flashcard: 8 cards (2) 172-175 + 229-232 + 12/6"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+      "message": "1h sửa card ạ"
     }
   ]
 }
