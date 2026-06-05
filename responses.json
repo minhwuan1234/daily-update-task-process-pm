@@ -13,11 +13,11 @@
           "timeSpent": "7h"
         }
       ],
-      "message": "1h sá»­a card áº¡"
+      "message": "1h sÃ¡Â»Â­a card Ã¡ÂºÂ¡"
     },
     {
       "date": "2026-06-05",
-      "message": "sửa simple nursing (1 tiếng rưỡi)",
+      "message": "sá»­a simple nursing (1 tiáº¿ng rÆ°á»¡i)",
       "submittedAt": "2026-06-05T10:48:37.685Z",
       "tasks": [
         {
@@ -28,6 +28,26 @@
         }
       ],
       "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
+    },
+    {
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-06-05T10:51:43.894Z",
+      "date": "2026-06-05",
+      "tasks": [
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "Article video (1.5)",
+          "progress": "20%",
+          "timeSpent": "4h"
+        },
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
+          "title": "Flashcard: 8 cards (2) 172-175 + 229-232 + 12/6",
+          "progress": "100%",
+          "timeSpent": "2.5h"
+        }
+      ],
+      "message": "- sáng họp khách HOME 30p\n- chị thư làm hộ card 230"
     }
   ]
 }
