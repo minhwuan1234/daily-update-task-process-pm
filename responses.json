@@ -13,11 +13,11 @@
           "timeSpent": "7h"
         }
       ],
-      "message": "1h sÃ¡Â»Â­a card Ã¡ÂºÂ¡"
+      "message": "1h sÃÂ¡ÃÂ»ÃÂ­a card ÃÂ¡ÃÂºÃÂ¡"
     },
     {
       "date": "2026-06-05",
-      "message": "sá»­a simple nursing (1 tiáº¿ng rÆ°á»¡i)",
+      "message": "sÃ¡Â»Â­a simple nursing (1 tiÃ¡ÂºÂ¿ng rÃÂ°Ã¡Â»Â¡i)",
       "submittedAt": "2026-06-05T10:48:37.685Z",
       "tasks": [
         {
@@ -31,7 +31,7 @@
     },
     {
       "date": "2026-06-05",
-      "message": "- sáng họp khách HOME 30p\n- chị thư làm hộ card 230",
+      "message": "- sÃ¡ng há»p khÃ¡ch HOME 30p\n- chá» thÆ° lÃ m há» card 230",
       "submittedAt": "2026-06-05T10:51:43.894Z",
       "tasks": [
         {
@@ -48,6 +48,20 @@
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+    },
+    {
+      "userId": "ou_e273fec35061a42660190f8c70f19882",
+      "submittedAt": "2026-06-05T10:53:05.154Z",
+      "date": "2026-06-05",
+      "tasks": [
+        {
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
+          "title": "North Carolina Museum Video 18 - 4 min (4)",
+          "progress": "20%",
+          "timeSpent": "—"
+        }
+      ],
+      "message": "không làm bảo tàng\nsửa task của Oanh (6 tiếng)\nsửa TTI (2 tiếng)"
     }
   ]
 }
