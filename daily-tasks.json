@@ -1,14 +1,19 @@
 {
-  "date": "4-Jun",
-  "generatedAt": "2026-06-04T10:45:06.616Z",
+  "date": "5-Jun",
+  "generatedAt": "2026-06-05T10:46:44.151Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "4-Jun",
+          "date": "5-Jun",
           "dueDate": "5/6",
           "task": "Flashcard: 10 cards (2) 219-228"
+        },
+        {
+          "date": "5-Jun",
+          "dueDate": "5/6",
+          "task": "CSL Forest M6 fixing (0.5)"
         }
       ]
     },
@@ -16,7 +21,12 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "4-Jun",
+          "date": "5-Jun",
+          "dueDate": "6/6",
+          "task": "Article video (1.5)"
+        },
+        {
+          "date": "5-Jun",
           "dueDate": "5/6",
           "task": "Flashcard: 8 cards (2) 172-175 + 229-232 + 12/6"
         }
@@ -26,9 +36,9 @@
       "member": "Vân",
       "tasks": [
         {
-          "date": "4-Jun",
-          "dueDate": "5/6",
-          "task": "Flashcard: 10 cards (2.5) 201-210"
+          "date": "5-Jun",
+          "dueDate": "6/6",
+          "task": "Article video Tips to save training budget (1.5)"
         }
       ]
     },
@@ -36,19 +46,9 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "4-Jun",
+          "date": "5-Jun",
           "dueDate": "10/6",
           "task": "North Carolina Museum Video 18 - 4 min (4)"
-        }
-      ]
-    },
-    {
-      "member": "Oanh",
-      "tasks": [
-        {
-          "date": "4-Jun",
-          "dueDate": "10/6",
-          "task": "North Carolina Museum Video 17 - 1.2 min (1.5)"
         }
       ]
     },
@@ -56,13 +56,13 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "4-Jun",
+          "date": "5-Jun",
           "dueDate": "5/6",
           "task": "SN Priority: 14. Nursing Priorities for Diabetic Patients ~9min (2.5)"
         }
       ]
     }
   ],
-  "totalMembers": 6,
-  "totalTasks": 6
+  "totalMembers": 5,
+  "totalTasks": 7
 }
