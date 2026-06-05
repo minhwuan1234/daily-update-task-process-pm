@@ -30,24 +30,24 @@
       "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
     },
     {
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-06-05T10:51:43.894Z",
       "date": "2026-06-05",
+      "message": "- sáng họp khách HOME 30p\n- chị thư làm hộ card 230",
+      "submittedAt": "2026-06-05T10:51:43.894Z",
       "tasks": [
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "Article video (1.5)",
           "progress": "20%",
-          "timeSpent": "4h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "timeSpent": "4h",
+          "title": "Article video (1.5)"
         },
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
-          "title": "Flashcard: 8 cards (2) 172-175 + 229-232 + 12/6",
           "progress": "100%",
-          "timeSpent": "2.5h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
+          "timeSpent": "2.5h",
+          "title": "Flashcard: 8 cards (2) 172-175 + 229-232 + 12/6"
         }
       ],
-      "message": "- sáng họp khách HOME 30p\n- chị thư làm hộ card 230"
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     }
   ]
 }
