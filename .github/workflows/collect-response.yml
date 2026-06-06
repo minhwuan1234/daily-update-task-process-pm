@@ -409,6 +409,7 @@ jobs:
               'ou_a3cd717fbf6c8058d12c76c980f52eb7',  # Minh Quân
           ]
 
+
           for receiver in PM_RECEIVERS:
               receiver_name = id_to_name.get(receiver, receiver)
 
@@ -426,9 +427,32 @@ jobs:
               else:
                   print(f'❌ Failed {receiver_name}: {res.get("msg")}')
 
-                  # ── Ghi vao Google Sheets ──
+          # ── Ghi vao Google Sheets ── (ra ngoài for loop)
           APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbx7iSxKvZohVakFeBEvQ6neqL04uIviMJD-VK86vZCjYS6tN2fPSEZ7HYWPQfg-2A30hQ/exec'
 
+          sheets_payload = {
+              'toolId':      'daily-update',
+              'date':        date,
+              'member':      display_name,
+              'userId':      user_id,
+              'tasks':       tasks,
+              'message':     message,
+              'submittedAt': submitted_at,
+          }
+
+          try:
+              req = urllib.request.Request(
+                  APPS_SCRIPT_URL,
+                  data=json.dumps(sheets_payload).encode(),
+                  headers={'Content-Type': 'application/json'},
+                  method='POST'
+              )
+              with urllib.request.urlopen(req) as res:
+                  result = json.loads(res.read())
+              print(f'✅ Sheets: {result}')
+          except Exception as e:
+              print(f'⚠️ Sheets error (non-blocking): {e}')         
+           
           sheets_payload = {
               'toolId':      'daily-update',
               'date':        date,
