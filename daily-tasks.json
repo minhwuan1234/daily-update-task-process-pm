@@ -1,14 +1,19 @@
 {
-  "date": "6-Jun",
-  "generatedAt": "2026-06-06T10:45:07.245Z",
+  "date": "8-Jun",
+  "generatedAt": "2026-06-08T10:45:07.348Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "6-Jun",
+          "date": "8-Jun",
           "dueDate": "9/6",
           "task": "Flashcard: box design (1)"
+        },
+        {
+          "date": "8-Jun",
+          "dueDate": "8/6",
+          "task": "IHF Character Design (1.5h)"
         }
       ]
     },
@@ -16,7 +21,7 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "6-Jun",
+          "date": "8-Jun",
           "dueDate": "6/6",
           "task": "Article video Corporte Training Costs (1.5)"
         }
@@ -26,9 +31,9 @@
       "member": "Vân",
       "tasks": [
         {
-          "date": "6-Jun",
+          "date": "8-Jun",
           "dueDate": "12/6",
-          "task": "Flashcard: 10 cards (2.5) 273-282"
+          "task": "Flashcard: 10 cards (2.5) 263-271 273"
         }
       ]
     },
@@ -36,9 +41,9 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "6-Jun",
-          "dueDate": null,
-          "task": "Anthony Createvideo - fixing #2 (0.75)"
+          "date": "8-Jun",
+          "dueDate": "10/6",
+          "task": "North Carolina Museum Video 18 - 4 min -- ONLY 3 min (3)"
         }
       ]
     },
@@ -46,9 +51,9 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "6-Jun",
-          "dueDate": "10/6",
-          "task": "North Carolina Museum Video 17 - 1.2 min (1.5)"
+          "date": "8-Jun",
+          "dueDate": null,
+          "task": "video 17 tiếp"
         }
       ]
     },
@@ -56,13 +61,18 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "6-Jun",
+          "date": "8-Jun",
           "dueDate": "5/6",
           "task": "SN Priority: 14. Nursing Priorities for Diabetic Patients ~9min (2.5)"
+        },
+        {
+          "date": "8-Jun",
+          "dueDate": "10/6",
+          "task": "North Carolina Museum Video 18 - 4 min -- ONLY 42s (1)"
         }
       ]
     }
   ],
   "totalMembers": 6,
-  "totalTasks": 6
+  "totalTasks": 8
 }
