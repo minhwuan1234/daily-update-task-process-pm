@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-06-08",
-      "message": "sÃ¡Â»Â­a Klett Ã¡ÂºÂ¡",
+      "message": "sÃÂ¡ÃÂ»ÃÂ­a Klett ÃÂ¡ÃÂºÃÂ¡",
       "submittedAt": "2026-06-08T10:47:15.990Z",
       "tasks": [
         {
@@ -29,7 +29,7 @@
         {
           "progress": "40%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "â",
+          "timeSpent": "Ã¢ÂÂ",
           "title": "North Carolina Museum Video 18 - 4 min -- ONLY 3 min (3)"
         }
       ],
@@ -37,17 +37,31 @@
     },
     {
       "date": "2026-06-08",
-      "message": "- SN Priority ep 16 (1h)\n- Họp (0.5h)",
+      "message": "- SN Priority ep 16 (1h)\n- Há»p (0.5h)",
       "submittedAt": "2026-06-08T10:54:00.748Z",
       "tasks": [
         {
           "progress": "100%",
           "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
           "timeSpent": "6.5h",
-          "title": "video 17 tiếp"
+          "title": "video 17 tiáº¿p"
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_717eedeefe94e9824fbd72716d7eb234",
+      "submittedAt": "2026-06-08T10:58:20.095Z",
+      "date": "2026-06-08",
+      "tasks": [
+        {
+          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
+          "title": "Flashcard: 10 cards (2.5) 263-271 273",
+          "progress": "70%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
