@@ -50,18 +50,18 @@
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     },
     {
-      "userId": "ou_717eedeefe94e9824fbd72716d7eb234",
-      "submittedAt": "2026-06-08T10:58:20.095Z",
       "date": "2026-06-08",
+      "message": "",
+      "submittedAt": "2026-06-08T10:58:20.095Z",
       "tasks": [
         {
-          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
-          "title": "Flashcard: 10 cards (2.5) 263-271 273",
           "progress": "70%",
-          "timeSpent": "8h"
+          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
+          "timeSpent": "8h",
+          "title": "Flashcard: 10 cards (2.5) 263-271 273"
         }
       ],
-      "message": ""
+      "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
     }
   ]
 }
