@@ -64,24 +64,24 @@
       "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
     },
     {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-06-08T11:08:09.776Z",
       "date": "2026-06-08",
+      "message": "",
+      "submittedAt": "2026-06-08T11:08:09.776Z",
       "tasks": [
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "SN Priority: 14. Nursing Priorities for Diabetic Patients ~9min (2.5)",
           "progress": "100%",
-          "timeSpent": "2.5h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "timeSpent": "2.5h",
+          "title": "SN Priority: 14. Nursing Priorities for Diabetic Patients ~9min (2.5)"
         },
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
-          "title": "North Carolina Museum Video 18 - 4 min -- ONLY 42s (1)",
           "progress": "90%",
-          "timeSpent": "5.5h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
+          "timeSpent": "5.5h",
+          "title": "North Carolina Museum Video 18 - 4 min -- ONLY 42s (1)"
         }
       ],
-      "message": ""
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     }
   ]
 }
