@@ -1,87 +1,25 @@
 {
-  "date": "2026-06-05",
+  "date": "2026-06-08",
   "responses": [
     {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-06-05T10:47:53.467Z",
-      "date": "2026-06-05",
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-06-08T10:47:15.990Z",
+      "date": "2026-06-08",
       "tasks": [
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "SN Priority: 14. Nursing Priorities for Diabetic Patients ~9min (2.5)",
-          "progress": "80%",
-          "timeSpent": "7h"
-        }
-      ],
-      "message": "1h sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a card ÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¡"
-    },
-    {
-      "date": "2026-06-05",
-      "message": "sÃÂ¡ÃÂ»ÃÂ­a simple nursing (1 tiÃÂ¡ÃÂºÃÂ¿ng rÃÂÃÂ°ÃÂ¡ÃÂ»ÃÂ¡i)",
-      "submittedAt": "2026-06-05T10:48:37.685Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
-          "timeSpent": "6.5h",
-          "title": "Article video Tips to save training budget (1.5)"
-        }
-      ],
-      "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
-    },
-    {
-      "date": "2026-06-05",
-      "message": "- sÃÂ¡ng hÃ¡Â»Âp khÃÂ¡ch HOME 30p\n- chÃ¡Â»Â thÃÂ° lÃÂ m hÃ¡Â»Â card 230",
-      "submittedAt": "2026-06-05T10:51:43.894Z",
-      "tasks": [
-        {
-          "progress": "20%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "4h",
-          "title": "Article video (1.5)"
-        },
-        {
-          "progress": "100%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
-          "timeSpent": "2.5h",
-          "title": "Flashcard: 8 cards (2) 172-175 + 229-232 + 12/6"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-06-05",
-      "message": "khÃ´ng lÃ m báº£o tÃ ng\nsá»­a task cá»§a Oanh (6 tiáº¿ng)\nsá»­a TTI (2 tiáº¿ng)",
-      "submittedAt": "2026-06-05T10:53:05.154Z",
-      "tasks": [
-        {
-          "progress": "20%",
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "â",
-          "title": "North Carolina Museum Video 18 - 4 min (4)"
-        }
-      ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
-    },
-    {
-      "date": "2026-06-05",
-      "message": "",
-      "submittedAt": "2026-06-05T11:28:18.500Z",
-      "tasks": [
-        {
-          "progress": "100%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "3h",
-          "title": "Flashcard: 10 cards (2) 219-228"
+          "title": "Flashcard: box design (1)",
+          "progress": "100%",
+          "timeSpent": "3.5h"
         },
         {
-          "progress": "100%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "timeSpent": "5h",
-          "title": "CSL Forest M6 fixing (0.5)"
+          "title": "IHF Character Design (1.5h)",
+          "progress": "100%",
+          "timeSpent": "2h"
         }
       ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+      "message": "sửa Klett ạ"
     }
   ]
 }
