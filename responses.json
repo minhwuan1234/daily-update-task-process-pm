@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-06-08",
-      "message": "sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a Klett ÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¡",
+      "message": "sÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ»ÃÂÃÂÃÂÃÂ­a Klett ÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ¡",
       "submittedAt": "2026-06-08T10:47:15.990Z",
       "tasks": [
         {
@@ -29,7 +29,7 @@
         {
           "progress": "40%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "ÃÂ¢ÃÂÃÂ",
+          "timeSpent": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ",
           "title": "North Carolina Museum Video 18 - 4 min -- ONLY 3 min (3)"
         }
       ],
@@ -37,14 +37,14 @@
     },
     {
       "date": "2026-06-08",
-      "message": "- SN Priority ep 16 (1h)\n- HÃ¡Â»Âp (0.5h)",
+      "message": "- SN Priority ep 16 (1h)\n- HÃÂ¡ÃÂ»ÃÂp (0.5h)",
       "submittedAt": "2026-06-08T10:54:00.748Z",
       "tasks": [
         {
           "progress": "100%",
           "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
           "timeSpent": "6.5h",
-          "title": "video 17 tiÃ¡ÂºÂ¿p"
+          "title": "video 17 tiÃÂ¡ÃÂºÃÂ¿p"
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
@@ -82,6 +82,20 @@
         }
       ],
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+    },
+    {
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-06-08T13:41:51.678Z",
+      "date": "2026-06-08",
+      "tasks": [
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "Article video Corporte Training Costs (1.5)",
+          "progress": "80%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": "khum"
     }
   ]
 }
