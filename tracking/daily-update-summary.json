@@ -502,11 +502,11 @@
     "toolName": "Daily Update Task Process PM",
     "date": "2026-06-08",
     "timezone": "Asia/Ho_Chi_Minh",
-    "updatedAt": "2026-06-08T11:08:20.606669+00:00",
+    "updatedAt": "2026-06-08T13:42:04.059773+00:00",
     "totalMembers": 10,
-    "submittedMembers": 5,
-    "missingMembers": 5,
-    "submissionRate": 50.0,
+    "submittedMembers": 6,
+    "missingMembers": 4,
+    "submissionRate": 60.0,
     "members": {
       "ou_7efb0c22f47740644cf374252d01fdba": {
         "memberName": "Ánh",
@@ -539,9 +539,9 @@
       "ou_8bc85db08b634120548400c90c38d7c1": {
         "memberName": "Thảo Vi",
         "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-        "status": "missing",
-        "submittedAt": null,
-        "submissionCountToday": 0
+        "status": "submitted",
+        "submittedAt": "2026-06-08T13:41:51.678Z",
+        "submissionCountToday": 1
       },
       "ou_029556a9a2b266d13eead0db7af96c5b": {
         "memberName": "Quân",
