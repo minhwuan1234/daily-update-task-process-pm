@@ -50,18 +50,18 @@
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     },
     {
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-06-09T11:11:38.280Z",
       "date": "2026-06-09",
+      "message": "Sáng làm nốt video Article",
+      "submittedAt": "2026-06-09T11:11:38.280Z",
       "tasks": [
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "Flashcard: 5 cards (1) 274-278",
           "progress": "40%",
-          "timeSpent": "4h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "timeSpent": "4h",
+          "title": "Flashcard: 5 cards (1) 274-278"
         }
       ],
-      "message": "Sáng làm nốt video Article"
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     }
   ]
 }
