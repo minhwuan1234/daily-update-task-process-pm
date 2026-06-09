@@ -3,14 +3,14 @@
   "responses": [
     {
       "date": "2026-06-09",
-      "message": "SN 0,5h cho KhÃÂ¡ch",
+      "message": "SN 0,5h cho KhÃÂÃÂ¡ch",
       "submittedAt": "2026-06-09T10:47:02.161Z",
       "tasks": [
         {
           "progress": "40%",
           "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
           "timeSpent": "7h",
-          "title": "CSL Forest M6 Modern Methods of ConstructionÃ¢ÂÂ ~2 min (2)"
+          "title": "CSL Forest M6 Modern Methods of ConstructionÃÂ¢ÃÂÃÂ ~2 min (2)"
         },
         {
           "progress": "100%",
@@ -29,7 +29,7 @@
         {
           "progress": "80%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "â",
+          "timeSpent": "Ã¢ÂÂ",
           "title": "North Carolina Museum Video 18 - 4 min -- ONLY 3 min (3)"
         }
       ],
@@ -37,7 +37,7 @@
     },
     {
       "date": "2026-06-09",
-      "message": "sửa bảo tàng 19 30p",
+      "message": "sá»­a báº£o tÃ ng 19 30p",
       "submittedAt": "2026-06-09T10:54:36.967Z",
       "tasks": [
         {
@@ -48,6 +48,20 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-06-09T11:11:38.280Z",
+      "date": "2026-06-09",
+      "tasks": [
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "Flashcard: 5 cards (1) 274-278",
+          "progress": "40%",
+          "timeSpent": "4h"
+        }
+      ],
+      "message": "Sáng làm nốt video Article"
     }
   ]
 }
