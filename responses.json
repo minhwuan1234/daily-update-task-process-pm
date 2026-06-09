@@ -2,24 +2,24 @@
   "date": "2026-06-09",
   "responses": [
     {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-06-09T10:47:02.161Z",
       "date": "2026-06-09",
+      "message": "SN 0,5h cho Khách",
+      "submittedAt": "2026-06-09T10:47:02.161Z",
       "tasks": [
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "CSL Forest M6 Modern Methods of Construction​ ~2 min (2)",
           "progress": "40%",
-          "timeSpent": "7h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "timeSpent": "7h",
+          "title": "CSL Forest M6 Modern Methods of Construction​ ~2 min (2)"
         },
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
-          "title": "North Carolina Museum Video 18 - 4 min -- ONLY 42s (1)",
           "progress": "100%",
-          "timeSpent": "0.5h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
+          "timeSpent": "0.5h",
+          "title": "North Carolina Museum Video 18 - 4 min -- ONLY 42s (1)"
         }
       ],
-      "message": "SN 0,5h cho Khách"
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     }
   ]
 }
