@@ -3,14 +3,14 @@
   "responses": [
     {
       "date": "2026-06-09",
-      "message": "SN 0,5h cho KhÃ¡ch",
+      "message": "SN 0,5h cho KhÃÂ¡ch",
       "submittedAt": "2026-06-09T10:47:02.161Z",
       "tasks": [
         {
           "progress": "40%",
           "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
           "timeSpent": "7h",
-          "title": "CSL Forest M6 Modern Methods of Constructionâ ~2 min (2)"
+          "title": "CSL Forest M6 Modern Methods of ConstructionÃ¢ÂÂ ~2 min (2)"
         },
         {
           "progress": "100%",
@@ -29,11 +29,25 @@
         {
           "progress": "80%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "—",
+          "timeSpent": "â",
           "title": "North Carolina Museum Video 18 - 4 min -- ONLY 3 min (3)"
         }
       ],
       "userId": "ou_e273fec35061a42660190f8c70f19882"
+    },
+    {
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-06-09T10:54:36.967Z",
+      "date": "2026-06-09",
+      "tasks": [
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "title": "UV: D60 TEE probe assets",
+          "progress": "100%",
+          "timeSpent": "7h"
+        }
+      ],
+      "message": "sửa bảo tàng 19 30p"
     }
   ]
 }
