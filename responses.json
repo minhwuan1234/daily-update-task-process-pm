@@ -1,101 +1,25 @@
 {
-  "date": "2026-06-08",
+  "date": "2026-06-09",
   "responses": [
     {
-      "date": "2026-06-08",
-      "message": "sÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ»ÃÂÃÂÃÂÃÂ­a Klett ÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ¡",
-      "submittedAt": "2026-06-08T10:47:15.990Z",
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-06-09T10:47:02.161Z",
+      "date": "2026-06-09",
       "tasks": [
         {
-          "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "3.5h",
-          "title": "Flashcard: box design (1)"
-        },
-        {
-          "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "timeSpent": "2h",
-          "title": "IHF Character Design (1.5h)"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-06-08",
-      "message": "",
-      "submittedAt": "2026-06-08T10:48:55.394Z",
-      "tasks": [
-        {
-          "progress": "40%",
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ",
-          "title": "North Carolina Museum Video 18 - 4 min -- ONLY 3 min (3)"
-        }
-      ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
-    },
-    {
-      "date": "2026-06-08",
-      "message": "- SN Priority ep 16 (1h)\n- HÃÂ¡ÃÂ»ÃÂp (0.5h)",
-      "submittedAt": "2026-06-08T10:54:00.748Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "6.5h",
-          "title": "video 17 tiÃÂ¡ÃÂºÃÂ¿p"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-06-08",
-      "message": "",
-      "submittedAt": "2026-06-08T10:58:20.095Z",
-      "tasks": [
-        {
-          "progress": "70%",
-          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
-          "timeSpent": "8h",
-          "title": "Flashcard: 10 cards (2.5) 263-271 273"
-        }
-      ],
-      "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
-    },
-    {
-      "date": "2026-06-08",
-      "message": "",
-      "submittedAt": "2026-06-08T11:08:09.776Z",
-      "tasks": [
-        {
-          "progress": "100%",
           "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "2.5h",
-          "title": "SN Priority: 14. Nursing Priorities for Diabetic Patients ~9min (2.5)"
+          "title": "CSL Forest M6 Modern Methods of Construction​ ~2 min (2)",
+          "progress": "40%",
+          "timeSpent": "7h"
         },
         {
-          "progress": "90%",
           "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
-          "timeSpent": "5.5h",
-          "title": "North Carolina Museum Video 18 - 4 min -- ONLY 42s (1)"
+          "title": "North Carolina Museum Video 18 - 4 min -- ONLY 42s (1)",
+          "progress": "100%",
+          "timeSpent": "0.5h"
         }
       ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
-    },
-    {
-      "date": "2026-06-08",
-      "message": "khum",
-      "submittedAt": "2026-06-08T13:41:51.678Z",
-      "tasks": [
-        {
-          "progress": "80%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "8h",
-          "title": "Article video Corporte Training Costs (1.5)"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+      "message": "SN 0,5h cho Khách"
     }
   ]
 }
