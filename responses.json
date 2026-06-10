@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-06-10",
-      "message": "Sáng ngồi test thử tool minh họa trong chatgpt và gemini mất 45p",
+      "message": "SÃ¡ng ngá»i test thá»­ tool minh há»a trong chatgpt vÃ  gemini máº¥t 45p",
       "submittedAt": "2026-06-10T10:46:54.806Z",
       "tasks": [
         {
@@ -20,6 +20,20 @@
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-06-10T10:53:18.565Z",
+      "date": "2026-06-10",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "CSL Forest M6 Modern Methods of Construction​ ~2 min (2)",
+          "progress": "90%",
+          "timeSpent": "7.5h"
+        }
+      ],
+      "message": "Bao tang 18 sua noi bo 0,5h"
     }
   ]
 }
