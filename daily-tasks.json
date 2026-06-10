@@ -1,14 +1,19 @@
 {
-  "date": "9-Jun",
-  "generatedAt": "2026-06-09T10:45:07.288Z",
+  "date": "10-Jun",
+  "generatedAt": "2026-06-10T10:45:08.687Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "9-Jun",
-          "dueDate": "10/6",
-          "task": "UV: D60 TEE probe assets"
+          "date": "10-Jun",
+          "dueDate": "11/6",
+          "task": "Flashcard: 3 cards 246 247 272 (0.5)"
+        },
+        {
+          "date": "10-Jun",
+          "dueDate": "12/6",
+          "task": "Article video (1)"
         }
       ]
     },
@@ -16,7 +21,12 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "9-Jun",
+          "date": "10-Jun",
+          "dueDate": "16/6",
+          "task": "IHF Bereavement Competencies ~1 min -- ONLY Part 1 & 2 (1)"
+        },
+        {
+          "date": "10-Jun",
           "dueDate": "12/6",
           "task": "Flashcard: 5 cards (1) 274-278"
         }
@@ -26,9 +36,9 @@
       "member": "Vân",
       "tasks": [
         {
-          "date": "9-Jun",
+          "date": "10-Jun",
           "dueDate": "12/6",
-          "task": "Flashcard: 10 cards (2.5) 263-271 273"
+          "task": "Article video Rigged Animation vs Frame by Frame"
         }
       ]
     },
@@ -36,7 +46,7 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "9-Jun",
+          "date": "10-Jun",
           "dueDate": "10/6",
           "task": "North Carolina Museum Video 18 - 4 min -- ONLY 3 min (3)"
         }
@@ -46,7 +56,7 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "9-Jun",
+          "date": "10-Jun",
           "dueDate": "12/6",
           "task": "SN Priority: 16. How the Heart Fails (2.5)"
         }
@@ -56,18 +66,13 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "9-Jun",
+          "date": "10-Jun",
           "dueDate": "12/6",
           "task": "CSL Forest M6 Modern Methods of Construction​ ~2 min (2)"
-        },
-        {
-          "date": "9-Jun",
-          "dueDate": "10/6",
-          "task": "North Carolina Museum Video 18 - 4 min -- ONLY 42s (1)"
         }
       ]
     }
   ],
   "totalMembers": 6,
-  "totalTasks": 7
+  "totalTasks": 8
 }
