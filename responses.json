@@ -78,24 +78,24 @@
       "userId": "ou_e273fec35061a42660190f8c70f19882"
     },
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-06-10T11:08:16.053Z",
       "date": "2026-06-10",
+      "message": "Chưa làm gì á. Đang sửa HOME storyboard với sáng có support Hà tổng hợp assets Mike và Alison ạ",
+      "submittedAt": "2026-06-10T11:08:16.053Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "Flashcard: 3 cards 246 247 272 (0.5)",
           "progress": "100%",
-          "timeSpent": "3.5h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "3.5h",
+          "title": "Flashcard: 3 cards 246 247 272 (0.5)"
         },
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "title": "Article video (1)",
           "progress": "0%",
-          "timeSpent": "0.5h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
+          "timeSpent": "0.5h",
+          "title": "Article video (1)"
         }
       ],
-      "message": "Chưa làm gì á. Đang sửa HOME storyboard với sáng có support Hà tổng hợp assets Mike và Alison ạ"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }
