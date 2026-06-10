@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-06-10",
-      "message": "SÃÂ¡ng ngÃ¡Â»Âi test thÃ¡Â»Â­ tool minh hÃ¡Â»Âa trong chatgpt vÃÂ  gemini mÃ¡ÂºÂ¥t 45p",
+      "message": "SÃÂÃÂ¡ng ngÃÂ¡ÃÂ»ÃÂi test thÃÂ¡ÃÂ»ÃÂ­ tool minh hÃÂ¡ÃÂ»ÃÂa trong chatgpt vÃÂÃÂ  gemini mÃÂ¡ÃÂºÃÂ¥t 45p",
       "submittedAt": "2026-06-10T10:46:54.806Z",
       "tasks": [
         {
@@ -30,7 +30,7 @@
           "progress": "90%",
           "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
           "timeSpent": "7.5h",
-          "title": "CSL Forest M6 Modern Methods of Constructionâ ~2 min (2)"
+          "title": "CSL Forest M6 Modern Methods of ConstructionÃ¢ÂÂ ~2 min (2)"
         }
       ],
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
@@ -48,6 +48,20 @@
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_717eedeefe94e9824fbd72716d7eb234",
+      "submittedAt": "2026-06-10T10:57:29.244Z",
+      "date": "2026-06-10",
+      "tasks": [
+        {
+          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
+          "title": "Article video Rigged Animation vs Frame by Frame",
+          "progress": "50%",
+          "timeSpent": "5.5h"
+        }
+      ],
+      "message": "sửa article video 1h30p, làm nốt simple nursing card repro 263-273 (1 tiêngs)"
     }
   ]
 }
