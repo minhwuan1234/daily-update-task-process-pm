@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-06-10",
-      "message": "SÃ¡ng ngá»i test thá»­ tool minh há»a trong chatgpt vÃ  gemini máº¥t 45p",
+      "message": "SÃÂ¡ng ngÃ¡Â»Âi test thÃ¡Â»Â­ tool minh hÃ¡Â»Âa trong chatgpt vÃÂ  gemini mÃ¡ÂºÂ¥t 45p",
       "submittedAt": "2026-06-10T10:46:54.806Z",
       "tasks": [
         {
@@ -30,10 +30,24 @@
           "progress": "90%",
           "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
           "timeSpent": "7.5h",
-          "title": "CSL Forest M6 Modern Methods of Construction​ ~2 min (2)"
+          "title": "CSL Forest M6 Modern Methods of Constructionâ ~2 min (2)"
         }
       ],
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-06-10T10:56:03.880Z",
+      "date": "2026-06-10",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "SN Priority: 16. How the Heart Fails (2.5)",
+          "progress": "80%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
