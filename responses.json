@@ -1,67 +1,25 @@
 {
-  "date": "2026-06-09",
+  "date": "2026-06-10",
   "responses": [
     {
-      "date": "2026-06-09",
-      "message": "SN 0,5h cho KhÃÂÃÂ¡ch",
-      "submittedAt": "2026-06-09T10:47:02.161Z",
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-06-10T10:46:54.806Z",
+      "date": "2026-06-10",
       "tasks": [
         {
-          "progress": "40%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "7h",
-          "title": "CSL Forest M6 Modern Methods of ConstructionÃÂ¢ÃÂÃÂ ~2 min (2)"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "IHF Bereavement Competencies ~1 min -- ONLY Part 1 & 2 (1)",
+          "progress": "10%",
+          "timeSpent": "1.5h"
         },
         {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
+          "title": "Flashcard: 5 cards (1) 274-278",
           "progress": "100%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
-          "timeSpent": "0.5h",
-          "title": "North Carolina Museum Video 18 - 4 min -- ONLY 42s (1)"
+          "timeSpent": "5.5h"
         }
       ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
-    },
-    {
-      "date": "2026-06-09",
-      "message": "",
-      "submittedAt": "2026-06-09T10:50:55.446Z",
-      "tasks": [
-        {
-          "progress": "80%",
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "Ã¢ÂÂ",
-          "title": "North Carolina Museum Video 18 - 4 min -- ONLY 3 min (3)"
-        }
-      ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
-    },
-    {
-      "date": "2026-06-09",
-      "message": "sá»­a báº£o tÃ ng 19 30p",
-      "submittedAt": "2026-06-09T10:54:36.967Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "7h",
-          "title": "UV: D60 TEE probe assets"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-06-09",
-      "message": "Sáng làm nốt video Article",
-      "submittedAt": "2026-06-09T11:11:38.280Z",
-      "tasks": [
-        {
-          "progress": "40%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "4h",
-          "title": "Flashcard: 5 cards (1) 274-278"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+      "message": "Sáng ngồi test thử tool minh họa trong chatgpt và gemini mất 45p"
     }
   ]
 }
