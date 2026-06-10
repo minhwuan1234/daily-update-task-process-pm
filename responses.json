@@ -50,18 +50,18 @@
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     },
     {
-      "userId": "ou_717eedeefe94e9824fbd72716d7eb234",
-      "submittedAt": "2026-06-10T10:57:29.244Z",
       "date": "2026-06-10",
+      "message": "sửa article video 1h30p, làm nốt simple nursing card repro 263-273 (1 tiêngs)",
+      "submittedAt": "2026-06-10T10:57:29.244Z",
       "tasks": [
         {
-          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
-          "title": "Article video Rigged Animation vs Frame by Frame",
           "progress": "50%",
-          "timeSpent": "5.5h"
+          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
+          "timeSpent": "5.5h",
+          "title": "Article video Rigged Animation vs Frame by Frame"
         }
       ],
-      "message": "sửa article video 1h30p, làm nốt simple nursing card repro 263-273 (1 tiêngs)"
+      "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
     }
   ]
 }
