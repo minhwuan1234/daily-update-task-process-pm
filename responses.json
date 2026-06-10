@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-06-10",
-      "message": "SÃÂÃÂÃÂÃÂ¡ng ngÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂi test thÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­ tool minh hÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂa trong chatgpt vÃÂÃÂÃÂÃÂ  gemini mÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¥t 45p",
+      "message": "SÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡ng ngÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ»ÃÂÃÂÃÂÃÂi test thÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ»ÃÂÃÂÃÂÃÂ­ tool minh hÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ»ÃÂÃÂÃÂÃÂa trong chatgpt vÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ  gemini mÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ¥t 45p",
       "submittedAt": "2026-06-10T10:46:54.806Z",
       "tasks": [
         {
@@ -30,7 +30,7 @@
           "progress": "90%",
           "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
           "timeSpent": "7.5h",
-          "title": "CSL Forest M6 Modern Methods of ConstructionÃÂ¢ÃÂÃÂ ~2 min (2)"
+          "title": "CSL Forest M6 Modern Methods of ConstructionÃÂÃÂ¢ÃÂÃÂÃÂÃÂ ~2 min (2)"
         }
       ],
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
@@ -51,7 +51,7 @@
     },
     {
       "date": "2026-06-10",
-      "message": "sá»­a article video 1h30p, lÃ m ná»t simple nursing card repro 263-273 (1 tiÃªngs)",
+      "message": "sÃ¡Â»Â­a article video 1h30p, lÃÂ m nÃ¡Â»Ât simple nursing card repro 263-273 (1 tiÃÂªngs)",
       "submittedAt": "2026-06-10T10:57:29.244Z",
       "tasks": [
         {
@@ -71,11 +71,31 @@
         {
           "progress": "100%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "—",
+          "timeSpent": "â",
           "title": "North Carolina Museum Video 18 - 4 min -- ONLY 3 min (3)"
         }
       ],
       "userId": "ou_e273fec35061a42660190f8c70f19882"
+    },
+    {
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-06-10T11:08:16.053Z",
+      "date": "2026-06-10",
+      "tasks": [
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "title": "Flashcard: 3 cards 246 247 272 (0.5)",
+          "progress": "100%",
+          "timeSpent": "3.5h"
+        },
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
+          "title": "Article video (1)",
+          "progress": "0%",
+          "timeSpent": "0.5h"
+        }
+      ],
+      "message": "Chưa làm gì á. Đang sửa HOME storyboard với sáng có support Hà tổng hợp assets Mike và Alison ạ"
     }
   ]
 }
