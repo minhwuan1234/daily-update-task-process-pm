@@ -2,24 +2,24 @@
   "date": "2026-06-11",
   "responses": [
     {
-      "userId": "ou_e273fec35061a42660190f8c70f19882",
-      "submittedAt": "2026-06-11T10:46:10.420Z",
       "date": "2026-06-11",
+      "message": "",
+      "submittedAt": "2026-06-11T10:46:10.420Z",
       "tasks": [
         {
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "title": "Article video:  Disadvantages of visual in teaching  (1)",
           "progress": "100%",
-          "timeSpent": "4h"
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
+          "timeSpent": "4h",
+          "title": "Article video:  Disadvantages of visual in teaching  (1)"
         },
         {
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
-          "title": "OKR: Personal project (1-1.5 ngày không cố định trong tuần)",
           "progress": "10%",
-          "timeSpent": "4h"
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
+          "timeSpent": "4h",
+          "title": "OKR: Personal project (1-1.5 ngày không cố định trong tuần)"
         }
       ],
-      "message": ""
+      "userId": "ou_e273fec35061a42660190f8c70f19882"
     }
   ]
 }
