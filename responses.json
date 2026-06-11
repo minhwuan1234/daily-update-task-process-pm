@@ -76,18 +76,18 @@
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     },
     {
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-06-11T11:12:31.650Z",
       "date": "2026-06-11",
+      "message": "Sửa card SN nội bộ",
+      "submittedAt": "2026-06-11T11:12:31.650Z",
       "tasks": [
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "IHF Bereavement Competencies ~1 min -- ONLY Part 1 & 2 (1)",
           "progress": "100%",
-          "timeSpent": "7.5h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "timeSpent": "7.5h",
+          "title": "IHF Bereavement Competencies ~1 min -- ONLY Part 1 & 2 (1)"
         }
       ],
-      "message": "Sửa card SN nội bộ"
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     }
   ]
 }
