@@ -1,101 +1,25 @@
 {
-  "date": "2026-06-10",
+  "date": "2026-06-11",
   "responses": [
     {
-      "date": "2026-06-10",
-      "message": "SÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡ng ngÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ»ÃÂÃÂÃÂÃÂi test thÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ»ÃÂÃÂÃÂÃÂ­ tool minh hÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ»ÃÂÃÂÃÂÃÂa trong chatgpt vÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ  gemini mÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ¥t 45p",
-      "submittedAt": "2026-06-10T10:46:54.806Z",
+      "userId": "ou_e273fec35061a42660190f8c70f19882",
+      "submittedAt": "2026-06-11T10:46:10.420Z",
+      "date": "2026-06-11",
       "tasks": [
         {
-          "progress": "10%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "1.5h",
-          "title": "IHF Bereavement Competencies ~1 min -- ONLY Part 1 & 2 (1)"
-        },
-        {
-          "progress": "100%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
-          "timeSpent": "5.5h",
-          "title": "Flashcard: 5 cards (1) 274-278"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-06-10",
-      "message": "Bao tang 18 sua noi bo 0,5h",
-      "submittedAt": "2026-06-10T10:53:18.565Z",
-      "tasks": [
-        {
-          "progress": "90%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "7.5h",
-          "title": "CSL Forest M6 Modern Methods of ConstructionÃÂÃÂ¢ÃÂÃÂÃÂÃÂ ~2 min (2)"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
-    },
-    {
-      "date": "2026-06-10",
-      "message": "",
-      "submittedAt": "2026-06-10T10:56:03.880Z",
-      "tasks": [
-        {
-          "progress": "80%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "8h",
-          "title": "SN Priority: 16. How the Heart Fails (2.5)"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-06-10",
-      "message": "sÃ¡Â»Â­a article video 1h30p, lÃÂ m nÃ¡Â»Ât simple nursing card repro 263-273 (1 tiÃÂªngs)",
-      "submittedAt": "2026-06-10T10:57:29.244Z",
-      "tasks": [
-        {
-          "progress": "50%",
-          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
-          "timeSpent": "5.5h",
-          "title": "Article video Rigged Animation vs Frame by Frame"
-        }
-      ],
-      "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
-    },
-    {
-      "date": "2026-06-10",
-      "message": "",
-      "submittedAt": "2026-06-10T10:58:06.670Z",
-      "tasks": [
-        {
-          "progress": "100%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "â",
-          "title": "North Carolina Museum Video 18 - 4 min -- ONLY 3 min (3)"
-        }
-      ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
-    },
-    {
-      "date": "2026-06-10",
-      "message": "Chưa làm gì á. Đang sửa HOME storyboard với sáng có support Hà tổng hợp assets Mike và Alison ạ",
-      "submittedAt": "2026-06-10T11:08:16.053Z",
-      "tasks": [
-        {
+          "title": "Article video:  Disadvantages of visual in teaching  (1)",
           "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "3.5h",
-          "title": "Flashcard: 3 cards 246 247 272 (0.5)"
+          "timeSpent": "4h"
         },
         {
-          "progress": "0%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "timeSpent": "0.5h",
-          "title": "Article video (1)"
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
+          "title": "OKR: Personal project (1-1.5 ngày không cố định trong tuần)",
+          "progress": "10%",
+          "timeSpent": "4h"
         }
       ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+      "message": ""
     }
   ]
 }
