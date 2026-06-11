@@ -22,24 +22,24 @@
       "userId": "ou_e273fec35061a42660190f8c70f19882"
     },
     {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-06-11T10:49:35.096Z",
       "date": "2026-06-11",
+      "message": "",
+      "submittedAt": "2026-06-11T10:49:35.096Z",
       "tasks": [
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "CSL Forest M6 Modern Methods of Construction​ ~2 min (2)",
           "progress": "100%",
-          "timeSpent": "1.5h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "timeSpent": "1.5h",
+          "title": "CSL Forest M6 Modern Methods of Construction​ ~2 min (2)"
         },
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
-          "title": "Article video: Article video Corporte Training Costs (1)",
           "progress": "100%",
-          "timeSpent": "6.5h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
+          "timeSpent": "6.5h",
+          "title": "Article video: Article video Corporte Training Costs (1)"
         }
       ],
-      "message": ""
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     }
   ]
 }
