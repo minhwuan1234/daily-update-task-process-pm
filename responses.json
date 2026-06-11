@@ -16,7 +16,7 @@
           "progress": "10%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
           "timeSpent": "4h",
-          "title": "OKR: Personal project (1-1.5 ngÃÂÃÂ y khÃÂÃÂ´ng cÃÂ¡ÃÂ»ÃÂ ÃÂÃÂÃÂ¡ÃÂ»ÃÂnh trong tuÃÂ¡ÃÂºÃÂ§n)"
+          "title": "OKR: Personal project (1-1.5 ngÃÂÃÂÃÂÃÂ y khÃÂÃÂÃÂÃÂ´ng cÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ ÃÂÃÂÃÂÃÂÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂnh trong tuÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ§n)"
         }
       ],
       "userId": "ou_e273fec35061a42660190f8c70f19882"
@@ -30,7 +30,7 @@
           "progress": "100%",
           "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
           "timeSpent": "1.5h",
-          "title": "CSL Forest M6 Modern Methods of Constructionâ ~2 min (2)"
+          "title": "CSL Forest M6 Modern Methods of ConstructionÃ¢ÂÂ ~2 min (2)"
         },
         {
           "progress": "100%",
@@ -43,7 +43,7 @@
     },
     {
       "date": "2026-06-11",
-      "message": "lần đầu làm article nên bị ngố, mất thời gian, script lần này cũng không có mô tả visual kĩ nên phải tự nghĩ , VO dài mà hình ảnh gợi ý thì ít nên tự nghĩ nhiều rồi mới gen ảnh được",
+      "message": "láº§n Äáº§u lÃ m article nÃªn bá» ngá», máº¥t thá»i gian, script láº§n nÃ y cÅ©ng khÃ´ng cÃ³ mÃ´ táº£ visual kÄ© nÃªn pháº£i tá»± nghÄ© , VO dÃ i mÃ  hÃ¬nh áº£nh gá»£i Ã½ thÃ¬ Ã­t nÃªn tá»± nghÄ© nhiá»u rá»i má»i gen áº£nh ÄÆ°á»£c",
       "submittedAt": "2026-06-11T10:57:38.720Z",
       "tasks": [
         {
@@ -54,6 +54,26 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-06-11T10:58:12.851Z",
+      "date": "2026-06-11",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "SN Priority: 16. How the Heart Fails (2.5)",
+          "progress": "100%",
+          "timeSpent": "5h"
+        },
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
+          "title": "CSL Coillte At work site fix #2 (0.5)",
+          "progress": "0%",
+          "timeSpent": "—"
+        }
+      ],
+      "message": "SN Outdated Content ep 5 (3h)"
     }
   ]
 }
