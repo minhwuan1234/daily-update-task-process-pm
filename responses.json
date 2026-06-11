@@ -16,7 +16,7 @@
           "progress": "10%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
           "timeSpent": "4h",
-          "title": "OKR: Personal project (1-1.5 ngÃÂ y khÃÂ´ng cÃ¡Â»Â ÃÂÃ¡Â»Ânh trong tuÃ¡ÂºÂ§n)"
+          "title": "OKR: Personal project (1-1.5 ngÃÂÃÂ y khÃÂÃÂ´ng cÃÂ¡ÃÂ»ÃÂ ÃÂÃÂÃÂ¡ÃÂ»ÃÂnh trong tuÃÂ¡ÃÂºÃÂ§n)"
         }
       ],
       "userId": "ou_e273fec35061a42660190f8c70f19882"
@@ -30,7 +30,7 @@
           "progress": "100%",
           "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
           "timeSpent": "1.5h",
-          "title": "CSL Forest M6 Modern Methods of Construction​ ~2 min (2)"
+          "title": "CSL Forest M6 Modern Methods of Constructionâ ~2 min (2)"
         },
         {
           "progress": "100%",
@@ -40,6 +40,20 @@
         }
       ],
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+    },
+    {
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-06-11T10:57:38.720Z",
+      "date": "2026-06-11",
+      "tasks": [
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "title": "Article video (1)",
+          "progress": "30%",
+          "timeSpent": "7.5h"
+        }
+      ],
+      "message": "lần đầu làm article nên bị ngố, mất thời gian, script lần này cũng không có mô tả visual kĩ nên phải tự nghĩ , VO dài mà hình ảnh gợi ý thì ít nên tự nghĩ nhiều rồi mới gen ảnh được"
     }
   ]
 }
