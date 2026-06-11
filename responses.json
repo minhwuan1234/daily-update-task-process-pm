@@ -16,7 +16,7 @@
           "progress": "10%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
           "timeSpent": "4h",
-          "title": "OKR: Personal project (1-1.5 ngÃÂÃÂÃÂÃÂ y khÃÂÃÂÃÂÃÂ´ng cÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ ÃÂÃÂÃÂÃÂÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂnh trong tuÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ§n)"
+          "title": "OKR: Personal project (1-1.5 ngÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ y khÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ´ng cÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ»ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ»ÃÂÃÂÃÂÃÂnh trong tuÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ§n)"
         }
       ],
       "userId": "ou_e273fec35061a42660190f8c70f19882"
@@ -30,7 +30,7 @@
           "progress": "100%",
           "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
           "timeSpent": "1.5h",
-          "title": "CSL Forest M6 Modern Methods of ConstructionÃ¢ÂÂ ~2 min (2)"
+          "title": "CSL Forest M6 Modern Methods of ConstructionÃÂ¢ÃÂÃÂ ~2 min (2)"
         },
         {
           "progress": "100%",
@@ -43,7 +43,7 @@
     },
     {
       "date": "2026-06-11",
-      "message": "láº§n Äáº§u lÃ m article nÃªn bá» ngá», máº¥t thá»i gian, script láº§n nÃ y cÅ©ng khÃ´ng cÃ³ mÃ´ táº£ visual kÄ© nÃªn pháº£i tá»± nghÄ© , VO dÃ i mÃ  hÃ¬nh áº£nh gá»£i Ã½ thÃ¬ Ã­t nÃªn tá»± nghÄ© nhiá»u rá»i má»i gen áº£nh ÄÆ°á»£c",
+      "message": "lÃ¡ÂºÂ§n ÃÂÃ¡ÂºÂ§u lÃÂ m article nÃÂªn bÃ¡Â»Â ngÃ¡Â»Â, mÃ¡ÂºÂ¥t thÃ¡Â»Âi gian, script lÃ¡ÂºÂ§n nÃÂ y cÃÂ©ng khÃÂ´ng cÃÂ³ mÃÂ´ tÃ¡ÂºÂ£ visual kÃÂ© nÃÂªn phÃ¡ÂºÂ£i tÃ¡Â»Â± nghÃÂ© , VO dÃÂ i mÃÂ  hÃÂ¬nh Ã¡ÂºÂ£nh gÃ¡Â»Â£i ÃÂ½ thÃÂ¬ ÃÂ­t nÃÂªn tÃ¡Â»Â± nghÃÂ© nhiÃ¡Â»Âu rÃ¡Â»Âi mÃ¡Â»Âi gen Ã¡ÂºÂ£nh ÃÂÃÂ°Ã¡Â»Â£c",
       "submittedAt": "2026-06-11T10:57:38.720Z",
       "tasks": [
         {
@@ -69,11 +69,25 @@
         {
           "progress": "0%",
           "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
-          "timeSpent": "—",
+          "timeSpent": "â",
           "title": "CSL Coillte At work site fix #2 (0.5)"
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-06-11T11:12:31.650Z",
+      "date": "2026-06-11",
+      "tasks": [
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "IHF Bereavement Competencies ~1 min -- ONLY Part 1 & 2 (1)",
+          "progress": "100%",
+          "timeSpent": "7.5h"
+        }
+      ],
+      "message": "Sửa card SN nội bộ"
     }
   ]
 }
