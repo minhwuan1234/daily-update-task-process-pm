@@ -16,10 +16,30 @@
           "progress": "10%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
           "timeSpent": "4h",
-          "title": "OKR: Personal project (1-1.5 ngày không cố định trong tuần)"
+          "title": "OKR: Personal project (1-1.5 ngÃ y khÃ´ng cá» Äá»nh trong tuáº§n)"
         }
       ],
       "userId": "ou_e273fec35061a42660190f8c70f19882"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-06-11T10:49:35.096Z",
+      "date": "2026-06-11",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "CSL Forest M6 Modern Methods of Construction​ ~2 min (2)",
+          "progress": "100%",
+          "timeSpent": "1.5h"
+        },
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
+          "title": "Article video: Article video Corporte Training Costs (1)",
+          "progress": "100%",
+          "timeSpent": "6.5h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
