@@ -42,18 +42,18 @@
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     },
     {
-      "userId": "ou_717eedeefe94e9824fbd72716d7eb234",
-      "submittedAt": "2026-06-12T11:17:41.358Z",
       "date": "2026-06-12",
+      "message": "sửa card simple nursng (10 card) 40p\nsửa ihf ages and stages. 2 tiếng",
+      "submittedAt": "2026-06-12T11:17:41.358Z",
       "tasks": [
         {
-          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
-          "title": "Flashcard: 7 cards (2) 290-297",
           "progress": "20%",
-          "timeSpent": "5h"
+          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
+          "timeSpent": "5h",
+          "title": "Flashcard: 7 cards (2) 290-297"
         }
       ],
-      "message": "sửa card simple nursng (10 card) 40p\nsửa ihf ages and stages. 2 tiếng"
+      "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
     }
   ]
 }
