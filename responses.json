@@ -23,7 +23,7 @@
     },
     {
       "date": "2026-06-12",
-      "message": "mất 20p họp\nmất khoảng 30p comment cho Vân\nmất khoảng 15p comment cho Thế Anh",
+      "message": "máº¥t 20p há»p\nmáº¥t khoáº£ng 30p comment cho VÃ¢n\nmáº¥t khoáº£ng 15p comment cho Tháº¿ Anh",
       "submittedAt": "2026-06-12T11:15:59.309Z",
       "tasks": [
         {
@@ -40,6 +40,20 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_717eedeefe94e9824fbd72716d7eb234",
+      "submittedAt": "2026-06-12T11:17:41.358Z",
+      "date": "2026-06-12",
+      "tasks": [
+        {
+          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
+          "title": "Flashcard: 7 cards (2) 290-297",
+          "progress": "20%",
+          "timeSpent": "5h"
+        }
+      ],
+      "message": "sửa card simple nursng (10 card) 40p\nsửa ihf ages and stages. 2 tiếng"
     }
   ]
 }
