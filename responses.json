@@ -23,7 +23,7 @@
     },
     {
       "date": "2026-06-12",
-      "message": "máº¥t 20p há»p\nmáº¥t khoáº£ng 30p comment cho VÃ¢n\nmáº¥t khoáº£ng 15p comment cho Tháº¿ Anh",
+      "message": "mÃ¡ÂºÂ¥t 20p hÃ¡Â»Âp\nmÃ¡ÂºÂ¥t khoÃ¡ÂºÂ£ng 30p comment cho VÃÂ¢n\nmÃ¡ÂºÂ¥t khoÃ¡ÂºÂ£ng 15p comment cho ThÃ¡ÂºÂ¿ Anh",
       "submittedAt": "2026-06-12T11:15:59.309Z",
       "tasks": [
         {
@@ -43,7 +43,7 @@
     },
     {
       "date": "2026-06-12",
-      "message": "sửa card simple nursng (10 card) 40p\nsửa ihf ages and stages. 2 tiếng",
+      "message": "sá»­a card simple nursng (10 card) 40p\nsá»­a ihf ages and stages. 2 tiáº¿ng",
       "submittedAt": "2026-06-12T11:17:41.358Z",
       "tasks": [
         {
@@ -54,6 +54,26 @@
         }
       ],
       "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-06-12T11:19:53.778Z",
+      "date": "2026-06-12",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "CSL Coillte At work site fix #2 (0.5)",
+          "progress": "90%",
+          "timeSpent": "5h"
+        },
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
+          "title": "SN Outdated Content: 5. Temperature ~12.5 mins Anim tiếp (2.5)\nDue: pending",
+          "progress": "70%",
+          "timeSpent": "2h"
+        }
+      ],
+      "message": "- Sn Priority ep 16 (0.5h)\n- Tìm working files Nordex (0.5h)"
     }
   ]
 }
