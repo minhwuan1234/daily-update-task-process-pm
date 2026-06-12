@@ -20,6 +20,26 @@
         }
       ],
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+    },
+    {
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-06-12T11:15:59.309Z",
+      "date": "2026-06-12",
+      "tasks": [
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "title": "SN Priority: 21. Hyper vs Hypothyroidism: NCLEX Comparison ~6min (2)",
+          "progress": "10%",
+          "timeSpent": "1.5h"
+        },
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
+          "title": "Article video (1)",
+          "progress": "100%",
+          "timeSpent": "6.5h"
+        }
+      ],
+      "message": "mất 20p họp\nmất khoảng 30p comment cho Vân\nmất khoảng 15p comment cho Thế Anh"
     }
   ]
 }
