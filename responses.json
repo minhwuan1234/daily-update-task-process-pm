@@ -1,107 +1,25 @@
 {
-  "date": "2026-06-11",
+  "date": "2026-06-12",
   "responses": [
     {
-      "date": "2026-06-11",
-      "message": "",
-      "submittedAt": "2026-06-11T10:46:10.420Z",
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-06-12T10:48:55.029Z",
+      "date": "2026-06-12",
       "tasks": [
         {
-          "progress": "100%",
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "4h",
-          "title": "Article video:  Disadvantages of visual in teaching  (1)"
-        },
-        {
-          "progress": "10%",
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
-          "timeSpent": "4h",
-          "title": "OKR: Personal project (1-1.5 ngÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ y khÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ´ng cÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ»ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ»ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂnh trong tuÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§n)"
-        }
-      ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
-    },
-    {
-      "date": "2026-06-11",
-      "message": "",
-      "submittedAt": "2026-06-11T10:51:02.906Z",
-      "tasks": [
-        {
-          "progress": "100%",
           "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "1.5h",
-          "title": "CSL Forest M6 Modern Methods of ConstructionÃÂÃÂ¢ÃÂÃÂÃÂÃÂ ~2 min (2)"
+          "title": "North Carolina Museum Video 19 - 43s (1)",
+          "progress": "100%",
+          "timeSpent": "5h"
         },
         {
-          "progress": "100%",
           "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
-          "timeSpent": "6.5h",
-          "title": "Article video: Article video Corporte Training Costs (1)"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
-    },
-    {
-      "date": "2026-06-11",
-      "message": "lÃÂ¡ÃÂºÃÂ§n ÃÂÃÂÃÂ¡ÃÂºÃÂ§u lÃÂÃÂ m article nÃÂÃÂªn bÃÂ¡ÃÂ»ÃÂ ngÃÂ¡ÃÂ»ÃÂ, mÃÂ¡ÃÂºÃÂ¥t thÃÂ¡ÃÂ»ÃÂi gian, script lÃÂ¡ÃÂºÃÂ§n nÃÂÃÂ y cÃÂÃÂ©ng khÃÂÃÂ´ng cÃÂÃÂ³ mÃÂÃÂ´ tÃÂ¡ÃÂºÃÂ£ visual kÃÂÃÂ© nÃÂÃÂªn phÃÂ¡ÃÂºÃÂ£i tÃÂ¡ÃÂ»ÃÂ± nghÃÂÃÂ© , VO dÃÂÃÂ i mÃÂÃÂ  hÃÂÃÂ¬nh ÃÂ¡ÃÂºÃÂ£nh gÃÂ¡ÃÂ»ÃÂ£i ÃÂÃÂ½ thÃÂÃÂ¬ ÃÂÃÂ­t nÃÂÃÂªn tÃÂ¡ÃÂ»ÃÂ± nghÃÂÃÂ© nhiÃÂ¡ÃÂ»ÃÂu rÃÂ¡ÃÂ»ÃÂi mÃÂ¡ÃÂ»ÃÂi gen ÃÂ¡ÃÂºÃÂ£nh ÃÂÃÂÃÂÃÂ°ÃÂ¡ÃÂ»ÃÂ£c",
-      "submittedAt": "2026-06-11T10:57:38.720Z",
-      "tasks": [
-        {
-          "progress": "30%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "7.5h",
-          "title": "Article video (1)"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-06-11",
-      "message": "SN Outdated Content ep 5 (3h)",
-      "submittedAt": "2026-06-11T10:58:12.851Z",
-      "tasks": [
-        {
+          "title": "Article video: Article video Corporte Training Costs (1)",
           "progress": "100%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "5h",
-          "title": "SN Priority: 16. How the Heart Fails (2.5)"
-        },
-        {
-          "progress": "0%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
-          "timeSpent": "Ã¢ÂÂ",
-          "title": "CSL Coillte At work site fix #2 (0.5)"
+          "timeSpent": "1h"
         }
       ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-06-11",
-      "message": "Sá»­a card SN ná»i bá»",
-      "submittedAt": "2026-06-11T11:12:31.650Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "7.5h",
-          "title": "IHF Bereavement Competencies ~1 min -- ONLY Part 1 & 2 (1)"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-06-11",
-      "message": "",
-      "submittedAt": "2026-06-11T11:51:27.241Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
-          "timeSpent": "4.5h",
-          "title": "IHF Bereavement Competencies ~0.6 min -- ONLY Part 3"
-        }
-      ],
-      "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
+      "message": "2h sua CSL noi bo"
     }
   ]
 }
