@@ -56,24 +56,24 @@
       "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
     },
     {
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
-      "submittedAt": "2026-06-12T11:19:53.778Z",
       "date": "2026-06-12",
+      "message": "- Sn Priority ep 16 (0.5h)\n- Tìm working files Nordex (0.5h)",
+      "submittedAt": "2026-06-12T11:19:53.778Z",
       "tasks": [
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "title": "CSL Coillte At work site fix #2 (0.5)",
           "progress": "90%",
-          "timeSpent": "5h"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "timeSpent": "5h",
+          "title": "CSL Coillte At work site fix #2 (0.5)"
         },
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
-          "title": "SN Outdated Content: 5. Temperature ~12.5 mins Anim tiếp (2.5)\nDue: pending",
           "progress": "70%",
-          "timeSpent": "2h"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
+          "timeSpent": "2h",
+          "title": "SN Outdated Content: 5. Temperature ~12.5 mins Anim tiếp (2.5)\nDue: pending"
         }
       ],
-      "message": "- Sn Priority ep 16 (0.5h)\n- Tìm working files Nordex (0.5h)"
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     }
   ]
 }
