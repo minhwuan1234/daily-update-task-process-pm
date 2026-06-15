@@ -10,14 +10,14 @@
           "progress": "70%",
           "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
           "timeSpent": "8h",
-          "title": "Corporate training showreel tiÃ¡ÂºÂ¿p (1.5)"
+          "title": "Corporate training showreel tiÃÂ¡ÃÂºÃÂ¿p (1.5)"
         }
       ],
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     },
     {
       "date": "2026-06-15",
-      "message": "sá»­a IHF ages and stages",
+      "message": "sÃ¡Â»Â­a IHF ages and stages",
       "submittedAt": "2026-06-15T10:47:10.410Z",
       "tasks": [
         {
@@ -31,13 +31,13 @@
     },
     {
       "date": "2026-06-15",
-      "message": "45 phút - Vẽ BG Nordex M12 Bonding Presentation",
+      "message": "45 phÃºt - Váº½ BG Nordex M12 Bonding Presentation",
       "submittedAt": "2026-06-15T10:55:30.101Z",
       "tasks": [
         {
           "progress": "0%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "—",
+          "timeSpent": "â",
           "title": "HOME - Concept Art color test internal 2h"
         },
         {
@@ -48,6 +48,20 @@
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+    },
+    {
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-06-15T10:55:47.713Z",
+      "date": "2026-06-15",
+      "tasks": [
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "title": "SN Priority: 21. Hyper vs Hypothyroidism: NCLEX Comparison ~6min (2)",
+          "progress": "100%",
+          "timeSpent": "7h"
+        }
+      ],
+      "message": "sáng họp xíu với thừa 30p cuối giờ làm card ạ"
     }
   ]
 }
