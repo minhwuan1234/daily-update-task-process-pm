@@ -10,14 +10,14 @@
           "progress": "70%",
           "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
           "timeSpent": "8h",
-          "title": "Corporate training showreel tiÃÂ¡ÃÂºÃÂ¿p (1.5)"
+          "title": "Corporate training showreel tiÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿p (1.5)"
         }
       ],
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     },
     {
       "date": "2026-06-15",
-      "message": "sÃ¡Â»Â­a IHF ages and stages",
+      "message": "sÃÂ¡ÃÂ»ÃÂ­a IHF ages and stages",
       "submittedAt": "2026-06-15T10:47:10.410Z",
       "tasks": [
         {
@@ -31,13 +31,13 @@
     },
     {
       "date": "2026-06-15",
-      "message": "45 phÃºt - Váº½ BG Nordex M12 Bonding Presentation",
+      "message": "45 phÃÂºt - VÃ¡ÂºÂ½ BG Nordex M12 Bonding Presentation",
       "submittedAt": "2026-06-15T10:55:30.101Z",
       "tasks": [
         {
           "progress": "0%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "â",
+          "timeSpent": "Ã¢ÂÂ",
           "title": "HOME - Concept Art color test internal 2h"
         },
         {
@@ -51,7 +51,7 @@
     },
     {
       "date": "2026-06-15",
-      "message": "sáng họp xíu với thừa 30p cuối giờ làm card ạ",
+      "message": "sÃ¡ng há»p xÃ­u vá»i thá»«a 30p cuá»i giá» lÃ m card áº¡",
       "submittedAt": "2026-06-15T10:55:47.713Z",
       "tasks": [
         {
@@ -62,6 +62,20 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-06-15T10:57:42.269Z",
+      "date": "2026-06-15",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "SN Outdated Content: 5. Temperature ~12.5 mins Anim tiếp (2.5)\nDue: pending",
+          "progress": "90%",
+          "timeSpent": "7.5h"
+        }
+      ],
+      "message": "- Collect file Nordex (Sửa lại) (0.5h)"
     }
   ]
 }
