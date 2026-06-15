@@ -50,18 +50,18 @@
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     },
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-06-15T10:55:47.713Z",
       "date": "2026-06-15",
+      "message": "sáng họp xíu với thừa 30p cuối giờ làm card ạ",
+      "submittedAt": "2026-06-15T10:55:47.713Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "SN Priority: 21. Hyper vs Hypothyroidism: NCLEX Comparison ~6min (2)",
           "progress": "100%",
-          "timeSpent": "7h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "7h",
+          "title": "SN Priority: 21. Hyper vs Hypothyroidism: NCLEX Comparison ~6min (2)"
         }
       ],
-      "message": "sáng họp xíu với thừa 30p cuối giờ làm card ạ"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }
