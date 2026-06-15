@@ -1,19 +1,14 @@
 {
-  "date": "12-Jun",
-  "generatedAt": "2026-06-12T10:45:07.524Z",
+  "date": "15-Jun",
+  "generatedAt": "2026-06-15T10:45:07.778Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "12-Jun",
+          "date": "15-Jun",
           "dueDate": "3/7",
           "task": "SN Priority: 21. Hyper vs Hypothyroidism: NCLEX Comparison ~6min (2)"
-        },
-        {
-          "date": "12-Jun",
-          "dueDate": "12/6",
-          "task": "Article video (1)"
         }
       ]
     },
@@ -21,12 +16,12 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "12-Jun",
+          "date": "15-Jun",
           "dueDate": null,
           "task": "HOME - Concept Art color test internal 2h"
         },
         {
-          "date": "12-Jun",
+          "date": "15-Jun",
           "dueDate": "26/6",
           "task": "SN Priority: 19. Acute Decompensated Heart Failure: Warning Signs, Triggers & Nursing Priorities (NCLEX) ~7min (2.5)"
         }
@@ -36,7 +31,7 @@
       "member": "Vân",
       "tasks": [
         {
-          "date": "12-Jun",
+          "date": "15-Jun",
           "dueDate": "19/6",
           "task": "Flashcard: 7 cards (2) 290-297"
         }
@@ -46,9 +41,9 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "12-Jun",
+          "date": "15-Jun",
           "dueDate": null,
-          "task": "OKR: Personal project (1-1.5 ngày không cố định trong tuần)"
+          "task": "LDA Meet Linda ~2 min (1.5) \nDue:"
         }
       ]
     },
@@ -56,12 +51,7 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "12-Jun",
-          "dueDate": "15/6",
-          "task": "CSL Coillte At work site fix #2 (0.5)"
-        },
-        {
-          "date": "12-Jun",
+          "date": "15-Jun",
           "dueDate": null,
           "task": "SN Outdated Content: 5. Temperature ~12.5 mins Anim tiếp (2.5)\nDue: pending"
         }
@@ -71,18 +61,13 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "12-Jun",
-          "dueDate": "17/6",
-          "task": "North Carolina Museum Video 19 - 43s (1)"
-        },
-        {
-          "date": "12-Jun",
-          "dueDate": "5/6",
-          "task": "Article video: Article video Corporte Training Costs (1)"
+          "date": "15-Jun",
+          "dueDate": null,
+          "task": "Corporate training showreel tiếp (1.5)"
         }
       ]
     }
   ],
   "totalMembers": 6,
-  "totalTasks": 10
+  "totalTasks": 7
 }
