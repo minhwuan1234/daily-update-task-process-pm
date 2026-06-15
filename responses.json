@@ -30,24 +30,24 @@
       "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
     },
     {
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-06-15T10:55:30.101Z",
       "date": "2026-06-15",
+      "message": "45 phút - Vẽ BG Nordex M12 Bonding Presentation",
+      "submittedAt": "2026-06-15T10:55:30.101Z",
       "tasks": [
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "HOME - Concept Art color test internal 2h",
           "progress": "0%",
-          "timeSpent": "—"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "timeSpent": "—",
+          "title": "HOME - Concept Art color test internal 2h"
         },
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
-          "title": "SN Priority: 19. Acute Decompensated Heart Failure: Warning Signs, Triggers & Nursing Priorities (NCLEX) ~7min (2.5)",
           "progress": "70%",
-          "timeSpent": "7h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
+          "timeSpent": "7h",
+          "title": "SN Priority: 19. Acute Decompensated Heart Failure: Warning Signs, Triggers & Nursing Priorities (NCLEX) ~7min (2.5)"
         }
       ],
-      "message": "45 phút - Vẽ BG Nordex M12 Bonding Presentation"
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     }
   ]
 }
