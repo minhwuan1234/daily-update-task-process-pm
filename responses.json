@@ -1,79 +1,19 @@
 {
-  "date": "2026-06-12",
+  "date": "2026-06-15",
   "responses": [
     {
-      "date": "2026-06-12",
-      "message": "2h sua CSL noi bo",
-      "submittedAt": "2026-06-12T10:48:55.029Z",
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-06-15T10:45:58.327Z",
+      "date": "2026-06-15",
       "tasks": [
         {
-          "progress": "100%",
           "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "5h",
-          "title": "North Carolina Museum Video 19 - 43s (1)"
-        },
-        {
-          "progress": "100%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
-          "timeSpent": "1h",
-          "title": "Article video: Article video Corporte Training Costs (1)"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
-    },
-    {
-      "date": "2026-06-12",
-      "message": "mÃ¡ÂºÂ¥t 20p hÃ¡Â»Âp\nmÃ¡ÂºÂ¥t khoÃ¡ÂºÂ£ng 30p comment cho VÃÂ¢n\nmÃ¡ÂºÂ¥t khoÃ¡ÂºÂ£ng 15p comment cho ThÃ¡ÂºÂ¿ Anh",
-      "submittedAt": "2026-06-12T11:15:59.309Z",
-      "tasks": [
-        {
-          "progress": "10%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "1.5h",
-          "title": "SN Priority: 21. Hyper vs Hypothyroidism: NCLEX Comparison ~6min (2)"
-        },
-        {
-          "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "timeSpent": "6.5h",
-          "title": "Article video (1)"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-06-12",
-      "message": "sá»­a card simple nursng (10 card) 40p\nsá»­a ihf ages and stages. 2 tiáº¿ng",
-      "submittedAt": "2026-06-12T11:17:41.358Z",
-      "tasks": [
-        {
-          "progress": "20%",
-          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
-          "timeSpent": "5h",
-          "title": "Flashcard: 7 cards (2) 290-297"
-        }
-      ],
-      "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
-    },
-    {
-      "date": "2026-06-12",
-      "message": "- Sn Priority ep 16 (0.5h)\n- Tìm working files Nordex (0.5h)",
-      "submittedAt": "2026-06-12T11:19:53.778Z",
-      "tasks": [
-        {
-          "progress": "90%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "5h",
-          "title": "CSL Coillte At work site fix #2 (0.5)"
-        },
-        {
+          "title": "Corporate training showreel tiếp (1.5)",
           "progress": "70%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
-          "timeSpent": "2h",
-          "title": "SN Outdated Content: 5. Temperature ~12.5 mins Anim tiếp (2.5)\nDue: pending"
+          "timeSpent": "8h"
         }
       ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+      "message": ""
     }
   ]
 }
