@@ -3,14 +3,14 @@
   "responses": [
     {
       "date": "2026-06-16",
-      "message": "4h sÃ¡Â»Â­a card khÃÂ¡ch Ã¡ÂºÂ¡",
+      "message": "4h sÃÂ¡ÃÂ»ÃÂ­a card khÃÂÃÂ¡ch ÃÂ¡ÃÂºÃÂ¡",
       "submittedAt": "2026-06-16T10:47:32.920Z",
       "tasks": [
         {
           "progress": "100%",
           "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
           "timeSpent": "4h",
-          "title": "Corporate training showreel tiÃ¡ÂºÂ¿p (2)"
+          "title": "Corporate training showreel tiÃÂ¡ÃÂºÃÂ¿p (2)"
         }
       ],
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
@@ -27,7 +27,7 @@
           "timeSpent": "7h"
         }
       ],
-      "message": "sá»­a article video:-compliance training :15p \nsá»­a IHF-ages and stages: 30p (ná»i bá»)"
+      "message": "sÃ¡Â»Â­a article video:-compliance training :15p \nsÃ¡Â»Â­a IHF-ages and stages: 30p (nÃ¡Â»Âi bÃ¡Â»Â)"
     },
     {
       "date": "2026-06-16",
@@ -37,11 +37,31 @@
         {
           "progress": "80%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "—",
+          "timeSpent": "â",
           "title": "LDA Meet Linda ~2 min (1.5)"
         }
       ],
       "userId": "ou_e273fec35061a42660190f8c70f19882"
+    },
+    {
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-06-16T10:56:24.732Z",
+      "date": "2026-06-16",
+      "tasks": [
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "HOME - Concept Art color test internal 2h",
+          "progress": "80%",
+          "timeSpent": "2h"
+        },
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
+          "title": "SN Priority: 19. Acute Decompensated Heart Failure: Warning Signs, Triggers & Nursing Priorities (NCLEX) ~7min (2.5)",
+          "progress": "100%",
+          "timeSpent": "6h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
