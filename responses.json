@@ -3,14 +3,14 @@
   "responses": [
     {
       "date": "2026-06-16",
-      "message": "4h sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a card khÃÂÃÂÃÂÃÂ¡ch ÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¡",
+      "message": "4h sÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ»ÃÂÃÂÃÂÃÂ­a card khÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡ch ÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ¡",
       "submittedAt": "2026-06-16T10:47:32.920Z",
       "tasks": [
         {
           "progress": "100%",
           "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
           "timeSpent": "4h",
-          "title": "Corporate training showreel tiÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿p (2)"
+          "title": "Corporate training showreel tiÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ¿p (2)"
         }
       ],
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
@@ -27,7 +27,7 @@
           "timeSpent": "7h"
         }
       ],
-      "message": "sÃÂ¡ÃÂ»ÃÂ­a article video:-compliance training :15p \nsÃÂ¡ÃÂ»ÃÂ­a IHF-ages and stages: 30p (nÃÂ¡ÃÂ»ÃÂi bÃÂ¡ÃÂ»ÃÂ)"
+      "message": "sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a article video:-compliance training :15p \nsÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a IHF-ages and stages: 30p (nÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂi bÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ)"
     },
     {
       "date": "2026-06-16",
@@ -37,7 +37,7 @@
         {
           "progress": "80%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "Ã¢ÂÂ",
+          "timeSpent": "ÃÂ¢ÃÂÃÂ",
           "title": "LDA Meet Linda ~2 min (1.5)"
         }
       ],
@@ -78,10 +78,24 @@
           "progress": "100%",
           "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
           "timeSpent": "1h",
-          "title": "SN Outdated Content: 5. Temperature ~12.5 mins Anim tiếp (2.5)\nDue: pending"
+          "title": "SN Outdated Content: 5. Temperature ~12.5 mins Anim tiáº¿p (2.5)\nDue: pending"
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-06-16T11:10:59.942Z",
+      "date": "2026-06-16",
+      "tasks": [
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "title": "Flashcard: 5 cards 286-290 (1)",
+          "progress": "100%",
+          "timeSpent": "6h"
+        }
+      ],
+      "message": "thgian còn lại sửa những cái cũ (chưa sửa Renal với Hematology), hỗ trợ Hà sửa card 149 của freelance"
     }
   ]
 }
