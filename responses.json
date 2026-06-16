@@ -2,18 +2,18 @@
   "date": "2026-06-16",
   "responses": [
     {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-06-16T10:47:32.920Z",
       "date": "2026-06-16",
+      "message": "4h sửa card khách ạ",
+      "submittedAt": "2026-06-16T10:47:32.920Z",
       "tasks": [
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "Corporate training showreel tiếp (2)",
           "progress": "100%",
-          "timeSpent": "4h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "timeSpent": "4h",
+          "title": "Corporate training showreel tiếp (2)"
         }
       ],
-      "message": "4h sửa card khách ạ"
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     }
   ]
 }
