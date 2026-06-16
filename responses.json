@@ -3,14 +3,14 @@
   "responses": [
     {
       "date": "2026-06-16",
-      "message": "4h sÃÂ¡ÃÂ»ÃÂ­a card khÃÂÃÂ¡ch ÃÂ¡ÃÂºÃÂ¡",
+      "message": "4h sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a card khÃÂÃÂÃÂÃÂ¡ch ÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¡",
       "submittedAt": "2026-06-16T10:47:32.920Z",
       "tasks": [
         {
           "progress": "100%",
           "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
           "timeSpent": "4h",
-          "title": "Corporate training showreel tiÃÂ¡ÃÂºÃÂ¿p (2)"
+          "title": "Corporate training showreel tiÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿p (2)"
         }
       ],
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
@@ -27,7 +27,7 @@
           "timeSpent": "7h"
         }
       ],
-      "message": "sÃ¡Â»Â­a article video:-compliance training :15p \nsÃ¡Â»Â­a IHF-ages and stages: 30p (nÃ¡Â»Âi bÃ¡Â»Â)"
+      "message": "sÃÂ¡ÃÂ»ÃÂ­a article video:-compliance training :15p \nsÃÂ¡ÃÂ»ÃÂ­a IHF-ages and stages: 30p (nÃÂ¡ÃÂ»ÃÂi bÃÂ¡ÃÂ»ÃÂ)"
     },
     {
       "date": "2026-06-16",
@@ -37,7 +37,7 @@
         {
           "progress": "80%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "â",
+          "timeSpent": "Ã¢ÂÂ",
           "title": "LDA Meet Linda ~2 min (1.5)"
         }
       ],
@@ -62,6 +62,26 @@
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-06-16T10:57:38.712Z",
+      "date": "2026-06-16",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "CSL Nordex M12 Bonding Preparation (0.5)",
+          "progress": "100%",
+          "timeSpent": "3.5h"
+        },
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
+          "title": "SN Outdated Content: 5. Temperature ~12.5 mins Anim tiếp (2.5)\nDue: pending",
+          "progress": "100%",
+          "timeSpent": "1h"
+        }
+      ],
+      "message": "CSL Nordex M13 Key Bonding Operations (3.5h)"
     }
   ]
 }
