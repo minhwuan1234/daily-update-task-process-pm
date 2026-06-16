@@ -64,24 +64,24 @@
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     },
     {
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
-      "submittedAt": "2026-06-16T10:57:38.712Z",
       "date": "2026-06-16",
+      "message": "CSL Nordex M13 Key Bonding Operations (3.5h)",
+      "submittedAt": "2026-06-16T10:57:38.712Z",
       "tasks": [
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "title": "CSL Nordex M12 Bonding Preparation (0.5)",
           "progress": "100%",
-          "timeSpent": "3.5h"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "timeSpent": "3.5h",
+          "title": "CSL Nordex M12 Bonding Preparation (0.5)"
         },
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
-          "title": "SN Outdated Content: 5. Temperature ~12.5 mins Anim tiếp (2.5)\nDue: pending",
           "progress": "100%",
-          "timeSpent": "1h"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
+          "timeSpent": "1h",
+          "title": "SN Outdated Content: 5. Temperature ~12.5 mins Anim tiếp (2.5)\nDue: pending"
         }
       ],
-      "message": "CSL Nordex M13 Key Bonding Operations (3.5h)"
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     }
   ]
 }
