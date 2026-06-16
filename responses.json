@@ -3,17 +3,31 @@
   "responses": [
     {
       "date": "2026-06-16",
-      "message": "4h sửa card khách ạ",
+      "message": "4h sá»­a card khÃ¡ch áº¡",
       "submittedAt": "2026-06-16T10:47:32.920Z",
       "tasks": [
         {
           "progress": "100%",
           "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
           "timeSpent": "4h",
-          "title": "Corporate training showreel tiếp (2)"
+          "title": "Corporate training showreel tiáº¿p (2)"
         }
       ],
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+    },
+    {
+      "userId": "ou_717eedeefe94e9824fbd72716d7eb234",
+      "submittedAt": "2026-06-16T10:49:08.160Z",
+      "date": "2026-06-16",
+      "tasks": [
+        {
+          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
+          "title": "SmoothKP: Video 2 ~1.5mins (3)",
+          "progress": "20%",
+          "timeSpent": "7h"
+        }
+      ],
+      "message": "sửa article video:-compliance training :15p \nsửa IHF-ages and stages: 30p (nội bộ)"
     }
   ]
 }
