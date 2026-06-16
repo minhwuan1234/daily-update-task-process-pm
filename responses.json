@@ -3,14 +3,14 @@
   "responses": [
     {
       "date": "2026-06-16",
-      "message": "4h sá»­a card khÃ¡ch áº¡",
+      "message": "4h sÃ¡Â»Â­a card khÃÂ¡ch Ã¡ÂºÂ¡",
       "submittedAt": "2026-06-16T10:47:32.920Z",
       "tasks": [
         {
           "progress": "100%",
           "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
           "timeSpent": "4h",
-          "title": "Corporate training showreel tiáº¿p (2)"
+          "title": "Corporate training showreel tiÃ¡ÂºÂ¿p (2)"
         }
       ],
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
@@ -27,7 +27,21 @@
           "timeSpent": "7h"
         }
       ],
-      "message": "sửa article video:-compliance training :15p \nsửa IHF-ages and stages: 30p (nội bộ)"
+      "message": "sá»­a article video:-compliance training :15p \nsá»­a IHF-ages and stages: 30p (ná»i bá»)"
+    },
+    {
+      "userId": "ou_e273fec35061a42660190f8c70f19882",
+      "submittedAt": "2026-06-16T10:49:10.794Z",
+      "date": "2026-06-16",
+      "tasks": [
+        {
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
+          "title": "LDA Meet Linda ~2 min (1.5)",
+          "progress": "80%",
+          "timeSpent": "—"
+        }
+      ],
+      "message": ""
     }
   ]
 }
