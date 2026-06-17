@@ -1,14 +1,14 @@
 {
-  "date": "16-Jun",
-  "generatedAt": "2026-06-16T10:45:08.813Z",
+  "date": "17-Jun",
+  "generatedAt": "2026-06-17T10:45:07.825Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "16-Jun",
-          "dueDate": "19/6",
-          "task": "Flashcard: 5 cards 286-290 (1)"
+          "date": "17-Jun",
+          "dueDate": null,
+          "task": "Flashcard: fixing (2h)"
         }
       ]
     },
@@ -16,14 +16,14 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "16-Jun",
+          "date": "17-Jun",
           "dueDate": null,
-          "task": "HOME - Concept Art color test internal 2h"
+          "task": "Flashcard: fixing (0.5)"
         },
         {
-          "date": "16-Jun",
-          "dueDate": "26/6",
-          "task": "SN Priority: 19. Acute Decompensated Heart Failure: Warning Signs, Triggers & Nursing Priorities (NCLEX) ~7min (2.5)"
+          "date": "17-Jun",
+          "dueDate": "23/6",
+          "task": "Demo Limina (1)"
         }
       ]
     },
@@ -31,7 +31,7 @@
       "member": "Vân",
       "tasks": [
         {
-          "date": "16-Jun",
+          "date": "17-Jun",
           "dueDate": "23/6",
           "task": "SmoothKP: Video 2 ~1.5mins (3)"
         }
@@ -41,9 +41,14 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "16-Jun",
+          "date": "17-Jun",
           "dueDate": "23/6",
-          "task": "LDA Meet Linda ~2 min (1.5)"
+          "task": "LDA Meet Linda ~2 min (2.5)"
+        },
+        {
+          "date": "17-Jun",
+          "dueDate": "20/6",
+          "task": "Article video The 4 Types of Patients You’ll Care for (1)"
         }
       ]
     },
@@ -51,14 +56,9 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "16-Jun",
+          "date": "17-Jun",
           "dueDate": "23/6",
-          "task": "CSL Nordex M12 Bonding Preparation (0.5)"
-        },
-        {
-          "date": "16-Jun",
-          "dueDate": null,
-          "task": "SN Outdated Content: 5. Temperature ~12.5 mins Anim tiếp (2.5)\nDue: pending"
+          "task": "CSL Nordex M13 Key Bonding Operations (0.75)"
         }
       ]
     },
@@ -66,9 +66,9 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "16-Jun",
-          "dueDate": null,
-          "task": "Corporate training showreel tiếp (2)"
+          "date": "17-Jun",
+          "dueDate": "20/6",
+          "task": "Article video Patient Comm: 13 techniques (p2)"
         }
       ]
     }
