@@ -17,14 +17,14 @@
     },
     {
       "date": "2026-06-17",
-      "message": "30 ph sá»­a article (training cost), 30p review, 30p sá»­a check xuáº¥t báº£o tÃ ng (khÃ¡ch), 30p article (compliance training)",
+      "message": "30 ph sÃ¡Â»Â­a article (training cost), 30p review, 30p sÃ¡Â»Â­a check xuÃ¡ÂºÂ¥t bÃ¡ÂºÂ£o tÃÂ ng (khÃÂ¡ch), 30p article (compliance training)",
       "submittedAt": "2026-06-17T10:49:08.223Z",
       "tasks": [
         {
           "progress": "100%",
           "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
           "timeSpent": "6h",
-          "title": "Corporate training showreel tiáº¿p (2)"
+          "title": "Corporate training showreel tiÃ¡ÂºÂ¿p (2)"
         }
       ],
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
@@ -42,6 +42,26 @@
         }
       ],
       "message": "OKR - Personal Project (5h)"
+    },
+    {
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-06-17T11:06:03.313Z",
+      "date": "2026-06-17",
+      "tasks": [
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "Flashcard: fixing (0.5)",
+          "progress": "100%",
+          "timeSpent": "3h"
+        },
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
+          "title": "Demo Limina (1)",
+          "progress": "0%",
+          "timeSpent": "—"
+        }
+      ],
+      "message": "Sáng làm nốt test màu HOME 1,5h\nHôm nay chưa làm Limina.\nChiều làm OKR art direction 4h"
     }
   ]
 }
