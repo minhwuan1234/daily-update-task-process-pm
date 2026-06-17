@@ -2,18 +2,18 @@
   "date": "2026-06-17",
   "responses": [
     {
-      "userId": "ou_717eedeefe94e9824fbd72716d7eb234",
-      "submittedAt": "2026-06-17T10:47:15.608Z",
       "date": "2026-06-17",
+      "message": "",
+      "submittedAt": "2026-06-17T10:47:15.608Z",
       "tasks": [
         {
-          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
-          "title": "SmoothKP: Video 2 ~1.5mins (3)",
           "progress": "90%",
-          "timeSpent": "8h"
+          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
+          "timeSpent": "8h",
+          "title": "SmoothKP: Video 2 ~1.5mins (3)"
         }
       ],
-      "message": ""
+      "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
     }
   ]
 }

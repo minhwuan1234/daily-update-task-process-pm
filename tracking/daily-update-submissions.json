@@ -1101,5 +1101,20 @@
     "hasBlocker": false,
     "source": "github-actions",
     "responseFile": "responses.json"
+  },
+  {
+    "submissionId": "daily-update_2026-06-17_ou_717eedeefe94e9824fbd72716d7eb234_2026-06-17T10:47:15.608Z",
+    "toolId": "daily-update",
+    "toolName": "Daily Update Task Process PM",
+    "userId": "ou_717eedeefe94e9824fbd72716d7eb234",
+    "memberName": "Vân",
+    "date": "2026-06-17",
+    "submittedAt": "2026-06-17T10:47:15.608Z",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "taskCount": 1,
+    "hasMessage": false,
+    "hasBlocker": false,
+    "source": "github-actions",
+    "responseFile": "responses.json"
   }
 ]
