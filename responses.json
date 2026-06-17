@@ -16,18 +16,18 @@
       "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
     },
     {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-06-17T10:49:08.223Z",
       "date": "2026-06-17",
+      "message": "30 ph sửa article (training cost), 30p review, 30p sửa check xuất bảo tàng (khách), 30p article (compliance training)",
+      "submittedAt": "2026-06-17T10:49:08.223Z",
       "tasks": [
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "Corporate training showreel tiếp (2)",
           "progress": "100%",
-          "timeSpent": "6h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "timeSpent": "6h",
+          "title": "Corporate training showreel tiếp (2)"
         }
       ],
-      "message": "30 ph sửa article (training cost), 30p review, 30p sửa check xuất bảo tàng (khách), 30p article (compliance training)"
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     }
   ]
 }
