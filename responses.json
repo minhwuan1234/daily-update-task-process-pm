@@ -31,14 +31,14 @@
     },
     {
       "date": "2026-06-18",
-      "message": "lÃÂ m OKR 3h",
+      "message": "lÃÂÃÂ m OKR 3h",
       "submittedAt": "2026-06-18T11:04:01.154Z",
       "tasks": [
         {
           "progress": "50%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
           "timeSpent": "3h",
-          "title": "Article video The 4 Types of Patients YouÃ¢ÂÂll Care for (1)"
+          "title": "Article video The 4 Types of Patients YouÃÂ¢ÃÂÃÂll Care for (1)"
         }
       ],
       "userId": "ou_e273fec35061a42660190f8c70f19882"
@@ -55,11 +55,11 @@
           "timeSpent": "4.5h"
         }
       ],
-      "message": "sá»­a IHF ages and stages (khÃ¡ch): 1,5 tiáº¿ng\nsá»­a SN card (7 card): 1 tiáº¿ng\nsá»­a Article video-Rigged animation...: 1 tiáº¿ng"
+      "message": "sÃ¡Â»Â­a IHF ages and stages (khÃÂ¡ch): 1,5 tiÃ¡ÂºÂ¿ng\nsÃ¡Â»Â­a SN card (7 card): 1 tiÃ¡ÂºÂ¿ng\nsÃ¡Â»Â­a Article video-Rigged animation...: 1 tiÃ¡ÂºÂ¿ng"
     },
     {
       "date": "2026-06-18",
-      "message": "sửa CSL irish hospice 45p",
+      "message": "sá»­a CSL irish hospice 45p",
       "submittedAt": "2026-06-18T11:32:46.499Z",
       "tasks": [
         {
@@ -70,6 +70,20 @@
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+    },
+    {
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-06-18T13:01:41.730Z",
+      "date": "2026-06-18",
+      "tasks": [
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "title": "UV: Newsletter design (0.75)",
+          "progress": "100%",
+          "timeSpent": "4.5h"
+        }
+      ],
+      "message": "Sửa SN flashcard 237 (1,5h) + sửa Klett (20p)"
     }
   ]
 }
