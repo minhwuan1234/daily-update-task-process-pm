@@ -1,67 +1,19 @@
 {
-  "date": "2026-06-17",
+  "date": "2026-06-18",
   "responses": [
     {
-      "date": "2026-06-17",
-      "message": "",
-      "submittedAt": "2026-06-17T10:47:15.608Z",
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-06-18T10:47:01.612Z",
+      "date": "2026-06-18",
       "tasks": [
         {
-          "progress": "90%",
-          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
-          "timeSpent": "8h",
-          "title": "SmoothKP: Video 2 ~1.5mins (3)"
-        }
-      ],
-      "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
-    },
-    {
-      "date": "2026-06-17",
-      "message": "30 ph sÃ¡Â»Â­a article (training cost), 30p review, 30p sÃ¡Â»Â­a check xuÃ¡ÂºÂ¥t bÃ¡ÂºÂ£o tÃÂ ng (khÃÂ¡ch), 30p article (compliance training)",
-      "submittedAt": "2026-06-17T10:49:08.223Z",
-      "tasks": [
-        {
-          "progress": "100%",
           "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "6h",
-          "title": "Corporate training showreel tiÃ¡ÂºÂ¿p (2)"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
-    },
-    {
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
-      "submittedAt": "2026-06-17T10:57:12.776Z",
-      "date": "2026-06-17",
-      "tasks": [
-        {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "title": "CSL Nordex M13 Key Bonding Operations (0.75)",
+          "title": "Article video Patient Comm: 13 techniques (p2)",
           "progress": "100%",
-          "timeSpent": "3h"
+          "timeSpent": "6.5h"
         }
       ],
-      "message": "OKR - Personal Project (5h)"
-    },
-    {
-      "date": "2026-06-17",
-      "message": "Sáng làm nốt test màu HOME 1,5h\nHôm nay chưa làm Limina.\nChiều làm OKR art direction 4h",
-      "submittedAt": "2026-06-17T11:06:03.313Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "3h",
-          "title": "Flashcard: fixing (0.5)"
-        },
-        {
-          "progress": "0%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
-          "timeSpent": "—",
-          "title": "Demo Limina (1)"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+      "message": "1,5h Showreel"
     }
   ]
 }
