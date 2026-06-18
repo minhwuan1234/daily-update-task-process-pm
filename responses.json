@@ -31,17 +31,31 @@
     },
     {
       "date": "2026-06-18",
-      "message": "làm OKR 3h",
+      "message": "lÃ m OKR 3h",
       "submittedAt": "2026-06-18T11:04:01.154Z",
       "tasks": [
         {
           "progress": "50%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
           "timeSpent": "3h",
-          "title": "Article video The 4 Types of Patients You’ll Care for (1)"
+          "title": "Article video The 4 Types of Patients Youâll Care for (1)"
         }
       ],
       "userId": "ou_e273fec35061a42660190f8c70f19882"
+    },
+    {
+      "userId": "ou_717eedeefe94e9824fbd72716d7eb234",
+      "submittedAt": "2026-06-18T11:04:30.006Z",
+      "date": "2026-06-18",
+      "tasks": [
+        {
+          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
+          "title": "SmoothKP: Video 2 ~1.5mins (3)",
+          "progress": "100%",
+          "timeSpent": "4.5h"
+        }
+      ],
+      "message": "sửa IHF ages and stages (khách): 1,5 tiếng\nsửa SN card (7 card): 1 tiếng\nsửa Article video-Rigged animation...: 1 tiếng"
     }
   ]
 }
