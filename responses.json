@@ -72,18 +72,18 @@
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     },
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-06-18T13:01:41.730Z",
       "date": "2026-06-18",
+      "message": "Sửa SN flashcard 237 (1,5h) + sửa Klett (20p)",
+      "submittedAt": "2026-06-18T13:01:41.730Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "UV: Newsletter design (0.75)",
           "progress": "100%",
-          "timeSpent": "4.5h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "4.5h",
+          "title": "UV: Newsletter design (0.75)"
         }
       ],
-      "message": "Sửa SN flashcard 237 (1,5h) + sửa Klett (20p)"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }
