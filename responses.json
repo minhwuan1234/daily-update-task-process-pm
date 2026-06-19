@@ -3,20 +3,20 @@
   "responses": [
     {
       "date": "2026-06-19",
-      "message": "lÃÂ m article video 3 tiÃ¡ÂºÂ¿ng vÃÂ  1 tiÃ¡ÂºÂ¿ng sÃ¡Â»Â­a cobblestone",
+      "message": "lÃÂÃÂ m article video 3 tiÃÂ¡ÃÂºÃÂ¿ng vÃÂÃÂ  1 tiÃÂ¡ÃÂºÃÂ¿ng sÃÂ¡ÃÂ»ÃÂ­a cobblestone",
       "submittedAt": "2026-06-19T11:00:02.261Z",
       "tasks": [
         {
           "progress": "0%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "Ã¢ÂÂ",
+          "timeSpent": "ÃÂ¢ÃÂÃÂ",
           "title": "TTI Chinese + Vietnamese Versions (0.5) \nDue ??"
         },
         {
           "progress": "10%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
           "timeSpent": "4h",
-          "title": "OKR: Personal project - AI + handmade videos (Build kÃÂªnh)  (1.5)"
+          "title": "OKR: Personal project - AI + handmade videos (Build kÃÂÃÂªnh)  (1.5)"
         }
       ],
       "userId": "ou_e273fec35061a42660190f8c70f19882"
@@ -43,11 +43,25 @@
         {
           "progress": "0%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "—",
+          "timeSpent": "â",
           "title": "SN Outdated Content: 8. Preoperative Assessment ~10 mins Illus (3)\nDue"
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-06-19T11:06:21.522Z",
+      "date": "2026-06-19",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "LDA Late Engagement Scenario ~2 min (1.5)",
+          "progress": "100%",
+          "timeSpent": "7.5h"
+        }
+      ],
+      "message": "CSL Nordex M12 + M13 (0.5h)"
     }
   ]
 }
