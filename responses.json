@@ -3,20 +3,20 @@
   "responses": [
     {
       "date": "2026-06-19",
-      "message": "lÃ m article video 3 tiáº¿ng vÃ  1 tiáº¿ng sá»­a cobblestone",
+      "message": "lÃÂ m article video 3 tiÃ¡ÂºÂ¿ng vÃÂ  1 tiÃ¡ÂºÂ¿ng sÃ¡Â»Â­a cobblestone",
       "submittedAt": "2026-06-19T11:00:02.261Z",
       "tasks": [
         {
           "progress": "0%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "â",
+          "timeSpent": "Ã¢ÂÂ",
           "title": "TTI Chinese + Vietnamese Versions (0.5) \nDue ??"
         },
         {
           "progress": "10%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
           "timeSpent": "4h",
-          "title": "OKR: Personal project - AI + handmade videos (Build kÃªnh)  (1.5)"
+          "title": "OKR: Personal project - AI + handmade videos (Build kÃÂªnh)  (1.5)"
         }
       ],
       "userId": "ou_e273fec35061a42660190f8c70f19882"
@@ -34,6 +34,20 @@
         }
       ],
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+    },
+    {
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-06-19T11:06:11.406Z",
+      "date": "2026-06-19",
+      "tasks": [
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "SN Outdated Content: 8. Preoperative Assessment ~10 mins Illus (3)\nDue",
+          "progress": "0%",
+          "timeSpent": "—"
+        }
+      ],
+      "message": "Limina demo 1,5h\nOKR art direction 7h"
     }
   ]
 }
