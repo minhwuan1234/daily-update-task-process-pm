@@ -1,14 +1,14 @@
 {
-  "date": "18-Jun",
-  "generatedAt": "2026-06-18T10:45:07.574Z",
+  "date": "19-Jun",
+  "generatedAt": "2026-06-19T10:45:06.206Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "18-Jun",
-          "dueDate": "19/6",
-          "task": "UV: Newsletter design (0.75)"
+          "date": "19-Jun",
+          "dueDate": null,
+          "task": "Flashcard: fixing (2h)"
         }
       ]
     },
@@ -16,9 +16,9 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "18-Jun",
-          "dueDate": "23/6",
-          "task": "Demo Limina (1)"
+          "date": "19-Jun",
+          "dueDate": null,
+          "task": "SN Outdated Content: 8. Preoperative Assessment ~10 mins Illus (3)\nDue"
         }
       ]
     },
@@ -26,9 +26,14 @@
       "member": "Vân",
       "tasks": [
         {
-          "date": "18-Jun",
+          "date": "19-Jun",
+          "dueDate": null,
+          "task": "Flashcard: fixing (0.5)"
+        },
+        {
+          "date": "19-Jun",
           "dueDate": "23/6",
-          "task": "SmoothKP: Video 2 ~1.5mins (3)"
+          "task": "Demo Limina (1.5)"
         }
       ]
     },
@@ -36,9 +41,14 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "18-Jun",
-          "dueDate": "20/6",
-          "task": "Article video The 4 Types of Patients You’ll Care for (1)"
+          "date": "19-Jun",
+          "dueDate": null,
+          "task": "TTI Chinese + Vietnamese Versions (0.5) \nDue ??"
+        },
+        {
+          "date": "19-Jun",
+          "dueDate": null,
+          "task": "OKR: Personal project - AI + handmade videos (Build kênh)  (1.5)"
         }
       ]
     },
@@ -46,7 +56,7 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "18-Jun",
+          "date": "19-Jun",
           "dueDate": "29/6",
           "task": "LDA Late Engagement Scenario ~2 min (1.5)"
         }
@@ -56,13 +66,13 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "18-Jun",
-          "dueDate": "20/6",
-          "task": "Article video Patient Comm: 13 techniques (p2)"
+          "date": "19-Jun",
+          "dueDate": null,
+          "task": "Complex product & info showreel (2)"
         }
       ]
     }
   ],
   "totalMembers": 6,
-  "totalTasks": 6
+  "totalTasks": 8
 }
