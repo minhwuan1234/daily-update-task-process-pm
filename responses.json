@@ -1,89 +1,19 @@
 {
-  "date": "2026-06-18",
+  "date": "2026-06-19",
   "responses": [
     {
-      "date": "2026-06-18",
-      "message": "1,5h Showreel",
-      "submittedAt": "2026-06-18T10:47:01.612Z",
+      "userId": "ou_e273fec35061a42660190f8c70f19882",
+      "submittedAt": "2026-06-19T10:46:42.213Z",
+      "date": "2026-06-19",
       "tasks": [
         {
-          "progress": "100%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "6.5h",
-          "title": "Article video Patient Comm: 13 techniques (p2)"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
-    },
-    {
-      "date": "2026-06-18",
-      "message": "SN outdated content ep 5 (1h)",
-      "submittedAt": "2026-06-18T10:53:18.017Z",
-      "tasks": [
-        {
-          "progress": "50%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "7h",
-          "title": "LDA Late Engagement Scenario ~2 min (1.5)"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-06-18",
-      "message": "lÃÂÃÂ m OKR 3h",
-      "submittedAt": "2026-06-18T11:04:01.154Z",
-      "tasks": [
-        {
-          "progress": "50%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "3h",
-          "title": "Article video The 4 Types of Patients YouÃÂ¢ÃÂÃÂll Care for (1)"
+          "title": "Article video The 4 Types of Patients You’ll Care for (1)",
+          "progress": "90%",
+          "timeSpent": "2h"
         }
       ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
-    },
-    {
-      "userId": "ou_717eedeefe94e9824fbd72716d7eb234",
-      "submittedAt": "2026-06-18T11:04:30.006Z",
-      "date": "2026-06-18",
-      "tasks": [
-        {
-          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
-          "title": "SmoothKP: Video 2 ~1.5mins (3)",
-          "progress": "100%",
-          "timeSpent": "4.5h"
-        }
-      ],
-      "message": "sÃ¡Â»Â­a IHF ages and stages (khÃÂ¡ch): 1,5 tiÃ¡ÂºÂ¿ng\nsÃ¡Â»Â­a SN card (7 card): 1 tiÃ¡ÂºÂ¿ng\nsÃ¡Â»Â­a Article video-Rigged animation...: 1 tiÃ¡ÂºÂ¿ng"
-    },
-    {
-      "date": "2026-06-18",
-      "message": "sá»­a CSL irish hospice 45p",
-      "submittedAt": "2026-06-18T11:32:46.499Z",
-      "tasks": [
-        {
-          "progress": "80%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "7h",
-          "title": "Demo Limina (1)"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-06-18",
-      "message": "Sửa SN flashcard 237 (1,5h) + sửa Klett (20p)",
-      "submittedAt": "2026-06-18T13:01:41.730Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "4.5h",
-          "title": "UV: Newsletter design (0.75)"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+      "message": "1 tiếng sửa tiếp Video 2 - Meet Linda"
     }
   ]
 }
