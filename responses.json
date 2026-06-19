@@ -22,18 +22,18 @@
       "userId": "ou_e273fec35061a42660190f8c70f19882"
     },
     {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-06-19T11:04:29.296Z",
       "date": "2026-06-19",
+      "message": "",
+      "submittedAt": "2026-06-19T11:04:29.296Z",
       "tasks": [
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "Complex product & info showreel (2)",
           "progress": "70%",
-          "timeSpent": "8h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "timeSpent": "8h",
+          "title": "Complex product & info showreel (2)"
         }
       ],
-      "message": ""
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     }
   ]
 }
