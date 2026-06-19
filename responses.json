@@ -36,18 +36,18 @@
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     },
     {
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-06-19T11:06:11.406Z",
       "date": "2026-06-19",
+      "message": "Limina demo 1,5h\nOKR art direction 7h",
+      "submittedAt": "2026-06-19T11:06:11.406Z",
       "tasks": [
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "SN Outdated Content: 8. Preoperative Assessment ~10 mins Illus (3)\nDue",
           "progress": "0%",
-          "timeSpent": "—"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "timeSpent": "—",
+          "title": "SN Outdated Content: 8. Preoperative Assessment ~10 mins Illus (3)\nDue"
         }
       ],
-      "message": "Limina demo 1,5h\nOKR art direction 7h"
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     }
   ]
 }
