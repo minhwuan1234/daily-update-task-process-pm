@@ -50,18 +50,18 @@
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     },
     {
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
-      "submittedAt": "2026-06-19T11:06:21.522Z",
       "date": "2026-06-19",
+      "message": "CSL Nordex M12 + M13 (0.5h)",
+      "submittedAt": "2026-06-19T11:06:21.522Z",
       "tasks": [
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "title": "LDA Late Engagement Scenario ~2 min (1.5)",
           "progress": "100%",
-          "timeSpent": "7.5h"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "timeSpent": "7.5h",
+          "title": "LDA Late Engagement Scenario ~2 min (1.5)"
         }
       ],
-      "message": "CSL Nordex M12 + M13 (0.5h)"
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     }
   ]
 }
