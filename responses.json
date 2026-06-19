@@ -64,24 +64,24 @@
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     },
     {
-      "userId": "ou_717eedeefe94e9824fbd72716d7eb234",
-      "submittedAt": "2026-06-19T11:17:38.929Z",
       "date": "2026-06-19",
+      "message": "",
+      "submittedAt": "2026-06-19T11:17:38.929Z",
       "tasks": [
         {
-          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
-          "title": "Flashcard: fixing (0.5)",
           "progress": "30%",
-          "timeSpent": "2h"
+          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
+          "timeSpent": "2h",
+          "title": "Flashcard: fixing (0.5)"
         },
         {
-          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-1",
-          "title": "Demo Limina (1.5)",
           "progress": "40%",
-          "timeSpent": "6h"
+          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-1",
+          "timeSpent": "6h",
+          "title": "Demo Limina (1.5)"
         }
       ],
-      "message": ""
+      "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
     }
   ]
 }
