@@ -1249,7 +1249,7 @@
     "toolName": "Daily Update Task Process PM",
     "date": "2026-06-19",
     "timezone": "Asia/Ho_Chi_Minh",
-    "updatedAt": "2026-06-19T10:47:57.994825+00:00",
+    "updatedAt": "2026-06-19T11:00:13.930322+00:00",
     "totalMembers": 10,
     "submittedMembers": 2,
     "missingMembers": 8,
@@ -1273,8 +1273,8 @@
         "memberName": "Duy Anh",
         "userId": "ou_e273fec35061a42660190f8c70f19882",
         "status": "submitted",
-        "submittedAt": "2026-06-19T10:46:42.213Z",
-        "submissionCountToday": 1
+        "submittedAt": "2026-06-19T11:00:02.261Z",
+        "submissionCountToday": 2
       },
       "ou_ce056c51b867b816a10b42f6466bcd70": {
         "memberName": "Oanh",
