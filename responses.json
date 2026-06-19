@@ -2,18 +2,24 @@
   "date": "2026-06-19",
   "responses": [
     {
+      "userId": "ou_e273fec35061a42660190f8c70f19882",
+      "submittedAt": "2026-06-19T11:00:02.261Z",
       "date": "2026-06-19",
-      "message": "1 tiáº¿ng sá»­a tiáº¿p Video 2 - Meet Linda",
-      "submittedAt": "2026-06-19T10:46:42.213Z",
       "tasks": [
         {
-          "progress": "90%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "2h",
-          "title": "Article video The 4 Types of Patients Youâll Care for (1)"
+          "title": "TTI Chinese + Vietnamese Versions (0.5) \nDue ??",
+          "progress": "0%",
+          "timeSpent": "—"
+        },
+        {
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
+          "title": "OKR: Personal project - AI + handmade videos (Build kênh)  (1.5)",
+          "progress": "10%",
+          "timeSpent": "4h"
         }
       ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
+      "message": "làm article video 3 tiếng và 1 tiếng sửa cobblestone"
     },
     {
       "date": "2026-06-19",
