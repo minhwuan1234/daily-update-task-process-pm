@@ -3,20 +3,20 @@
   "responses": [
     {
       "date": "2026-06-19",
-      "message": "lÃÂÃÂ m article video 3 tiÃÂ¡ÃÂºÃÂ¿ng vÃÂÃÂ  1 tiÃÂ¡ÃÂºÃÂ¿ng sÃÂ¡ÃÂ»ÃÂ­a cobblestone",
+      "message": "lÃÂÃÂÃÂÃÂ m article video 3 tiÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿ng vÃÂÃÂÃÂÃÂ  1 tiÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿ng sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a cobblestone",
       "submittedAt": "2026-06-19T11:00:02.261Z",
       "tasks": [
         {
           "progress": "0%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "ÃÂ¢ÃÂÃÂ",
+          "timeSpent": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ",
           "title": "TTI Chinese + Vietnamese Versions (0.5) \nDue ??"
         },
         {
           "progress": "10%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
           "timeSpent": "4h",
-          "title": "OKR: Personal project - AI + handmade videos (Build kÃÂÃÂªnh)  (1.5)"
+          "title": "OKR: Personal project - AI + handmade videos (Build kÃÂÃÂÃÂÃÂªnh)  (1.5)"
         }
       ],
       "userId": "ou_e273fec35061a42660190f8c70f19882"
@@ -43,7 +43,7 @@
         {
           "progress": "0%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "â",
+          "timeSpent": "Ã¢ÂÂ",
           "title": "SN Outdated Content: 8. Preoperative Assessment ~10 mins Illus (3)\nDue"
         }
       ],
@@ -62,6 +62,26 @@
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_717eedeefe94e9824fbd72716d7eb234",
+      "submittedAt": "2026-06-19T11:17:38.929Z",
+      "date": "2026-06-19",
+      "tasks": [
+        {
+          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
+          "title": "Flashcard: fixing (0.5)",
+          "progress": "30%",
+          "timeSpent": "2h"
+        },
+        {
+          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-1",
+          "title": "Demo Limina (1.5)",
+          "progress": "40%",
+          "timeSpent": "6h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
