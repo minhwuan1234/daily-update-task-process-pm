@@ -1,87 +1,19 @@
 {
-  "date": "2026-06-19",
+  "date": "2026-06-20",
   "responses": [
     {
-      "date": "2026-06-19",
-      "message": "lÃÂÃÂÃÂÃÂ m article video 3 tiÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿ng vÃÂÃÂÃÂÃÂ  1 tiÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿ng sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a cobblestone",
-      "submittedAt": "2026-06-19T11:00:02.261Z",
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-06-20T10:56:30.085Z",
+      "date": "2026-06-20",
       "tasks": [
         {
-          "progress": "0%",
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ",
-          "title": "TTI Chinese + Vietnamese Versions (0.5) \nDue ??"
-        },
-        {
-          "progress": "10%",
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
-          "timeSpent": "4h",
-          "title": "OKR: Personal project - AI + handmade videos (Build kÃÂÃÂÃÂÃÂªnh)  (1.5)"
-        }
-      ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
-    },
-    {
-      "date": "2026-06-19",
-      "message": "",
-      "submittedAt": "2026-06-19T11:04:29.296Z",
-      "tasks": [
-        {
-          "progress": "70%",
           "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "8h",
-          "title": "Complex product & info showreel (2)"
+          "title": "Complex product & info showreel (2)",
+          "progress": "90%",
+          "timeSpent": "3.5h"
         }
       ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
-    },
-    {
-      "date": "2026-06-19",
-      "message": "Limina demo 1,5h\nOKR art direction 7h",
-      "submittedAt": "2026-06-19T11:06:11.406Z",
-      "tasks": [
-        {
-          "progress": "0%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "Ã¢ÂÂ",
-          "title": "SN Outdated Content: 8. Preoperative Assessment ~10 mins Illus (3)\nDue"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-06-19",
-      "message": "CSL Nordex M12 + M13 (0.5h)",
-      "submittedAt": "2026-06-19T11:06:21.522Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "7.5h",
-          "title": "LDA Late Engagement Scenario ~2 min (1.5)"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-06-19",
-      "message": "",
-      "submittedAt": "2026-06-19T11:17:38.929Z",
-      "tasks": [
-        {
-          "progress": "30%",
-          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
-          "timeSpent": "2h",
-          "title": "Flashcard: fixing (0.5)"
-        },
-        {
-          "progress": "40%",
-          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-1",
-          "timeSpent": "6h",
-          "title": "Demo Limina (1.5)"
-        }
-      ],
-      "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
+      "message": ""
     }
   ]
 }
