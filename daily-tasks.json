@@ -1,22 +1,12 @@
 {
-  "date": "19-Jun",
-  "generatedAt": "2026-06-19T10:45:06.206Z",
+  "date": "20-Jun",
+  "generatedAt": "2026-06-20T10:45:07.440Z",
   "members": [
-    {
-      "member": "Thư",
-      "tasks": [
-        {
-          "date": "19-Jun",
-          "dueDate": null,
-          "task": "Flashcard: fixing (2h)"
-        }
-      ]
-    },
     {
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "19-Jun",
+          "date": "20-Jun",
           "dueDate": null,
           "task": "SN Outdated Content: 8. Preoperative Assessment ~10 mins Illus (3)\nDue"
         }
@@ -26,14 +16,9 @@
       "member": "Vân",
       "tasks": [
         {
-          "date": "19-Jun",
-          "dueDate": null,
-          "task": "Flashcard: fixing (0.5)"
-        },
-        {
-          "date": "19-Jun",
+          "date": "20-Jun",
           "dueDate": "23/6",
-          "task": "Demo Limina (1.5)"
+          "task": "Demo Limina"
         }
       ]
     },
@@ -41,12 +26,7 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "19-Jun",
-          "dueDate": null,
-          "task": "TTI Chinese + Vietnamese Versions (0.5) \nDue ??"
-        },
-        {
-          "date": "19-Jun",
+          "date": "20-Jun",
           "dueDate": null,
           "task": "OKR: Personal project - AI + handmade videos (Build kênh)  (1.5)"
         }
@@ -56,9 +36,9 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "19-Jun",
-          "dueDate": "29/6",
-          "task": "LDA Late Engagement Scenario ~2 min (1.5)"
+          "date": "20-Jun",
+          "dueDate": null,
+          "task": "OKR: Personal project: Build lộ trình tiếp (0.5)"
         }
       ]
     },
@@ -66,13 +46,13 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "19-Jun",
+          "date": "20-Jun",
           "dueDate": null,
           "task": "Complex product & info showreel (2)"
         }
       ]
     }
   ],
-  "totalMembers": 6,
-  "totalTasks": 8
+  "totalMembers": 5,
+  "totalTasks": 5
 }
