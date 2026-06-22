@@ -50,18 +50,18 @@
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     },
     {
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
-      "submittedAt": "2026-06-22T10:55:00.866Z",
       "date": "2026-06-22",
+      "message": "",
+      "submittedAt": "2026-06-22T10:55:00.866Z",
       "tasks": [
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "title": "Article video  Rigged Animation vs Frame by Frame (1)",
           "progress": "100%",
-          "timeSpent": "8h"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "timeSpent": "8h",
+          "title": "Article video  Rigged Animation vs Frame by Frame (1)"
         }
       ],
-      "message": ""
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     }
   ]
 }
