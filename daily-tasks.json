@@ -1,12 +1,22 @@
 {
-  "date": "20-Jun",
-  "generatedAt": "2026-06-20T10:45:07.440Z",
+  "date": "22-Jun",
+  "generatedAt": "2026-06-22T10:45:06.910Z",
   "members": [
+    {
+      "member": "Thư",
+      "tasks": [
+        {
+          "date": "22-Jun",
+          "dueDate": "23/6",
+          "task": "HOME - SB fixing #2"
+        }
+      ]
+    },
     {
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "20-Jun",
+          "date": "22-Jun",
           "dueDate": null,
           "task": "SN Outdated Content: 8. Preoperative Assessment ~10 mins Illus (3)\nDue"
         }
@@ -16,7 +26,7 @@
       "member": "Vân",
       "tasks": [
         {
-          "date": "20-Jun",
+          "date": "22-Jun",
           "dueDate": "23/6",
           "task": "Demo Limina"
         }
@@ -26,9 +36,14 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "20-Jun",
+          "date": "22-Jun",
           "dueDate": null,
           "task": "OKR: Personal project - AI + handmade videos (Build kênh)  (1.5)"
+        },
+        {
+          "date": "22-Jun",
+          "dueDate": null,
+          "task": "TTI Chinese + Vietnamese Versions (0.5) \nDue ??"
         }
       ]
     },
@@ -36,9 +51,9 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "20-Jun",
+          "date": "22-Jun",
           "dueDate": null,
-          "task": "OKR: Personal project: Build lộ trình tiếp (0.5)"
+          "task": "Article video  Rigged Animation vs Frame by Frame (1)"
         }
       ]
     },
@@ -46,13 +61,18 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "20-Jun",
+          "date": "22-Jun",
+          "dueDate": "23/6",
+          "task": "Demo Limina (0.5)"
+        },
+        {
+          "date": "22-Jun",
           "dueDate": null,
-          "task": "Complex product & info showreel (2)"
+          "task": "Complex product & info showreel (2.5)"
         }
       ]
     }
   ],
-  "totalMembers": 5,
-  "totalTasks": 5
+  "totalMembers": 6,
+  "totalTasks": 8
 }
