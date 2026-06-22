@@ -23,7 +23,7 @@
     },
     {
       "date": "2026-06-22",
-      "message": "lÃÂ m AMD 7-4: 7,5 tiÃ¡ÂºÂ¿ng",
+      "message": "lÃÂÃÂ m AMD 7-4: 7,5 tiÃÂ¡ÃÂºÃÂ¿ng",
       "submittedAt": "2026-06-22T10:46:54.215Z",
       "tasks": [
         {
@@ -37,7 +37,7 @@
     },
     {
       "date": "2026-06-22",
-      "message": "khum cÃ³",
+      "message": "khum cÃÂ³",
       "submittedAt": "2026-06-22T10:50:40.406Z",
       "tasks": [
         {
@@ -62,6 +62,20 @@
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-06-22T11:29:22.633Z",
+      "date": "2026-06-22",
+      "tasks": [
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "title": "HOME - SB fixing #2",
+          "progress": "80%",
+          "timeSpent": "6h"
+        }
+      ],
+      "message": "1h làm UB, còn lại họp"
     }
   ]
 }
