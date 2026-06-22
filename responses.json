@@ -64,18 +64,18 @@
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     },
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-06-22T11:29:22.633Z",
       "date": "2026-06-22",
+      "message": "1h làm UB, còn lại họp",
+      "submittedAt": "2026-06-22T11:29:22.633Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "HOME - SB fixing #2",
           "progress": "80%",
-          "timeSpent": "6h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "6h",
+          "title": "HOME - SB fixing #2"
         }
       ],
-      "message": "1h làm UB, còn lại họp"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }
