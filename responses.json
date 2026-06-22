@@ -23,7 +23,7 @@
     },
     {
       "date": "2026-06-22",
-      "message": "lÃ m AMD 7-4: 7,5 tiáº¿ng",
+      "message": "lÃÂ m AMD 7-4: 7,5 tiÃ¡ÂºÂ¿ng",
       "submittedAt": "2026-06-22T10:46:54.215Z",
       "tasks": [
         {
@@ -37,7 +37,7 @@
     },
     {
       "date": "2026-06-22",
-      "message": "khum có",
+      "message": "khum cÃ³",
       "submittedAt": "2026-06-22T10:50:40.406Z",
       "tasks": [
         {
@@ -48,6 +48,20 @@
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-06-22T10:55:00.866Z",
+      "date": "2026-06-22",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "Article video  Rigged Animation vs Frame by Frame (1)",
+          "progress": "100%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
