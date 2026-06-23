@@ -2,18 +2,18 @@
   "date": "2026-06-23",
   "responses": [
     {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-06-23T10:46:45.168Z",
       "date": "2026-06-23",
+      "message": "30p sửa Limina Demo. 3H30P sửa card",
+      "submittedAt": "2026-06-23T10:46:45.168Z",
       "tasks": [
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "OKR: Personal project: Build lộ trình",
           "progress": "30%",
-          "timeSpent": "4h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "timeSpent": "4h",
+          "title": "OKR: Personal project: Build lộ trình"
         }
       ],
-      "message": "30p sửa Limina Demo. 3H30P sửa card"
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     }
   ]
 }
