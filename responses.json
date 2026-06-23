@@ -3,21 +3,21 @@
   "responses": [
     {
       "date": "2026-06-23",
-      "message": "30p sÃÂ¡ÃÂ»ÃÂ­a Limina Demo. 3H30P sÃÂ¡ÃÂ»ÃÂ­a card",
+      "message": "30p sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a Limina Demo. 3H30P sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a card",
       "submittedAt": "2026-06-23T10:46:45.168Z",
       "tasks": [
         {
           "progress": "30%",
           "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
           "timeSpent": "4h",
-          "title": "OKR: Personal project: Build lÃÂ¡ÃÂ»ÃÂ trÃÂÃÂ¬nh"
+          "title": "OKR: Personal project: Build lÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ trÃÂÃÂÃÂÃÂ¬nh"
         }
       ],
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     },
     {
       "date": "2026-06-23",
-      "message": "SÃ¡Â»Â­a SN prority 19 30p\nSÃ¡Â»Â­a flashcard 15p",
+      "message": "SÃÂ¡ÃÂ»ÃÂ­a SN prority 19 30p\nSÃÂ¡ÃÂ»ÃÂ­a flashcard 15p",
       "submittedAt": "2026-06-23T10:50:02.306Z",
       "tasks": [
         {
@@ -38,12 +38,12 @@
           "progress": "20%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
           "timeSpent": "8h",
-          "title": "OKR: Personal project - AI + handmade videos (Build kÃªnh)  (1.5)"
+          "title": "OKR: Personal project - AI + handmade videos (Build kÃÂªnh)  (1.5)"
         },
         {
           "progress": "0%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
-          "timeSpent": "â",
+          "timeSpent": "Ã¢ÂÂ",
           "title": "TTI Chinese + Vietnamese Versions (0.5)"
         }
       ],
@@ -51,7 +51,7 @@
     },
     {
       "date": "2026-06-23",
-      "message": "còn lại sửa nốt HOME và support cái mục lục SN Flashcard",
+      "message": "cÃ²n láº¡i sá»­a ná»t HOME vÃ  support cÃ¡i má»¥c lá»¥c SN Flashcard",
       "submittedAt": "2026-06-23T10:55:20.107Z",
       "tasks": [
         {
@@ -68,6 +68,20 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-06-23T11:03:10.709Z",
+      "date": "2026-06-23",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "OKR: Personal project: Build lộ trình",
+          "progress": "90%",
+          "timeSpent": "7.5h"
+        }
+      ],
+      "message": "Sửa SN Outdated Content ep 5 (0.5h)"
     }
   ]
 }
