@@ -1,81 +1,19 @@
 {
-  "date": "2026-06-22",
+  "date": "2026-06-23",
   "responses": [
     {
-      "date": "2026-06-22",
-      "message": "",
-      "submittedAt": "2026-06-22T10:46:01.176Z",
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-06-23T10:46:45.168Z",
+      "date": "2026-06-23",
       "tasks": [
         {
-          "progress": "100%",
           "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "4h",
-          "title": "Demo Limina (0.5)"
-        },
-        {
-          "progress": "100%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
-          "timeSpent": "4h",
-          "title": "Complex product & info showreel (2.5)"
+          "title": "OKR: Personal project: Build lộ trình",
+          "progress": "30%",
+          "timeSpent": "4h"
         }
       ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
-    },
-    {
-      "date": "2026-06-22",
-      "message": "lÃÂÃÂ m AMD 7-4: 7,5 tiÃÂ¡ÃÂºÃÂ¿ng",
-      "submittedAt": "2026-06-22T10:46:54.215Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
-          "timeSpent": "0.5h",
-          "title": "Demo Limina"
-        }
-      ],
-      "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
-    },
-    {
-      "date": "2026-06-22",
-      "message": "khum cÃÂ³",
-      "submittedAt": "2026-06-22T10:50:40.406Z",
-      "tasks": [
-        {
-          "progress": "60%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "8h",
-          "title": "SN Outdated Content: 8. Preoperative Assessment ~10 mins Illus (3)\nDue"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-06-22",
-      "message": "",
-      "submittedAt": "2026-06-22T10:55:00.866Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "8h",
-          "title": "Article video  Rigged Animation vs Frame by Frame (1)"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-06-22",
-      "message": "1h làm UB, còn lại họp",
-      "submittedAt": "2026-06-22T11:29:22.633Z",
-      "tasks": [
-        {
-          "progress": "80%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "6h",
-          "title": "HOME - SB fixing #2"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+      "message": "30p sửa Limina Demo. 3H30P sửa card"
     }
   ]
 }
