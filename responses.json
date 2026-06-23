@@ -3,21 +3,21 @@
   "responses": [
     {
       "date": "2026-06-23",
-      "message": "30p sá»­a Limina Demo. 3H30P sá»­a card",
+      "message": "30p sÃ¡Â»Â­a Limina Demo. 3H30P sÃ¡Â»Â­a card",
       "submittedAt": "2026-06-23T10:46:45.168Z",
       "tasks": [
         {
           "progress": "30%",
           "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
           "timeSpent": "4h",
-          "title": "OKR: Personal project: Build lá» trÃ¬nh"
+          "title": "OKR: Personal project: Build lÃ¡Â»Â trÃÂ¬nh"
         }
       ],
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     },
     {
       "date": "2026-06-23",
-      "message": "Sửa SN prority 19 30p\nSửa flashcard 15p",
+      "message": "Sá»­a SN prority 19 30p\nSá»­a flashcard 15p",
       "submittedAt": "2026-06-23T10:50:02.306Z",
       "tasks": [
         {
@@ -28,6 +28,26 @@
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+    },
+    {
+      "userId": "ou_e273fec35061a42660190f8c70f19882",
+      "submittedAt": "2026-06-23T10:50:23.957Z",
+      "date": "2026-06-23",
+      "tasks": [
+        {
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
+          "title": "OKR: Personal project - AI + handmade videos (Build kênh)  (1.5)",
+          "progress": "20%",
+          "timeSpent": "8h"
+        },
+        {
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
+          "title": "TTI Chinese + Vietnamese Versions (0.5)",
+          "progress": "0%",
+          "timeSpent": "—"
+        }
+      ],
+      "message": ""
     }
   ]
 }
