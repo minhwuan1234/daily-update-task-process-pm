@@ -1,14 +1,19 @@
 {
-  "date": "22-Jun",
-  "generatedAt": "2026-06-22T10:45:06.910Z",
+  "date": "23-Jun",
+  "generatedAt": "2026-06-23T10:45:13.485Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "22-Jun",
+          "date": "23-Jun",
           "dueDate": "23/6",
-          "task": "HOME - SB fixing #2"
+          "task": "UV: Traceability Infographic redesign (0.75)"
+        },
+        {
+          "date": "23-Jun",
+          "dueDate": "25/6",
+          "task": "UV: Football design (0.75)"
         }
       ]
     },
@@ -16,19 +21,9 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "22-Jun",
+          "date": "23-Jun",
           "dueDate": null,
           "task": "SN Outdated Content: 8. Preoperative Assessment ~10 mins Illus (3)\nDue"
-        }
-      ]
-    },
-    {
-      "member": "Vân",
-      "tasks": [
-        {
-          "date": "22-Jun",
-          "dueDate": "23/6",
-          "task": "Demo Limina"
         }
       ]
     },
@@ -36,14 +31,14 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "22-Jun",
+          "date": "23-Jun",
           "dueDate": null,
           "task": "OKR: Personal project - AI + handmade videos (Build kênh)  (1.5)"
         },
         {
-          "date": "22-Jun",
-          "dueDate": null,
-          "task": "TTI Chinese + Vietnamese Versions (0.5) \nDue ??"
+          "date": "23-Jun",
+          "dueDate": "25/6",
+          "task": "TTI Chinese + Vietnamese Versions (0.5)"
         }
       ]
     },
@@ -51,9 +46,9 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "22-Jun",
+          "date": "23-Jun",
           "dueDate": null,
-          "task": "Article video  Rigged Animation vs Frame by Frame (1)"
+          "task": "OKR: Personal project: Build lộ trình"
         }
       ]
     },
@@ -61,18 +56,13 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "22-Jun",
-          "dueDate": "23/6",
-          "task": "Demo Limina (0.5)"
-        },
-        {
-          "date": "22-Jun",
+          "date": "23-Jun",
           "dueDate": null,
-          "task": "Complex product & info showreel (2.5)"
+          "task": "OKR: Personal project: Build lộ trình"
         }
       ]
     }
   ],
-  "totalMembers": 6,
-  "totalTasks": 8
+  "totalMembers": 5,
+  "totalTasks": 7
 }
