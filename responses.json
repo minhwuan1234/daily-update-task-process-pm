@@ -62,24 +62,24 @@
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     },
     {
-      "userId": "ou_717eedeefe94e9824fbd72716d7eb234",
-      "submittedAt": "2026-06-24T10:56:20.011Z",
       "date": "2026-06-24",
+      "message": "",
+      "submittedAt": "2026-06-24T10:56:20.011Z",
       "tasks": [
         {
-          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
-          "title": "AMD: Chapter 7-4 ~4 min (2.5)",
           "progress": "100%",
-          "timeSpent": "5h"
+          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
+          "timeSpent": "5h",
+          "title": "AMD: Chapter 7-4 ~4 min (2.5)"
         },
         {
-          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-1",
-          "title": "SN Outdated Content: 9. Post-operative Assessment ~13 mins Illus (4)",
           "progress": "10%",
-          "timeSpent": "4h"
+          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-1",
+          "timeSpent": "4h",
+          "title": "SN Outdated Content: 9. Post-operative Assessment ~13 mins Illus (4)"
         }
       ],
-      "message": ""
+      "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
     }
   ]
 }
