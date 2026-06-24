@@ -82,18 +82,18 @@
       "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
     },
     {
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
-      "submittedAt": "2026-06-24T10:57:58.465Z",
       "date": "2026-06-24",
+      "message": "OKR Personal Project (0.5h)",
+      "submittedAt": "2026-06-24T10:57:58.465Z",
       "tasks": [
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "title": "AMD: Chapter 7-1 ~3 min (1)",
           "progress": "100%",
-          "timeSpent": "7.5h"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "timeSpent": "7.5h",
+          "title": "AMD: Chapter 7-1 ~3 min (1)"
         }
       ],
-      "message": "OKR Personal Project (0.5h)"
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     }
   ]
 }
