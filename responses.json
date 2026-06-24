@@ -10,7 +10,7 @@
           "progress": "100%",
           "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
           "timeSpent": "4h",
-          "title": "OKR: Personal project: Build lÃ¡Â»Â trÃÂ¬nh"
+          "title": "OKR: Personal project: Build lÃÂ¡ÃÂ»ÃÂ trÃÂÃÂ¬nh"
         },
         {
           "progress": "100%",
@@ -23,7 +23,7 @@
     },
     {
       "date": "2026-06-24",
-      "message": "chÆ°a lÃ m gÃ¬ task 2 cáº£, cÃ³ sá»­a SN 18 cá»§a Tháº¿ Anh áº¡",
+      "message": "chÃÂ°a lÃÂ m gÃÂ¬ task 2 cÃ¡ÂºÂ£, cÃÂ³ sÃ¡Â»Â­a SN 18 cÃ¡Â»Â§a ThÃ¡ÂºÂ¿ Anh Ã¡ÂºÂ¡",
       "submittedAt": "2026-06-24T10:49:46.812Z",
       "tasks": [
         {
@@ -43,7 +43,7 @@
     },
     {
       "date": "2026-06-24",
-      "message": "Sửa SN priority 19 30p",
+      "message": "Sá»­a SN priority 19 30p",
       "submittedAt": "2026-06-24T10:55:17.838Z",
       "tasks": [
         {
@@ -60,6 +60,26 @@
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+    },
+    {
+      "userId": "ou_717eedeefe94e9824fbd72716d7eb234",
+      "submittedAt": "2026-06-24T10:56:20.011Z",
+      "date": "2026-06-24",
+      "tasks": [
+        {
+          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
+          "title": "AMD: Chapter 7-4 ~4 min (2.5)",
+          "progress": "100%",
+          "timeSpent": "5h"
+        },
+        {
+          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-1",
+          "title": "SN Outdated Content: 9. Post-operative Assessment ~13 mins Illus (4)",
+          "progress": "10%",
+          "timeSpent": "4h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
