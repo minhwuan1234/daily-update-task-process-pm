@@ -10,7 +10,7 @@
           "progress": "100%",
           "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
           "timeSpent": "4h",
-          "title": "OKR: Personal project: Build lÃÂ¡ÃÂ»ÃÂ trÃÂÃÂ¬nh"
+          "title": "OKR: Personal project: Build lÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ trÃÂÃÂÃÂÃÂ¬nh"
         },
         {
           "progress": "100%",
@@ -23,7 +23,7 @@
     },
     {
       "date": "2026-06-24",
-      "message": "chÃÂ°a lÃÂ m gÃÂ¬ task 2 cÃ¡ÂºÂ£, cÃÂ³ sÃ¡Â»Â­a SN 18 cÃ¡Â»Â§a ThÃ¡ÂºÂ¿ Anh Ã¡ÂºÂ¡",
+      "message": "chÃÂÃÂ°a lÃÂÃÂ m gÃÂÃÂ¬ task 2 cÃÂ¡ÃÂºÃÂ£, cÃÂÃÂ³ sÃÂ¡ÃÂ»ÃÂ­a SN 18 cÃÂ¡ÃÂ»ÃÂ§a ThÃÂ¡ÃÂºÃÂ¿ Anh ÃÂ¡ÃÂºÃÂ¡",
       "submittedAt": "2026-06-24T10:49:46.812Z",
       "tasks": [
         {
@@ -43,7 +43,7 @@
     },
     {
       "date": "2026-06-24",
-      "message": "Sá»­a SN priority 19 30p",
+      "message": "SÃ¡Â»Â­a SN priority 19 30p",
       "submittedAt": "2026-06-24T10:55:17.838Z",
       "tasks": [
         {
@@ -80,6 +80,20 @@
         }
       ],
       "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-06-24T10:57:58.465Z",
+      "date": "2026-06-24",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "AMD: Chapter 7-1 ~3 min (1)",
+          "progress": "100%",
+          "timeSpent": "7.5h"
+        }
+      ],
+      "message": "OKR Personal Project (0.5h)"
     }
   ]
 }
