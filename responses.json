@@ -10,7 +10,7 @@
           "progress": "100%",
           "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
           "timeSpent": "4h",
-          "title": "OKR: Personal project: Build lộ trình"
+          "title": "OKR: Personal project: Build lá» trÃ¬nh"
         },
         {
           "progress": "100%",
@@ -20,6 +20,26 @@
         }
       ],
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+    },
+    {
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-06-24T10:49:46.812Z",
+      "date": "2026-06-24",
+      "tasks": [
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "title": "SN fixing card number (0.5)",
+          "progress": "100%",
+          "timeSpent": "6.5h"
+        },
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
+          "title": "SN intro card - 2 cards \nindex card - 10 cards (1)",
+          "progress": "0%",
+          "timeSpent": "0.5h"
+        }
+      ],
+      "message": "chưa làm gì task 2 cả, có sửa SN 18 của Thế Anh ạ"
     }
   ]
 }
