@@ -1,19 +1,19 @@
 {
-  "date": "23-Jun",
-  "generatedAt": "2026-06-23T10:45:13.485Z",
+  "date": "24-Jun",
+  "generatedAt": "2026-06-24T10:45:14.361Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "23-Jun",
-          "dueDate": "23/6",
-          "task": "UV: Traceability Infographic redesign (0.75)"
+          "date": "24-Jun",
+          "dueDate": null,
+          "task": "SN fixing card number (0.5)"
         },
         {
-          "date": "23-Jun",
-          "dueDate": "25/6",
-          "task": "UV: Football design (0.75)"
+          "date": "24-Jun",
+          "dueDate": null,
+          "task": "SN intro card - 2 cards \nindex card - 10 cards (1)"
         }
       ]
     },
@@ -21,9 +21,29 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "23-Jun",
+          "date": "24-Jun",
+          "dueDate": "29/6",
+          "task": "Design backdrop + card F.'s 9th birthday (1)"
+        },
+        {
+          "date": "24-Jun",
           "dueDate": null,
           "task": "SN Outdated Content: 8. Preoperative Assessment ~10 mins Illus (3)\nDue"
+        }
+      ]
+    },
+    {
+      "member": "Vân",
+      "tasks": [
+        {
+          "date": "24-Jun",
+          "dueDate": "1/7",
+          "task": "AMD: Chapter 7-4 ~4 min (2.5)"
+        },
+        {
+          "date": "24-Jun",
+          "dueDate": null,
+          "task": "SN Outdated Content: 9. Post-operative Assessment ~13 mins Illus (4)"
         }
       ]
     },
@@ -31,12 +51,12 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "23-Jun",
-          "dueDate": null,
-          "task": "OKR: Personal project - AI + handmade videos (Build kênh)  (1.5)"
+          "date": "24-Jun",
+          "dueDate": "29/6",
+          "task": "SN Priority: 18. NCLEX Heart Failure Questions You Will See ~11 min (3)"
         },
         {
-          "date": "23-Jun",
+          "date": "24-Jun",
           "dueDate": "25/6",
           "task": "TTI Chinese + Vietnamese Versions (0.5)"
         }
@@ -46,9 +66,9 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "23-Jun",
-          "dueDate": null,
-          "task": "OKR: Personal project: Build lộ trình"
+          "date": "24-Jun",
+          "dueDate": "6/7",
+          "task": "AMD: Chapter 7-1 ~3 min (1)"
         }
       ]
     },
@@ -56,13 +76,18 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "23-Jun",
+          "date": "24-Jun",
           "dueDate": null,
           "task": "OKR: Personal project: Build lộ trình"
+        },
+        {
+          "date": "24-Jun",
+          "dueDate": null,
+          "task": "Flashcard: fixing (0.5)"
         }
       ]
     }
   ],
-  "totalMembers": 5,
-  "totalTasks": 7
+  "totalMembers": 6,
+  "totalTasks": 11
 }
