@@ -10,7 +10,7 @@
           "progress": "100%",
           "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
           "timeSpent": "4h",
-          "title": "OKR: Personal project: Build lá» trÃ¬nh"
+          "title": "OKR: Personal project: Build lÃ¡Â»Â trÃÂ¬nh"
         },
         {
           "progress": "100%",
@@ -23,7 +23,7 @@
     },
     {
       "date": "2026-06-24",
-      "message": "chưa làm gì task 2 cả, có sửa SN 18 của Thế Anh ạ",
+      "message": "chÆ°a lÃ m gÃ¬ task 2 cáº£, cÃ³ sá»­a SN 18 cá»§a Tháº¿ Anh áº¡",
       "submittedAt": "2026-06-24T10:49:46.812Z",
       "tasks": [
         {
@@ -40,6 +40,26 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-06-24T10:55:17.838Z",
+      "date": "2026-06-24",
+      "tasks": [
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "Design backdrop + card F.'s 9th birthday (1)",
+          "progress": "50%",
+          "timeSpent": "3h"
+        },
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
+          "title": "SN Outdated Content: 8. Preoperative Assessment ~10 mins Illus (3)\nDue",
+          "progress": "100%",
+          "timeSpent": "4.5h"
+        }
+      ],
+      "message": "Sửa SN priority 19 30p"
     }
   ]
 }
