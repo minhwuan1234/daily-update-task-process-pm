@@ -42,24 +42,24 @@
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     },
     {
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-06-24T10:55:17.838Z",
       "date": "2026-06-24",
+      "message": "Sửa SN priority 19 30p",
+      "submittedAt": "2026-06-24T10:55:17.838Z",
       "tasks": [
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "Design backdrop + card F.'s 9th birthday (1)",
           "progress": "50%",
-          "timeSpent": "3h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "timeSpent": "3h",
+          "title": "Design backdrop + card F.'s 9th birthday (1)"
         },
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
-          "title": "SN Outdated Content: 8. Preoperative Assessment ~10 mins Illus (3)\nDue",
           "progress": "100%",
-          "timeSpent": "4.5h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
+          "timeSpent": "4.5h",
+          "title": "SN Outdated Content: 8. Preoperative Assessment ~10 mins Illus (3)\nDue"
         }
       ],
-      "message": "Sửa SN priority 19 30p"
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     }
   ]
 }
