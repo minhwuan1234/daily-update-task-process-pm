@@ -31,7 +31,7 @@
     },
     {
       "date": "2026-06-25",
-      "message": "sửa tý cái UV Football thui ạ",
+      "message": "sá»­a tÃ½ cÃ¡i UV Football thui áº¡",
       "submittedAt": "2026-06-25T10:54:26.919Z",
       "tasks": [
         {
@@ -42,6 +42,26 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-06-25T11:03:30.083Z",
+      "date": "2026-06-25",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "CSL Coillte At work site fix #2 tiếp",
+          "progress": "100%",
+          "timeSpent": "3h"
+        },
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
+          "title": "OKR: Personal project: Update lộ trình",
+          "progress": "50%",
+          "timeSpent": "5h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
