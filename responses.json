@@ -44,24 +44,24 @@
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     },
     {
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
-      "submittedAt": "2026-06-25T11:03:30.083Z",
       "date": "2026-06-25",
+      "message": "",
+      "submittedAt": "2026-06-25T11:03:30.083Z",
       "tasks": [
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "title": "CSL Coillte At work site fix #2 tiếp",
           "progress": "100%",
-          "timeSpent": "3h"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "timeSpent": "3h",
+          "title": "CSL Coillte At work site fix #2 tiếp"
         },
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
-          "title": "OKR: Personal project: Update lộ trình",
           "progress": "50%",
-          "timeSpent": "5h"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
+          "timeSpent": "5h",
+          "title": "OKR: Personal project: Update lộ trình"
         }
       ],
-      "message": ""
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     }
   ]
 }
