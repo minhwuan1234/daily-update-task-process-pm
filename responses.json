@@ -1,99 +1,19 @@
 {
-  "date": "2026-06-24",
+  "date": "2026-06-25",
   "responses": [
     {
-      "date": "2026-06-24",
-      "message": "1h SN vid 19",
-      "submittedAt": "2026-06-24T10:46:55.420Z",
+      "userId": "ou_717eedeefe94e9824fbd72716d7eb234",
+      "submittedAt": "2026-06-25T10:45:45.950Z",
+      "date": "2026-06-25",
       "tasks": [
         {
-          "progress": "100%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "4h",
-          "title": "OKR: Personal project: Build lÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ trÃÂÃÂÃÂÃÂ¬nh"
-        },
-        {
-          "progress": "100%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
-          "timeSpent": "3h",
-          "title": "Flashcard: fixing (0.5)"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
-    },
-    {
-      "date": "2026-06-24",
-      "message": "chÃÂÃÂ°a lÃÂÃÂ m gÃÂÃÂ¬ task 2 cÃÂ¡ÃÂºÃÂ£, cÃÂÃÂ³ sÃÂ¡ÃÂ»ÃÂ­a SN 18 cÃÂ¡ÃÂ»ÃÂ§a ThÃÂ¡ÃÂºÃÂ¿ Anh ÃÂ¡ÃÂºÃÂ¡",
-      "submittedAt": "2026-06-24T10:49:46.812Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "6.5h",
-          "title": "SN fixing card number (0.5)"
-        },
-        {
-          "progress": "0%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "timeSpent": "0.5h",
-          "title": "SN intro card - 2 cards \nindex card - 10 cards (1)"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-06-24",
-      "message": "SÃ¡Â»Â­a SN priority 19 30p",
-      "submittedAt": "2026-06-24T10:55:17.838Z",
-      "tasks": [
-        {
-          "progress": "50%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "3h",
-          "title": "Design backdrop + card F.'s 9th birthday (1)"
-        },
-        {
-          "progress": "100%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
-          "timeSpent": "4.5h",
-          "title": "SN Outdated Content: 8. Preoperative Assessment ~10 mins Illus (3)\nDue"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-06-24",
-      "message": "",
-      "submittedAt": "2026-06-24T10:56:20.011Z",
-      "tasks": [
-        {
-          "progress": "100%",
           "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
-          "timeSpent": "5h",
-          "title": "AMD: Chapter 7-4 ~4 min (2.5)"
-        },
-        {
-          "progress": "10%",
-          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-1",
-          "timeSpent": "4h",
-          "title": "SN Outdated Content: 9. Post-operative Assessment ~13 mins Illus (4)"
+          "title": "SN Outdated Content: 9. Post-operative Assessment ~13 mins Illus (4)",
+          "progress": "30%",
+          "timeSpent": "8h"
         }
       ],
-      "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
-    },
-    {
-      "date": "2026-06-24",
-      "message": "OKR Personal Project (0.5h)",
-      "submittedAt": "2026-06-24T10:57:58.465Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "7.5h",
-          "title": "AMD: Chapter 7-1 ~3 min (1)"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+      "message": ""
     }
   ]
 }
