@@ -31,7 +31,7 @@
     },
     {
       "date": "2026-06-25",
-      "message": "sá»­a tÃ½ cÃ¡i UV Football thui áº¡",
+      "message": "sÃ¡Â»Â­a tÃÂ½ cÃÂ¡i UV Football thui Ã¡ÂºÂ¡",
       "submittedAt": "2026-06-25T10:54:26.919Z",
       "tasks": [
         {
@@ -52,16 +52,36 @@
           "progress": "100%",
           "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
           "timeSpent": "3h",
-          "title": "CSL Coillte At work site fix #2 tiếp"
+          "title": "CSL Coillte At work site fix #2 tiáº¿p"
         },
         {
           "progress": "50%",
           "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
           "timeSpent": "5h",
-          "title": "OKR: Personal project: Update lộ trình"
+          "title": "OKR: Personal project: Update lá» trÃ¬nh"
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-06-25T11:05:51.223Z",
+      "date": "2026-06-25",
+      "tasks": [
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "Design backdrop + card F.'s 9th birthday (1)",
+          "progress": "100%",
+          "timeSpent": "4.5h"
+        },
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
+          "title": "Web Patient edu promote video: Concept art",
+          "progress": "0%",
+          "timeSpent": "—"
+        }
+      ],
+      "message": "Hnay chưa làm concept, nghiên cứu SR của Wonderstorytelling và tìm ref 3 level: 3h"
     }
   ]
 }
