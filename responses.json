@@ -64,24 +64,24 @@
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     },
     {
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-06-25T11:05:51.223Z",
       "date": "2026-06-25",
+      "message": "Hnay chưa làm concept, nghiên cứu SR của Wonderstorytelling và tìm ref 3 level: 3h",
+      "submittedAt": "2026-06-25T11:05:51.223Z",
       "tasks": [
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "Design backdrop + card F.'s 9th birthday (1)",
           "progress": "100%",
-          "timeSpent": "4.5h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "timeSpent": "4.5h",
+          "title": "Design backdrop + card F.'s 9th birthday (1)"
         },
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
-          "title": "Web Patient edu promote video: Concept art",
           "progress": "0%",
-          "timeSpent": "—"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
+          "timeSpent": "—",
+          "title": "Web Patient edu promote video: Concept art"
         }
       ],
-      "message": "Hnay chưa làm concept, nghiên cứu SR của Wonderstorytelling và tìm ref 3 level: 3h"
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     }
   ]
 }
