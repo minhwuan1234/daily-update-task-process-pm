@@ -22,18 +22,18 @@
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     },
     {
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-06-26T11:20:03.308Z",
       "date": "2026-06-26",
+      "message": "Brainstorm idea visual description cho script Patient edu 4h",
+      "submittedAt": "2026-06-26T11:20:03.308Z",
       "tasks": [
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "Web Patient edu promote video: Visual des brainstorm + Concept art",
           "progress": "10%",
-          "timeSpent": "2h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "timeSpent": "2h",
+          "title": "Web Patient edu promote video: Visual des brainstorm + Concept art"
         }
       ],
-      "message": "Brainstorm idea visual description cho script Patient edu 4h"
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     }
   ]
 }
