@@ -2,24 +2,24 @@
   "date": "2026-06-26",
   "responses": [
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-06-26T11:19:33.214Z",
       "date": "2026-06-26",
+      "message": "sửa rừng 7 (15p), sửa SN 21. (1,5h), sửa SN flashcards (1h)",
+      "submittedAt": "2026-06-26T11:19:33.214Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "Klett: DA2.05 Illus (1 hình simple) (1.5h)",
           "progress": "100%",
-          "timeSpent": "2.5h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "2.5h",
+          "title": "Klett: DA2.05 Illus (1 hình simple) (1.5h)"
         },
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "title": "SN Summer Strategy Short Videos - 5 videos (1.5)\n\nFix SN (0.25)",
           "progress": "10%",
-          "timeSpent": "2.5h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
+          "timeSpent": "2.5h",
+          "title": "SN Summer Strategy Short Videos - 5 videos (1.5)\n\nFix SN (0.25)"
         }
       ],
-      "message": "sửa rừng 7 (15p), sửa SN 21. (1,5h), sửa SN flashcards (1h)"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }
