@@ -3,14 +3,14 @@
   "responses": [
     {
       "date": "2026-06-26",
-      "message": "sá»­a rá»«ng 7 (15p), sá»­a SN 21. (1,5h), sá»­a SN flashcards (1h)",
+      "message": "sÃ¡Â»Â­a rÃ¡Â»Â«ng 7 (15p), sÃ¡Â»Â­a SN 21. (1,5h), sÃ¡Â»Â­a SN flashcards (1h)",
       "submittedAt": "2026-06-26T11:19:33.214Z",
       "tasks": [
         {
           "progress": "100%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
           "timeSpent": "2.5h",
-          "title": "Klett: DA2.05 Illus (1 hÃ¬nh simple) (1.5h)"
+          "title": "Klett: DA2.05 Illus (1 hÃÂ¬nh simple) (1.5h)"
         },
         {
           "progress": "10%",
@@ -34,6 +34,26 @@
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-06-26T11:54:31.504Z",
+      "date": "2026-06-26",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "SN Priority: 19. Heart Failure vs Fluid Volume Overload (NCLEX Comparison)",
+          "progress": "80%",
+          "timeSpent": "3h"
+        },
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
+          "title": "Web Patient edu promote video: Visual des brainstorm (0.5)",
+          "progress": "100%",
+          "timeSpent": "4h"
+        }
+      ],
+      "message": "30P hop OKR, 30p hop cuoi tuan"
     }
   ]
 }
