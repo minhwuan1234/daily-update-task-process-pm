@@ -3,14 +3,14 @@
   "responses": [
     {
       "date": "2026-06-26",
-      "message": "sÃ¡Â»Â­a rÃ¡Â»Â«ng 7 (15p), sÃ¡Â»Â­a SN 21. (1,5h), sÃ¡Â»Â­a SN flashcards (1h)",
+      "message": "sÃÂ¡ÃÂ»ÃÂ­a rÃÂ¡ÃÂ»ÃÂ«ng 7 (15p), sÃÂ¡ÃÂ»ÃÂ­a SN 21. (1,5h), sÃÂ¡ÃÂ»ÃÂ­a SN flashcards (1h)",
       "submittedAt": "2026-06-26T11:19:33.214Z",
       "tasks": [
         {
           "progress": "100%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
           "timeSpent": "2.5h",
-          "title": "Klett: DA2.05 Illus (1 hÃÂ¬nh simple) (1.5h)"
+          "title": "Klett: DA2.05 Illus (1 hÃÂÃÂ¬nh simple) (1.5h)"
         },
         {
           "progress": "10%",
@@ -54,6 +54,20 @@
         }
       ],
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+    },
+    {
+      "userId": "ou_717eedeefe94e9824fbd72716d7eb234",
+      "submittedAt": "2026-06-26T15:48:28.300Z",
+      "date": "2026-06-26",
+      "tasks": [
+        {
+          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
+          "title": "SN Outdated Content: 9. Post-operative Assessment ~13 mins Illus (4)",
+          "progress": "60%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
