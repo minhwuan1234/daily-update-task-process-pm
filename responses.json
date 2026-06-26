@@ -3,14 +3,14 @@
   "responses": [
     {
       "date": "2026-06-26",
-      "message": "sÃÂ¡ÃÂ»ÃÂ­a rÃÂ¡ÃÂ»ÃÂ«ng 7 (15p), sÃÂ¡ÃÂ»ÃÂ­a SN 21. (1,5h), sÃÂ¡ÃÂ»ÃÂ­a SN flashcards (1h)",
+      "message": "sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a rÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ«ng 7 (15p), sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a SN 21. (1,5h), sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a SN flashcards (1h)",
       "submittedAt": "2026-06-26T11:19:33.214Z",
       "tasks": [
         {
           "progress": "100%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
           "timeSpent": "2.5h",
-          "title": "Klett: DA2.05 Illus (1 hÃÂÃÂ¬nh simple) (1.5h)"
+          "title": "Klett: DA2.05 Illus (1 hÃÂÃÂÃÂÃÂ¬nh simple) (1.5h)"
         },
         {
           "progress": "10%",
@@ -68,6 +68,20 @@
         }
       ],
       "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-06-26T15:59:54.994Z",
+      "date": "2026-06-26",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "OKR: Personal project: Chặng 1...",
+          "progress": "0%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
