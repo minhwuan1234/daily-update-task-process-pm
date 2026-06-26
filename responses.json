@@ -3,14 +3,14 @@
   "responses": [
     {
       "date": "2026-06-26",
-      "message": "sửa rừng 7 (15p), sửa SN 21. (1,5h), sửa SN flashcards (1h)",
+      "message": "sá»­a rá»«ng 7 (15p), sá»­a SN 21. (1,5h), sá»­a SN flashcards (1h)",
       "submittedAt": "2026-06-26T11:19:33.214Z",
       "tasks": [
         {
           "progress": "100%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
           "timeSpent": "2.5h",
-          "title": "Klett: DA2.05 Illus (1 hình simple) (1.5h)"
+          "title": "Klett: DA2.05 Illus (1 hÃ¬nh simple) (1.5h)"
         },
         {
           "progress": "10%",
@@ -20,6 +20,20 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-06-26T11:20:03.308Z",
+      "date": "2026-06-26",
+      "tasks": [
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "Web Patient edu promote video: Visual des brainstorm + Concept art",
+          "progress": "10%",
+          "timeSpent": "2h"
+        }
+      ],
+      "message": "Brainstorm idea visual description cho script Patient edu 4h"
     }
   ]
 }
