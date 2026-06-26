@@ -36,24 +36,24 @@
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     },
     {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-06-26T11:54:31.504Z",
       "date": "2026-06-26",
+      "message": "30P hop OKR, 30p hop cuoi tuan",
+      "submittedAt": "2026-06-26T11:54:31.504Z",
       "tasks": [
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "SN Priority: 19. Heart Failure vs Fluid Volume Overload (NCLEX Comparison)",
           "progress": "80%",
-          "timeSpent": "3h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "timeSpent": "3h",
+          "title": "SN Priority: 19. Heart Failure vs Fluid Volume Overload (NCLEX Comparison)"
         },
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
-          "title": "Web Patient edu promote video: Visual des brainstorm (0.5)",
           "progress": "100%",
-          "timeSpent": "4h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
+          "timeSpent": "4h",
+          "title": "Web Patient edu promote video: Visual des brainstorm (0.5)"
         }
       ],
-      "message": "30P hop OKR, 30p hop cuoi tuan"
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     }
   ]
 }
