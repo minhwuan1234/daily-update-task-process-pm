@@ -1,87 +1,25 @@
 {
-  "date": "2026-06-25",
+  "date": "2026-06-26",
   "responses": [
     {
-      "date": "2026-06-25",
-      "message": "",
-      "submittedAt": "2026-06-25T10:45:45.950Z",
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-06-26T11:19:33.214Z",
+      "date": "2026-06-26",
       "tasks": [
         {
-          "progress": "30%",
-          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
-          "timeSpent": "8h",
-          "title": "SN Outdated Content: 9. Post-operative Assessment ~13 mins Illus (4)"
-        }
-      ],
-      "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
-    },
-    {
-      "date": "2026-06-25",
-      "message": "",
-      "submittedAt": "2026-06-25T10:51:29.872Z",
-      "tasks": [
-        {
-          "progress": "40%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "8h",
-          "title": "SN Priority: 19. Heart Failure vs Fluid Volume Overload (NCLEX Comparison)"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
-    },
-    {
-      "date": "2026-06-25",
-      "message": "sÃ¡Â»Â­a tÃÂ½ cÃÂ¡i UV Football thui Ã¡ÂºÂ¡",
-      "submittedAt": "2026-06-25T10:54:26.919Z",
-      "tasks": [
-        {
-          "progress": "100%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "6h",
-          "title": "SN intro card - 2 cards \nindex card - 10 cards (1)"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-06-25",
-      "message": "",
-      "submittedAt": "2026-06-25T11:03:30.083Z",
-      "tasks": [
-        {
+          "title": "Klett: DA2.05 Illus (1 hình simple) (1.5h)",
           "progress": "100%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "3h",
-          "title": "CSL Coillte At work site fix #2 tiáº¿p"
+          "timeSpent": "2.5h"
         },
         {
-          "progress": "50%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
-          "timeSpent": "5h",
-          "title": "OKR: Personal project: Update lá» trÃ¬nh"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
+          "title": "SN Summer Strategy Short Videos - 5 videos (1.5)\n\nFix SN (0.25)",
+          "progress": "10%",
+          "timeSpent": "2.5h"
         }
       ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-06-25",
-      "message": "Hnay chưa làm concept, nghiên cứu SR của Wonderstorytelling và tìm ref 3 level: 3h",
-      "submittedAt": "2026-06-25T11:05:51.223Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "4.5h",
-          "title": "Design backdrop + card F.'s 9th birthday (1)"
-        },
-        {
-          "progress": "0%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
-          "timeSpent": "—",
-          "title": "Web Patient edu promote video: Concept art"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+      "message": "sửa rừng 7 (15p), sửa SN 21. (1,5h), sửa SN flashcards (1h)"
     }
   ]
 }
