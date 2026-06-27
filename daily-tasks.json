@@ -1,17 +1,17 @@
 {
-  "date": "26-Jun",
-  "generatedAt": "2026-06-26T10:45:07.571Z",
+  "date": "27-Jun",
+  "generatedAt": "2026-06-27T10:45:07.147Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "26-Jun",
+          "date": "27-Jun",
           "dueDate": "1/7",
           "task": "Klett: DA2.05 Illus (1 hình simple) (1.5h)"
         },
         {
-          "date": "26-Jun",
+          "date": "27-Jun",
           "dueDate": "1/7",
           "task": "SN Summer Strategy Short Videos - 5 videos (1.5)\n\nFix SN (0.25)"
         }
@@ -21,9 +21,14 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "26-Jun",
+          "date": "27-Jun",
           "dueDate": null,
           "task": "Web Patient edu promote video: Visual des brainstorm + Concept art"
+        },
+        {
+          "date": "27-Jun",
+          "dueDate": null,
+          "task": "Proposal: Wonderstorytelling (3h)"
         }
       ]
     },
@@ -31,7 +36,12 @@
       "member": "Vân",
       "tasks": [
         {
-          "date": "26-Jun",
+          "date": "27-Jun",
+          "dueDate": "1/7",
+          "task": "AMD: Chapter 7-4 ~4 min (2.5)"
+        },
+        {
+          "date": "27-Jun",
           "dueDate": "23/7",
           "task": "SN Outdated Content: 9. Post-operative Assessment ~13 mins Illus (4)"
         }
@@ -41,7 +51,7 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "26-Jun",
+          "date": "27-Jun",
           "dueDate": "30/6",
           "task": "SN Priority: 18. NCLEX Heart Failure Questions You Will See ~11 min (3)"
         }
@@ -51,9 +61,14 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "26-Jun",
+          "date": "27-Jun",
           "dueDate": null,
           "task": "OKR: Personal project: Chặng 1..."
+        },
+        {
+          "date": "27-Jun",
+          "dueDate": null,
+          "task": "OKR: Personal project: Update lộ trình (0.5)"
         }
       ]
     },
@@ -61,12 +76,12 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "26-Jun",
+          "date": "27-Jun",
           "dueDate": "3/7",
           "task": "SN Priority: 19. Heart Failure vs Fluid Volume Overload (NCLEX Comparison)"
         },
         {
-          "date": "26-Jun",
+          "date": "27-Jun",
           "dueDate": null,
           "task": "Web Patient edu promote video: Visual des brainstorm (0.5)"
         }
@@ -74,5 +89,5 @@
     }
   ],
   "totalMembers": 6,
-  "totalTasks": 8
+  "totalTasks": 11
 }
