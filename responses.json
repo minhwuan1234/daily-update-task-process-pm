@@ -1,87 +1,25 @@
 {
-  "date": "2026-06-26",
+  "date": "2026-06-29",
   "responses": [
     {
-      "date": "2026-06-26",
-      "message": "sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a rÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ«ng 7 (15p), sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a SN 21. (1,5h), sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a SN flashcards (1h)",
-      "submittedAt": "2026-06-26T11:19:33.214Z",
+      "userId": "ou_e273fec35061a42660190f8c70f19882",
+      "submittedAt": "2026-06-29T10:46:13.574Z",
+      "date": "2026-06-29",
       "tasks": [
         {
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
+          "title": "TTI Chinese + Vietnamese Versions (3.5)",
           "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "2.5h",
-          "title": "Klett: DA2.05 Illus (1 hÃÂÃÂÃÂÃÂ¬nh simple) (1.5h)"
+          "timeSpent": "2h"
         },
         {
-          "progress": "10%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "timeSpent": "2.5h",
-          "title": "SN Summer Strategy Short Videos - 5 videos (1.5)\n\nFix SN (0.25)"
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
+          "title": "SN Priority: 18. NCLEX Heart Failure Questions You Will See ~11 min (3) -- 20%",
+          "progress": "50%",
+          "timeSpent": "6h"
         }
       ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-06-26",
-      "message": "Brainstorm idea visual description cho script Patient edu 4h",
-      "submittedAt": "2026-06-26T11:20:03.308Z",
-      "tasks": [
-        {
-          "progress": "10%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "2h",
-          "title": "Web Patient edu promote video: Visual des brainstorm + Concept art"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-06-26",
-      "message": "30P hop OKR, 30p hop cuoi tuan",
-      "submittedAt": "2026-06-26T11:54:31.504Z",
-      "tasks": [
-        {
-          "progress": "80%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "3h",
-          "title": "SN Priority: 19. Heart Failure vs Fluid Volume Overload (NCLEX Comparison)"
-        },
-        {
-          "progress": "100%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
-          "timeSpent": "4h",
-          "title": "Web Patient edu promote video: Visual des brainstorm (0.5)"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
-    },
-    {
-      "date": "2026-06-26",
-      "message": "",
-      "submittedAt": "2026-06-26T15:48:28.300Z",
-      "tasks": [
-        {
-          "progress": "60%",
-          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
-          "timeSpent": "8h",
-          "title": "SN Outdated Content: 9. Post-operative Assessment ~13 mins Illus (4)"
-        }
-      ],
-      "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
-    },
-    {
-      "date": "2026-06-26",
-      "message": "",
-      "submittedAt": "2026-06-26T15:59:54.994Z",
-      "tasks": [
-        {
-          "progress": "0%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "8h",
-          "title": "OKR: Personal project: Chặng 1..."
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+      "message": ""
     }
   ]
 }
