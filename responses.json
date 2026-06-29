@@ -50,18 +50,18 @@
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     },
     {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-06-29T11:07:30.968Z",
       "date": "2026-06-29",
+      "message": "3h OKR revision, 1h motion direction cho website video.",
+      "submittedAt": "2026-06-29T11:07:30.968Z",
       "tasks": [
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "SN Priority: 19. Heart Failure vs Fluid Volume Overload (NCLEX Comparison) -- 80%",
           "progress": "100%",
-          "timeSpent": "4h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "timeSpent": "4h",
+          "title": "SN Priority: 19. Heart Failure vs Fluid Volume Overload (NCLEX Comparison) -- 80%"
         }
       ],
-      "message": "3h OKR revision, 1h motion direction cho website video."
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     }
   ]
 }
