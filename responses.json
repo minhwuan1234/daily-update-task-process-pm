@@ -78,18 +78,18 @@
       "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
     },
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-06-29T11:14:51.047Z",
       "date": "2026-06-29",
+      "message": "có họp 30p và có check file AMD của Vân 1 chút (10p)\nvà sửa Klett 1 chút (10p)\nvà sửa SN 21. (15p)",
+      "submittedAt": "2026-06-29T11:14:51.047Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "SN Summer Strategy Short Videos - 5 videos (1.5) -- 10%\n\nFix SN (0.25), Fix CSL Forest 15p",
           "progress": "100%",
-          "timeSpent": "7.5h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "7.5h",
+          "title": "SN Summer Strategy Short Videos - 5 videos (1.5) -- 10%\n\nFix SN (0.25), Fix CSL Forest 15p"
         }
       ],
-      "message": "có họp 30p và có check file AMD của Vân 1 chút (10p)\nvà sửa Klett 1 chút (10p)\nvà sửa SN 21. (15p)"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }
