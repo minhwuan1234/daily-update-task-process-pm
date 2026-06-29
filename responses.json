@@ -23,7 +23,7 @@
     },
     {
       "date": "2026-06-29",
-      "message": "Không có",
+      "message": "KhÃ´ng cÃ³",
       "submittedAt": "2026-06-29T10:50:45.006Z",
       "tasks": [
         {
@@ -34,6 +34,20 @@
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-06-29T10:58:15.399Z",
+      "date": "2026-06-29",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "SN Priority: 20. Heart Failure vs. Fluid Volume Overload ~6min",
+          "progress": "50%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
