@@ -36,18 +36,18 @@
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     },
     {
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
-      "submittedAt": "2026-06-29T10:58:15.399Z",
       "date": "2026-06-29",
+      "message": "",
+      "submittedAt": "2026-06-29T10:58:15.399Z",
       "tasks": [
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "title": "SN Priority: 20. Heart Failure vs. Fluid Volume Overload ~6min",
           "progress": "50%",
-          "timeSpent": "8h"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "timeSpent": "8h",
+          "title": "SN Priority: 20. Heart Failure vs. Fluid Volume Overload ~6min"
         }
       ],
-      "message": ""
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     }
   ]
 }
