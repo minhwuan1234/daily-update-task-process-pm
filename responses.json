@@ -23,7 +23,7 @@
     },
     {
       "date": "2026-06-29",
-      "message": "KhÃÂ´ng cÃÂ³",
+      "message": "KhÃÂÃÂ´ng cÃÂÃÂ³",
       "submittedAt": "2026-06-29T10:50:45.006Z",
       "tasks": [
         {
@@ -62,6 +62,20 @@
         }
       ],
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+    },
+    {
+      "userId": "ou_717eedeefe94e9824fbd72716d7eb234",
+      "submittedAt": "2026-06-29T11:10:38.959Z",
+      "date": "2026-06-29",
+      "tasks": [
+        {
+          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
+          "title": "SN Outdated Content: 9. Post-operative Assessment ~13 mins Illus (4)",
+          "progress": "90%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
