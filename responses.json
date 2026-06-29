@@ -2,24 +2,24 @@
   "date": "2026-06-29",
   "responses": [
     {
-      "userId": "ou_e273fec35061a42660190f8c70f19882",
-      "submittedAt": "2026-06-29T10:46:13.574Z",
       "date": "2026-06-29",
+      "message": "",
+      "submittedAt": "2026-06-29T10:46:13.574Z",
       "tasks": [
         {
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "title": "TTI Chinese + Vietnamese Versions (3.5)",
           "progress": "100%",
-          "timeSpent": "2h"
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
+          "timeSpent": "2h",
+          "title": "TTI Chinese + Vietnamese Versions (3.5)"
         },
         {
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
-          "title": "SN Priority: 18. NCLEX Heart Failure Questions You Will See ~11 min (3) -- 20%",
           "progress": "50%",
-          "timeSpent": "6h"
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
+          "timeSpent": "6h",
+          "title": "SN Priority: 18. NCLEX Heart Failure Questions You Will See ~11 min (3) -- 20%"
         }
       ],
-      "message": ""
+      "userId": "ou_e273fec35061a42660190f8c70f19882"
     }
   ]
 }
