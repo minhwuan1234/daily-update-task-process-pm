@@ -41,7 +41,21 @@
           "timeSpent": "6h"
         }
       ],
-      "message": "OKR AD 2 tiếng"
+      "message": "OKR AD 2 tiáº¿ng"
+    },
+    {
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-06-30T11:01:00.656Z",
+      "date": "2026-06-30",
+      "tasks": [
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "title": "SN Priority: 22.Thyroid Lab Values Explained for Nursing Students (2.5)",
+          "progress": "90%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": "khum ạ"
     }
   ]
 }
