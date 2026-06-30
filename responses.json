@@ -1,95 +1,19 @@
 {
-  "date": "2026-06-29",
+  "date": "2026-06-30",
   "responses": [
     {
-      "date": "2026-06-29",
-      "message": "",
-      "submittedAt": "2026-06-29T10:46:13.574Z",
+      "userId": "ou_e273fec35061a42660190f8c70f19882",
+      "submittedAt": "2026-06-30T10:45:44.528Z",
+      "date": "2026-06-30",
       "tasks": [
         {
-          "progress": "100%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "2h",
-          "title": "TTI Chinese + Vietnamese Versions (3.5)"
-        },
-        {
-          "progress": "50%",
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
-          "timeSpent": "6h",
-          "title": "SN Priority: 18. NCLEX Heart Failure Questions You Will See ~11 min (3) -- 20%"
+          "title": "SN Priority: 18. NCLEX Heart Failure Questions You Will See ~11 min (3)",
+          "progress": "70%",
+          "timeSpent": "8h"
         }
       ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
-    },
-    {
-      "date": "2026-06-29",
-      "message": "KhÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ´ng cÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³",
-      "submittedAt": "2026-06-29T10:50:45.006Z",
-      "tasks": [
-        {
-          "progress": "50%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "7h",
-          "title": "Web Patient edu promote video: Visual des brainstorm + Concept art"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-06-29",
-      "message": "",
-      "submittedAt": "2026-06-29T10:58:15.399Z",
-      "tasks": [
-        {
-          "progress": "50%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "8h",
-          "title": "SN Priority: 20. Heart Failure vs. Fluid Volume Overload ~6min"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-06-29",
-      "message": "3h OKR revision, 1h motion direction cho website video.",
-      "submittedAt": "2026-06-29T11:07:30.968Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "4h",
-          "title": "SN Priority: 19. Heart Failure vs Fluid Volume Overload (NCLEX Comparison) -- 80%"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
-    },
-    {
-      "date": "2026-06-29",
-      "message": "",
-      "submittedAt": "2026-06-29T11:10:38.959Z",
-      "tasks": [
-        {
-          "progress": "90%",
-          "taskId": "ou_717eedeefe94e9824fbd72716d7eb234-0",
-          "timeSpent": "8h",
-          "title": "SN Outdated Content: 9. Post-operative Assessment ~13 mins Illus (4)"
-        }
-      ],
-      "userId": "ou_717eedeefe94e9824fbd72716d7eb234"
-    },
-    {
-      "date": "2026-06-29",
-      "message": "Note giống cái trước",
-      "submittedAt": "2026-06-29T11:17:18.870Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "7.5h",
-          "title": "SN Summer Strategy Short Videos - 5 videos (1.5) -- 10%\n\nFix SN (0.25), Fix CSL Forest 15p"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+      "message": ""
     }
   ]
 }
