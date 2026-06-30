@@ -41,11 +41,11 @@
           "timeSpent": "6h"
         }
       ],
-      "message": "OKR AD 2 tiáº¿ng"
+      "message": "OKR AD 2 tiÃ¡ÂºÂ¿ng"
     },
     {
       "date": "2026-06-30",
-      "message": "khum ạ",
+      "message": "khum áº¡",
       "submittedAt": "2026-06-30T11:01:00.656Z",
       "tasks": [
         {
@@ -56,6 +56,20 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-06-30T11:07:46.448Z",
+      "date": "2026-06-30",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "SN Priority: 20. Heart Failure vs. Fluid Volume Overload ~6min",
+          "progress": "90%",
+          "timeSpent": "5h"
+        }
+      ],
+      "message": "Rừng ep 7 (3h)"
     }
   ]
 }
