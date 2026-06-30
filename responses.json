@@ -16,18 +16,18 @@
       "userId": "ou_e273fec35061a42660190f8c70f19882"
     },
     {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-06-30T10:46:57.672Z",
       "date": "2026-06-30",
+      "message": "",
+      "submittedAt": "2026-06-30T10:46:57.672Z",
       "tasks": [
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "OKR: Personal project",
           "progress": "80%",
-          "timeSpent": "8h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "timeSpent": "8h",
+          "title": "OKR: Personal project"
         }
       ],
-      "message": ""
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     }
   ]
 }
