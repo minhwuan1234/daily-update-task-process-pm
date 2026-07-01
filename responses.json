@@ -16,18 +16,18 @@
       "message": "4h OKR"
     },
     {
-      "userId": "ou_e273fec35061a42660190f8c70f19882",
-      "submittedAt": "2026-07-01T10:47:45.771Z",
       "date": "2026-07-01",
+      "message": "",
+      "submittedAt": "2026-07-01T10:47:45.771Z",
       "tasks": [
         {
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "title": "SN Priority: 18. NCLEX Heart Failure Questions You Will See ~11 min (3)",
           "progress": "90%",
-          "timeSpent": "8h"
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
+          "timeSpent": "8h",
+          "title": "SN Priority: 18. NCLEX Heart Failure Questions You Will See ~11 min (3)"
         }
       ],
-      "message": ""
+      "userId": "ou_e273fec35061a42660190f8c70f19882"
     }
   ]
 }
