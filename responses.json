@@ -30,24 +30,24 @@
       "userId": "ou_e273fec35061a42660190f8c70f19882"
     },
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-07-01T10:58:14.977Z",
       "date": "2026-07-01",
+      "message": "Sửa AMD 7.1 (1h)\nSửa AMD 7.2 của Vân (1h)\nSửa SN Summer (30p)\nSửa SN các loại intro cards (2h)",
+      "submittedAt": "2026-07-01T10:58:14.977Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "SN Priority: 22.Thyroid Lab Values Explained for Nursing Students",
           "progress": "100%",
-          "timeSpent": "1.5h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "1.5h",
+          "title": "SN Priority: 22.Thyroid Lab Values Explained for Nursing Students"
         },
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "title": "Klett: DA2.02 Illus (2 hình medium) (0.5)",
           "progress": "100%",
-          "timeSpent": "2h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
+          "timeSpent": "2h",
+          "title": "Klett: DA2.02 Illus (2 hình medium) (0.5)"
         }
       ],
-      "message": "Sửa AMD 7.1 (1h)\nSửa AMD 7.2 của Vân (1h)\nSửa SN Summer (30p)\nSửa SN các loại intro cards (2h)"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }
