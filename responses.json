@@ -31,7 +31,7 @@
     },
     {
       "date": "2026-07-01",
-      "message": "Sửa AMD 7.1 (1h)\nSửa AMD 7.2 của Vân (1h)\nSửa SN Summer (30p)\nSửa SN các loại intro cards (2h)",
+      "message": "Sá»­a AMD 7.1 (1h)\nSá»­a AMD 7.2 cá»§a VÃ¢n (1h)\nSá»­a SN Summer (30p)\nSá»­a SN cÃ¡c loáº¡i intro cards (2h)",
       "submittedAt": "2026-07-01T10:58:14.977Z",
       "tasks": [
         {
@@ -44,10 +44,24 @@
           "progress": "100%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
           "timeSpent": "2h",
-          "title": "Klett: DA2.02 Illus (2 hình medium) (0.5)"
+          "title": "Klett: DA2.02 Illus (2 hÃ¬nh medium) (0.5)"
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-07-01T11:07:58.016Z",
+      "date": "2026-07-01",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "SN Priority: 20. Heart Failure vs. Fluid Volume Overload ~6min",
+          "progress": "100%",
+          "timeSpent": "1h"
+        }
+      ],
+      "message": "Rừng ep 7 (5.5h)"
     }
   ]
 }
