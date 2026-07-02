@@ -30,18 +30,18 @@
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     },
     {
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
-      "submittedAt": "2026-07-02T10:59:45.209Z",
       "date": "2026-07-02",
+      "message": "OKR - Personal Project (3h)",
+      "submittedAt": "2026-07-02T10:59:45.209Z",
       "tasks": [
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "title": "M7 Forest The Benefits of Farm Forests​ ~2 min (1.5)",
           "progress": "100%",
-          "timeSpent": "5h"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "timeSpent": "5h",
+          "title": "M7 Forest The Benefits of Farm Forests​ ~2 min (1.5)"
         }
       ],
-      "message": "OKR - Personal Project (3h)"
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     }
   ]
 }
