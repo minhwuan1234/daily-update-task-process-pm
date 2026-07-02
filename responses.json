@@ -1,67 +1,19 @@
 {
-  "date": "2026-07-01",
+  "date": "2026-07-02",
   "responses": [
     {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-07-01T10:46:30.994Z",
-      "date": "2026-07-01",
+      "userId": "ou_e273fec35061a42660190f8c70f19882",
+      "submittedAt": "2026-07-02T10:46:45.056Z",
+      "date": "2026-07-02",
       "tasks": [
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "SN Outdated Content: 8. Preoperative Assessment ~10 mins Anim (2.5)",
-          "progress": "30%",
-          "timeSpent": "4h"
-        }
-      ],
-      "message": "4h OKR"
-    },
-    {
-      "date": "2026-07-01",
-      "message": "",
-      "submittedAt": "2026-07-01T10:47:45.771Z",
-      "tasks": [
-        {
-          "progress": "90%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "8h",
-          "title": "SN Priority: 18. NCLEX Heart Failure Questions You Will See ~11 min (3)"
+          "title": "OKR: Personal project: Build kênh",
+          "progress": "20%",
+          "timeSpent": "8h"
         }
       ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
-    },
-    {
-      "date": "2026-07-01",
-      "message": "Sá»­a AMD 7.1 (1h)\nSá»­a AMD 7.2 cá»§a VÃ¢n (1h)\nSá»­a SN Summer (30p)\nSá»­a SN cÃ¡c loáº¡i intro cards (2h)",
-      "submittedAt": "2026-07-01T10:58:14.977Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "1.5h",
-          "title": "SN Priority: 22.Thyroid Lab Values Explained for Nursing Students"
-        },
-        {
-          "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "timeSpent": "2h",
-          "title": "Klett: DA2.02 Illus (2 hÃ¬nh medium) (0.5)"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-07-01",
-      "message": "Rừng ep 7 (5.5h)",
-      "submittedAt": "2026-07-01T11:07:58.016Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "1h",
-          "title": "SN Priority: 20. Heart Failure vs. Fluid Volume Overload ~6min"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+      "message": ""
     }
   ]
 }
