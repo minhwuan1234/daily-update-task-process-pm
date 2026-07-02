@@ -1,19 +1,14 @@
 {
-  "date": "1-Jul",
-  "generatedAt": "2026-07-01T10:45:06.761Z",
+  "date": "2-Jul",
+  "generatedAt": "2026-07-02T10:45:07.458Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "1-Jul",
-          "dueDate": "3/7",
-          "task": "SN Priority: 22.Thyroid Lab Values Explained for Nursing Students"
-        },
-        {
-          "date": "1-Jul",
-          "dueDate": "8/7",
-          "task": "Klett: DA2.02 Illus (2 hình medium) (0.5)"
+          "date": "2-Jul",
+          "dueDate": "10/7",
+          "task": "SN Priority: 23. Common NCLEX Traps With Thyroid Disorders (3)"
         }
       ]
     },
@@ -21,9 +16,14 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "1-Jul",
+          "date": "2-Jul",
           "dueDate": null,
-          "task": "Web Patient edu promote video: Visual des brainstorm + Concept art"
+          "task": "Proposal: Humanity studio"
+        },
+        {
+          "date": "2-Jul",
+          "dueDate": null,
+          "task": "Web Patient edu promote video: Storyboard"
         }
       ]
     },
@@ -31,9 +31,9 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "1-Jul",
-          "dueDate": "3/7",
-          "task": "SN Priority: 18. NCLEX Heart Failure Questions You Will See ~11 min (3)"
+          "date": "2-Jul",
+          "dueDate": null,
+          "task": "OKR: Personal project: Build kênh"
         }
       ]
     },
@@ -41,9 +41,9 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "1-Jul",
-          "dueDate": "3/7",
-          "task": "SN Priority: 20. Heart Failure vs. Fluid Volume Overload ~6min"
+          "date": "2-Jul",
+          "dueDate": "7/7",
+          "task": "M7 Forest The Benefits of Farm Forests​ ~2 min (1.5)"
         }
       ]
     },
@@ -51,7 +51,7 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "1-Jul",
+          "date": "2-Jul",
           "dueDate": "10/7",
           "task": "SN Outdated Content: 8. Preoperative Assessment ~10 mins Anim (2.5)"
         }
