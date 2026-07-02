@@ -10,14 +10,14 @@
           "progress": "20%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
           "timeSpent": "8h",
-          "title": "OKR: Personal project: Build kÃªnh"
+          "title": "OKR: Personal project: Build kÃÂªnh"
         }
       ],
       "userId": "ou_e273fec35061a42660190f8c70f19882"
     },
     {
       "date": "2026-07-02",
-      "message": "còn lại sửa lặt vặt vài thứ Klett (khách), SN 22 nội bộ",
+      "message": "cÃ²n láº¡i sá»­a láº·t váº·t vÃ i thá»© Klett (khÃ¡ch), SN 22 ná»i bá»",
       "submittedAt": "2026-07-02T10:54:58.093Z",
       "tasks": [
         {
@@ -28,6 +28,20 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-07-02T10:59:45.209Z",
+      "date": "2026-07-02",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "M7 Forest The Benefits of Farm Forests​ ~2 min (1.5)",
+          "progress": "100%",
+          "timeSpent": "5h"
+        }
+      ],
+      "message": "OKR - Personal Project (3h)"
     }
   ]
 }
