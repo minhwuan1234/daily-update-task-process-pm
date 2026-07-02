@@ -58,24 +58,24 @@
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     },
     {
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-07-02T11:14:10.841Z",
       "date": "2026-07-02",
+      "message": "",
+      "submittedAt": "2026-07-02T11:14:10.841Z",
       "tasks": [
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "Proposal: Humanity studio",
           "progress": "50%",
-          "timeSpent": "4h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "timeSpent": "4h",
+          "title": "Proposal: Humanity studio"
         },
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
-          "title": "Web Patient edu promote video: Storyboard",
           "progress": "40%",
-          "timeSpent": "3.5h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
+          "timeSpent": "3.5h",
+          "title": "Web Patient edu promote video: Storyboard"
         }
       ],
-      "message": ""
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     }
   ]
 }
