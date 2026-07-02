@@ -16,18 +16,18 @@
       "userId": "ou_e273fec35061a42660190f8c70f19882"
     },
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-07-02T10:54:58.093Z",
       "date": "2026-07-02",
+      "message": "còn lại sửa lặt vặt vài thứ Klett (khách), SN 22 nội bộ",
+      "submittedAt": "2026-07-02T10:54:58.093Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "SN Priority: 23. Common NCLEX Traps With Thyroid Disorders (3)",
           "progress": "40%",
-          "timeSpent": "7.5h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "7.5h",
+          "title": "SN Priority: 23. Common NCLEX Traps With Thyroid Disorders (3)"
         }
       ],
-      "message": "còn lại sửa lặt vặt vài thứ Klett (khách), SN 22 nội bộ"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }
