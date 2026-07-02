@@ -10,14 +10,14 @@
           "progress": "20%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
           "timeSpent": "8h",
-          "title": "OKR: Personal project: Build kÃÂªnh"
+          "title": "OKR: Personal project: Build kÃÂÃÂªnh"
         }
       ],
       "userId": "ou_e273fec35061a42660190f8c70f19882"
     },
     {
       "date": "2026-07-02",
-      "message": "cÃ²n láº¡i sá»­a láº·t váº·t vÃ i thá»© Klett (khÃ¡ch), SN 22 ná»i bá»",
+      "message": "cÃÂ²n lÃ¡ÂºÂ¡i sÃ¡Â»Â­a lÃ¡ÂºÂ·t vÃ¡ÂºÂ·t vÃÂ i thÃ¡Â»Â© Klett (khÃÂ¡ch), SN 22 nÃ¡Â»Âi bÃ¡Â»Â",
       "submittedAt": "2026-07-02T10:54:58.093Z",
       "tasks": [
         {
@@ -38,10 +38,24 @@
           "progress": "100%",
           "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
           "timeSpent": "5h",
-          "title": "M7 Forest The Benefits of Farm Forests​ ~2 min (1.5)"
+          "title": "M7 Forest The Benefits of Farm Forestsâ ~2 min (1.5)"
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-07-02T11:11:46.333Z",
+      "date": "2026-07-02",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "SN Outdated Content: 8. Preoperative Assessment ~10 mins Anim (2.5)",
+          "progress": "80%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
