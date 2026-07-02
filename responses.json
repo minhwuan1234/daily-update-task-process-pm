@@ -10,14 +10,14 @@
           "progress": "20%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
           "timeSpent": "8h",
-          "title": "OKR: Personal project: Build kÃÂÃÂªnh"
+          "title": "OKR: Personal project: Build kÃÂÃÂÃÂÃÂªnh"
         }
       ],
       "userId": "ou_e273fec35061a42660190f8c70f19882"
     },
     {
       "date": "2026-07-02",
-      "message": "cÃÂ²n lÃ¡ÂºÂ¡i sÃ¡Â»Â­a lÃ¡ÂºÂ·t vÃ¡ÂºÂ·t vÃÂ i thÃ¡Â»Â© Klett (khÃÂ¡ch), SN 22 nÃ¡Â»Âi bÃ¡Â»Â",
+      "message": "cÃÂÃÂ²n lÃÂ¡ÃÂºÃÂ¡i sÃÂ¡ÃÂ»ÃÂ­a lÃÂ¡ÃÂºÃÂ·t vÃÂ¡ÃÂºÃÂ·t vÃÂÃÂ i thÃÂ¡ÃÂ»ÃÂ© Klett (khÃÂÃÂ¡ch), SN 22 nÃÂ¡ÃÂ»ÃÂi bÃÂ¡ÃÂ»ÃÂ",
       "submittedAt": "2026-07-02T10:54:58.093Z",
       "tasks": [
         {
@@ -38,7 +38,7 @@
           "progress": "100%",
           "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
           "timeSpent": "5h",
-          "title": "M7 Forest The Benefits of Farm Forestsâ ~2 min (1.5)"
+          "title": "M7 Forest The Benefits of Farm ForestsÃ¢ÂÂ ~2 min (1.5)"
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
@@ -56,6 +56,26 @@
         }
       ],
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+    },
+    {
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-07-02T11:14:10.841Z",
+      "date": "2026-07-02",
+      "tasks": [
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "Proposal: Humanity studio",
+          "progress": "50%",
+          "timeSpent": "4h"
+        },
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
+          "title": "Web Patient edu promote video: Storyboard",
+          "progress": "40%",
+          "timeSpent": "3.5h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
