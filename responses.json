@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-07-03",
-      "message": "SN 23 tiếp (3,5h)\nsửa SN summer strategy 1,5h\nsửa SN box design 2h\ntý họp mất 30p",
+      "message": "SN 23 tiáº¿p (3,5h)\nsá»­a SN summer strategy 1,5h\nsá»­a SN box design 2h\ntÃ½ há»p máº¥t 30p",
       "submittedAt": "2026-07-03T11:03:47.859Z",
       "tasks": [
         {
@@ -28,6 +28,26 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-07-03T11:09:05.131Z",
+      "date": "2026-07-03",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "OKR: Personal project: Improve anim quality Chặng 1",
+          "progress": "0%",
+          "timeSpent": "3.5h"
+        },
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
+          "title": "Media Maven demo (0.5)",
+          "progress": "100%",
+          "timeSpent": "4h"
+        }
+      ],
+      "message": "SN priority ep 20 (0.5h)"
     }
   ]
 }
