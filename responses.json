@@ -50,24 +50,24 @@
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     },
     {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-07-03T14:27:34.237Z",
       "date": "2026-07-03",
+      "message": "0.25h SN vid 19 fix noi bo",
+      "submittedAt": "2026-07-03T14:27:34.237Z",
       "tasks": [
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "SN Outdated Content: 8. Preoperative Assessment ~10 mins Anim (2.5)",
           "progress": "100%",
-          "timeSpent": "3.5h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "timeSpent": "3.5h",
+          "title": "SN Outdated Content: 8. Preoperative Assessment ~10 mins Anim (2.5)"
         },
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
-          "title": "Media Maven demo (0.5)",
           "progress": "100%",
-          "timeSpent": "4h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
+          "timeSpent": "4h",
+          "title": "Media Maven demo (0.5)"
         }
       ],
-      "message": "0.25h SN vid 19 fix noi bo"
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     }
   ]
 }
