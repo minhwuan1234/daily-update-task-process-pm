@@ -1,81 +1,19 @@
 {
-  "date": "2026-07-02",
+  "date": "2026-07-03",
   "responses": [
     {
-      "date": "2026-07-02",
-      "message": "",
-      "submittedAt": "2026-07-02T10:46:45.056Z",
+      "userId": "ou_e273fec35061a42660190f8c70f19882",
+      "submittedAt": "2026-07-03T11:01:13.865Z",
+      "date": "2026-07-03",
       "tasks": [
         {
-          "progress": "20%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "8h",
-          "title": "OKR: Personal project: Build kÃÂÃÂÃÂÃÂªnh"
-        }
-      ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
-    },
-    {
-      "date": "2026-07-02",
-      "message": "cÃÂÃÂ²n lÃÂ¡ÃÂºÃÂ¡i sÃÂ¡ÃÂ»ÃÂ­a lÃÂ¡ÃÂºÃÂ·t vÃÂ¡ÃÂºÃÂ·t vÃÂÃÂ i thÃÂ¡ÃÂ»ÃÂ© Klett (khÃÂÃÂ¡ch), SN 22 nÃÂ¡ÃÂ»ÃÂi bÃÂ¡ÃÂ»ÃÂ",
-      "submittedAt": "2026-07-02T10:54:58.093Z",
-      "tasks": [
-        {
-          "progress": "40%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "7.5h",
-          "title": "SN Priority: 23. Common NCLEX Traps With Thyroid Disorders (3)"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-07-02",
-      "message": "OKR - Personal Project (3h)",
-      "submittedAt": "2026-07-02T10:59:45.209Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "5h",
-          "title": "M7 Forest The Benefits of Farm ForestsÃ¢ÂÂ ~2 min (1.5)"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-07-02",
-      "message": "",
-      "submittedAt": "2026-07-02T11:11:46.333Z",
-      "tasks": [
-        {
-          "progress": "80%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "8h",
-          "title": "SN Outdated Content: 8. Preoperative Assessment ~10 mins Anim (2.5)"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
-    },
-    {
-      "date": "2026-07-02",
-      "message": "",
-      "submittedAt": "2026-07-02T11:14:10.841Z",
-      "tasks": [
-        {
+          "title": "SN Priority: 21. Hyper vs Hypothyroidism: NCLEX Comparison ~6min (2)",
           "progress": "50%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "4h",
-          "title": "Proposal: Humanity studio"
-        },
-        {
-          "progress": "40%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
-          "timeSpent": "3.5h",
-          "title": "Web Patient edu promote video: Storyboard"
+          "timeSpent": "8h"
         }
       ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+      "message": ""
     }
   ]
 }
