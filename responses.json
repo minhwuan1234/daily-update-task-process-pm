@@ -30,24 +30,24 @@
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     },
     {
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
-      "submittedAt": "2026-07-03T11:09:05.131Z",
       "date": "2026-07-03",
+      "message": "SN priority ep 20 (0.5h)",
+      "submittedAt": "2026-07-03T11:09:05.131Z",
       "tasks": [
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "title": "OKR: Personal project: Improve anim quality Chặng 1",
           "progress": "0%",
-          "timeSpent": "3.5h"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "timeSpent": "3.5h",
+          "title": "OKR: Personal project: Improve anim quality Chặng 1"
         },
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
-          "title": "Media Maven demo (0.5)",
           "progress": "100%",
-          "timeSpent": "4h"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
+          "timeSpent": "4h",
+          "title": "Media Maven demo (0.5)"
         }
       ],
-      "message": "SN priority ep 20 (0.5h)"
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     }
   ]
 }
