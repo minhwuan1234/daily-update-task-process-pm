@@ -1,14 +1,14 @@
 {
-  "date": "2-Jul",
-  "generatedAt": "2026-07-02T10:45:07.458Z",
+  "date": "3-Jul",
+  "generatedAt": "2026-07-03T10:56:17.655Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "2-Jul",
+          "date": "3-Jul",
           "dueDate": "10/7",
-          "task": "SN Priority: 23. Common NCLEX Traps With Thyroid Disorders (3)"
+          "task": "SN Priority: 23. Common NCLEX Traps With Thyroid Disorders"
         }
       ]
     },
@@ -16,14 +16,14 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "2-Jul",
+          "date": "3-Jul",
           "dueDate": null,
           "task": "Proposal: Humanity studio"
         },
         {
-          "date": "2-Jul",
-          "dueDate": null,
-          "task": "Web Patient edu promote video: Storyboard"
+          "date": "3-Jul",
+          "dueDate": "8/7",
+          "task": "Klett: DA0.01 Illus (6 hình complex) (1.5)"
         }
       ]
     },
@@ -31,9 +31,9 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "2-Jul",
-          "dueDate": null,
-          "task": "OKR: Personal project: Build kênh"
+          "date": "3-Jul",
+          "dueDate": "10/7",
+          "task": "SN Priority: 21. Hyper vs Hypothyroidism: NCLEX Comparison ~6min (2)"
         }
       ]
     },
@@ -41,9 +41,14 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "2-Jul",
-          "dueDate": "7/7",
-          "task": "M7 Forest The Benefits of Farm Forests​ ~2 min (1.5)"
+          "date": "3-Jul",
+          "dueDate": null,
+          "task": "OKR: Personal project: Improve anim quality Chặng 1"
+        },
+        {
+          "date": "3-Jul",
+          "dueDate": null,
+          "task": "Media Maven demo (0.5)"
         }
       ]
     },
@@ -51,13 +56,18 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "2-Jul",
+          "date": "3-Jul",
           "dueDate": "10/7",
           "task": "SN Outdated Content: 8. Preoperative Assessment ~10 mins Anim (2.5)"
+        },
+        {
+          "date": "3-Jul",
+          "dueDate": null,
+          "task": "Media Maven demo (0.5)"
         }
       ]
     }
   ],
   "totalMembers": 5,
-  "totalTasks": 6
+  "totalTasks": 8
 }
