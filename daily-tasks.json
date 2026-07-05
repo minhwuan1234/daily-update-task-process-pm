@@ -1,17 +1,17 @@
 {
-  "date": "4-Jul",
-  "generatedAt": "2026-07-04T10:45:14.355Z",
+  "date": "5-Jul",
+  "generatedAt": "2026-07-05T10:45:06.648Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "4-Jul",
+          "date": "5-Jul",
           "dueDate": "10/7",
           "task": "SN Priority: 23. Common NCLEX Traps With Thyroid Disorders"
         },
         {
-          "date": "4-Jul",
+          "date": "5-Jul",
           "dueDate": null,
           "task": "SN summer strategy fix 1,5h\nSN box design fix 2h"
         }
@@ -21,12 +21,12 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "4-Jul",
+          "date": "5-Jul",
           "dueDate": null,
           "task": "Proposal: Humanity studio"
         },
         {
-          "date": "4-Jul",
+          "date": "5-Jul",
           "dueDate": "8/7",
           "task": "Klett: DA0.01 Illus (6 hình complex) (1.5)"
         }
@@ -36,7 +36,7 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "4-Jul",
+          "date": "5-Jul",
           "dueDate": "10/7",
           "task": "SN Priority: 21. Hyper vs Hypothyroidism: NCLEX Comparison ~6min (2)"
         }
@@ -46,12 +46,12 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "4-Jul",
+          "date": "5-Jul",
           "dueDate": null,
           "task": "OKR: Personal project: Improve anim quality Chặng 1"
         },
         {
-          "date": "4-Jul",
+          "date": "5-Jul",
           "dueDate": null,
           "task": "Media Maven demo (0.5)"
         }
@@ -61,7 +61,7 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "4-Jul",
+          "date": "5-Jul",
           "dueDate": "10/7",
           "task": "SN Outdated Content: 8. Preoperative Assessment ~10 mins Anim (2.5)"
         }
