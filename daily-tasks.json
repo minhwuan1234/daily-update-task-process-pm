@@ -1,19 +1,19 @@
 {
-  "date": "5-Jul",
-  "generatedAt": "2026-07-05T10:45:06.648Z",
+  "date": "7-Jul",
+  "generatedAt": "2026-07-07T10:45:06.678Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "5-Jul",
-          "dueDate": "10/7",
-          "task": "SN Priority: 23. Common NCLEX Traps With Thyroid Disorders"
+          "date": "7-Jul",
+          "dueDate": null,
+          "task": "SN 23 tiếp 0.5"
         },
         {
-          "date": "5-Jul",
-          "dueDate": null,
-          "task": "SN summer strategy fix 1,5h\nSN box design fix 2h"
+          "date": "7-Jul",
+          "dueDate": "8/7",
+          "task": "Klett: DA0.01 Illus (6 hình complex) (1.5)"
         }
       ]
     },
@@ -21,12 +21,7 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "5-Jul",
-          "dueDate": null,
-          "task": "Proposal: Humanity studio"
-        },
-        {
-          "date": "5-Jul",
+          "date": "7-Jul",
           "dueDate": "8/7",
           "task": "Klett: DA0.01 Illus (6 hình complex) (1.5)"
         }
@@ -36,7 +31,7 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "5-Jul",
+          "date": "7-Jul",
           "dueDate": "10/7",
           "task": "SN Priority: 21. Hyper vs Hypothyroidism: NCLEX Comparison ~6min (2)"
         }
@@ -46,14 +41,9 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "5-Jul",
-          "dueDate": null,
-          "task": "OKR: Personal project: Improve anim quality Chặng 1"
-        },
-        {
-          "date": "5-Jul",
-          "dueDate": null,
-          "task": "Media Maven demo (0.5)"
+          "date": "7-Jul",
+          "dueDate": "9/7",
+          "task": "SN Summer Strategy Short Videos - 5 videos (1)"
         }
       ]
     },
@@ -61,13 +51,13 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "5-Jul",
+          "date": "7-Jul",
           "dueDate": "10/7",
-          "task": "SN Outdated Content: 8. Preoperative Assessment ~10 mins Anim (2.5)"
+          "task": "SN Priority: 22.Thyroid Lab Values Explained for Nursing Students \n~ 5 min (1.25)"
         }
       ]
     }
   ],
   "totalMembers": 5,
-  "totalTasks": 8
+  "totalTasks": 6
 }
