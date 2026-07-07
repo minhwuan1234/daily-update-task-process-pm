@@ -2000,7 +2000,7 @@
     "totalMembers": 10,
     "submittedMembers": 4,
     "missingMembers": 6,
-    "submissionRate": 40.0,
+    "submissionRate": 40,
     "members": {
       "ou_7efb0c22f47740644cf374252d01fdba": {
         "memberName": "Ánh",
@@ -2083,7 +2083,7 @@
     "totalMembers": 10,
     "submittedMembers": 5,
     "missingMembers": 5,
-    "submissionRate": 50.0,
+    "submissionRate": 50,
     "members": {
       "ou_7efb0c22f47740644cf374252d01fdba": {
         "memberName": "Ánh",
@@ -2166,7 +2166,7 @@
     "totalMembers": 10,
     "submittedMembers": 4,
     "missingMembers": 6,
-    "submissionRate": 40.0,
+    "submissionRate": 40,
     "members": {
       "ou_7efb0c22f47740644cf374252d01fdba": {
         "memberName": "Ánh",
@@ -2245,11 +2245,11 @@
     "toolName": "Daily Update Task Process PM",
     "date": "2026-07-07",
     "timezone": "Asia/Ho_Chi_Minh",
-    "updatedAt": "2026-07-07T11:26:49.310934+00:00",
+    "updatedAt": "2026-07-07T15:39:10.558Z",
     "totalMembers": 10,
-    "submittedMembers": 4,
-    "missingMembers": 6,
-    "submissionRate": 40.0,
+    "submittedMembers": 5,
+    "missingMembers": 5,
+    "submissionRate": 50,
     "members": {
       "ou_7efb0c22f47740644cf374252d01fdba": {
         "memberName": "Ánh",
