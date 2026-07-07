@@ -50,18 +50,18 @@
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     },
     {
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-07-07T11:26:37.156Z",
       "date": "2026-07-07",
+      "message": "Sửa IHF 1h",
+      "submittedAt": "2026-07-07T11:26:37.156Z",
       "tasks": [
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "Klett: DA0.01 Illus (6 hình complex) (1.5)",
           "progress": "80%",
-          "timeSpent": "3h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "timeSpent": "3h",
+          "title": "Klett: DA0.01 Illus (6 hình complex) (1.5)"
         }
       ],
-      "message": "Sửa IHF 1h"
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     }
   ]
 }
