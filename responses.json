@@ -16,18 +16,18 @@
       "userId": "ou_e273fec35061a42660190f8c70f19882"
     },
     {
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
-      "submittedAt": "2026-07-07T11:02:58.757Z",
       "date": "2026-07-07",
+      "message": "Sửa SN priority ep 20 + Forest ep 7 (1h)",
+      "submittedAt": "2026-07-07T11:02:58.757Z",
       "tasks": [
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "title": "SN Summer Strategy Short Videos - 5 videos (1)",
           "progress": "90%",
-          "timeSpent": "7h"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "timeSpent": "7h",
+          "title": "SN Summer Strategy Short Videos - 5 videos (1)"
         }
       ],
-      "message": "Sửa SN priority ep 20 + Forest ep 7 (1h)"
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     }
   ]
 }
