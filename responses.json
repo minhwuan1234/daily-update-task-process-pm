@@ -1,73 +1,19 @@
 {
-  "date": "2026-07-03",
+  "date": "2026-07-07",
   "responses": [
     {
-      "date": "2026-07-03",
-      "message": "",
-      "submittedAt": "2026-07-03T11:01:13.865Z",
+      "userId": "ou_e273fec35061a42660190f8c70f19882",
+      "submittedAt": "2026-07-07T10:46:10.946Z",
+      "date": "2026-07-07",
       "tasks": [
         {
-          "progress": "50%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "8h",
-          "title": "SN Priority: 21. Hyper vs Hypothyroidism: NCLEX Comparison ~6min (2)"
-        }
-      ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
-    },
-    {
-      "date": "2026-07-03",
-      "message": "SN 23 tiÃ¡ÂºÂ¿p (3,5h)\nsÃ¡Â»Â­a SN summer strategy 1,5h\nsÃ¡Â»Â­a SN box design 2h\ntÃÂ½ hÃ¡Â»Âp mÃ¡ÂºÂ¥t 30p",
-      "submittedAt": "2026-07-03T11:03:47.859Z",
-      "tasks": [
-        {
-          "progress": "60%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "3.5h",
-          "title": "SN Priority: 23. Common NCLEX Traps With Thyroid Disorders"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-07-03",
-      "message": "SN priority ep 20 (0.5h)",
-      "submittedAt": "2026-07-03T11:09:05.131Z",
-      "tasks": [
-        {
-          "progress": "0%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "3.5h",
-          "title": "OKR: Personal project: Improve anim quality Cháº·ng 1"
-        },
-        {
+          "title": "SN Priority: 21. Hyper vs Hypothyroidism: NCLEX Comparison ~6min (2)",
           "progress": "100%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
-          "timeSpent": "4h",
-          "title": "Media Maven demo (0.5)"
+          "timeSpent": "8h"
         }
       ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-07-03",
-      "message": "0.25h SN vid 19 fix noi bo",
-      "submittedAt": "2026-07-03T14:27:34.237Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "3.5h",
-          "title": "SN Outdated Content: 8. Preoperative Assessment ~10 mins Anim (2.5)"
-        },
-        {
-          "progress": "100%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
-          "timeSpent": "4h",
-          "title": "Media Maven demo (0.5)"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": ""
     }
   ]
 }
