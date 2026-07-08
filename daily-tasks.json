@@ -1,19 +1,14 @@
 {
-  "date": "7-Jul",
-  "generatedAt": "2026-07-07T10:45:06.678Z",
+  "date": "8-Jul",
+  "generatedAt": "2026-07-08T10:54:35.205Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "7-Jul",
-          "dueDate": null,
-          "task": "SN 23 tiếp 0.5"
-        },
-        {
-          "date": "7-Jul",
-          "dueDate": "8/7",
-          "task": "Klett: DA0.01 Illus (6 hình complex) (1.5)"
+          "date": "8-Jul",
+          "dueDate": "10/7",
+          "task": "SN Summer Strategy Refresher videos - Video 1-5 (1.5)"
         }
       ]
     },
@@ -21,7 +16,12 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "7-Jul",
+          "date": "8-Jul",
+          "dueDate": null,
+          "task": "Web Patient edu promote video: Draft storyboard tiếp (1) + ngồi with team"
+        },
+        {
+          "date": "8-Jul",
           "dueDate": "8/7",
           "task": "Klett: DA0.01 Illus (6 hình complex) (1.5)"
         }
@@ -31,9 +31,9 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "7-Jul",
-          "dueDate": "10/7",
-          "task": "SN Priority: 21. Hyper vs Hypothyroidism: NCLEX Comparison ~6min (2)"
+          "date": "8-Jul",
+          "dueDate": null,
+          "task": "OKR: Personal project: Build kênh (1.5)"
         }
       ]
     },
@@ -41,9 +41,14 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "7-Jul",
+          "date": "8-Jul",
           "dueDate": "9/7",
           "task": "SN Summer Strategy Short Videos - 5 videos (1)"
+        },
+        {
+          "date": "8-Jul",
+          "dueDate": "22/7",
+          "task": "Klett: DA6.03 Anim (1 vid medium) (0.5)\n\nKlett: DA2.05 Anim (2 vid simple) (0.5)"
         }
       ]
     },
@@ -51,13 +56,18 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "7-Jul",
+          "date": "8-Jul",
           "dueDate": "10/7",
-          "task": "SN Priority: 22.Thyroid Lab Values Explained for Nursing Students \n~ 5 min (1.25)"
+          "task": "SN Priority: 22.Thyroid Lab Values Explained for Nursing Students \n~ 5 min (1.5)"
+        },
+        {
+          "date": "8-Jul",
+          "dueDate": "13/7",
+          "task": "SmoothKP: Video 2 ~1.5mins (1.5)"
         }
       ]
     }
   ],
   "totalMembers": 5,
-  "totalTasks": 6
+  "totalTasks": 8
 }
