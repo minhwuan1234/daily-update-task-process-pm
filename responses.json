@@ -36,24 +36,24 @@
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     },
     {
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
-      "submittedAt": "2026-07-08T11:02:19.828Z",
       "date": "2026-07-08",
+      "message": "",
+      "submittedAt": "2026-07-08T11:02:19.828Z",
       "tasks": [
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "title": "SN Summer Strategy Short Videos - 5 videos (1)",
           "progress": "100%",
-          "timeSpent": "2.5h"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "timeSpent": "2.5h",
+          "title": "SN Summer Strategy Short Videos - 5 videos (1)"
         },
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
-          "title": "Klett: DA6.03 Anim (1 vid medium) (0.5)\n\nKlett: DA2.05 Anim (2 vid simple) (0.5)",
           "progress": "90%",
-          "timeSpent": "5.5h"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
+          "timeSpent": "5.5h",
+          "title": "Klett: DA6.03 Anim (1 vid medium) (0.5)\n\nKlett: DA2.05 Anim (2 vid simple) (0.5)"
         }
       ],
-      "message": ""
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     }
   ]
 }
