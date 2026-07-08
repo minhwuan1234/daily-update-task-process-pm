@@ -3,23 +3,37 @@
   "responses": [
     {
       "date": "2026-07-08",
-      "message": "3.5h Làm story ideas cho StudioHumanity",
+      "message": "3.5h LÃ m story ideas cho StudioHumanity",
       "submittedAt": "2026-07-08T10:57:40.250Z",
       "tasks": [
         {
           "progress": "50%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
           "timeSpent": "3.5h",
-          "title": "Web Patient edu promote video: Draft storyboard tiếp (1) + ngồi with team"
+          "title": "Web Patient edu promote video: Draft storyboard tiáº¿p (1) + ngá»i with team"
         },
         {
           "progress": "100%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
           "timeSpent": "1h",
-          "title": "Klett: DA0.01 Illus (6 hình complex) (1.5)"
+          "title": "Klett: DA0.01 Illus (6 hÃ¬nh complex) (1.5)"
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+    },
+    {
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-07-08T10:59:39.400Z",
+      "date": "2026-07-08",
+      "tasks": [
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "title": "SN Summer Strategy Refresher videos - Video 1-5 (1.5)",
+          "progress": "40%",
+          "timeSpent": "6h"
+        }
+      ],
+      "message": "còn lại là sửa lắt nhắt vài thứ như AMD 7.1, 7.4, SN 23, Klett DA0.01 part 2"
     }
   ]
 }
