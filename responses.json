@@ -3,27 +3,27 @@
   "responses": [
     {
       "date": "2026-07-08",
-      "message": "3.5h LÃ m story ideas cho StudioHumanity",
+      "message": "3.5h LÃÂ m story ideas cho StudioHumanity",
       "submittedAt": "2026-07-08T10:57:40.250Z",
       "tasks": [
         {
           "progress": "50%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
           "timeSpent": "3.5h",
-          "title": "Web Patient edu promote video: Draft storyboard tiáº¿p (1) + ngá»i with team"
+          "title": "Web Patient edu promote video: Draft storyboard tiÃ¡ÂºÂ¿p (1) + ngÃ¡Â»Âi with team"
         },
         {
           "progress": "100%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
           "timeSpent": "1h",
-          "title": "Klett: DA0.01 Illus (6 hÃ¬nh complex) (1.5)"
+          "title": "Klett: DA0.01 Illus (6 hÃÂ¬nh complex) (1.5)"
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     },
     {
       "date": "2026-07-08",
-      "message": "còn lại là sửa lắt nhắt vài thứ như AMD 7.1, 7.4, SN 23, Klett DA0.01 part 2",
+      "message": "cÃ²n láº¡i lÃ  sá»­a láº¯t nháº¯t vÃ i thá»© nhÆ° AMD 7.1, 7.4, SN 23, Klett DA0.01 part 2",
       "submittedAt": "2026-07-08T10:59:39.400Z",
       "tasks": [
         {
@@ -34,6 +34,26 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-07-08T11:02:19.828Z",
+      "date": "2026-07-08",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "SN Summer Strategy Short Videos - 5 videos (1)",
+          "progress": "100%",
+          "timeSpent": "2.5h"
+        },
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
+          "title": "Klett: DA6.03 Anim (1 vid medium) (0.5)\n\nKlett: DA2.05 Anim (2 vid simple) (0.5)",
+          "progress": "90%",
+          "timeSpent": "5.5h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
