@@ -3,27 +3,27 @@
   "responses": [
     {
       "date": "2026-07-08",
-      "message": "3.5h LÃÂ m story ideas cho StudioHumanity",
+      "message": "3.5h LÃÂÃÂ m story ideas cho StudioHumanity",
       "submittedAt": "2026-07-08T10:57:40.250Z",
       "tasks": [
         {
           "progress": "50%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
           "timeSpent": "3.5h",
-          "title": "Web Patient edu promote video: Draft storyboard tiÃ¡ÂºÂ¿p (1) + ngÃ¡Â»Âi with team"
+          "title": "Web Patient edu promote video: Draft storyboard tiÃÂ¡ÃÂºÃÂ¿p (1) + ngÃÂ¡ÃÂ»ÃÂi with team"
         },
         {
           "progress": "100%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
           "timeSpent": "1h",
-          "title": "Klett: DA0.01 Illus (6 hÃÂ¬nh complex) (1.5)"
+          "title": "Klett: DA0.01 Illus (6 hÃÂÃÂ¬nh complex) (1.5)"
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     },
     {
       "date": "2026-07-08",
-      "message": "cÃ²n láº¡i lÃ  sá»­a láº¯t nháº¯t vÃ i thá»© nhÆ° AMD 7.1, 7.4, SN 23, Klett DA0.01 part 2",
+      "message": "cÃÂ²n lÃ¡ÂºÂ¡i lÃÂ  sÃ¡Â»Â­a lÃ¡ÂºÂ¯t nhÃ¡ÂºÂ¯t vÃÂ i thÃ¡Â»Â© nhÃÂ° AMD 7.1, 7.4, SN 23, Klett DA0.01 part 2",
       "submittedAt": "2026-07-08T10:59:39.400Z",
       "tasks": [
         {
@@ -54,6 +54,20 @@
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_e273fec35061a42660190f8c70f19882",
+      "submittedAt": "2026-07-08T11:04:16.201Z",
+      "date": "2026-07-08",
+      "tasks": [
+        {
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
+          "title": "OKR: Personal project: Build kênh (1.5)",
+          "progress": "20%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
