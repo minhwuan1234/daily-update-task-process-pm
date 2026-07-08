@@ -22,18 +22,18 @@
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     },
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-07-08T10:59:39.400Z",
       "date": "2026-07-08",
+      "message": "còn lại là sửa lắt nhắt vài thứ như AMD 7.1, 7.4, SN 23, Klett DA0.01 part 2",
+      "submittedAt": "2026-07-08T10:59:39.400Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "SN Summer Strategy Refresher videos - Video 1-5 (1.5)",
           "progress": "40%",
-          "timeSpent": "6h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "6h",
+          "title": "SN Summer Strategy Refresher videos - Video 1-5 (1.5)"
         }
       ],
-      "message": "còn lại là sửa lắt nhắt vài thứ như AMD 7.1, 7.4, SN 23, Klett DA0.01 part 2"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }
