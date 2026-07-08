@@ -1,81 +1,25 @@
 {
-  "date": "2026-07-07",
+  "date": "2026-07-08",
   "responses": [
     {
-      "date": "2026-07-07",
-      "message": "",
-      "submittedAt": "2026-07-07T10:46:10.946Z",
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-07-08T10:57:40.250Z",
+      "date": "2026-07-08",
       "tasks": [
         {
-          "progress": "100%",
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "8h",
-          "title": "SN Priority: 21. Hyper vs Hypothyroidism: NCLEX Comparison ~6min (2)"
-        }
-      ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
-    },
-    {
-      "date": "2026-07-07",
-      "message": "SÃÂ¡ÃÂ»ÃÂ­a SN priority ep 20 + Forest ep 7 (1h)",
-      "submittedAt": "2026-07-07T11:02:58.757Z",
-      "tasks": [
-        {
-          "progress": "90%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "7h",
-          "title": "SN Summer Strategy Short Videos - 5 videos (1)"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-07-07",
-      "message": "hÃ¡Â»Âp + sÃ¡Â»Â­a lÃ¡ÂºÂ¯t nhÃ¡ÂºÂ¯t mÃ¡ÂºÂ¥y cÃÂ¡i Klett cÃÂ©",
-      "submittedAt": "2026-07-07T11:11:11.492Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "3.5h",
-          "title": "SN 23 tiÃ¡ÂºÂ¿p 0.5"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "Web Patient edu promote video: Draft storyboard tiếp (1) + ngồi with team",
+          "progress": "50%",
+          "timeSpent": "3.5h"
         },
         {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
+          "title": "Klett: DA0.01 Illus (6 hình complex) (1.5)",
           "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "timeSpent": "3h",
-          "title": "Klett: DA0.01 Illus (6 hÃÂ¬nh complex) (1.5)"
+          "timeSpent": "1h"
         }
       ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-07-07",
-      "message": "Sá»­a IHF 1h",
-      "submittedAt": "2026-07-07T11:26:37.156Z",
-      "tasks": [
-        {
-          "progress": "80%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "3h",
-          "title": "Klett: DA0.01 Illus (6 hÃ¬nh complex) (1.5)"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-07-07T15:38:57.357Z",
-      "date": "2026-07-07",
-      "tasks": [
-        {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "SN Priority: 22.Thyroid Lab Values Explained for Nursing Students \n~ 5 min (1.25)",
-          "progress": "80%",
-          "timeSpent": "6h"
-        }
-      ],
-      "message": "2h motion moodboard cho website video"
+      "message": "3.5h Làm story ideas cho StudioHumanity"
     }
   ]
 }
