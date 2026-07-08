@@ -70,24 +70,24 @@
       "userId": "ou_e273fec35061a42660190f8c70f19882"
     },
     {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-07-08T16:11:06.243Z",
       "date": "2026-07-08",
+      "message": "15p fix SN 8 noi bo",
+      "submittedAt": "2026-07-08T16:11:06.243Z",
       "tasks": [
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "SN Priority: 22.Thyroid Lab Values Explained for Nursing Students \n~ 5 min (1.5)",
           "progress": "100%",
-          "timeSpent": "3h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "timeSpent": "3h",
+          "title": "SN Priority: 22.Thyroid Lab Values Explained for Nursing Students \n~ 5 min (1.5)"
         },
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
-          "title": "SmoothKP: Video 2 ~1.5mins (1.5)",
           "progress": "40%",
-          "timeSpent": "4.5h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
+          "timeSpent": "4.5h",
+          "title": "SmoothKP: Video 2 ~1.5mins (1.5)"
         }
       ],
-      "message": "15p fix SN 8 noi bo"
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     }
   ]
 }
