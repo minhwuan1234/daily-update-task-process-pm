@@ -2,24 +2,24 @@
   "date": "2026-07-08",
   "responses": [
     {
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-07-08T10:57:40.250Z",
       "date": "2026-07-08",
+      "message": "3.5h Làm story ideas cho StudioHumanity",
+      "submittedAt": "2026-07-08T10:57:40.250Z",
       "tasks": [
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "Web Patient edu promote video: Draft storyboard tiếp (1) + ngồi with team",
           "progress": "50%",
-          "timeSpent": "3.5h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "timeSpent": "3.5h",
+          "title": "Web Patient edu promote video: Draft storyboard tiếp (1) + ngồi with team"
         },
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
-          "title": "Klett: DA0.01 Illus (6 hình complex) (1.5)",
           "progress": "100%",
-          "timeSpent": "1h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
+          "timeSpent": "1h",
+          "title": "Klett: DA0.01 Illus (6 hình complex) (1.5)"
         }
       ],
-      "message": "3.5h Làm story ideas cho StudioHumanity"
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     }
   ]
 }
