@@ -3,21 +3,21 @@
   "responses": [
     {
       "date": "2026-07-09",
-      "message": "OKR Art direction trong lÃºc Äá»£i chá»",
+      "message": "OKR Art direction trong lÃÂºc ÃÂÃ¡Â»Â£i chÃ¡Â»Â",
       "submittedAt": "2026-07-09T10:50:33.492Z",
       "tasks": [
         {
           "progress": "80%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
           "timeSpent": "2h",
-          "title": "Web Patient edu promote video: Draft storyboard tiáº¿p (1) + ngá»i with team"
+          "title": "Web Patient edu promote video: Draft storyboard tiÃ¡ÂºÂ¿p (1) + ngÃ¡Â»Âi with team"
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     },
     {
       "date": "2026-07-09",
-      "message": "1h gồm những task lặt nhặt như sửa AMD, sửa flashcard BOX, ...",
+      "message": "1h gá»m nhá»¯ng task láº·t nháº·t nhÆ° sá»­a AMD, sá»­a flashcard BOX, ...",
       "submittedAt": "2026-07-09T10:50:49.136Z",
       "tasks": [
         {
@@ -34,6 +34,20 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-07-09T11:15:03.710Z",
+      "date": "2026-07-09",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "OKR: Personal project: Improve anim quality Chặng 1 (1.5)",
+          "progress": "10%",
+          "timeSpent": "3h"
+        }
+      ],
+      "message": "- Klett (2h)\n- Họp (2h)\n- SN NCLEX Videos 1-5 (1h)"
     }
   ]
 }
