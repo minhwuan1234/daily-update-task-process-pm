@@ -3,21 +3,21 @@
   "responses": [
     {
       "date": "2026-07-09",
-      "message": "OKR Art direction trong lÃÂºc ÃÂÃ¡Â»Â£i chÃ¡Â»Â",
+      "message": "OKR Art direction trong lÃÂÃÂºc ÃÂÃÂÃÂ¡ÃÂ»ÃÂ£i chÃÂ¡ÃÂ»ÃÂ",
       "submittedAt": "2026-07-09T10:50:33.492Z",
       "tasks": [
         {
           "progress": "80%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
           "timeSpent": "2h",
-          "title": "Web Patient edu promote video: Draft storyboard tiÃ¡ÂºÂ¿p (1) + ngÃ¡Â»Âi with team"
+          "title": "Web Patient edu promote video: Draft storyboard tiÃÂ¡ÃÂºÃÂ¿p (1) + ngÃÂ¡ÃÂ»ÃÂi with team"
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     },
     {
       "date": "2026-07-09",
-      "message": "1h gá»m nhá»¯ng task láº·t nháº·t nhÆ° sá»­a AMD, sá»­a flashcard BOX, ...",
+      "message": "1h gÃ¡Â»Âm nhÃ¡Â»Â¯ng task lÃ¡ÂºÂ·t nhÃ¡ÂºÂ·t nhÃÂ° sÃ¡Â»Â­a AMD, sÃ¡Â»Â­a flashcard BOX, ...",
       "submittedAt": "2026-07-09T10:50:49.136Z",
       "tasks": [
         {
@@ -37,17 +37,31 @@
     },
     {
       "date": "2026-07-09",
-      "message": "- Klett (2h)\n- Họp (2h)\n- SN NCLEX Videos 1-5 (1h)",
+      "message": "- Klett (2h)\n- Há»p (2h)\n- SN NCLEX Videos 1-5 (1h)",
       "submittedAt": "2026-07-09T11:15:03.710Z",
       "tasks": [
         {
           "progress": "10%",
           "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
           "timeSpent": "3h",
-          "title": "OKR: Personal project: Improve anim quality Chặng 1 (1.5)"
+          "title": "OKR: Personal project: Improve anim quality Cháº·ng 1 (1.5)"
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-07-09T16:27:40.182Z",
+      "date": "2026-07-09",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "SmoothKP: Video 2 ~1.5mins (1.5)",
+          "progress": "70%",
+          "timeSpent": "6h"
+        }
+      ],
+      "message": "2h hop website promo video"
     }
   ]
 }
