@@ -2,18 +2,18 @@
   "date": "2026-07-09",
   "responses": [
     {
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-07-09T10:50:33.492Z",
       "date": "2026-07-09",
+      "message": "OKR Art direction trong lúc đợi chờ",
+      "submittedAt": "2026-07-09T10:50:33.492Z",
       "tasks": [
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "Web Patient edu promote video: Draft storyboard tiếp (1) + ngồi with team",
           "progress": "80%",
-          "timeSpent": "2h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "timeSpent": "2h",
+          "title": "Web Patient edu promote video: Draft storyboard tiếp (1) + ngồi with team"
         }
       ],
-      "message": "OKR Art direction trong lúc đợi chờ"
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     }
   ]
 }
