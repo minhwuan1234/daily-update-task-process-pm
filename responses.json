@@ -3,17 +3,37 @@
   "responses": [
     {
       "date": "2026-07-09",
-      "message": "OKR Art direction trong lúc đợi chờ",
+      "message": "OKR Art direction trong lÃºc Äá»£i chá»",
       "submittedAt": "2026-07-09T10:50:33.492Z",
       "tasks": [
         {
           "progress": "80%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
           "timeSpent": "2h",
-          "title": "Web Patient edu promote video: Draft storyboard tiếp (1) + ngồi with team"
+          "title": "Web Patient edu promote video: Draft storyboard tiáº¿p (1) + ngá»i with team"
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+    },
+    {
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-07-09T10:50:49.136Z",
+      "date": "2026-07-09",
+      "tasks": [
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "title": "Spainwork sample 2 (0.5)",
+          "progress": "0%",
+          "timeSpent": "0.5h"
+        },
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
+          "title": "SN Summer Strategy Refresher videos - Video 1-5 (1.5)",
+          "progress": "100%",
+          "timeSpent": "6.5h"
+        }
+      ],
+      "message": "1h gồm những task lặt nhặt như sửa AMD, sửa flashcard BOX, ..."
     }
   ]
 }
