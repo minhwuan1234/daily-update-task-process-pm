@@ -1,93 +1,19 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-09",
   "responses": [
     {
-      "date": "2026-07-08",
-      "message": "3.5h LÃÂÃÂÃÂÃÂ m story ideas cho StudioHumanity",
-      "submittedAt": "2026-07-08T10:57:40.250Z",
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-07-09T10:50:33.492Z",
+      "date": "2026-07-09",
       "tasks": [
         {
-          "progress": "50%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "3.5h",
-          "title": "Web Patient edu promote video: Draft storyboard tiÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿p (1) + ngÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂi with team"
-        },
-        {
-          "progress": "100%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
-          "timeSpent": "1h",
-          "title": "Klett: DA0.01 Illus (6 hÃÂÃÂÃÂÃÂ¬nh complex) (1.5)"
+          "title": "Web Patient edu promote video: Draft storyboard tiếp (1) + ngồi with team",
+          "progress": "80%",
+          "timeSpent": "2h"
         }
       ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-07-08",
-      "message": "cÃÂÃÂ²n lÃÂ¡ÃÂºÃÂ¡i lÃÂÃÂ  sÃÂ¡ÃÂ»ÃÂ­a lÃÂ¡ÃÂºÃÂ¯t nhÃÂ¡ÃÂºÃÂ¯t vÃÂÃÂ i thÃÂ¡ÃÂ»ÃÂ© nhÃÂÃÂ° AMD 7.1, 7.4, SN 23, Klett DA0.01 part 2",
-      "submittedAt": "2026-07-08T10:59:39.400Z",
-      "tasks": [
-        {
-          "progress": "40%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "6h",
-          "title": "SN Summer Strategy Refresher videos - Video 1-5 (1.5)"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-07-08",
-      "message": "",
-      "submittedAt": "2026-07-08T11:02:19.828Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "2.5h",
-          "title": "SN Summer Strategy Short Videos - 5 videos (1)"
-        },
-        {
-          "progress": "90%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
-          "timeSpent": "5.5h",
-          "title": "Klett: DA6.03 Anim (1 vid medium) (0.5)\n\nKlett: DA2.05 Anim (2 vid simple) (0.5)"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-07-08",
-      "message": "",
-      "submittedAt": "2026-07-08T11:04:16.201Z",
-      "tasks": [
-        {
-          "progress": "20%",
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "8h",
-          "title": "OKR: Personal project: Build kÃªnh (1.5)"
-        }
-      ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
-    },
-    {
-      "date": "2026-07-08",
-      "message": "15p fix SN 8 noi bo",
-      "submittedAt": "2026-07-08T16:11:06.243Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "3h",
-          "title": "SN Priority: 22.Thyroid Lab Values Explained for Nursing Students \n~ 5 min (1.5)"
-        },
-        {
-          "progress": "40%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
-          "timeSpent": "4.5h",
-          "title": "SmoothKP: Video 2 ~1.5mins (1.5)"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": "OKR Art direction trong lúc đợi chờ"
     }
   ]
 }
