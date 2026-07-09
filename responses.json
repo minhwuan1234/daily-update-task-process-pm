@@ -36,18 +36,18 @@
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     },
     {
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
-      "submittedAt": "2026-07-09T11:15:03.710Z",
       "date": "2026-07-09",
+      "message": "- Klett (2h)\n- Họp (2h)\n- SN NCLEX Videos 1-5 (1h)",
+      "submittedAt": "2026-07-09T11:15:03.710Z",
       "tasks": [
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "title": "OKR: Personal project: Improve anim quality Chặng 1 (1.5)",
           "progress": "10%",
-          "timeSpent": "3h"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "timeSpent": "3h",
+          "title": "OKR: Personal project: Improve anim quality Chặng 1 (1.5)"
         }
       ],
-      "message": "- Klett (2h)\n- Họp (2h)\n- SN NCLEX Videos 1-5 (1h)"
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     }
   ]
 }
