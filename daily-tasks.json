@@ -1,19 +1,14 @@
 {
-  "date": "9-Jul",
-  "generatedAt": "2026-07-09T10:45:08.886Z",
+  "date": "10-Jul",
+  "generatedAt": "2026-07-10T10:45:07.882Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "9-Jul",
+          "date": "10-Jul",
           "dueDate": "14/7",
           "task": "Spainwork sample 2 (0.5)"
-        },
-        {
-          "date": "9-Jul",
-          "dueDate": "10/7",
-          "task": "SN Summer Strategy Refresher videos - Video 1-5 (1.5)"
         }
       ]
     },
@@ -21,9 +16,9 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "9-Jul",
+          "date": "10-Jul",
           "dueDate": null,
-          "task": "Web Patient edu promote video: Draft storyboard tiếp (1) + ngồi with team"
+          "task": "Web Patient edu promote video: Draft storyboard tiếp"
         }
       ]
     },
@@ -31,9 +26,9 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "9-Jul",
-          "dueDate": null,
-          "task": "OKR: Personal project: Build kênh (1.5)"
+          "date": "10-Jul",
+          "dueDate": "17/7",
+          "task": "SN Priority: 23. Common NCLEX Traps With Thyroid Disorders ~8 min -- wait for feedback (2)"
         }
       ]
     },
@@ -41,9 +36,9 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "9-Jul",
+          "date": "10-Jul",
           "dueDate": null,
-          "task": "OKR: Personal project: Improve anim quality Chặng 1 (1.5)"
+          "task": "OKR: Personal project: Improve anim quality Chặng 1 (0.5)\n\nWeb Patient edu promote video: SB brainstorm 0.25"
         }
       ]
     },
@@ -51,7 +46,7 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "9-Jul",
+          "date": "10-Jul",
           "dueDate": "13/7",
           "task": "SmoothKP: Video 2 ~1.5mins (1.5)"
         }
@@ -59,5 +54,5 @@
     }
   ],
   "totalMembers": 5,
-  "totalTasks": 6
+  "totalTasks": 5
 }
