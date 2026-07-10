@@ -1,67 +1,19 @@
 {
-  "date": "2026-07-09",
+  "date": "2026-07-10",
   "responses": [
     {
-      "date": "2026-07-09",
-      "message": "OKR Art direction trong lÃÂÃÂºc ÃÂÃÂÃÂ¡ÃÂ»ÃÂ£i chÃÂ¡ÃÂ»ÃÂ",
-      "submittedAt": "2026-07-09T10:50:33.492Z",
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-07-10T10:48:32.651Z",
+      "date": "2026-07-10",
       "tasks": [
         {
-          "progress": "80%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "2h",
-          "title": "Web Patient edu promote video: Draft storyboard tiÃÂ¡ÃÂºÃÂ¿p (1) + ngÃÂ¡ÃÂ»ÃÂi with team"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-07-09",
-      "message": "1h gÃ¡Â»Âm nhÃ¡Â»Â¯ng task lÃ¡ÂºÂ·t nhÃ¡ÂºÂ·t nhÃÂ° sÃ¡Â»Â­a AMD, sÃ¡Â»Â­a flashcard BOX, ...",
-      "submittedAt": "2026-07-09T10:50:49.136Z",
-      "tasks": [
-        {
-          "progress": "0%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "0.5h",
-          "title": "Spainwork sample 2 (0.5)"
-        },
-        {
-          "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "timeSpent": "6.5h",
-          "title": "SN Summer Strategy Refresher videos - Video 1-5 (1.5)"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-07-09",
-      "message": "- Klett (2h)\n- Há»p (2h)\n- SN NCLEX Videos 1-5 (1h)",
-      "submittedAt": "2026-07-09T11:15:03.710Z",
-      "tasks": [
-        {
-          "progress": "10%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "3h",
-          "title": "OKR: Personal project: Improve anim quality Cháº·ng 1 (1.5)"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-07-09",
-      "message": "2h hop website promo video",
-      "submittedAt": "2026-07-09T16:27:40.182Z",
-      "tasks": [
-        {
+          "title": "Web Patient edu promote video: Draft storyboard tiếp",
           "progress": "70%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "6h",
-          "title": "SmoothKP: Video 2 ~1.5mins (1.5)"
+          "timeSpent": "8h"
         }
       ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": "khôm ạ"
     }
   ]
 }
