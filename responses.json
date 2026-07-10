@@ -3,21 +3,21 @@
   "responses": [
     {
       "date": "2026-07-10",
-      "message": "khÃÂ´m Ã¡ÂºÂ¡",
+      "message": "khÃÂÃÂ´m ÃÂ¡ÃÂºÃÂ¡",
       "submittedAt": "2026-07-10T10:48:32.651Z",
       "tasks": [
         {
           "progress": "70%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
           "timeSpent": "8h",
-          "title": "Web Patient edu promote video: Draft storyboard tiÃ¡ÂºÂ¿p"
+          "title": "Web Patient edu promote video: Draft storyboard tiÃÂ¡ÃÂºÃÂ¿p"
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     },
     {
       "date": "2026-07-10",
-      "message": "cÃ²n thá»i gian thÃ¬ lÃ m SN NCLEX 6+7",
+      "message": "cÃÂ²n thÃ¡Â»Âi gian thÃÂ¬ lÃÂ m SN NCLEX 6+7",
       "submittedAt": "2026-07-10T10:48:52.047Z",
       "tasks": [
         {
@@ -31,17 +31,31 @@
     },
     {
       "date": "2026-07-10",
-      "message": "- Sửa SN NCLEX Videos 1-5 (0.5h)\n-  AMD Migraine in Children chapter 7.1 (1.5h)",
+      "message": "- Sá»­a SN NCLEX Videos 1-5 (0.5h)\n-  AMD Migraine in Children chapter 7.1 (1.5h)",
       "submittedAt": "2026-07-10T11:08:53.487Z",
       "tasks": [
         {
           "progress": "10%",
           "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
           "timeSpent": "6h",
-          "title": "OKR: Personal project: Improve anim quality Chặng 1 (0.5)\n\nWeb Patient edu promote video: SB brainstorm 0.25"
+          "title": "OKR: Personal project: Improve anim quality Cháº·ng 1 (0.5)\n\nWeb Patient edu promote video: SB brainstorm 0.25"
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-07-10T13:25:39.236Z",
+      "date": "2026-07-10",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "SmoothKP: Video 2 ~1.5mins (1.5)",
+          "progress": "100%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
