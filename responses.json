@@ -16,18 +16,18 @@
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     },
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-07-10T10:48:52.047Z",
       "date": "2026-07-10",
+      "message": "còn thời gian thì làm SN NCLEX 6+7",
+      "submittedAt": "2026-07-10T10:48:52.047Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "Spainwork sample 2 (0.5)",
           "progress": "100%",
-          "timeSpent": "4h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "4h",
+          "title": "Spainwork sample 2 (0.5)"
         }
       ],
-      "message": "còn thời gian thì làm SN NCLEX 6+7"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }
