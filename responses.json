@@ -44,18 +44,18 @@
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     },
     {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-07-10T13:25:39.236Z",
       "date": "2026-07-10",
+      "message": "",
+      "submittedAt": "2026-07-10T13:25:39.236Z",
       "tasks": [
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "SmoothKP: Video 2 ~1.5mins (1.5)",
           "progress": "100%",
-          "timeSpent": "8h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "timeSpent": "8h",
+          "title": "SmoothKP: Video 2 ~1.5mins (1.5)"
         }
       ],
-      "message": ""
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     }
   ]
 }
