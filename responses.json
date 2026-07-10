@@ -3,21 +3,21 @@
   "responses": [
     {
       "date": "2026-07-10",
-      "message": "khÃ´m áº¡",
+      "message": "khÃÂ´m Ã¡ÂºÂ¡",
       "submittedAt": "2026-07-10T10:48:32.651Z",
       "tasks": [
         {
           "progress": "70%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
           "timeSpent": "8h",
-          "title": "Web Patient edu promote video: Draft storyboard tiáº¿p"
+          "title": "Web Patient edu promote video: Draft storyboard tiÃ¡ÂºÂ¿p"
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     },
     {
       "date": "2026-07-10",
-      "message": "còn thời gian thì làm SN NCLEX 6+7",
+      "message": "cÃ²n thá»i gian thÃ¬ lÃ m SN NCLEX 6+7",
       "submittedAt": "2026-07-10T10:48:52.047Z",
       "tasks": [
         {
@@ -28,6 +28,20 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-07-10T11:08:53.487Z",
+      "date": "2026-07-10",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "OKR: Personal project: Improve anim quality Chặng 1 (0.5)\n\nWeb Patient edu promote video: SB brainstorm 0.25",
+          "progress": "10%",
+          "timeSpent": "6h"
+        }
+      ],
+      "message": "- Sửa SN NCLEX Videos 1-5 (0.5h)\n-  AMD Migraine in Children chapter 7.1 (1.5h)"
     }
   ]
 }
