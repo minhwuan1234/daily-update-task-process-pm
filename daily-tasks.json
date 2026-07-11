@@ -1,14 +1,14 @@
 {
-  "date": "10-Jul",
-  "generatedAt": "2026-07-10T10:45:07.882Z",
+  "date": "11-Jul",
+  "generatedAt": "2026-07-11T10:45:05.850Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "10-Jul",
-          "dueDate": "14/7",
-          "task": "Spainwork sample 2 (0.5)"
+          "date": "11-Jul",
+          "dueDate": "17/7",
+          "task": "SN Summer Strategy NCLEX Videos - Video 6-10 (1.5)"
         }
       ]
     },
@@ -16,9 +16,14 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "10-Jul",
+          "date": "11-Jul",
           "dueDate": null,
           "task": "Web Patient edu promote video: Draft storyboard tiếp"
+        },
+        {
+          "date": "11-Jul",
+          "dueDate": "17/7",
+          "task": "IHF Care Pyramid  ~1 min (1)"
         }
       ]
     },
@@ -26,7 +31,7 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "10-Jul",
+          "date": "11-Jul",
           "dueDate": "17/7",
           "task": "SN Priority: 23. Common NCLEX Traps With Thyroid Disorders ~8 min -- wait for feedback (2)"
         }
@@ -36,9 +41,9 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "10-Jul",
-          "dueDate": null,
-          "task": "OKR: Personal project: Improve anim quality Chặng 1 (0.5)\n\nWeb Patient edu promote video: SB brainstorm 0.25"
+          "date": "11-Jul",
+          "dueDate": "20/7",
+          "task": "IHF Bereavement Competencies ~1.7 min (1.75)"
         }
       ]
     },
@@ -46,13 +51,13 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "10-Jul",
-          "dueDate": "13/7",
-          "task": "SmoothKP: Video 2 ~1.5mins (1.5)"
+          "date": "11-Jul",
+          "dueDate": null,
+          "task": "OKR: Personal project (1.5)"
         }
       ]
     }
   ],
   "totalMembers": 5,
-  "totalTasks": 5
+  "totalTasks": 6
 }
