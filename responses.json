@@ -42,6 +42,20 @@
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-07-11T12:30:13.409Z",
+      "date": "2026-07-11",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "OKR: Personal project (1.5)",
+          "progress": "100%",
+          "timeSpent": "3.5h"
+        }
+      ],
+      "message": "0,5 h hop team production, 4h fix smooth kp"
     }
   ]
 }
