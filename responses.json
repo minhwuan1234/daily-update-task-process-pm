@@ -44,18 +44,18 @@
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     },
     {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-07-11T12:30:13.409Z",
       "date": "2026-07-11",
+      "message": "0,5 h hop team production, 4h fix smooth kp",
+      "submittedAt": "2026-07-11T12:30:13.409Z",
       "tasks": [
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "OKR: Personal project (1.5)",
           "progress": "100%",
-          "timeSpent": "3.5h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "timeSpent": "3.5h",
+          "title": "OKR: Personal project (1.5)"
         }
       ],
-      "message": "0,5 h hop team production, 4h fix smooth kp"
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     }
   ]
 }
