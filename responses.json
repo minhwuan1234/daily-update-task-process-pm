@@ -16,18 +16,18 @@
       "userId": "ou_e273fec35061a42660190f8c70f19882"
     },
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-07-11T10:58:28.553Z",
       "date": "2026-07-11",
+      "message": "yay",
+      "submittedAt": "2026-07-11T10:58:28.553Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "SN Summer Strategy NCLEX Videos - Video 6-10 (1.5)",
           "progress": "100%",
-          "timeSpent": "7.5h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "7.5h",
+          "title": "SN Summer Strategy NCLEX Videos - Video 6-10 (1.5)"
         }
       ],
-      "message": "yay"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }
