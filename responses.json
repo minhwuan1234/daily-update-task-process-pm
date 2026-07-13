@@ -23,7 +23,7 @@
     },
     {
       "date": "2026-07-13",
-      "message": "há»p + sá»­a NCLEX + Fresher Videos (1,5h)",
+      "message": "hÃ¡Â»Âp + sÃ¡Â»Â­a NCLEX + Fresher Videos (1,5h)",
       "submittedAt": "2026-07-13T11:10:43.520Z",
       "tasks": [
         {
@@ -44,7 +44,7 @@
           "progress": "70%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
           "timeSpent": "3.5h",
-          "title": "Web Patient edu promote video: Draft storyboard tiếp"
+          "title": "Web Patient edu promote video: Draft storyboard tiáº¿p"
         },
         {
           "progress": "100%",
@@ -54,6 +54,20 @@
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-07-13T11:13:01.686Z",
+      "date": "2026-07-13",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "IHF Bereavement Competencies ~1.7 min (2)",
+          "progress": "60%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
