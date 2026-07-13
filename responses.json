@@ -56,18 +56,18 @@
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     },
     {
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
-      "submittedAt": "2026-07-13T11:13:01.686Z",
       "date": "2026-07-13",
+      "message": "",
+      "submittedAt": "2026-07-13T11:13:01.686Z",
       "tasks": [
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "title": "IHF Bereavement Competencies ~1.7 min (2)",
           "progress": "60%",
-          "timeSpent": "8h"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "timeSpent": "8h",
+          "title": "IHF Bereavement Competencies ~1.7 min (2)"
         }
       ],
-      "message": ""
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     }
   ]
 }
