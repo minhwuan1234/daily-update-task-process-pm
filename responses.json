@@ -23,7 +23,7 @@
     },
     {
       "date": "2026-07-13",
-      "message": "hÃ¡Â»Âp + sÃ¡Â»Â­a NCLEX + Fresher Videos (1,5h)",
+      "message": "hÃÂ¡ÃÂ»ÃÂp + sÃÂ¡ÃÂ»ÃÂ­a NCLEX + Fresher Videos (1,5h)",
       "submittedAt": "2026-07-13T11:10:43.520Z",
       "tasks": [
         {
@@ -44,7 +44,7 @@
           "progress": "70%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
           "timeSpent": "3.5h",
-          "title": "Web Patient edu promote video: Draft storyboard tiáº¿p"
+          "title": "Web Patient edu promote video: Draft storyboard tiÃ¡ÂºÂ¿p"
         },
         {
           "progress": "100%",
@@ -68,6 +68,20 @@
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-07-13T15:48:28.093Z",
+      "date": "2026-07-13",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "OKR: Personal project (1.5)",
+          "progress": "70%",
+          "timeSpent": "3h"
+        }
+      ],
+      "message": "5h fix Smoothkp"
     }
   ]
 }
