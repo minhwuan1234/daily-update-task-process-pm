@@ -70,18 +70,18 @@
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     },
     {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-07-13T15:48:28.093Z",
       "date": "2026-07-13",
+      "message": "5h fix Smoothkp",
+      "submittedAt": "2026-07-13T15:48:28.093Z",
       "tasks": [
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "OKR: Personal project (1.5)",
           "progress": "70%",
-          "timeSpent": "3h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "timeSpent": "3h",
+          "title": "OKR: Personal project (1.5)"
         }
       ],
-      "message": "5h fix Smoothkp"
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     }
   ]
 }
