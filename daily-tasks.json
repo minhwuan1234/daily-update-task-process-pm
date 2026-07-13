@@ -1,19 +1,14 @@
 {
-  "date": "12-Jul",
-  "generatedAt": "2026-07-12T10:45:06.921Z",
+  "date": "13-Jul",
+  "generatedAt": "2026-07-13T10:45:09.146Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "12-Jul",
+          "date": "13-Jul",
           "dueDate": "17/7",
-          "task": "SN Summer Strategy NCLEX Videos - Video 6-10 (1.5)"
-        },
-        {
-          "date": "12-Jul",
-          "dueDate": "14/7",
-          "task": "Spainwork sample 2 (0.5)"
+          "task": "TA: SN Outdated Content: 7. Blood pressure ~17 mins Illus (4)"
         }
       ]
     },
@@ -21,12 +16,12 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "12-Jul",
+          "date": "13-Jul",
           "dueDate": null,
           "task": "Web Patient edu promote video: Draft storyboard tiếp"
         },
         {
-          "date": "12-Jul",
+          "date": "13-Jul",
           "dueDate": "17/7",
           "task": "IHF Care Pyramid  ~1 min (1)"
         }
@@ -36,14 +31,14 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "12-Jul",
-          "dueDate": null,
-          "task": "OKR: Personal project: Build kênh"
+          "date": "13-Jul",
+          "dueDate": "17/7",
+          "task": "SN Summer Strategy Fresher Videos - video 1-5 (1)"
         },
         {
-          "date": "12-Jul",
+          "date": "13-Jul",
           "dueDate": "17/7",
-          "task": "SN Priority: 23. Common NCLEX Traps With Thyroid Disorders ~8 min -- wait for feedback (2)"
+          "task": "SN Priority: 23. Common NCLEX Traps With Thyroid Disorders ~8 min (2)"
         }
       ]
     },
@@ -51,14 +46,9 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "12-Jul",
+          "date": "13-Jul",
           "dueDate": "20/7",
-          "task": "IHF Bereavement Competencies ~1.7 min (1.75)"
-        },
-        {
-          "date": "12-Jul",
-          "dueDate": null,
-          "task": "AMD: Chapter 7-1  tiếp (0.25)"
+          "task": "IHF Bereavement Competencies ~1.7 min (2)"
         }
       ]
     },
@@ -66,7 +56,7 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "12-Jul",
+          "date": "13-Jul",
           "dueDate": null,
           "task": "OKR: Personal project (1.5)"
         }
@@ -74,5 +64,5 @@
     }
   ],
   "totalMembers": 5,
-  "totalTasks": 9
+  "totalTasks": 7
 }
