@@ -1,61 +1,25 @@
 {
-  "date": "2026-07-11",
+  "date": "2026-07-13",
   "responses": [
     {
-      "date": "2026-07-11",
-      "message": "",
-      "submittedAt": "2026-07-11T10:55:30.215Z",
+      "userId": "ou_e273fec35061a42660190f8c70f19882",
+      "submittedAt": "2026-07-13T10:46:04.250Z",
+      "date": "2026-07-13",
       "tasks": [
         {
-          "progress": "70%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "8h",
-          "title": "SN Priority: 23. Common NCLEX Traps With Thyroid Disorders ~8 min -- wait for feedback (2)"
-        }
-      ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
-    },
-    {
-      "date": "2026-07-11",
-      "message": "yay",
-      "submittedAt": "2026-07-11T10:58:28.553Z",
-      "tasks": [
+          "title": "SN Summer Strategy Fresher Videos - video 1-5 (1)",
+          "progress": "20%",
+          "timeSpent": "4h"
+        },
         {
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
+          "title": "SN Priority: 23. Common NCLEX Traps With Thyroid Disorders ~8 min (2)",
           "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "7.5h",
-          "title": "SN Summer Strategy NCLEX Videos - Video 6-10 (1.5)"
+          "timeSpent": "4h"
         }
       ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-07-11",
-      "message": "",
-      "submittedAt": "2026-07-11T11:04:50.901Z",
-      "tasks": [
-        {
-          "progress": "30%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "8h",
-          "title": "IHF Bereavement Competencies ~1.7 min (1.75)"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-07-11",
-      "message": "0,5 h hop team production, 4h fix smooth kp",
-      "submittedAt": "2026-07-11T12:30:13.409Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "3.5h",
-          "title": "OKR: Personal project (1.5)"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": ""
     }
   ]
 }
