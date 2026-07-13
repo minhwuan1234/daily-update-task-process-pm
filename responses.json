@@ -23,7 +23,7 @@
     },
     {
       "date": "2026-07-13",
-      "message": "họp + sửa NCLEX + Fresher Videos (1,5h)",
+      "message": "há»p + sá»­a NCLEX + Fresher Videos (1,5h)",
       "submittedAt": "2026-07-13T11:10:43.520Z",
       "tasks": [
         {
@@ -34,6 +34,26 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-07-13T11:12:23.502Z",
+      "date": "2026-07-13",
+      "tasks": [
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "Web Patient edu promote video: Draft storyboard tiếp",
+          "progress": "70%",
+          "timeSpent": "3.5h"
+        },
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
+          "title": "IHF Care Pyramid  ~1 min (1)",
+          "progress": "100%",
+          "timeSpent": "4h"
+        }
+      ],
+      "message": "khum"
     }
   ]
 }
