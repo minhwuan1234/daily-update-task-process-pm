@@ -2,24 +2,24 @@
   "date": "2026-07-14",
   "responses": [
     {
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-07-14T10:57:38.105Z",
       "date": "2026-07-14",
+      "message": "ngồi với sếp 30p",
+      "submittedAt": "2026-07-14T10:57:38.105Z",
       "tasks": [
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "Web Patient edu promote video: Draft storyboard tiếp",
           "progress": "100%",
-          "timeSpent": "6.5h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "timeSpent": "6.5h",
+          "title": "Web Patient edu promote video: Draft storyboard tiếp"
         },
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
-          "title": "SN Summer Strategy - Refresher videos 6-10 (2)",
           "progress": "20%",
-          "timeSpent": "1h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
+          "timeSpent": "1h",
+          "title": "SN Summer Strategy - Refresher videos 6-10 (2)"
         }
       ],
-      "message": "ngồi với sếp 30p"
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     }
   ]
 }
