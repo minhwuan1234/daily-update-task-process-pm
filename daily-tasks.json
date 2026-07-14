@@ -1,12 +1,12 @@
 {
-  "date": "13-Jul",
-  "generatedAt": "2026-07-13T10:45:09.146Z",
+  "date": "14-Jul",
+  "generatedAt": "2026-07-14T10:45:06.845Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "13-Jul",
+          "date": "14-Jul",
           "dueDate": "17/7",
           "task": "TA: SN Outdated Content: 7. Blood pressure ~17 mins Illus (4)"
         }
@@ -16,14 +16,14 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "13-Jul",
+          "date": "14-Jul",
           "dueDate": null,
           "task": "Web Patient edu promote video: Draft storyboard tiếp"
         },
         {
-          "date": "13-Jul",
-          "dueDate": "17/7",
-          "task": "IHF Care Pyramid  ~1 min (1)"
+          "date": "14-Jul",
+          "dueDate": "24/7",
+          "task": "SN Summer Strategy - Refresher videos 6-10 (2)"
         }
       ]
     },
@@ -31,14 +31,9 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "13-Jul",
+          "date": "14-Jul",
           "dueDate": "17/7",
           "task": "SN Summer Strategy Fresher Videos - video 1-5 (1)"
-        },
-        {
-          "date": "13-Jul",
-          "dueDate": "17/7",
-          "task": "SN Priority: 23. Common NCLEX Traps With Thyroid Disorders ~8 min (2)"
         }
       ]
     },
@@ -46,9 +41,9 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "13-Jul",
+          "date": "14-Jul",
           "dueDate": "20/7",
-          "task": "IHF Bereavement Competencies ~1.7 min (2)"
+          "task": "IHF Bereavement Competencies ~1.7 min (3)"
         }
       ]
     },
@@ -56,13 +51,13 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "13-Jul",
-          "dueDate": null,
-          "task": "OKR: Personal project (1.5)"
+          "date": "14-Jul",
+          "dueDate": "31/7",
+          "task": "SN Outdated Content: 9. Post-operative Assessment ~13 mins Illus (3)"
         }
       ]
     }
   ],
   "totalMembers": 5,
-  "totalTasks": 7
+  "totalTasks": 6
 }
