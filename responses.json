@@ -1,53 +1,19 @@
 {
-  "date": "2026-07-14",
+  "date": "2026-07-15",
   "responses": [
     {
-      "date": "2026-07-14",
-      "message": "ngÃ¡Â»Âi vÃ¡Â»Âi sÃ¡ÂºÂ¿p 30p",
-      "submittedAt": "2026-07-14T10:57:38.105Z",
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-07-15T11:11:55.199Z",
+      "date": "2026-07-15",
       "tasks": [
         {
-          "progress": "100%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "6.5h",
-          "title": "Web Patient edu promote video: Draft storyboard tiÃ¡ÂºÂ¿p"
-        },
-        {
-          "progress": "20%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
-          "timeSpent": "1h",
-          "title": "SN Summer Strategy - Refresher videos 6-10 (2)"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "title": "TA: SN Outdated Content: 7. Blood pressure ~17 mins Illus (4)",
+          "progress": "80%",
+          "timeSpent": "8h"
         }
       ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-07-14",
-      "message": "",
-      "submittedAt": "2026-07-14T15:13:11.532Z",
-      "tasks": [
-        {
-          "progress": "40%",
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "8h",
-          "title": "SN Summer Strategy Fresher Videos - video 1-5 (1)"
-        }
-      ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
-    },
-    {
-      "date": "2026-07-14",
-      "message": "0,25h fix smoothkp (khach), 0,75h fix SN 22 (khach)",
-      "submittedAt": "2026-07-14T16:04:56.487Z",
-      "tasks": [
-        {
-          "progress": "30%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "7h",
-          "title": "SN Outdated Content: 9. Post-operative Assessment ~13 mins Illus (3)"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": ""
     }
   ]
 }
