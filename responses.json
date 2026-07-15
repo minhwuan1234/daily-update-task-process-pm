@@ -30,18 +30,18 @@
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     },
     {
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-07-15T11:49:31.784Z",
       "date": "2026-07-15",
+      "message": "Khum",
+      "submittedAt": "2026-07-15T11:49:31.784Z",
       "tasks": [
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "SN Summer Strategy - Refresher videos 6-9 (1.5)",
           "progress": "70%",
-          "timeSpent": "8h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "timeSpent": "8h",
+          "title": "SN Summer Strategy - Refresher videos 6-9 (1.5)"
         }
       ],
-      "message": "Khum"
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     }
   ]
 }
