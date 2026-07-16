@@ -2,24 +2,24 @@
   "date": "2026-07-16",
   "responses": [
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-07-16T10:50:04.559Z",
       "date": "2026-07-16",
+      "message": "sáng làm nốt SN 7. Blood Pressure thôi ạ",
+      "submittedAt": "2026-07-16T10:50:04.559Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "Spainwork sample 3 (0.5)",
           "progress": "100%",
-          "timeSpent": "3.5h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "3.5h",
+          "title": "Spainwork sample 3 (0.5)"
         },
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "title": "UV Smart - Tom's signature fix (2')\n\nOff 0.25",
           "progress": "100%",
-          "timeSpent": "0.5h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
+          "timeSpent": "0.5h",
+          "title": "UV Smart - Tom's signature fix (2')\n\nOff 0.25"
         }
       ],
-      "message": "sáng làm nốt SN 7. Blood Pressure thôi ạ"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }
