@@ -1,14 +1,19 @@
 {
-  "date": "15-Jul",
-  "generatedAt": "2026-07-15T10:45:07.643Z",
+  "date": "16-Jul",
+  "generatedAt": "2026-07-16T10:45:07.780Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "15-Jul",
-          "dueDate": "17/7",
-          "task": "TA: SN Outdated Content: 7. Blood pressure ~17 mins Illus (4)"
+          "date": "16-Jul",
+          "dueDate": "21/7",
+          "task": "Spainwork sample 3 (0.5)"
+        },
+        {
+          "date": "16-Jul",
+          "dueDate": null,
+          "task": "UV Smart - Tom's signature fix (2')\n\nOff 0.25"
         }
       ]
     },
@@ -16,9 +21,14 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "15-Jul",
+          "date": "16-Jul",
+          "dueDate": "16/7",
+          "task": "Media Maven moodboard (0.5)"
+        },
+        {
+          "date": "16-Jul",
           "dueDate": "24/7",
-          "task": "SN Summer Strategy - Refresher videos 6-9 (1.5)"
+          "task": "SN Summer Strategy - Refresher videos 6-9 (2)"
         }
       ]
     },
@@ -26,7 +36,7 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "15-Jul",
+          "date": "16-Jul",
           "dueDate": null,
           "task": "OKR: Personal project: Build kênh"
         }
@@ -36,9 +46,14 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "15-Jul",
+          "date": "16-Jul",
           "dueDate": "20/7",
           "task": "IHF Bereavement Competencies ~1.7 min (3)"
+        },
+        {
+          "date": "16-Jul",
+          "dueDate": "24/7",
+          "task": "SN Priority: 24. Thyroid Medications and What to Monitor ~7 min (2)"
         }
       ]
     },
@@ -46,13 +61,18 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "15-Jul",
+          "date": "16-Jul",
+          "dueDate": "16/7",
+          "task": "Media Maven moodboard (2h)"
+        },
+        {
+          "date": "16-Jul",
           "dueDate": "31/7",
-          "task": "SN Outdated Content: 9. Post-operative Assessment ~13 mins Illus (3)"
+          "task": "SN Outdated Content: 9. Post-operative Assessment ~13 mins Illus (2.75)"
         }
       ]
     }
   ],
   "totalMembers": 5,
-  "totalTasks": 5
+  "totalTasks": 9
 }
