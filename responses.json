@@ -1,75 +1,25 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-07-16",
   "responses": [
     {
-      "date": "2026-07-15",
-      "message": "",
-      "submittedAt": "2026-07-15T11:11:55.199Z",
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-07-16T10:50:04.559Z",
+      "date": "2026-07-16",
       "tasks": [
         {
-          "progress": "80%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "8h",
-          "title": "TA: SN Outdated Content: 7. Blood pressure ~17 mins Illus (4)"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-07-15",
-      "message": "",
-      "submittedAt": "2026-07-15T11:16:08.418Z",
-      "tasks": [
+          "title": "Spainwork sample 3 (0.5)",
+          "progress": "100%",
+          "timeSpent": "3.5h"
+        },
         {
-          "progress": "90%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "4.5h",
-          "title": "IHF Bereavement Competencies ~1.7 min (3)"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
+          "title": "UV Smart - Tom's signature fix (2')\n\nOff 0.25",
+          "progress": "100%",
+          "timeSpent": "0.5h"
         }
       ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-07-15",
-      "message": "Khum",
-      "submittedAt": "2026-07-15T11:49:31.784Z",
-      "tasks": [
-        {
-          "progress": "70%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "8h",
-          "title": "SN Summer Strategy - Refresher videos 6-9 (1.5)"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-07-15",
-      "message": "",
-      "submittedAt": "2026-07-15T16:17:09.588Z",
-      "tasks": [
-        {
-          "progress": "20%",
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "8h",
-          "title": "OKR: Personal project: Build kÃªnh"
-        }
-      ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
-    },
-    {
-      "date": "2026-07-15",
-      "message": "",
-      "submittedAt": "2026-07-15T16:44:57.790Z",
-      "tasks": [
-        {
-          "progress": "80%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "8h",
-          "title": "SN Outdated Content: 9. Post-operative Assessment ~13 mins Illus (3)"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": "sáng làm nốt SN 7. Blood Pressure thôi ạ"
     }
   ]
 }
