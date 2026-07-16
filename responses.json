@@ -42,24 +42,24 @@
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     },
     {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-07-16T16:39:04.102Z",
       "date": "2026-07-16",
+      "message": "4h OKR va animatic website video",
+      "submittedAt": "2026-07-16T16:39:04.102Z",
       "tasks": [
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "Media Maven moodboard (2h)",
           "progress": "0%",
-          "timeSpent": "—"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "timeSpent": "—",
+          "title": "Media Maven moodboard (2h)"
         },
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
-          "title": "SN Outdated Content: 9. Post-operative Assessment ~13 mins Illus (2.75)",
           "progress": "100%",
-          "timeSpent": "4h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
+          "timeSpent": "4h",
+          "title": "SN Outdated Content: 9. Post-operative Assessment ~13 mins Illus (2.75)"
         }
       ],
-      "message": "4h OKR va animatic website video"
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     }
   ]
 }
