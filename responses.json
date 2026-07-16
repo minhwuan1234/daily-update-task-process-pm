@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-07-16",
-      "message": "sáng làm nốt SN 7. Blood Pressure thôi ạ",
+      "message": "sÃ¡ng lÃ m ná»t SN 7. Blood Pressure thÃ´i áº¡",
       "submittedAt": "2026-07-16T10:50:04.559Z",
       "tasks": [
         {
@@ -20,6 +20,26 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-07-16T11:08:48.800Z",
+      "date": "2026-07-16",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "IHF Bereavement Competencies ~1.7 min (3)",
+          "progress": "100%",
+          "timeSpent": "1h"
+        },
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
+          "title": "SN Priority: 24. Thyroid Medications and What to Monitor ~7 min (2)",
+          "progress": "50%",
+          "timeSpent": "6.5h"
+        }
+      ],
+      "message": "AMD Migraine in Children chapter 7.1 (0.5h)"
     }
   ]
 }
