@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-07-17",
-      "message": "sửa tý cái Blood Pressure chắc 10p + 30p họp",
+      "message": "sá»­a tÃ½ cÃ¡i Blood Pressure cháº¯c 10p + 30p há»p",
       "submittedAt": "2026-07-17T10:51:47.848Z",
       "tasks": [
         {
@@ -20,6 +20,20 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-07-17T11:34:09.008Z",
+      "date": "2026-07-17",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "SN Priority: 24. Thyroid Medications and What to Monitor ~7 min (2)",
+          "progress": "0%",
+          "timeSpent": "4h"
+        }
+      ],
+      "message": "- Họp (0.5h)\n- IHF Bereavement Competencies (3.5h)"
     }
   ]
 }
