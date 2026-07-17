@@ -2,24 +2,24 @@
   "date": "2026-07-17",
   "responses": [
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-07-17T10:51:47.848Z",
       "date": "2026-07-17",
+      "message": "sửa tý cái Blood Pressure chắc 10p + 30p họp",
+      "submittedAt": "2026-07-17T10:51:47.848Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "SN Summer Strategy - Refresher videos 10 (3h)",
           "progress": "100%",
-          "timeSpent": "3h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "3h",
+          "title": "SN Summer Strategy - Refresher videos 10 (3h)"
         },
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "title": "LDA Business Continuity ~1.5 min (1.5)",
           "progress": "30%",
-          "timeSpent": "4h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
+          "timeSpent": "4h",
+          "title": "LDA Business Continuity ~1.5 min (1.5)"
         }
       ],
-      "message": "sửa tý cái Blood Pressure chắc 10p + 30p họp"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }

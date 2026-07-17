@@ -2986,5 +2986,88 @@
         "submissionCountToday": 0
       }
     }
+  },
+  "2026-07-17": {
+    "toolId": "daily-update",
+    "toolName": "Daily Update Task Process PM",
+    "date": "2026-07-17",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "updatedAt": "2026-07-17T10:51:59.211139+00:00",
+    "totalMembers": 10,
+    "submittedMembers": 1,
+    "missingMembers": 9,
+    "submissionRate": 10.0,
+    "members": {
+      "ou_7efb0c22f47740644cf374252d01fdba": {
+        "memberName": "Ánh",
+        "userId": "ou_7efb0c22f47740644cf374252d01fdba",
+        "status": "missing",
+        "submittedAt": null,
+        "submissionCountToday": 0
+      },
+      "ou_5164f9cd3ea33166c65a61b378bb114d": {
+        "memberName": "Thư",
+        "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+        "status": "submitted",
+        "submittedAt": "2026-07-17T10:51:47.848Z",
+        "submissionCountToday": 1
+      },
+      "ou_e273fec35061a42660190f8c70f19882": {
+        "memberName": "Duy Anh",
+        "userId": "ou_e273fec35061a42660190f8c70f19882",
+        "status": "missing",
+        "submittedAt": null,
+        "submissionCountToday": 0
+      },
+      "ou_ce056c51b867b816a10b42f6466bcd70": {
+        "memberName": "Oanh",
+        "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+        "status": "missing",
+        "submittedAt": null,
+        "submissionCountToday": 0
+      },
+      "ou_8bc85db08b634120548400c90c38d7c1": {
+        "memberName": "Thảo Vi",
+        "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+        "status": "missing",
+        "submittedAt": null,
+        "submissionCountToday": 0
+      },
+      "ou_029556a9a2b266d13eead0db7af96c5b": {
+        "memberName": "Quân",
+        "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+        "status": "missing",
+        "submittedAt": null,
+        "submissionCountToday": 0
+      },
+      "ou_717eedeefe94e9824fbd72716d7eb234": {
+        "memberName": "Vân",
+        "userId": "ou_717eedeefe94e9824fbd72716d7eb234",
+        "status": "missing",
+        "submittedAt": null,
+        "submissionCountToday": 0
+      },
+      "ou_f56b91faf68ec98016490c56aac3daf2": {
+        "memberName": "Hà",
+        "userId": "ou_f56b91faf68ec98016490c56aac3daf2",
+        "status": "missing",
+        "submittedAt": null,
+        "submissionCountToday": 0
+      },
+      "ou_e7ba57d42ce06163819095c8ed4685ab": {
+        "memberName": "Giang",
+        "userId": "ou_e7ba57d42ce06163819095c8ed4685ab",
+        "status": "missing",
+        "submittedAt": null,
+        "submissionCountToday": 0
+      },
+      "ou_a3cd717fbf6c8058d12c76c980f52eb7": {
+        "memberName": "Minh Quân",
+        "userId": "ou_a3cd717fbf6c8058d12c76c980f52eb7",
+        "status": "missing",
+        "submittedAt": null,
+        "submissionCountToday": 0
+      }
+    }
   }
 }
