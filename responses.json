@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-07-17",
-      "message": "sá»­a tÃ½ cÃ¡i Blood Pressure cháº¯c 10p + 30p há»p",
+      "message": "sÃ¡Â»Â­a tÃÂ½ cÃÂ¡i Blood Pressure chÃ¡ÂºÂ¯c 10p + 30p hÃ¡Â»Âp",
       "submittedAt": "2026-07-17T10:51:47.848Z",
       "tasks": [
         {
@@ -23,7 +23,7 @@
     },
     {
       "date": "2026-07-17",
-      "message": "- Họp (0.5h)\n- IHF Bereavement Competencies (3.5h)",
+      "message": "- Há»p (0.5h)\n- IHF Bereavement Competencies (3.5h)",
       "submittedAt": "2026-07-17T11:34:09.008Z",
       "tasks": [
         {
@@ -34,6 +34,26 @@
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-07-17T12:00:15.105Z",
+      "date": "2026-07-17",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "Web Patient edu promote video: Animatic (1.5)",
+          "progress": "70%",
+          "timeSpent": "5.5h"
+        },
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
+          "title": "Media Maven moodboard (2h)",
+          "progress": "100%",
+          "timeSpent": "2h"
+        }
+      ],
+      "message": "30p hop team"
     }
   ]
 }
