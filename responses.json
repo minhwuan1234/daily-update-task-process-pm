@@ -1,65 +1,25 @@
 {
-  "date": "2026-07-16",
+  "date": "2026-07-17",
   "responses": [
     {
-      "date": "2026-07-16",
-      "message": "sÃÂ¡ng lÃÂ m nÃ¡Â»Ât SN 7. Blood Pressure thÃÂ´i Ã¡ÂºÂ¡",
-      "submittedAt": "2026-07-16T10:50:04.559Z",
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-07-17T10:51:47.848Z",
+      "date": "2026-07-17",
       "tasks": [
         {
-          "progress": "100%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "3.5h",
-          "title": "Spainwork sample 3 (0.5)"
+          "title": "SN Summer Strategy - Refresher videos 10 (3h)",
+          "progress": "100%",
+          "timeSpent": "3h"
         },
         {
-          "progress": "100%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "timeSpent": "0.5h",
-          "title": "UV Smart - Tom's signature fix (2')\n\nOff 0.25"
+          "title": "LDA Business Continuity ~1.5 min (1.5)",
+          "progress": "30%",
+          "timeSpent": "4h"
         }
       ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-07-16",
-      "message": "AMD Migraine in Children chapter 7.1 (0.5h)",
-      "submittedAt": "2026-07-16T11:08:48.800Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "1h",
-          "title": "IHF Bereavement Competencies ~1.7 min (3)"
-        },
-        {
-          "progress": "50%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
-          "timeSpent": "6.5h",
-          "title": "SN Priority: 24. Thyroid Medications and What to Monitor ~7 min (2)"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-07-16",
-      "message": "4h OKR va animatic website video",
-      "submittedAt": "2026-07-16T16:39:04.102Z",
-      "tasks": [
-        {
-          "progress": "0%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "—",
-          "title": "Media Maven moodboard (2h)"
-        },
-        {
-          "progress": "100%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
-          "timeSpent": "4h",
-          "title": "SN Outdated Content: 9. Post-operative Assessment ~13 mins Illus (2.75)"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": "sửa tý cái Blood Pressure chắc 10p + 30p họp"
     }
   ]
 }
