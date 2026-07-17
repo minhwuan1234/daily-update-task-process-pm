@@ -22,18 +22,18 @@
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     },
     {
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
-      "submittedAt": "2026-07-17T11:34:09.008Z",
       "date": "2026-07-17",
+      "message": "- Họp (0.5h)\n- IHF Bereavement Competencies (3.5h)",
+      "submittedAt": "2026-07-17T11:34:09.008Z",
       "tasks": [
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "title": "SN Priority: 24. Thyroid Medications and What to Monitor ~7 min (2)",
           "progress": "0%",
-          "timeSpent": "4h"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "timeSpent": "4h",
+          "title": "SN Priority: 24. Thyroid Medications and What to Monitor ~7 min (2)"
         }
       ],
-      "message": "- Họp (0.5h)\n- IHF Bereavement Competencies (3.5h)"
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     }
   ]
 }
