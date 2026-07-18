@@ -1,17 +1,17 @@
 {
-  "date": "17-Jul",
-  "generatedAt": "2026-07-17T10:45:07.610Z",
+  "date": "18-Jul",
+  "generatedAt": "2026-07-18T10:45:07.150Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "17-Jul",
+          "date": "18-Jul",
           "dueDate": "24/7",
           "task": "SN Summer Strategy - Refresher videos 10 (3h)"
         },
         {
-          "date": "17-Jul",
+          "date": "18-Jul",
           "dueDate": "23/7",
           "task": "LDA Business Continuity ~1.5 min (1.5)"
         }
@@ -21,12 +21,12 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "17-Jul",
+          "date": "18-Jul",
           "dueDate": "16/7",
           "task": "Media Maven moodboard"
         },
         {
-          "date": "17-Jul",
+          "date": "18-Jul",
           "dueDate": "21/7",
           "task": "Studiohumanity Concept Development (2)?"
         }
@@ -36,7 +36,7 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "17-Jul",
+          "date": "18-Jul",
           "dueDate": null,
           "task": "TTI fixng #5 (1)"
         }
@@ -46,7 +46,7 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "17-Jul",
+          "date": "18-Jul",
           "dueDate": "24/7",
           "task": "SN Priority: 24. Thyroid Medications and What to Monitor ~7 min (2)"
         }
@@ -56,18 +56,13 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "17-Jul",
+          "date": "18-Jul",
           "dueDate": null,
           "task": "Web Patient edu promote video: Animatic (1.5)"
-        },
-        {
-          "date": "17-Jul",
-          "dueDate": "16/7",
-          "task": "Media Maven moodboard (2h)"
         }
       ]
     }
   ],
   "totalMembers": 5,
-  "totalTasks": 8
+  "totalTasks": 7
 }
