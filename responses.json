@@ -1,59 +1,19 @@
 {
-  "date": "2026-07-17",
+  "date": "2026-07-20",
   "responses": [
     {
-      "date": "2026-07-17",
-      "message": "sÃ¡Â»Â­a tÃÂ½ cÃÂ¡i Blood Pressure chÃ¡ÂºÂ¯c 10p + 30p hÃ¡Â»Âp",
-      "submittedAt": "2026-07-17T10:51:47.848Z",
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-07-20T11:08:22.898Z",
+      "date": "2026-07-20",
       "tasks": [
         {
-          "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "3h",
-          "title": "SN Summer Strategy - Refresher videos 10 (3h)"
-        },
-        {
-          "progress": "30%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "timeSpent": "4h",
-          "title": "LDA Business Continuity ~1.5 min (1.5)"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "Studiohumanity Concept Development (2)?",
+          "progress": "50%",
+          "timeSpent": "4h"
         }
       ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-07-17",
-      "message": "- Há»p (0.5h)\n- IHF Bereavement Competencies (3.5h)",
-      "submittedAt": "2026-07-17T11:34:09.008Z",
-      "tasks": [
-        {
-          "progress": "0%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "4h",
-          "title": "SN Priority: 24. Thyroid Medications and What to Monitor ~7 min (2)"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-07-17",
-      "message": "30p hop team",
-      "submittedAt": "2026-07-17T12:00:15.105Z",
-      "tasks": [
-        {
-          "progress": "70%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "5.5h",
-          "title": "Web Patient edu promote video: Animatic (1.5)"
-        },
-        {
-          "progress": "100%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
-          "timeSpent": "2h",
-          "title": "Media Maven moodboard (2h)"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": "Sửa IHF Pyramid 3h\nSửa SN summer nội bộ 45p"
     }
   ]
 }
