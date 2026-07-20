@@ -2,18 +2,18 @@
   "date": "2026-07-20",
   "responses": [
     {
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-07-20T11:08:22.898Z",
       "date": "2026-07-20",
+      "message": "Sửa IHF Pyramid 3h\nSửa SN summer nội bộ 45p",
+      "submittedAt": "2026-07-20T11:08:22.898Z",
       "tasks": [
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "Studiohumanity Concept Development (2)?",
           "progress": "50%",
-          "timeSpent": "4h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "timeSpent": "4h",
+          "title": "Studiohumanity Concept Development (2)?"
         }
       ],
-      "message": "Sửa IHF Pyramid 3h\nSửa SN summer nội bộ 45p"
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     }
   ]
 }
