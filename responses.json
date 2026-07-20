@@ -30,24 +30,24 @@
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     },
     {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-07-20T15:30:31.097Z",
       "date": "2026-07-20",
+      "message": "1h fix card (khach), 45p fix SN 9 (khach)",
+      "submittedAt": "2026-07-20T15:30:31.097Z",
       "tasks": [
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "Web Patient edu promote video: Animatic (1.5)",
           "progress": "100%",
-          "timeSpent": "4h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "timeSpent": "4h",
+          "title": "Web Patient edu promote video: Animatic (1.5)"
         },
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
-          "title": "SN Summer Strategy NCLEX Videos - Video 6-10 (1.5)",
           "progress": "20%",
-          "timeSpent": "2h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
+          "timeSpent": "2h",
+          "title": "SN Summer Strategy NCLEX Videos - Video 6-10 (1.5)"
         }
       ],
-      "message": "1h fix card (khach), 45p fix SN 9 (khach)"
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     }
   ]
 }
