@@ -16,18 +16,18 @@
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     },
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-07-20T11:08:36.821Z",
       "date": "2026-07-20",
+      "message": "1,5h sửa SN mùa hè\n1h còn lại sửa SN outdated 9, Klett (suggest), thêm card index \n30p họp",
+      "submittedAt": "2026-07-20T11:08:36.821Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "LDA Business Continuity ~1.5 min (1.5)",
           "progress": "90%",
-          "timeSpent": "5h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "5h",
+          "title": "LDA Business Continuity ~1.5 min (1.5)"
         }
       ],
-      "message": "1,5h sửa SN mùa hè\n1h còn lại sửa SN outdated 9, Klett (suggest), thêm card index \n30p họp"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }
