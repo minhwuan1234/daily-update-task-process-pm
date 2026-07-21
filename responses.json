@@ -36,18 +36,18 @@
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     },
     {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-07-21T13:03:27.480Z",
       "date": "2026-07-21",
+      "message": "1h fix SN Card (khach)",
+      "submittedAt": "2026-07-21T13:03:27.480Z",
       "tasks": [
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "SN Summer Strategy NCLEX Videos - Video 6-10 (1.5)",
           "progress": "80%",
-          "timeSpent": "7h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "timeSpent": "7h",
+          "title": "SN Summer Strategy NCLEX Videos - Video 6-10 (1.5)"
         }
       ],
-      "message": "1h fix SN Card (khach)"
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     }
   ]
 }
