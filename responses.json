@@ -22,18 +22,18 @@
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     },
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-07-21T11:26:38.836Z",
       "date": "2026-07-21",
+      "message": "Sửa 131 flashcard mất khoảng 2h\nSửa SN Blood Pressure 1,5h\nCheck lại màu guideline của ASP 30p (vẫn chưa giải thíc được tại sao illustrator hiển thị khác với các trang web gõ mã cmyk khác?)",
+      "submittedAt": "2026-07-21T11:26:38.836Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "UV Smart: \"ASP powered by UV Smart\" D60 booth (0.5)",
           "progress": "100%",
-          "timeSpent": "4h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "4h",
+          "title": "UV Smart: \"ASP powered by UV Smart\" D60 booth (0.5)"
         }
       ],
-      "message": "Sửa 131 flashcard mất khoảng 2h\nSửa SN Blood Pressure 1,5h\nCheck lại màu guideline của ASP 30p (vẫn chưa giải thíc được tại sao illustrator hiển thị khác với các trang web gõ mã cmyk khác?)"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }
