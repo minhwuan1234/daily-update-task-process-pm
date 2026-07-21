@@ -1,53 +1,25 @@
 {
-  "date": "2026-07-20",
+  "date": "2026-07-21",
   "responses": [
     {
-      "date": "2026-07-20",
-      "message": "SÃ¡Â»Â­a IHF Pyramid 3h\nSÃ¡Â»Â­a SN summer nÃ¡Â»Âi bÃ¡Â»Â 45p",
-      "submittedAt": "2026-07-20T11:08:22.898Z",
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-07-21T11:08:04.173Z",
+      "date": "2026-07-21",
       "tasks": [
         {
-          "progress": "50%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "4h",
-          "title": "Studiohumanity Concept Development (2)?"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-07-20",
-      "message": "1,5h sá»­a SN mÃ¹a hÃ¨\n1h cÃ²n láº¡i sá»­a SN outdated 9, Klett (suggest), thÃªm card index \n30p há»p",
-      "submittedAt": "2026-07-20T11:08:36.821Z",
-      "tasks": [
-        {
-          "progress": "90%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "5h",
-          "title": "LDA Business Continuity ~1.5 min (1.5)"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-07-20",
-      "message": "1h fix card (khach), 45p fix SN 9 (khach)",
-      "submittedAt": "2026-07-20T15:30:31.097Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "4h",
-          "title": "Web Patient edu promote video: Animatic (1.5)"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "OKR: Personal project: Improve anim quality",
+          "progress": "10%",
+          "timeSpent": "3h"
         },
         {
-          "progress": "20%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
-          "timeSpent": "2h",
-          "title": "SN Summer Strategy NCLEX Videos - Video 6-10 (1.5)"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
+          "title": "SN Priority: 24. Thyroid Medications and What to Monitor ~7 min (2)",
+          "progress": "100%",
+          "timeSpent": "4.5h"
         }
       ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": "AMD Migraine in Children chapter 7.1 (0.5h)"
     }
   ]
 }
