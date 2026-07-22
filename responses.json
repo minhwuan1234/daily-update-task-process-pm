@@ -50,24 +50,24 @@
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     },
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-07-22T11:17:59.673Z",
       "date": "2026-07-22",
+      "message": "nửa ngày sửa SN flashcard\nsửa Klett chút (30p) \nsửa AMD (30p)\ncheck freelance SN (30p)",
+      "submittedAt": "2026-07-22T11:17:59.673Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "SN Priority: 27. NCLEX Tips for Heart Failure Drugs ~5 min (2)",
           "progress": "10%",
-          "timeSpent": "2h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "2h",
+          "title": "SN Priority: 27. NCLEX Tips for Heart Failure Drugs ~5 min (2)"
         },
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "title": "LDA Business Continuity ~1.5 min (1.5)",
           "progress": "100%",
-          "timeSpent": "0.5h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
+          "timeSpent": "0.5h",
+          "title": "LDA Business Continuity ~1.5 min (1.5)"
         }
       ],
-      "message": "nửa ngày sửa SN flashcard\nsửa Klett chút (30p) \nsửa AMD (30p)\ncheck freelance SN (30p)"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }

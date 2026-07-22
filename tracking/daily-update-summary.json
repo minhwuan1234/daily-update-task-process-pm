@@ -3241,11 +3241,11 @@
     "toolName": "Daily Update Task Process PM",
     "date": "2026-07-22",
     "timezone": "Asia/Ho_Chi_Minh",
-    "updatedAt": "2026-07-22T11:17:10.068410+00:00",
+    "updatedAt": "2026-07-22T11:18:09.695435+00:00",
     "totalMembers": 10,
-    "submittedMembers": 3,
-    "missingMembers": 7,
-    "submissionRate": 30.0,
+    "submittedMembers": 4,
+    "missingMembers": 6,
+    "submissionRate": 40.0,
     "members": {
       "ou_7efb0c22f47740644cf374252d01fdba": {
         "memberName": "Ánh",
@@ -3257,9 +3257,9 @@
       "ou_5164f9cd3ea33166c65a61b378bb114d": {
         "memberName": "Thư",
         "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-        "status": "missing",
-        "submittedAt": null,
-        "submissionCountToday": 0
+        "status": "submitted",
+        "submittedAt": "2026-07-22T11:17:59.673Z",
+        "submissionCountToday": 1
       },
       "ou_e273fec35061a42660190f8c70f19882": {
         "memberName": "Duy Anh",
