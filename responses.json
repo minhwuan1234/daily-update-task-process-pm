@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-07-22",
-      "message": "Đổi màu da nhân vật klett 15p",
+      "message": "Äá»i mÃ u da nhÃ¢n váº­t klett 15p",
       "submittedAt": "2026-07-22T10:50:36.090Z",
       "tasks": [
         {
@@ -34,6 +34,20 @@
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-07-22T11:16:54.523Z",
+      "date": "2026-07-22",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "OKR: Personal project: Improve anim quality",
+          "progress": "10%",
+          "timeSpent": "3.5h"
+        }
+      ],
+      "message": "- Sửa AMD Migraine in Children chapter 7.1 (0.5h)\n- SN Outdated Content ep 7 (4h)"
     }
   ]
 }
