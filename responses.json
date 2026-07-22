@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-07-22",
-      "message": "ÃÂÃ¡Â»Âi mÃÂ u da nhÃÂ¢n vÃ¡ÂºÂ­t klett 15p",
+      "message": "ÃÂÃÂÃÂ¡ÃÂ»ÃÂi mÃÂÃÂ u da nhÃÂÃÂ¢n vÃÂ¡ÃÂºÃÂ­t klett 15p",
       "submittedAt": "2026-07-22T10:50:36.090Z",
       "tasks": [
         {
@@ -37,7 +37,7 @@
     },
     {
       "date": "2026-07-22",
-      "message": "- Sá»­a AMD Migraine in Children chapter 7.1 (0.5h)\n- SN Outdated Content ep 7 (4h)",
+      "message": "- SÃ¡Â»Â­a AMD Migraine in Children chapter 7.1 (0.5h)\n- SN Outdated Content ep 7 (4h)",
       "submittedAt": "2026-07-22T11:16:54.523Z",
       "tasks": [
         {
@@ -51,7 +51,7 @@
     },
     {
       "date": "2026-07-22",
-      "message": "nửa ngày sửa SN flashcard\nsửa Klett chút (30p) \nsửa AMD (30p)\ncheck freelance SN (30p)",
+      "message": "ná»­a ngÃ y sá»­a SN flashcard\nsá»­a Klett chÃºt (30p) \nsá»­a AMD (30p)\ncheck freelance SN (30p)",
       "submittedAt": "2026-07-22T11:17:59.673Z",
       "tasks": [
         {
@@ -68,6 +68,26 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-07-22T15:59:43.325Z",
+      "date": "2026-07-22",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "OKR: Personal project (1)",
+          "progress": "80%",
+          "timeSpent": "4h"
+        },
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
+          "title": "SN Summer Strategy NCLEX Videos - Video 6-10 (1.5)",
+          "progress": "100%",
+          "timeSpent": "4h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
