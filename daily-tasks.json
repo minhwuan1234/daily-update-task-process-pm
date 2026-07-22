@@ -1,14 +1,19 @@
 {
-  "date": "21-Jul",
-  "generatedAt": "2026-07-21T10:45:07.973Z",
+  "date": "22-Jul",
+  "generatedAt": "2026-07-22T10:45:07.628Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "21-Jul",
-          "dueDate": "21/7",
-          "task": "UV Smart: \"ASP powered by UV Smart\" D60 booth (0.5)"
+          "date": "22-Jul",
+          "dueDate": "24/7",
+          "task": "SN Priority: 27. NCLEX Tips for Heart Failure Drugs ~5 min (2)"
+        },
+        {
+          "date": "22-Jul",
+          "dueDate": "23/7",
+          "task": "LDA Business Continuity ~1.5 min (1.5)"
         }
       ]
     },
@@ -16,7 +21,12 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "21-Jul",
+          "date": "22-Jul",
+          "dueDate": "27/7",
+          "task": "Studiohumanity Storyboard (3)"
+        },
+        {
+          "date": "22-Jul",
           "dueDate": "21/7",
           "task": "Studiohumanity Concept Development (2)"
         }
@@ -26,12 +36,7 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "21-Jul",
-          "dueDate": "29/7",
-          "task": "AMD: Chapter 7-4 ~4 min (1.5)"
-        },
-        {
-          "date": "21-Jul",
+          "date": "22-Jul",
           "dueDate": "24/7",
           "task": "SN Priority: 25. Thyroid Storm vs Myxedema Coma: Nursing Emergencies ~7min"
         }
@@ -41,14 +46,9 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "21-Jul",
+          "date": "22-Jul",
           "dueDate": null,
           "task": "OKR: Personal project: Improve anim quality"
-        },
-        {
-          "date": "21-Jul",
-          "dueDate": "24/7",
-          "task": "SN Priority: 24. Thyroid Medications and What to Monitor ~7 min (2)"
         }
       ]
     },
@@ -56,7 +56,12 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "21-Jul",
+          "date": "22-Jul",
+          "dueDate": null,
+          "task": "OKR: Personal project (1)"
+        },
+        {
+          "date": "22-Jul",
           "dueDate": "24/7",
           "task": "SN Summer Strategy NCLEX Videos - Video 6-10 (1.5)"
         }
@@ -64,5 +69,5 @@
     }
   ],
   "totalMembers": 5,
-  "totalTasks": 7
+  "totalTasks": 8
 }
