@@ -36,18 +36,18 @@
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     },
     {
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
-      "submittedAt": "2026-07-22T11:16:54.523Z",
       "date": "2026-07-22",
+      "message": "- Sửa AMD Migraine in Children chapter 7.1 (0.5h)\n- SN Outdated Content ep 7 (4h)",
+      "submittedAt": "2026-07-22T11:16:54.523Z",
       "tasks": [
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "title": "OKR: Personal project: Improve anim quality",
           "progress": "10%",
-          "timeSpent": "3.5h"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "timeSpent": "3.5h",
+          "title": "OKR: Personal project: Improve anim quality"
         }
       ],
-      "message": "- Sửa AMD Migraine in Children chapter 7.1 (0.5h)\n- SN Outdated Content ep 7 (4h)"
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     }
   ]
 }
