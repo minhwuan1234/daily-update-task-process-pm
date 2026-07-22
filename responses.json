@@ -16,24 +16,24 @@
       "userId": "ou_e273fec35061a42660190f8c70f19882"
     },
     {
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-07-22T10:50:36.090Z",
       "date": "2026-07-22",
+      "message": "Đổi màu da nhân vật klett 15p",
+      "submittedAt": "2026-07-22T10:50:36.090Z",
       "tasks": [
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "Studiohumanity Storyboard (3)",
           "progress": "20%",
-          "timeSpent": "2.5h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "timeSpent": "2.5h",
+          "title": "Studiohumanity Storyboard (3)"
         },
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
-          "title": "Studiohumanity Concept Development (2)",
           "progress": "100%",
-          "timeSpent": "5h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
+          "timeSpent": "5h",
+          "title": "Studiohumanity Concept Development (2)"
         }
       ],
-      "message": "Đổi màu da nhân vật klett 15p"
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     }
   ]
 }
