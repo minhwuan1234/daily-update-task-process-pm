@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-07-23",
-      "message": "Sửa SN mùa hè 30p",
+      "message": "Sá»­a SN mÃ¹a hÃ¨ 30p",
       "submittedAt": "2026-07-23T10:59:22.930Z",
       "tasks": [
         {
@@ -15,11 +15,25 @@
         {
           "progress": "0%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
-          "timeSpent": "—",
+          "timeSpent": "â",
           "title": "Studiohumanity Concept Development fix #1?"
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-07-23T11:04:51.585Z",
+      "date": "2026-07-23",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "SN Outdated Content: Blood pressure ~20 mins Anim (5)",
+          "progress": "30%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
