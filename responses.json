@@ -36,18 +36,18 @@
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     },
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-07-23T11:25:31.918Z",
       "date": "2026-07-23",
+      "message": "Sửa SN Summer 10 (10p)\nKlett DA7.01 (1h)\nSửa UV ASP lightbox (2h)\nSửa LDA 4 (30p)",
+      "submittedAt": "2026-07-23T11:25:31.918Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "SN Priority: 27. NCLEX Tips for Heart Failure Drugs ~5 min (2)",
           "progress": "50%",
-          "timeSpent": "4h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "4h",
+          "title": "SN Priority: 27. NCLEX Tips for Heart Failure Drugs ~5 min (2)"
         }
       ],
-      "message": "Sửa SN Summer 10 (10p)\nKlett DA7.01 (1h)\nSửa UV ASP lightbox (2h)\nSửa LDA 4 (30p)"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }
