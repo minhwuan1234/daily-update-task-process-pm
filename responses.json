@@ -22,18 +22,18 @@
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     },
     {
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
-      "submittedAt": "2026-07-23T11:04:51.585Z",
       "date": "2026-07-23",
+      "message": "",
+      "submittedAt": "2026-07-23T11:04:51.585Z",
       "tasks": [
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "title": "SN Outdated Content: Blood pressure ~20 mins Anim (5)",
           "progress": "30%",
-          "timeSpent": "8h"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "timeSpent": "8h",
+          "title": "SN Outdated Content: Blood pressure ~20 mins Anim (5)"
         }
       ],
-      "message": ""
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     }
   ]
 }
