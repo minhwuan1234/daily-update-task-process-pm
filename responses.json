@@ -2,24 +2,24 @@
   "date": "2026-07-23",
   "responses": [
     {
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-07-23T10:59:22.930Z",
       "date": "2026-07-23",
+      "message": "Sửa SN mùa hè 30p",
+      "submittedAt": "2026-07-23T10:59:22.930Z",
       "tasks": [
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "Studiohumanity Storyboard (3)",
           "progress": "50%",
-          "timeSpent": "7h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "timeSpent": "7h",
+          "title": "Studiohumanity Storyboard (3)"
         },
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
-          "title": "Studiohumanity Concept Development fix #1?",
           "progress": "0%",
-          "timeSpent": "—"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
+          "timeSpent": "—",
+          "title": "Studiohumanity Concept Development fix #1?"
         }
       ],
-      "message": "Sửa SN mùa hè 30p"
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     }
   ]
 }
