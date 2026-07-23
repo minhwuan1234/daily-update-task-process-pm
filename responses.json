@@ -1,93 +1,25 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "responses": [
     {
-      "date": "2026-07-22",
-      "message": "",
-      "submittedAt": "2026-07-22T10:46:09.810Z",
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-07-23T10:59:22.930Z",
+      "date": "2026-07-23",
       "tasks": [
         {
-          "progress": "70%",
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "8h",
-          "title": "SN Priority: 25. Thyroid Storm vs Myxedema Coma: Nursing Emergencies ~7min"
-        }
-      ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
-    },
-    {
-      "date": "2026-07-22",
-      "message": "ÃÂÃÂÃÂ¡ÃÂ»ÃÂi mÃÂÃÂ u da nhÃÂÃÂ¢n vÃÂ¡ÃÂºÃÂ­t klett 15p",
-      "submittedAt": "2026-07-22T10:50:36.090Z",
-      "tasks": [
-        {
-          "progress": "20%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "2.5h",
-          "title": "Studiohumanity Storyboard (3)"
+          "title": "Studiohumanity Storyboard (3)",
+          "progress": "50%",
+          "timeSpent": "7h"
         },
         {
-          "progress": "100%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
-          "timeSpent": "5h",
-          "title": "Studiohumanity Concept Development (2)"
+          "title": "Studiohumanity Concept Development fix #1?",
+          "progress": "0%",
+          "timeSpent": "—"
         }
       ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-07-22",
-      "message": "- SÃ¡Â»Â­a AMD Migraine in Children chapter 7.1 (0.5h)\n- SN Outdated Content ep 7 (4h)",
-      "submittedAt": "2026-07-22T11:16:54.523Z",
-      "tasks": [
-        {
-          "progress": "10%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "3.5h",
-          "title": "OKR: Personal project: Improve anim quality"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-07-22",
-      "message": "ná»­a ngÃ y sá»­a SN flashcard\nsá»­a Klett chÃºt (30p) \nsá»­a AMD (30p)\ncheck freelance SN (30p)",
-      "submittedAt": "2026-07-22T11:17:59.673Z",
-      "tasks": [
-        {
-          "progress": "10%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "2h",
-          "title": "SN Priority: 27. NCLEX Tips for Heart Failure Drugs ~5 min (2)"
-        },
-        {
-          "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "timeSpent": "0.5h",
-          "title": "LDA Business Continuity ~1.5 min (1.5)"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-07-22",
-      "message": "",
-      "submittedAt": "2026-07-22T15:59:43.325Z",
-      "tasks": [
-        {
-          "progress": "80%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "4h",
-          "title": "OKR: Personal project (1)"
-        },
-        {
-          "progress": "100%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
-          "timeSpent": "4h",
-          "title": "SN Summer Strategy NCLEX Videos - Video 6-10 (1.5)"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": "Sửa SN mùa hè 30p"
     }
   ]
 }
