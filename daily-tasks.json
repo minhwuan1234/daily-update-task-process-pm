@@ -1,19 +1,14 @@
 {
-  "date": "22-Jul",
-  "generatedAt": "2026-07-22T10:45:07.628Z",
+  "date": "23-Jul",
+  "generatedAt": "2026-07-23T10:45:11.694Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "22-Jul",
+          "date": "23-Jul",
           "dueDate": "24/7",
           "task": "SN Priority: 27. NCLEX Tips for Heart Failure Drugs ~5 min (2)"
-        },
-        {
-          "date": "22-Jul",
-          "dueDate": "23/7",
-          "task": "LDA Business Continuity ~1.5 min (1.5)"
         }
       ]
     },
@@ -21,14 +16,14 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "22-Jul",
+          "date": "23-Jul",
           "dueDate": "27/7",
           "task": "Studiohumanity Storyboard (3)"
         },
         {
-          "date": "22-Jul",
-          "dueDate": "21/7",
-          "task": "Studiohumanity Concept Development (2)"
+          "date": "23-Jul",
+          "dueDate": "23/7",
+          "task": "Studiohumanity Concept Development fix #1?"
         }
       ]
     },
@@ -36,7 +31,7 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "22-Jul",
+          "date": "23-Jul",
           "dueDate": "24/7",
           "task": "SN Priority: 25. Thyroid Storm vs Myxedema Coma: Nursing Emergencies ~7min"
         }
@@ -46,9 +41,9 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "22-Jul",
-          "dueDate": null,
-          "task": "OKR: Personal project: Improve anim quality"
+          "date": "23-Jul",
+          "dueDate": "31/7",
+          "task": "SN Outdated Content: Blood pressure ~20 mins Anim (5)"
         }
       ]
     },
@@ -56,18 +51,18 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "22-Jul",
+          "date": "23-Jul",
           "dueDate": null,
           "task": "OKR: Personal project (1)"
         },
         {
-          "date": "22-Jul",
-          "dueDate": "24/7",
-          "task": "SN Summer Strategy NCLEX Videos - Video 6-10 (1.5)"
+          "date": "23-Jul",
+          "dueDate": "31/7",
+          "task": "SN Summer Strategy - Refresher videos 6-10 (1.5)"
         }
       ]
     }
   ],
   "totalMembers": 5,
-  "totalTasks": 8
+  "totalTasks": 7
 }
