@@ -64,18 +64,18 @@
       "userId": "ou_e273fec35061a42660190f8c70f19882"
     },
     {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-07-24T16:43:45.891Z",
       "date": "2026-07-24",
+      "message": "30p hop team",
+      "submittedAt": "2026-07-24T16:43:45.891Z",
       "tasks": [
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "SN Summer Strategy - Refresher videos 6-10 (1.5)",
           "progress": "90%",
-          "timeSpent": "7.5h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "timeSpent": "7.5h",
+          "title": "SN Summer Strategy - Refresher videos 6-10 (1.5)"
         }
       ],
-      "message": "30p hop team"
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     }
   ]
 }
