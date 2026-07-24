@@ -16,24 +16,24 @@
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     },
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-07-24T11:07:54.299Z",
       "date": "2026-07-24",
+      "message": "còn lại sửa SN 27 (15p), xuất lại file 26 (20p), xuất svg Klett (15p)",
+      "submittedAt": "2026-07-24T11:07:54.299Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "SN Priority: 27. NCLEX Tips for Heart Failure Drugs ~5 min (2)",
           "progress": "100%",
-          "timeSpent": "5.5h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "5.5h",
+          "title": "SN Priority: 27. NCLEX Tips for Heart Failure Drugs ~5 min (2)"
         },
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "title": "UV Smart: D60 TEE Score board one pager (0.5)",
           "progress": "70%",
-          "timeSpent": "1.5h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
+          "timeSpent": "1.5h",
+          "title": "UV Smart: D60 TEE Score board one pager (0.5)"
         }
       ],
-      "message": "còn lại sửa SN 27 (15p), xuất lại file 26 (20p), xuất svg Klett (15p)"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }
