@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-07-24",
-      "message": "cÃÂ²n lÃ¡ÂºÂ¡i sÃ¡Â»Â­a SN 27 (15p), xuÃ¡ÂºÂ¥t lÃ¡ÂºÂ¡i file 26 (20p), xuÃ¡ÂºÂ¥t svg Klett (15p)",
+      "message": "cÃÂÃÂ²n lÃÂ¡ÃÂºÃÂ¡i sÃÂ¡ÃÂ»ÃÂ­a SN 27 (15p), xuÃÂ¡ÃÂºÃÂ¥t lÃÂ¡ÃÂºÃÂ¡i file 26 (20p), xuÃÂ¡ÃÂºÃÂ¥t svg Klett (15p)",
       "submittedAt": "2026-07-24T11:07:54.299Z",
       "tasks": [
         {
@@ -37,7 +37,7 @@
     },
     {
       "date": "2026-07-24",
-      "message": "- SN Priority ep 24 + Sá»­a AMD 7.1 (0.5h)\n- Há»p (0.5h)",
+      "message": "- SN Priority ep 24 + SÃ¡Â»Â­a AMD 7.1 (0.5h)\n- HÃ¡Â»Âp (0.5h)",
       "submittedAt": "2026-07-24T14:22:38.563Z",
       "tasks": [
         {
@@ -58,10 +58,24 @@
           "progress": "20%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
           "timeSpent": "8h",
-          "title": "OKR: Personal project: Build kênh"
+          "title": "OKR: Personal project: Build kÃªnh"
         }
       ],
       "userId": "ou_e273fec35061a42660190f8c70f19882"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-07-24T16:43:45.891Z",
+      "date": "2026-07-24",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "SN Summer Strategy - Refresher videos 6-10 (1.5)",
+          "progress": "90%",
+          "timeSpent": "7.5h"
+        }
+      ],
+      "message": "30p hop team"
     }
   ]
 }
