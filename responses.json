@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-07-24",
-      "message": "cÃ²n láº¡i sá»­a SN 27 (15p), xuáº¥t láº¡i file 26 (20p), xuáº¥t svg Klett (15p)",
+      "message": "cÃÂ²n lÃ¡ÂºÂ¡i sÃ¡Â»Â­a SN 27 (15p), xuÃ¡ÂºÂ¥t lÃ¡ÂºÂ¡i file 26 (20p), xuÃ¡ÂºÂ¥t svg Klett (15p)",
       "submittedAt": "2026-07-24T11:07:54.299Z",
       "tasks": [
         {
@@ -37,7 +37,7 @@
     },
     {
       "date": "2026-07-24",
-      "message": "- SN Priority ep 24 + Sửa AMD 7.1 (0.5h)\n- Họp (0.5h)",
+      "message": "- SN Priority ep 24 + Sá»­a AMD 7.1 (0.5h)\n- Há»p (0.5h)",
       "submittedAt": "2026-07-24T14:22:38.563Z",
       "tasks": [
         {
@@ -48,6 +48,20 @@
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_e273fec35061a42660190f8c70f19882",
+      "submittedAt": "2026-07-24T16:24:57.362Z",
+      "date": "2026-07-24",
+      "tasks": [
+        {
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
+          "title": "OKR: Personal project: Build kênh",
+          "progress": "20%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
