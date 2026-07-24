@@ -1,73 +1,19 @@
 {
-  "date": "2026-07-23",
+  "date": "2026-07-24",
   "responses": [
     {
-      "date": "2026-07-23",
-      "message": "SÃÂ¡ÃÂ»ÃÂ­a SN mÃÂÃÂ¹a hÃÂÃÂ¨ 30p",
-      "submittedAt": "2026-07-23T10:59:22.930Z",
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-07-24T11:06:27.606Z",
+      "date": "2026-07-24",
       "tasks": [
         {
-          "progress": "50%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "7h",
-          "title": "Studiohumanity Storyboard (3)"
-        },
-        {
-          "progress": "0%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
-          "timeSpent": "ÃÂ¢ÃÂÃÂ",
-          "title": "Studiohumanity Concept Development fix #1?"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-07-23",
-      "message": "",
-      "submittedAt": "2026-07-23T11:04:51.585Z",
-      "tasks": [
-        {
-          "progress": "30%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "8h",
-          "title": "SN Outdated Content: Blood pressure ~20 mins Anim (5)"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-07-23",
-      "message": "Sá»­a SN Summer 10 (10p)\nKlett DA7.01 (1h)\nSá»­a UV ASP lightbox (2h)\nSá»­a LDA 4 (30p)",
-      "submittedAt": "2026-07-23T11:25:31.918Z",
-      "tasks": [
-        {
-          "progress": "50%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "4h",
-          "title": "SN Priority: 27. NCLEX Tips for Heart Failure Drugs ~5 min (2)"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-07-23",
-      "message": "",
-      "submittedAt": "2026-07-23T16:47:01.090Z",
-      "tasks": [
-        {
+          "title": "Studiohumanity Storyboard (3)",
           "progress": "80%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "4h",
-          "title": "OKR: Personal project (1)"
-        },
-        {
-          "progress": "40%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
-          "timeSpent": "4h",
-          "title": "SN Summer Strategy - Refresher videos 6-10 (1.5)"
+          "timeSpent": "8h"
         }
       ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": ""
     }
   ]
 }
