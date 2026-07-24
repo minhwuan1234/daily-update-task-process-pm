@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-07-24",
-      "message": "còn lại sửa SN 27 (15p), xuất lại file 26 (20p), xuất svg Klett (15p)",
+      "message": "cÃ²n láº¡i sá»­a SN 27 (15p), xuáº¥t láº¡i file 26 (20p), xuáº¥t svg Klett (15p)",
       "submittedAt": "2026-07-24T11:07:54.299Z",
       "tasks": [
         {
@@ -34,6 +34,20 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-07-24T14:22:38.563Z",
+      "date": "2026-07-24",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "SN Outdated Content: 7. Blood pressure ~20 mins Anim (5)",
+          "progress": "60%",
+          "timeSpent": "7h"
+        }
+      ],
+      "message": "- SN Priority ep 24 + Sửa AMD 7.1 (0.5h)\n- Họp (0.5h)"
     }
   ]
 }
