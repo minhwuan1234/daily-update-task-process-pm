@@ -1,17 +1,17 @@
 {
-  "date": "24-Jul",
-  "generatedAt": "2026-07-24T10:45:07.781Z",
+  "date": "25-Jul",
+  "generatedAt": "2026-07-25T10:45:05.963Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "24-Jul",
+          "date": "25-Jul",
           "dueDate": "24/7",
           "task": "SN Priority: 27. NCLEX Tips for Heart Failure Drugs ~5 min (2)"
         },
         {
-          "date": "24-Jul",
+          "date": "25-Jul",
           "dueDate": "27/7",
           "task": "UV Smart: D60 TEE Score board one pager (0.5)"
         }
@@ -21,9 +21,14 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "24-Jul",
+          "date": "25-Jul",
           "dueDate": "27/7",
           "task": "Studiohumanity Storyboard (3)"
+        },
+        {
+          "date": "25-Jul",
+          "dueDate": "21/7",
+          "task": "Studiohumanity Concept Development (2)"
         }
       ]
     },
@@ -31,7 +36,12 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "24-Jul",
+          "date": "25-Jul",
+          "dueDate": "29/7",
+          "task": "AMD: Chapter 7-4 ~4 min (1.5)"
+        },
+        {
+          "date": "25-Jul",
           "dueDate": null,
           "task": "OKR: Personal project: Build kênh"
         }
@@ -41,7 +51,12 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "24-Jul",
+          "date": "25-Jul",
+          "dueDate": null,
+          "task": "OKR: Personal project: Improve anim quality"
+        },
+        {
+          "date": "25-Jul",
           "dueDate": "31/7",
           "task": "SN Outdated Content: 7. Blood pressure ~20 mins Anim (5)"
         }
@@ -51,13 +66,13 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "24-Jul",
-          "dueDate": "31/7",
-          "task": "SN Summer Strategy - Refresher videos 6-10 (1.5)"
+          "date": "25-Jul",
+          "dueDate": null,
+          "task": "OKR: Personal project"
         }
       ]
     }
   ],
   "totalMembers": 5,
-  "totalTasks": 6
+  "totalTasks": 9
 }
