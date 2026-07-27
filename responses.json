@@ -23,23 +23,37 @@
     },
     {
       "date": "2026-07-27",
-      "message": "2 tiếng sửa chữa các kiểu",
+      "message": "2 tiáº¿ng sá»­a chá»¯a cÃ¡c kiá»u",
       "submittedAt": "2026-07-27T11:04:05.794Z",
       "tasks": [
         {
           "progress": "100%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
           "timeSpent": "6h",
-          "title": "Klett: DA2.02 anim (3 hình complex) (0.75)"
+          "title": "Klett: DA2.02 anim (3 hÃ¬nh complex) (0.75)"
         },
         {
           "progress": "0%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
-          "timeSpent": "—",
+          "timeSpent": "â",
           "title": "SN Priority: 26. Which Heart Failure Meds Affect Potassium ~6 min (1.5)"
         }
       ],
       "userId": "ou_e273fec35061a42660190f8c70f19882"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-07-27T11:09:10.879Z",
+      "date": "2026-07-27",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "SN Outdated Content: 7. Blood pressure ~20 mins Anim (5)",
+          "progress": "80%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
