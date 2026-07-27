@@ -22,24 +22,24 @@
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     },
     {
-      "userId": "ou_e273fec35061a42660190f8c70f19882",
-      "submittedAt": "2026-07-27T11:04:05.794Z",
       "date": "2026-07-27",
+      "message": "2 tiếng sửa chữa các kiểu",
+      "submittedAt": "2026-07-27T11:04:05.794Z",
       "tasks": [
         {
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "title": "Klett: DA2.02 anim (3 hình complex) (0.75)",
           "progress": "100%",
-          "timeSpent": "6h"
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
+          "timeSpent": "6h",
+          "title": "Klett: DA2.02 anim (3 hình complex) (0.75)"
         },
         {
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
-          "title": "SN Priority: 26. Which Heart Failure Meds Affect Potassium ~6 min (1.5)",
           "progress": "0%",
-          "timeSpent": "—"
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
+          "timeSpent": "—",
+          "title": "SN Priority: 26. Which Heart Failure Meds Affect Potassium ~6 min (1.5)"
         }
       ],
-      "message": "2 tiếng sửa chữa các kiểu"
+      "userId": "ou_e273fec35061a42660190f8c70f19882"
     }
   ]
 }
