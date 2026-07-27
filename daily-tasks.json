@@ -1,19 +1,14 @@
 {
-  "date": "26-Jul",
-  "generatedAt": "2026-07-26T10:45:06.417Z",
+  "date": "27-Jul",
+  "generatedAt": "2026-07-27T10:45:06.619Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "26-Jul",
-          "dueDate": "24/7",
-          "task": "SN Priority: 27. NCLEX Tips for Heart Failure Drugs ~5 min (2)"
-        },
-        {
-          "date": "26-Jul",
-          "dueDate": "27/7",
-          "task": "UV Smart: D60 TEE Score board one pager (0.5)"
+          "date": "27-Jul",
+          "dueDate": "30/7",
+          "task": "SN Video Comparison ~1min (1.5)"
         }
       ]
     },
@@ -21,14 +16,14 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "26-Jul",
+          "date": "27-Jul",
           "dueDate": "27/7",
           "task": "Studiohumanity Storyboard (3)"
         },
         {
-          "date": "26-Jul",
-          "dueDate": "21/7",
-          "task": "Studiohumanity Concept Development (2)"
+          "date": "27-Jul",
+          "dueDate": "7/8",
+          "task": "SN Priority: 30. Common Heart Failure Medication Side Effects ~5 mins (2)"
         }
       ]
     },
@@ -36,14 +31,14 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "26-Jul",
-          "dueDate": "29/7",
-          "task": "AMD: Chapter 7-4 ~4 min (1.5)"
+          "date": "27-Jul",
+          "dueDate": "27/7",
+          "task": "Klett: DA2.02 anim (3 hình complex) (0.75)"
         },
         {
-          "date": "26-Jul",
-          "dueDate": null,
-          "task": "OKR: Personal project: Build kênh"
+          "date": "27-Jul",
+          "dueDate": "31/7",
+          "task": "SN Priority: 26. Which Heart Failure Meds Affect Potassium ~6 min (1.5)"
         }
       ]
     },
@@ -51,12 +46,7 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "26-Jul",
-          "dueDate": null,
-          "task": "OKR: Personal project: Improve anim quality"
-        },
-        {
-          "date": "26-Jul",
+          "date": "27-Jul",
           "dueDate": "31/7",
           "task": "SN Outdated Content: 7. Blood pressure ~20 mins Anim (5)"
         }
@@ -66,13 +56,13 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "26-Jul",
+          "date": "27-Jul",
           "dueDate": null,
-          "task": "OKR: Personal project"
+          "task": "OKR: Personal project (1)"
         }
       ]
     }
   ],
   "totalMembers": 5,
-  "totalTasks": 9
+  "totalTasks": 7
 }
