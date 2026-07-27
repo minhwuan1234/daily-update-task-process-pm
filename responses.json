@@ -23,19 +23,19 @@
     },
     {
       "date": "2026-07-27",
-      "message": "2 tiÃ¡ÂºÂ¿ng sÃ¡Â»Â­a chÃ¡Â»Â¯a cÃÂ¡c kiÃ¡Â»Âu",
+      "message": "2 tiÃÂ¡ÃÂºÃÂ¿ng sÃÂ¡ÃÂ»ÃÂ­a chÃÂ¡ÃÂ»ÃÂ¯a cÃÂÃÂ¡c kiÃÂ¡ÃÂ»ÃÂu",
       "submittedAt": "2026-07-27T11:04:05.794Z",
       "tasks": [
         {
           "progress": "100%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
           "timeSpent": "6h",
-          "title": "Klett: DA2.02 anim (3 hÃÂ¬nh complex) (0.75)"
+          "title": "Klett: DA2.02 anim (3 hÃÂÃÂ¬nh complex) (0.75)"
         },
         {
           "progress": "0%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
-          "timeSpent": "Ã¢ÂÂ",
+          "timeSpent": "ÃÂ¢ÃÂÃÂ",
           "title": "SN Priority: 26. Which Heart Failure Meds Affect Potassium ~6 min (1.5)"
         }
       ],
@@ -57,7 +57,7 @@
     },
     {
       "date": "2026-07-27",
-      "message": "họp 30p\nUV D60 Scoreboard 1,5h\ncheck vài cái brief của SN + Klett 30p\nsửa SN 27 ~30p\nlàm mấy task lặt vặt như kiểu xuất ảnh thumb AMD + package UV brochure (loanh quanh đâu đấy 10-15p hihi)",
+      "message": "há»p 30p\nUV D60 Scoreboard 1,5h\ncheck vÃ i cÃ¡i brief cá»§a SN + Klett 30p\nsá»­a SN 27 ~30p\nlÃ m máº¥y task láº·t váº·t nhÆ° kiá»u xuáº¥t áº£nh thumb AMD + package UV brochure (loanh quanh ÄÃ¢u Äáº¥y 10-15p hihi)",
       "submittedAt": "2026-07-27T11:11:12.702Z",
       "tasks": [
         {
@@ -68,6 +68,20 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-07-27T16:34:12.738Z",
+      "date": "2026-07-27",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "OKR: Personal project (1)",
+          "progress": "80%",
+          "timeSpent": "4h"
+        }
+      ],
+      "message": "1,5h SN refresh, 2,5h SN 27"
     }
   ]
 }
