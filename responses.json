@@ -70,18 +70,18 @@
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     },
     {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-07-27T16:34:12.738Z",
       "date": "2026-07-27",
+      "message": "1,5h SN refresh, 2,5h SN 27",
+      "submittedAt": "2026-07-27T16:34:12.738Z",
       "tasks": [
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "OKR: Personal project (1)",
           "progress": "80%",
-          "timeSpent": "4h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "timeSpent": "4h",
+          "title": "OKR: Personal project (1)"
         }
       ],
-      "message": "1,5h SN refresh, 2,5h SN 27"
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     }
   ]
 }
