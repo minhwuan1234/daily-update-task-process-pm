@@ -56,18 +56,18 @@
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     },
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-07-27T11:11:12.702Z",
       "date": "2026-07-27",
+      "message": "họp 30p\nUV D60 Scoreboard 1,5h\ncheck vài cái brief của SN + Klett 30p\nsửa SN 27 ~30p\nlàm mấy task lặt vặt như kiểu xuất ảnh thumb AMD + package UV brochure (loanh quanh đâu đấy 10-15p hihi)",
+      "submittedAt": "2026-07-27T11:11:12.702Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "SN Video Comparison ~1min (1.5)",
           "progress": "40%",
-          "timeSpent": "4.5h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "4.5h",
+          "title": "SN Video Comparison ~1min (1.5)"
         }
       ],
-      "message": "họp 30p\nUV D60 Scoreboard 1,5h\ncheck vài cái brief của SN + Klett 30p\nsửa SN 27 ~30p\nlàm mấy task lặt vặt như kiểu xuất ảnh thumb AMD + package UV brochure (loanh quanh đâu đấy 10-15p hihi)"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }
