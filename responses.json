@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-07-28",
-      "message": "check chút output của Quân code Klett",
+      "message": "check chÃºt output cá»§a QuÃ¢n code Klett",
       "submittedAt": "2026-07-28T11:04:33.175Z",
       "tasks": [
         {
@@ -28,6 +28,20 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-07-28T11:28:06.672Z",
+      "date": "2026-07-28",
+      "tasks": [
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "SN Priority: 30. Common Heart Failure Medication Side Effects ~5 mins (2)",
+          "progress": "40%",
+          "timeSpent": "5.5h"
+        }
+      ],
+      "message": "off 1,5h\nsửa stb stuhu nội bộ 1h"
     }
   ]
 }
