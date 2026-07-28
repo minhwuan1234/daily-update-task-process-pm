@@ -1,87 +1,19 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "responses": [
     {
-      "date": "2026-07-27",
-      "message": "",
-      "submittedAt": "2026-07-27T10:46:36.044Z",
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-07-28T11:01:47.251Z",
+      "date": "2026-07-28",
       "tasks": [
         {
-          "progress": "100%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "6h",
-          "title": "Studiohumanity Storyboard (3)"
-        },
-        {
-          "progress": "20%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
-          "timeSpent": "2h",
-          "title": "SN Priority: 30. Common Heart Failure Medication Side Effects ~5 mins (2)"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-07-27",
-      "message": "2 tiÃÂ¡ÃÂºÃÂ¿ng sÃÂ¡ÃÂ»ÃÂ­a chÃÂ¡ÃÂ»ÃÂ¯a cÃÂÃÂ¡c kiÃÂ¡ÃÂ»ÃÂu",
-      "submittedAt": "2026-07-27T11:04:05.794Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "6h",
-          "title": "Klett: DA2.02 anim (3 hÃÂÃÂ¬nh complex) (0.75)"
-        },
-        {
-          "progress": "0%",
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
-          "timeSpent": "ÃÂ¢ÃÂÃÂ",
-          "title": "SN Priority: 26. Which Heart Failure Meds Affect Potassium ~6 min (1.5)"
-        }
-      ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
-    },
-    {
-      "date": "2026-07-27",
-      "message": "",
-      "submittedAt": "2026-07-27T11:09:10.879Z",
-      "tasks": [
-        {
-          "progress": "80%",
           "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "8h",
-          "title": "SN Outdated Content: 7. Blood pressure ~20 mins Anim (5)"
+          "title": "SN Outdated Content: 7. Blood pressure ~20 mins Anim (5)",
+          "progress": "100%",
+          "timeSpent": "8h"
         }
       ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-07-27",
-      "message": "há»p 30p\nUV D60 Scoreboard 1,5h\ncheck vÃ i cÃ¡i brief cá»§a SN + Klett 30p\nsá»­a SN 27 ~30p\nlÃ m máº¥y task láº·t váº·t nhÆ° kiá»u xuáº¥t áº£nh thumb AMD + package UV brochure (loanh quanh ÄÃ¢u Äáº¥y 10-15p hihi)",
-      "submittedAt": "2026-07-27T11:11:12.702Z",
-      "tasks": [
-        {
-          "progress": "40%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "4.5h",
-          "title": "SN Video Comparison ~1min (1.5)"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-07-27",
-      "message": "1,5h SN refresh, 2,5h SN 27",
-      "submittedAt": "2026-07-27T16:34:12.738Z",
-      "tasks": [
-        {
-          "progress": "80%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "4h",
-          "title": "OKR: Personal project (1)"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": ""
     }
   ]
 }
