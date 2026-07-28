@@ -30,18 +30,18 @@
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     },
     {
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-07-28T11:28:06.672Z",
       "date": "2026-07-28",
+      "message": "off 1,5h\nsửa stb stuhu nội bộ 1h",
+      "submittedAt": "2026-07-28T11:28:06.672Z",
       "tasks": [
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "SN Priority: 30. Common Heart Failure Medication Side Effects ~5 mins (2)",
           "progress": "40%",
-          "timeSpent": "5.5h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "timeSpent": "5.5h",
+          "title": "SN Priority: 30. Common Heart Failure Medication Side Effects ~5 mins (2)"
         }
       ],
-      "message": "off 1,5h\nsửa stb stuhu nội bộ 1h"
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     }
   ]
 }
