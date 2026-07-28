@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-07-28",
-      "message": "check chÃºt output cá»§a QuÃ¢n code Klett",
+      "message": "check chÃÂºt output cÃ¡Â»Â§a QuÃÂ¢n code Klett",
       "submittedAt": "2026-07-28T11:04:33.175Z",
       "tasks": [
         {
@@ -31,7 +31,7 @@
     },
     {
       "date": "2026-07-28",
-      "message": "off 1,5h\nsửa stb stuhu nội bộ 1h",
+      "message": "off 1,5h\nsá»­a stb stuhu ná»i bá» 1h",
       "submittedAt": "2026-07-28T11:28:06.672Z",
       "tasks": [
         {
@@ -42,6 +42,20 @@
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-07-28T16:27:43.954Z",
+      "date": "2026-07-28",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "OKR: Personal project (1.5)",
+          "progress": "80%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
