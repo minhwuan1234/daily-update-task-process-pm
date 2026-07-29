@@ -50,18 +50,18 @@
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     },
     {
-      "userId": "ou_e273fec35061a42660190f8c70f19882",
-      "submittedAt": "2026-07-29T12:30:33.160Z",
       "date": "2026-07-29",
+      "message": "",
+      "submittedAt": "2026-07-29T12:30:33.160Z",
       "tasks": [
         {
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "title": "SN Priority: 26. Which Heart Failure Meds Affect Potassium ~6 min (1.5)",
           "progress": "90%",
-          "timeSpent": "8h"
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
+          "timeSpent": "8h",
+          "title": "SN Priority: 26. Which Heart Failure Meds Affect Potassium ~6 min (1.5)"
         }
       ],
-      "message": ""
+      "userId": "ou_e273fec35061a42660190f8c70f19882"
     }
   ]
 }
