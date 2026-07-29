@@ -1,61 +1,19 @@
 {
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "responses": [
     {
-      "date": "2026-07-28",
-      "message": "",
-      "submittedAt": "2026-07-28T11:01:47.251Z",
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-07-29T11:02:45.337Z",
+      "date": "2026-07-29",
       "tasks": [
         {
-          "progress": "100%",
           "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "8h",
-          "title": "SN Outdated Content: 7. Blood pressure ~20 mins Anim (5)"
+          "title": "OKR: Personal project: Improve anim quality",
+          "progress": "10%",
+          "timeSpent": "7.5h"
         }
       ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-07-28",
-      "message": "check chÃÂºt output cÃ¡Â»Â§a QuÃÂ¢n code Klett",
-      "submittedAt": "2026-07-28T11:04:33.175Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "4h",
-          "title": "SN Video Comparison ~1min (1.5)"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-07-28",
-      "message": "off 1,5h\nsá»­a stb stuhu ná»i bá» 1h",
-      "submittedAt": "2026-07-28T11:28:06.672Z",
-      "tasks": [
-        {
-          "progress": "40%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "5.5h",
-          "title": "SN Priority: 30. Common Heart Failure Medication Side Effects ~5 mins (2)"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-07-28",
-      "message": "",
-      "submittedAt": "2026-07-28T16:27:43.954Z",
-      "tasks": [
-        {
-          "progress": "80%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "8h",
-          "title": "OKR: Personal project (1.5)"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": "- SN Outdated content ep 7 (0.5h)"
     }
   ]
 }
