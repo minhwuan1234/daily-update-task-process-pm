@@ -23,7 +23,7 @@
         {
           "progress": "0%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "Ã¢ÂÂ",
+          "timeSpent": "ÃÂ¢ÃÂÃÂ",
           "title": "Studiohumanity Concept Development fix #1?"
         },
         {
@@ -37,7 +37,7 @@
     },
     {
       "date": "2026-07-29",
-      "message": "SN Email Comparison thumbnail + pdf + sá»­a video: 2h\nLDA 4 sá»­a: 1,5h",
+      "message": "SN Email Comparison thumbnail + pdf + sÃ¡Â»Â­a video: 2h\nLDA 4 sÃ¡Â»Â­a: 1,5h",
       "submittedAt": "2026-07-29T11:19:19.946Z",
       "tasks": [
         {
@@ -62,6 +62,20 @@
         }
       ],
       "userId": "ou_e273fec35061a42660190f8c70f19882"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-07-29T16:59:18.249Z",
+      "date": "2026-07-29",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "OKR: Personal project (2)",
+          "progress": "100%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
