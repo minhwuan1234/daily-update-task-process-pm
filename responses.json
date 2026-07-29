@@ -16,24 +16,24 @@
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     },
     {
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-07-29T11:07:37.135Z",
       "date": "2026-07-29",
+      "message": "",
+      "submittedAt": "2026-07-29T11:07:37.135Z",
       "tasks": [
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "Studiohumanity Concept Development fix #1?",
           "progress": "0%",
-          "timeSpent": "—"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "timeSpent": "—",
+          "title": "Studiohumanity Concept Development fix #1?"
         },
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
-          "title": "SN Priority: 30. Common Heart Failure Medication Side Effects ~5 mins (2)",
           "progress": "100%",
-          "timeSpent": "8h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
+          "timeSpent": "8h",
+          "title": "SN Priority: 30. Common Heart Failure Medication Side Effects ~5 mins (2)"
         }
       ],
-      "message": ""
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     }
   ]
 }
