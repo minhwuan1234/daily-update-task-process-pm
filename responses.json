@@ -23,7 +23,7 @@
         {
           "progress": "0%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "—",
+          "timeSpent": "â",
           "title": "Studiohumanity Concept Development fix #1?"
         },
         {
@@ -34,6 +34,20 @@
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+    },
+    {
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-07-29T11:19:19.946Z",
+      "date": "2026-07-29",
+      "tasks": [
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "title": "SN Priority: 28 Diuretics vs ACE Inhibitors vs Beta Blockers (HF)  ~7 min (2)",
+          "progress": "40%",
+          "timeSpent": "4.5h"
+        }
+      ],
+      "message": "SN Email Comparison thumbnail + pdf + sửa video: 2h\nLDA 4 sửa: 1,5h"
     }
   ]
 }
