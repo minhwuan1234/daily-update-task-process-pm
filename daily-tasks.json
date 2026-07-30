@@ -1,12 +1,12 @@
 {
-  "date": "29-Jul",
-  "generatedAt": "2026-07-29T10:45:07.873Z",
+  "date": "30-Jul",
+  "generatedAt": "2026-07-30T10:45:10.955Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "29-Jul",
+          "date": "30-Jul",
           "dueDate": "31/7",
           "task": "SN Priority: 28 Diuretics vs ACE Inhibitors vs Beta Blockers (HF)  ~7 min (2)"
         }
@@ -16,14 +16,9 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "29-Jul",
-          "dueDate": "23/7",
-          "task": "Studiohumanity Concept Development fix #1?"
-        },
-        {
-          "date": "29-Jul",
-          "dueDate": "7/8",
-          "task": "SN Priority: 30. Common Heart Failure Medication Side Effects ~5 mins (2)"
+          "date": "30-Jul",
+          "dueDate": "5/8",
+          "task": "SN Back to school video ~40 (0.75)"
         }
       ]
     },
@@ -31,9 +26,9 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "29-Jul",
-          "dueDate": "31/7",
-          "task": "SN Priority: 26. Which Heart Failure Meds Affect Potassium ~6 min (1.5)"
+          "date": "30-Jul",
+          "dueDate": null,
+          "task": "OKR: Personal project: Build app"
         }
       ]
     },
@@ -41,7 +36,7 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "29-Jul",
+          "date": "30-Jul",
           "dueDate": null,
           "task": "OKR: Personal project: Improve anim quality"
         }
@@ -51,13 +46,13 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "29-Jul",
-          "dueDate": null,
-          "task": "OKR: Personal project (2)"
+          "date": "30-Jul",
+          "dueDate": "5/8",
+          "task": "SN Priority: 27. NCLEX Tips for Heart Failure Drugs ~5 min (1.25)"
         }
       ]
     }
   ],
   "totalMembers": 5,
-  "totalTasks": 6
+  "totalTasks": 5
 }
