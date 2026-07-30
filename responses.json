@@ -30,18 +30,18 @@
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     },
     {
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
-      "submittedAt": "2026-07-30T11:03:14.586Z",
       "date": "2026-07-30",
+      "message": "- Ước lượng tốc độ anim và đánh giá illus (:?) PulseStart Parent Ready (2h)",
+      "submittedAt": "2026-07-30T11:03:14.586Z",
       "tasks": [
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "title": "OKR: Personal project: Improve anim quality",
           "progress": "10%",
-          "timeSpent": "6h"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "timeSpent": "6h",
+          "title": "OKR: Personal project: Improve anim quality"
         }
       ],
-      "message": "- Ước lượng tốc độ anim và đánh giá illus (:?) PulseStart Parent Ready (2h)"
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     }
   ]
 }
