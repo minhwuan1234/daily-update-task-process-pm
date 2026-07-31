@@ -1,47 +1,25 @@
 {
-  "date": "2026-07-30",
+  "date": "2026-07-31",
   "responses": [
     {
-      "date": "2026-07-30",
-      "message": "",
-      "submittedAt": "2026-07-30T10:45:45.886Z",
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-07-31T11:06:44.679Z",
+      "date": "2026-07-31",
       "tasks": [
         {
-          "progress": "20%",
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "8h",
-          "title": "OKR: Personal project: Build app"
-        }
-      ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
-    },
-    {
-      "date": "2026-07-30",
-      "message": "Sá»­a AMD 7.4 40p\nhÃ¬nh nhÆ° cÃ²n lÃ m gÃ¬ ÄÃ³ nhÆ°ng mÃ  khÃ´ng nhá» hoáº·c lÃ  nhá» nháº§m hqua...",
-      "submittedAt": "2026-07-30T11:01:06.755Z",
-      "tasks": [
-        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "OKR: Art Director course (5h)",
           "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "6.5h",
-          "title": "SN Priority: 28 Diuretics vs ACE Inhibitors vs Beta Blockers (HF)  ~7 min (2)"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-07-30",
-      "message": "- Ước lượng tốc độ anim và đánh giá illus (:?) PulseStart Parent Ready (2h)",
-      "submittedAt": "2026-07-30T11:03:14.586Z",
-      "tasks": [
+          "timeSpent": "5h"
+        },
         {
-          "progress": "10%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "6h",
-          "title": "OKR: Personal project: Improve anim quality"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
+          "title": "SN Priority: 31. Respiratory vs Metabolic Disorders Made Simple ~5mins",
+          "progress": "30%",
+          "timeSpent": "3h"
         }
       ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+      "message": ""
     }
   ]
 }
