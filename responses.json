@@ -2,24 +2,24 @@
   "date": "2026-07-31",
   "responses": [
     {
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-07-31T11:06:44.679Z",
       "date": "2026-07-31",
+      "message": "",
+      "submittedAt": "2026-07-31T11:06:44.679Z",
       "tasks": [
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "OKR: Art Director course (5h)",
           "progress": "100%",
-          "timeSpent": "5h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "timeSpent": "5h",
+          "title": "OKR: Art Director course (5h)"
         },
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
-          "title": "SN Priority: 31. Respiratory vs Metabolic Disorders Made Simple ~5mins",
           "progress": "30%",
-          "timeSpent": "3h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
+          "timeSpent": "3h",
+          "title": "SN Priority: 31. Respiratory vs Metabolic Disorders Made Simple ~5mins"
         }
       ],
-      "message": ""
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     }
   ]
 }
