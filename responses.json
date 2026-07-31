@@ -23,17 +23,31 @@
     },
     {
       "date": "2026-07-31",
-      "message": "đang bắt đầu làm SN 29 ạ\n30p sửa tý SN Comparison\n30p sửa tý SN 28",
+      "message": "Äang báº¯t Äáº§u lÃ m SN 29 áº¡\n30p sá»­a tÃ½ SN Comparison\n30p sá»­a tÃ½ SN 28",
       "submittedAt": "2026-07-31T11:08:08.510Z",
       "tasks": [
         {
           "progress": "100%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
           "timeSpent": "5h",
-          "title": "Klett: D6.01 Illus (1 hình complex) (0.5)"
+          "title": "Klett: D6.01 Illus (1 hÃ¬nh complex) (0.5)"
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-07-31T11:08:28.553Z",
+      "date": "2026-07-31",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "OKR: Personal project: Improve anim quality",
+          "progress": "10%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
