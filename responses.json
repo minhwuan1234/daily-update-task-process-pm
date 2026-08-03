@@ -1,73 +1,19 @@
 {
-  "date": "2026-07-31",
+  "date": "2026-08-03",
   "responses": [
     {
-      "date": "2026-07-31",
-      "message": "",
-      "submittedAt": "2026-07-31T11:06:44.679Z",
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-08-03T11:07:32.672Z",
+      "date": "2026-08-03",
       "tasks": [
         {
-          "progress": "100%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "5h",
-          "title": "OKR: Art Director course (5h)"
-        },
-        {
-          "progress": "30%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
-          "timeSpent": "3h",
-          "title": "SN Priority: 31. Respiratory vs Metabolic Disorders Made Simple ~5mins"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-07-31",
-      "message": "ÃÂang bÃ¡ÂºÂ¯t ÃÂÃ¡ÂºÂ§u lÃÂ m SN 29 Ã¡ÂºÂ¡\n30p sÃ¡Â»Â­a tÃÂ½ SN Comparison\n30p sÃ¡Â»Â­a tÃÂ½ SN 28",
-      "submittedAt": "2026-07-31T11:08:08.510Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "5h",
-          "title": "Klett: D6.01 Illus (1 hÃÂ¬nh complex) (0.5)"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-07-31",
-      "message": "",
-      "submittedAt": "2026-07-31T11:08:28.553Z",
-      "tasks": [
-        {
-          "progress": "10%",
           "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "8h",
-          "title": "OKR: Personal project: Improve anim quality"
+          "title": "SN Priority: 30. Common Heart Failure Medication Side Effects ~5 mins",
+          "progress": "30%",
+          "timeSpent": "4.5h"
         }
       ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-07-31",
-      "message": "4h Okr",
-      "submittedAt": "2026-07-31T11:42:42.263Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "0.5h",
-          "title": "SN Priority: 27. NCLEX Tips for Heart Failure Drugs ~5 min (1.25)"
-        },
-        {
-          "progress": "20%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
-          "timeSpent": "3.5h",
-          "title": "SN Video Comparison ~1min (1.5)"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": "- OKR_Personal Project (3.5h)"
     }
   ]
 }
