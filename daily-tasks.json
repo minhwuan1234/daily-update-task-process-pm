@@ -1,7 +1,27 @@
 {
   "date": "3-Aug",
-  "generatedAt": "2026-08-03T10:45:09.338Z",
+  "generatedAt": "2026-08-03T10:46:58.480Z",
   "members": [
+    {
+      "member": "Thư",
+      "tasks": [
+        {
+          "date": "3-Aug",
+          "dueDate": "7/8",
+          "task": "SN Priority: 29. What Nurses Must Monitor for Heart Failure Meds ~6 mins"
+        }
+      ]
+    },
+    {
+      "member": "Thảo Vi",
+      "tasks": [
+        {
+          "date": "3-Aug",
+          "dueDate": "14/8",
+          "task": "SN Priority: 31. Respiratory vs Metabolic Disorders Made Simple ~5mins"
+        }
+      ]
+    },
     {
       "member": "Thế Anh",
       "tasks": [
@@ -31,8 +51,18 @@
           "task": "SN Priority: 30. Common Heart Failure Medication Side Effects ~5 mins"
         }
       ]
+    },
+    {
+      "member": "Quân",
+      "tasks": [
+        {
+          "date": "3-Aug",
+          "dueDate": "10/8",
+          "task": "SN Video Comparison ~1min (1.5)"
+        }
+      ]
     }
   ],
-  "totalMembers": 3,
-  "totalTasks": 3
+  "totalMembers": 6,
+  "totalTasks": 6
 }
