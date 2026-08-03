@@ -1,29 +1,14 @@
 {
-  "date": "2-Aug",
-  "generatedAt": "2026-08-02T10:45:08.481Z",
+  "date": "3-Aug",
+  "generatedAt": "2026-08-03T10:45:09.338Z",
   "members": [
     {
-      "member": "Thư",
+      "member": "Thế Anh",
       "tasks": [
         {
-          "date": "2-Aug",
-          "dueDate": "4/8",
-          "task": "Klett: D6.01 Illus (1 hình complex) (0.5)"
-        }
-      ]
-    },
-    {
-      "member": "Thảo Vi",
-      "tasks": [
-        {
-          "date": "2-Aug",
-          "dueDate": null,
-          "task": "OKR: Art Director course (5h)"
-        },
-        {
-          "date": "2-Aug",
-          "dueDate": "14/8",
-          "task": "SN Priority: 31. Respiratory vs Metabolic Disorders Made Simple ~5mins"
+          "date": "3-Aug",
+          "dueDate": "21/8",
+          "task": "SN Outdated Content: 11. Geriatric Medication Safety ~15 mins Illus (4)"
         }
       ]
     },
@@ -31,9 +16,9 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "2-Aug",
-          "dueDate": null,
-          "task": "OKR: Personal project: Build app"
+          "date": "3-Aug",
+          "dueDate": "7/8",
+          "task": "SN Priority: 28 Diuretics vs ACE Inhibitors vs Beta Blockers (HF)  ~7 min (2)"
         }
       ]
     },
@@ -41,23 +26,13 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "2-Aug",
-          "dueDate": null,
-          "task": "OKR: Personal project: Improve anim quality"
-        }
-      ]
-    },
-    {
-      "member": "Quân",
-      "tasks": [
-        {
-          "date": "2-Aug",
-          "dueDate": "5/8",
-          "task": "SN Priority: 27. NCLEX Tips for Heart Failure Drugs ~5 min (1.25)"
+          "date": "3-Aug",
+          "dueDate": "14/8",
+          "task": "SN Priority: 30. Common Heart Failure Medication Side Effects ~5 mins"
         }
       ]
     }
   ],
-  "totalMembers": 5,
-  "totalTasks": 6
+  "totalMembers": 3,
+  "totalTasks": 3
 }
