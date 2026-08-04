@@ -30,18 +30,18 @@
       "message": "Dáº¡ nay em chÆ°a phÃ¡t sinh cÃ´ng viá»c khÃ¡c áº¡"
     },
     {
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-08-04T11:07:36.961Z",
       "date": "2026-08-04",
+      "message": "Sửa SN Back to school 2h",
+      "submittedAt": "2026-08-04T11:07:36.961Z",
       "tasks": [
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "Web Patient edu promote video: Sketch Option 2, 3",
           "progress": "50%",
-          "timeSpent": "6h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "timeSpent": "6h",
+          "title": "Web Patient edu promote video: Sketch Option 2, 3"
         }
       ],
-      "message": "Sửa SN Back to school 2h"
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     }
   ]
 }
