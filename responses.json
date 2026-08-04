@@ -1,29 +1,15 @@
 {
-  "date": "2026-08-03",
+  "date": "2026-08-04",
   "responses": [
     {
-      "date": "2026-08-03",
-      "message": "- OKR_Personal Project (3.5h)",
-      "submittedAt": "2026-08-03T11:07:32.672Z",
+      "userId": "ou_e273fec35061a42660190f8c70f19882",
+      "submittedAt": "2026-08-04T03:02:40.522Z",
+      "date": "2026-08-04",
       "tasks": [
         {
-          "progress": "30%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "4.5h",
-          "title": "SN Priority: 30. Common Heart Failure Medication Side Effects ~5 mins"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-08-03T15:58:53.113Z",
-      "date": "2026-08-03",
-      "tasks": [
-        {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "SN Video Comparison ~1min (1.5)",
-          "progress": "100%",
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
+          "title": "SN Priority: 28 Diuretics vs ACE Inhibitors vs Beta Blockers (HF)  ~7 min (2)",
+          "progress": "50%",
           "timeSpent": "8h"
         }
       ],
