@@ -1,7 +1,22 @@
 {
   "date": "4-Aug",
-  "generatedAt": "2026-08-04T03:01:47.709Z",
+  "generatedAt": "2026-08-04T13:19:11.573Z",
   "members": [
+    {
+      "member": "Thư",
+      "tasks": [
+        {
+          "date": "4-Aug",
+          "dueDate": "21/8",
+          "task": "SN Outdated Content: 10. Pediatric Medication Safety ~8.5 mins Illus (3)"
+        },
+        {
+          "date": "4-Aug",
+          "dueDate": "7/8",
+          "task": "SN Priority: 29. What Nurses Must Monitor for Heart Failure Meds ~6 mins"
+        }
+      ]
+    },
     {
       "member": "Thảo Vi",
       "tasks": [
@@ -53,6 +68,6 @@
       ]
     }
   ],
-  "totalMembers": 5,
-  "totalTasks": 5
+  "totalMembers": 6,
+  "totalTasks": 7
 }
