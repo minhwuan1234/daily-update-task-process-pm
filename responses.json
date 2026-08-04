@@ -2,18 +2,18 @@
   "date": "2026-08-04",
   "responses": [
     {
+      "userId": "ou_e273fec35061a42660190f8c70f19882",
+      "submittedAt": "2026-08-04T13:31:04.077Z",
       "date": "2026-08-04",
-      "message": "",
-      "submittedAt": "2026-08-04T03:02:40.522Z",
       "tasks": [
         {
-          "progress": "50%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "8h",
-          "title": "SN Priority: 28 Diuretics vs ACE Inhibitors vs Beta Blockers (HF)  ~7 min (2)"
+          "title": "SN Priority: 28 Diuretics vs ACE Inhibitors vs Beta Blockers (HF)  ~7 min (2)",
+          "progress": "90%",
+          "timeSpent": "8h"
         }
       ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
+      "message": ""
     },
     {
       "userId": "ou_e0897ef23f084625d708cd50c16468db",
@@ -27,11 +27,11 @@
           "timeSpent": "8h"
         }
       ],
-      "message": "Dáº¡ nay em chÆ°a phÃ¡t sinh cÃ´ng viá»c khÃ¡c áº¡"
+      "message": "DÃ¡ÂºÂ¡ nay em chÃÂ°a phÃÂ¡t sinh cÃÂ´ng viÃ¡Â»Âc khÃÂ¡c Ã¡ÂºÂ¡"
     },
     {
       "date": "2026-08-04",
-      "message": "Sửa SN Back to school 2h",
+      "message": "Sá»­a SN Back to school 2h",
       "submittedAt": "2026-08-04T11:07:36.961Z",
       "tasks": [
         {
