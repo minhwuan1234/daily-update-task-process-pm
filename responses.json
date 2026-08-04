@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-08-04",
-      "message": "dạ không ạ",
+      "message": "dáº¡ khÃ´ng áº¡",
       "submittedAt": "2026-08-04T13:38:13.397Z",
       "tasks": [
         {
@@ -31,7 +31,7 @@
     },
     {
       "date": "2026-08-04",
-      "message": "SÃ¡Â»Â­a SN Back to school 2h",
+      "message": "SÃÂ¡ÃÂ»ÃÂ­a SN Back to school 2h",
       "submittedAt": "2026-08-04T11:07:36.961Z",
       "tasks": [
         {
@@ -42,6 +42,20 @@
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-08-04T16:36:35.936Z",
+      "date": "2026-08-04",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "Web Patient edu promote video: Script 1 Animatic tiếp",
+          "progress": "100%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
