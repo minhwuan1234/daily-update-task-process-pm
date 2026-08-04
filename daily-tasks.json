@@ -1,24 +1,14 @@
 {
-  "date": "3-Aug",
-  "generatedAt": "2026-08-03T10:46:58.480Z",
+  "date": "4-Aug",
+  "generatedAt": "2026-08-04T03:01:47.709Z",
   "members": [
-    {
-      "member": "Thư",
-      "tasks": [
-        {
-          "date": "3-Aug",
-          "dueDate": "7/8",
-          "task": "SN Priority: 29. What Nurses Must Monitor for Heart Failure Meds ~6 mins"
-        }
-      ]
-    },
     {
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "3-Aug",
-          "dueDate": "14/8",
-          "task": "SN Priority: 31. Respiratory vs Metabolic Disorders Made Simple ~5mins"
+          "date": "4-Aug",
+          "dueDate": null,
+          "task": "Web Patient edu promote video: Sketch Option 2, 3"
         }
       ]
     },
@@ -26,7 +16,7 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "3-Aug",
+          "date": "4-Aug",
           "dueDate": "21/8",
           "task": "SN Outdated Content: 11. Geriatric Medication Safety ~15 mins Illus (4)"
         }
@@ -36,7 +26,7 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "3-Aug",
+          "date": "4-Aug",
           "dueDate": "7/8",
           "task": "SN Priority: 28 Diuretics vs ACE Inhibitors vs Beta Blockers (HF)  ~7 min (2)"
         }
@@ -46,7 +36,7 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "3-Aug",
+          "date": "4-Aug",
           "dueDate": "14/8",
           "task": "SN Priority: 30. Common Heart Failure Medication Side Effects ~5 mins"
         }
@@ -56,13 +46,13 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "3-Aug",
-          "dueDate": "10/8",
-          "task": "SN Video Comparison ~1min (1.5)"
+          "date": "4-Aug",
+          "dueDate": null,
+          "task": "Web Patient edu promote video: Script 1 Animatic tiếp"
         }
       ]
     }
   ],
-  "totalMembers": 6,
-  "totalTasks": 6
+  "totalMembers": 5,
+  "totalTasks": 5
 }
