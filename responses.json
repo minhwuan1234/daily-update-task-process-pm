@@ -23,7 +23,7 @@
     },
     {
       "date": "2026-08-05",
-      "message": "dÃ¡ÂºÂ¡ khÃÂ´ng Ã¡ÂºÂ¡",
+      "message": "dÃÂ¡ÃÂºÃÂ¡ khÃÂÃÂ´ng ÃÂ¡ÃÂºÃÂ¡",
       "submittedAt": "2026-08-05T10:46:15.502Z",
       "tasks": [
         {
@@ -47,7 +47,7 @@
           "timeSpent": "6.5h"
         }
       ],
-      "message": "sá»­a SN 29 + thumbnail: 45p\nsupport giang website: 30p"
+      "message": "sÃ¡Â»Â­a SN 29 + thumbnail: 45p\nsupport giang website: 30p"
     },
     {
       "date": "2026-08-05",
@@ -62,6 +62,20 @@
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-08-05T11:13:13.685Z",
+      "date": "2026-08-05",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "OKR: Personal project: Improve anim quality",
+          "progress": "10%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
