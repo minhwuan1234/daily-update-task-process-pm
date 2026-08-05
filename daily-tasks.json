@@ -1,19 +1,14 @@
 {
-  "date": "4-Aug",
-  "generatedAt": "2026-08-04T13:19:11.573Z",
+  "date": "5-Aug",
+  "generatedAt": "2026-08-05T10:45:10.390Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "4-Aug",
+          "date": "5-Aug",
           "dueDate": "21/8",
           "task": "SN Outdated Content: 10. Pediatric Medication Safety ~8.5 mins Illus (3)"
-        },
-        {
-          "date": "4-Aug",
-          "dueDate": "7/8",
-          "task": "SN Priority: 29. What Nurses Must Monitor for Heart Failure Meds ~6 mins"
         }
       ]
     },
@@ -21,9 +16,9 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "4-Aug",
+          "date": "5-Aug",
           "dueDate": null,
-          "task": "Web Patient edu promote video: Sketch Option 2, 3"
+          "task": "Web Patient edu promote video: Sketch Script 2"
         }
       ]
     },
@@ -31,7 +26,7 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "4-Aug",
+          "date": "5-Aug",
           "dueDate": "21/8",
           "task": "SN Outdated Content: 11. Geriatric Medication Safety ~15 mins Illus (4)"
         }
@@ -41,9 +36,14 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "4-Aug",
+          "date": "5-Aug",
           "dueDate": "7/8",
           "task": "SN Priority: 28 Diuretics vs ACE Inhibitors vs Beta Blockers (HF)  ~7 min (2)"
+        },
+        {
+          "date": "5-Aug",
+          "dueDate": null,
+          "task": "OKR: Personal project: Build app"
         }
       ]
     },
@@ -51,9 +51,9 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "4-Aug",
-          "dueDate": "14/8",
-          "task": "SN Priority: 30. Common Heart Failure Medication Side Effects ~5 mins"
+          "date": "5-Aug",
+          "dueDate": null,
+          "task": "OKR: Personal project: Improve anim quality"
         }
       ]
     },
@@ -61,7 +61,7 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "4-Aug",
+          "date": "5-Aug",
           "dueDate": null,
           "task": "Web Patient edu promote video: Script 1 Animatic tiếp"
         }
