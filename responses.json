@@ -23,7 +23,7 @@
     },
     {
       "date": "2026-08-05",
-      "message": "dÃÂ¡ÃÂºÃÂ¡ khÃÂÃÂ´ng ÃÂ¡ÃÂºÃÂ¡",
+      "message": "dÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¡ khÃÂÃÂÃÂÃÂ´ng ÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¡",
       "submittedAt": "2026-08-05T10:46:15.502Z",
       "tasks": [
         {
@@ -47,7 +47,7 @@
           "timeSpent": "6.5h"
         }
       ],
-      "message": "sÃ¡Â»Â­a SN 29 + thumbnail: 45p\nsupport giang website: 30p"
+      "message": "sÃÂ¡ÃÂ»ÃÂ­a SN 29 + thumbnail: 45p\nsupport giang website: 30p"
     },
     {
       "date": "2026-08-05",
@@ -76,6 +76,20 @@
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-08-05T16:20:42.758Z",
+      "date": "2026-08-05",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "Web Patient edu promote video: Script 1 Animatic tiếp",
+          "progress": "70%",
+          "timeSpent": "3h"
+        }
+      ],
+      "message": "4h OKR, 1h fix SN comparision"
     }
   ]
 }
