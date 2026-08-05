@@ -1,61 +1,25 @@
 {
-  "date": "2026-08-04",
+  "date": "2026-08-05",
   "responses": [
     {
-      "date": "2026-08-04",
-      "message": "",
-      "submittedAt": "2026-08-04T13:31:04.077Z",
+      "userId": "ou_e273fec35061a42660190f8c70f19882",
+      "submittedAt": "2026-08-05T10:46:04.262Z",
+      "date": "2026-08-05",
       "tasks": [
         {
-          "progress": "90%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "8h",
-          "title": "SN Priority: 28 Diuretics vs ACE Inhibitors vs Beta Blockers (HF)  ~7 min (2)"
-        }
-      ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
-    },
-    {
-      "date": "2026-08-04",
-      "message": "dáº¡ khÃ´ng áº¡",
-      "submittedAt": "2026-08-04T13:38:13.397Z",
-      "tasks": [
-        {
-          "progress": "50%",
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "8h",
-          "title": "SN Outdated Content: 11. Geriatric Medication Safety ~15 mins Illus (4)"
-        }
-      ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
-    },
-    {
-      "date": "2026-08-04",
-      "message": "SÃÂ¡ÃÂ»ÃÂ­a SN Back to school 2h",
-      "submittedAt": "2026-08-04T11:07:36.961Z",
-      "tasks": [
-        {
-          "progress": "50%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "6h",
-          "title": "Web Patient edu promote video: Sketch Option 2, 3"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-08-04",
-      "message": "",
-      "submittedAt": "2026-08-04T16:36:35.936Z",
-      "tasks": [
-        {
+          "title": "SN Priority: 28 Diuretics vs ACE Inhibitors vs Beta Blockers (HF)  ~7 min (2)",
           "progress": "100%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "8h",
-          "title": "Web Patient edu promote video: Script 1 Animatic tiếp"
+          "timeSpent": "0.5h"
+        },
+        {
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
+          "title": "OKR: Personal project: Build app",
+          "progress": "20%",
+          "timeSpent": "8h"
         }
       ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": ""
     }
   ]
 }
