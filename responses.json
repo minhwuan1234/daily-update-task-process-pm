@@ -23,7 +23,7 @@
     },
     {
       "date": "2026-08-05",
-      "message": "dáº¡ khÃ´ng áº¡",
+      "message": "dÃ¡ÂºÂ¡ khÃÂ´ng Ã¡ÂºÂ¡",
       "submittedAt": "2026-08-05T10:46:15.502Z",
       "tasks": [
         {
@@ -47,7 +47,21 @@
           "timeSpent": "6.5h"
         }
       ],
-      "message": "sửa SN 29 + thumbnail: 45p\nsupport giang website: 30p"
+      "message": "sá»­a SN 29 + thumbnail: 45p\nsupport giang website: 30p"
+    },
+    {
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-08-05T10:58:15.325Z",
+      "date": "2026-08-05",
+      "tasks": [
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "Web Patient edu promote video: Sketch Script 2",
+          "progress": "100%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
