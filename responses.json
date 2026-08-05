@@ -78,18 +78,18 @@
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     },
     {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-08-05T16:20:42.758Z",
       "date": "2026-08-05",
+      "message": "4h OKR, 1h fix SN comparision",
+      "submittedAt": "2026-08-05T16:20:42.758Z",
       "tasks": [
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "Web Patient edu promote video: Script 1 Animatic tiếp",
           "progress": "70%",
-          "timeSpent": "3h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "timeSpent": "3h",
+          "title": "Web Patient edu promote video: Script 1 Animatic tiếp"
         }
       ],
-      "message": "4h OKR, 1h fix SN comparision"
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     }
   ]
 }
