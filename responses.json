@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-08-06",
-      "message": "dạ không ạ",
+      "message": "dáº¡ khÃ´ng áº¡",
       "submittedAt": "2026-08-06T10:59:54.983Z",
       "tasks": [
         {
@@ -28,6 +28,26 @@
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-08-06T16:31:40.733Z",
+      "date": "2026-08-06",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "Web Patient edu promote video: Script 1 Animatic tiếp",
+          "progress": "100%",
+          "timeSpent": "4h"
+        },
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
+          "title": "Web Patient edu promote video: Script 2 Animatic (1.5)",
+          "progress": "50%",
+          "timeSpent": "4h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
