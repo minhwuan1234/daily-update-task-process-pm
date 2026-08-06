@@ -1,12 +1,12 @@
 {
-  "date": "5-Aug",
-  "generatedAt": "2026-08-05T10:45:10.390Z",
+  "date": "6-Aug",
+  "generatedAt": "2026-08-06T10:45:25.545Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "5-Aug",
+          "date": "6-Aug",
           "dueDate": "21/8",
           "task": "SN Outdated Content: 10. Pediatric Medication Safety ~8.5 mins Illus (3)"
         }
@@ -16,9 +16,9 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "5-Aug",
+          "date": "6-Aug",
           "dueDate": null,
-          "task": "Web Patient edu promote video: Sketch Script 2"
+          "task": "SN back to school fix (2h)"
         }
       ]
     },
@@ -26,7 +26,7 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "5-Aug",
+          "date": "6-Aug",
           "dueDate": "21/8",
           "task": "SN Outdated Content: 11. Geriatric Medication Safety ~15 mins Illus (4)"
         }
@@ -36,12 +36,7 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "5-Aug",
-          "dueDate": "7/8",
-          "task": "SN Priority: 28 Diuretics vs ACE Inhibitors vs Beta Blockers (HF)  ~7 min (2)"
-        },
-        {
-          "date": "5-Aug",
+          "date": "6-Aug",
           "dueDate": null,
           "task": "OKR: Personal project: Build app"
         }
@@ -51,7 +46,7 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "5-Aug",
+          "date": "6-Aug",
           "dueDate": null,
           "task": "OKR: Personal project: Improve anim quality"
         }
@@ -61,9 +56,14 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "5-Aug",
+          "date": "6-Aug",
           "dueDate": null,
           "task": "Web Patient edu promote video: Script 1 Animatic tiếp"
+        },
+        {
+          "date": "6-Aug",
+          "dueDate": null,
+          "task": "Web Patient edu promote video: Script 2 Animatic (1.5)"
         }
       ]
     }
