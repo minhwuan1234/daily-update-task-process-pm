@@ -1,14 +1,19 @@
 {
-  "date": "6-Aug",
-  "generatedAt": "2026-08-06T10:45:25.545Z",
+  "date": "7-Aug",
+  "generatedAt": "2026-08-07T10:45:10.291Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "6-Aug",
+          "date": "7-Aug",
           "dueDate": "21/8",
           "task": "SN Outdated Content: 10. Pediatric Medication Safety ~8.5 mins Illus (3)"
+        },
+        {
+          "date": "7-Aug",
+          "dueDate": "17/8",
+          "task": "LDA Safety Induction Video 2 ~1.5 min (1.5)"
         }
       ]
     },
@@ -16,7 +21,7 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "6-Aug",
+          "date": "7-Aug",
           "dueDate": null,
           "task": "SN back to school fix (2h)"
         }
@@ -26,9 +31,9 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "6-Aug",
-          "dueDate": "21/8",
-          "task": "SN Outdated Content: 11. Geriatric Medication Safety ~15 mins Illus (4)"
+          "date": "7-Aug",
+          "dueDate": "14/8",
+          "task": "SN Priority: 32. How Compensation Works in ABGs ~6min"
         }
       ]
     },
@@ -36,7 +41,12 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "6-Aug",
+          "date": "7-Aug",
+          "dueDate": null,
+          "task": "Web Patient edu promote video: Script 3 SB AI tool"
+        },
+        {
+          "date": "7-Aug",
           "dueDate": null,
           "task": "OKR: Personal project: Build app"
         }
@@ -46,9 +56,9 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "6-Aug",
-          "dueDate": null,
-          "task": "OKR: Personal project: Improve anim quality"
+          "date": "7-Aug",
+          "dueDate": "13/8",
+          "task": "SN Back to school video ~1min"
         }
       ]
     },
@@ -56,18 +66,13 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "6-Aug",
+          "date": "7-Aug",
           "dueDate": null,
-          "task": "Web Patient edu promote video: Script 1 Animatic tiếp"
-        },
-        {
-          "date": "6-Aug",
-          "dueDate": null,
-          "task": "Web Patient edu promote video: Script 2 Animatic (1.5)"
+          "task": "Web Patient edu promote video: Script 2 SB fix"
         }
       ]
     }
   ],
   "totalMembers": 6,
-  "totalTasks": 7
+  "totalTasks": 8
 }
