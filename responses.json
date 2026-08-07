@@ -13,11 +13,11 @@
           "timeSpent": "5h"
         }
       ],
-      "message": "DÃ¡ÂºÂ¡ khÃÂ´ng Ã¡ÂºÂ¡, thÃ¡Â»Âi gian cÃÂ²n lÃ¡ÂºÂ¡i em ÃÂÃ¡Â»Âc tÃÂ i liÃ¡Â»Âu onboard Ã¡ÂºÂ¡"
+      "message": "DÃÂ¡ÃÂºÃÂ¡ khÃÂÃÂ´ng ÃÂ¡ÃÂºÃÂ¡, thÃÂ¡ÃÂ»ÃÂi gian cÃÂÃÂ²n lÃÂ¡ÃÂºÃÂ¡i em ÃÂÃÂÃÂ¡ÃÂ»ÃÂc tÃÂÃÂ i liÃÂ¡ÃÂ»ÃÂu onboard ÃÂ¡ÃÂºÃÂ¡"
     },
     {
       "date": "2026-08-07",
-      "message": "thá»nh thoáº£ng support tÃ¬m ref vs phá»¥ HÃ  check SN thui áº¡",
+      "message": "thÃ¡Â»Ânh thoÃ¡ÂºÂ£ng support tÃÂ¬m ref vs phÃ¡Â»Â¥ HÃÂ  check SN thui Ã¡ÂºÂ¡",
       "submittedAt": "2026-08-07T11:07:09.308Z",
       "tasks": [
         {
@@ -47,7 +47,21 @@
           "timeSpent": "7h"
         }
       ],
-      "message": "- Họp (0.5h)\n- Tìm ref 2 dự án (0.5h)"
+      "message": "- Há»p (0.5h)\n- TÃ¬m ref 2 dá»± Ã¡n (0.5h)"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-08-07T16:12:36.521Z",
+      "date": "2026-08-07",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "Web Patient edu promote video: Script 2 SB fix",
+          "progress": "100%",
+          "timeSpent": "5h"
+        }
+      ],
+      "message": "2,5h okr, 0,5h hop team"
     }
   ]
 }
