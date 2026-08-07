@@ -1,53 +1,19 @@
 {
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "responses": [
     {
-      "date": "2026-08-06",
-      "message": "",
-      "submittedAt": "2026-08-06T10:48:13.903Z",
+      "userId": "ou_e0897ef23f084625d708cd50c16468db",
+      "submittedAt": "2026-08-07T11:01:41.059Z",
+      "date": "2026-08-07",
       "tasks": [
         {
-          "progress": "80%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "8h",
-          "title": "SN Outdated Content: 10. Pediatric Medication Safety ~8.5 mins Illus (3)"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-08-06",
-      "message": "dáº¡ khÃ´ng áº¡",
-      "submittedAt": "2026-08-06T10:59:54.983Z",
-      "tasks": [
-        {
-          "progress": "100%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "8h",
-          "title": "SN Outdated Content: 11. Geriatric Medication Safety ~15 mins Illus (4)"
+          "title": "SN Priority: 32. How Compensation Works in ABGs ~6min",
+          "progress": "30%",
+          "timeSpent": "5h"
         }
       ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
-    },
-    {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-08-06T16:31:40.733Z",
-      "date": "2026-08-06",
-      "tasks": [
-        {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "Web Patient edu promote video: Script 1 Animatic tiếp",
-          "progress": "100%",
-          "timeSpent": "4h"
-        },
-        {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
-          "title": "Web Patient edu promote video: Script 2 Animatic (1.5)",
-          "progress": "50%",
-          "timeSpent": "4h"
-        }
-      ],
-      "message": ""
+      "message": "Dạ không ạ, thời gian còn lại em đọc tài liệu onboard ạ"
     }
   ]
 }
