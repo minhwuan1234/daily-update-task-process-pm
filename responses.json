@@ -13,7 +13,27 @@
           "timeSpent": "5h"
         }
       ],
-      "message": "Dạ không ạ, thời gian còn lại em đọc tài liệu onboard ạ"
+      "message": "Dáº¡ khÃ´ng áº¡, thá»i gian cÃ²n láº¡i em Äá»c tÃ i liá»u onboard áº¡"
+    },
+    {
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-08-07T11:07:09.308Z",
+      "date": "2026-08-07",
+      "tasks": [
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "title": "SN Outdated Content: 10. Pediatric Medication Safety ~8.5 mins Illus (3)",
+          "progress": "100%",
+          "timeSpent": "3.5h"
+        },
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
+          "title": "LDA Safety Induction Video 2 ~1.5 min (1.5)",
+          "progress": "10%",
+          "timeSpent": "4h"
+        }
+      ],
+      "message": "thỉnh thoảng support tìm ref vs phụ Hà check SN thui ạ"
     }
   ]
 }
