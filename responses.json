@@ -13,11 +13,11 @@
           "timeSpent": "5h"
         }
       ],
-      "message": "Dáº¡ khÃ´ng áº¡, thá»i gian cÃ²n láº¡i em Äá»c tÃ i liá»u onboard áº¡"
+      "message": "DÃ¡ÂºÂ¡ khÃÂ´ng Ã¡ÂºÂ¡, thÃ¡Â»Âi gian cÃÂ²n lÃ¡ÂºÂ¡i em ÃÂÃ¡Â»Âc tÃÂ i liÃ¡Â»Âu onboard Ã¡ÂºÂ¡"
     },
     {
       "date": "2026-08-07",
-      "message": "thỉnh thoảng support tìm ref vs phụ Hà check SN thui ạ",
+      "message": "thá»nh thoáº£ng support tÃ¬m ref vs phá»¥ HÃ  check SN thui áº¡",
       "submittedAt": "2026-08-07T11:07:09.308Z",
       "tasks": [
         {
@@ -34,6 +34,20 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-08-07T11:20:45.782Z",
+      "date": "2026-08-07",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "SN Back to school video ~1min",
+          "progress": "70%",
+          "timeSpent": "7h"
+        }
+      ],
+      "message": "- Họp (0.5h)\n- Tìm ref 2 dự án (0.5h)"
     }
   ]
 }
