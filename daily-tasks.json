@@ -1,34 +1,14 @@
 {
-  "date": "9-Aug",
-  "generatedAt": "2026-08-09T10:45:08.492Z",
+  "date": "10-Aug",
+  "generatedAt": "2026-08-10T10:45:09.124Z",
   "members": [
-    {
-      "member": "Thư",
-      "tasks": [
-        {
-          "date": "9-Aug",
-          "dueDate": "21/8",
-          "task": "SN Outdated Content: 10. Pediatric Medication Safety ~8.5 mins Illus (3)"
-        },
-        {
-          "date": "9-Aug",
-          "dueDate": "17/8",
-          "task": "LDA Safety Induction Video 2 ~1.5 min (1.5)"
-        }
-      ]
-    },
     {
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "9-Aug",
-          "dueDate": null,
-          "task": "Web Patient edu promote video: Sketch Script 2"
-        },
-        {
-          "date": "9-Aug",
-          "dueDate": null,
-          "task": "SN back to school fix (2h)"
+          "date": "10-Aug",
+          "dueDate": "17/8",
+          "task": "LDA Safety Induction Video 1 ~1.5 min (1.5)"
         }
       ]
     },
@@ -36,7 +16,7 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "9-Aug",
+          "date": "10-Aug",
           "dueDate": "14/8",
           "task": "SN Priority: 32. How Compensation Works in ABGs ~6min"
         }
@@ -46,14 +26,9 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "9-Aug",
+          "date": "10-Aug",
           "dueDate": null,
           "task": "Web Patient edu promote video: Script 3 SB AI tool"
-        },
-        {
-          "date": "9-Aug",
-          "dueDate": null,
-          "task": "OKR: Personal project: Build app"
         }
       ]
     },
@@ -61,14 +36,14 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "9-Aug",
+          "date": "10-Aug",
           "dueDate": "13/8",
           "task": "SN Back to school video ~1min"
         },
         {
-          "date": "9-Aug",
+          "date": "10-Aug",
           "dueDate": null,
-          "task": "OKR: Personal project: Improve anim quality (0.5)"
+          "task": "OKR: Personal project: Improve anim quality"
         }
       ]
     },
@@ -76,13 +51,13 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "9-Aug",
-          "dueDate": null,
-          "task": "OKR: Timing/Pacing course 0.5"
+          "date": "10-Aug",
+          "dueDate": "28/8",
+          "task": "SN Outdated Content: 10. Pediatric Medication Safety ~8.5 mins Illus (2.5)"
         }
       ]
     }
   ],
-  "totalMembers": 6,
-  "totalTasks": 10
+  "totalMembers": 5,
+  "totalTasks": 6
 }
