@@ -1,67 +1,19 @@
 {
-  "date": "2026-08-07",
+  "date": "2026-08-10",
   "responses": [
     {
       "userId": "ou_e0897ef23f084625d708cd50c16468db",
-      "submittedAt": "2026-08-07T11:01:41.059Z",
-      "date": "2026-08-07",
+      "submittedAt": "2026-08-10T10:47:50.169Z",
+      "date": "2026-08-10",
       "tasks": [
         {
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
           "title": "SN Priority: 32. How Compensation Works in ABGs ~6min",
-          "progress": "30%",
-          "timeSpent": "5h"
+          "progress": "60%",
+          "timeSpent": "4h"
         }
       ],
-      "message": "DÃÂ¡ÃÂºÃÂ¡ khÃÂÃÂ´ng ÃÂ¡ÃÂºÃÂ¡, thÃÂ¡ÃÂ»ÃÂi gian cÃÂÃÂ²n lÃÂ¡ÃÂºÃÂ¡i em ÃÂÃÂÃÂ¡ÃÂ»ÃÂc tÃÂÃÂ i liÃÂ¡ÃÂ»ÃÂu onboard ÃÂ¡ÃÂºÃÂ¡"
-    },
-    {
-      "date": "2026-08-07",
-      "message": "thÃ¡Â»Ânh thoÃ¡ÂºÂ£ng support tÃÂ¬m ref vs phÃ¡Â»Â¥ HÃÂ  check SN thui Ã¡ÂºÂ¡",
-      "submittedAt": "2026-08-07T11:07:09.308Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "3.5h",
-          "title": "SN Outdated Content: 10. Pediatric Medication Safety ~8.5 mins Illus (3)"
-        },
-        {
-          "progress": "10%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "timeSpent": "4h",
-          "title": "LDA Safety Induction Video 2 ~1.5 min (1.5)"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
-      "submittedAt": "2026-08-07T11:20:45.782Z",
-      "date": "2026-08-07",
-      "tasks": [
-        {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "title": "SN Back to school video ~1min",
-          "progress": "70%",
-          "timeSpent": "7h"
-        }
-      ],
-      "message": "- Há»p (0.5h)\n- TÃ¬m ref 2 dá»± Ã¡n (0.5h)"
-    },
-    {
-      "date": "2026-08-07",
-      "message": "2,5h okr, 0,5h hop team",
-      "submittedAt": "2026-08-07T16:12:36.521Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "5h",
-          "title": "Web Patient edu promote video: Script 2 SB fix"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": "em sửa task 1. SN Outdated Content: 11. Geriatric Medication Safety hết 4h ạ"
     }
   ]
 }
