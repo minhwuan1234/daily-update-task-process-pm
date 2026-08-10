@@ -13,7 +13,27 @@
           "timeSpent": "4h"
         }
       ],
-      "message": "em sửa task 1. SN Outdated Content: 11. Geriatric Medication Safety hết 4h ạ"
+      "message": "em sá»­a task 1. SN Outdated Content: 11. Geriatric Medication Safety háº¿t 4h áº¡"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-08-10T11:05:14.543Z",
+      "date": "2026-08-10",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "SN Back to school video ~1min",
+          "progress": "100%",
+          "timeSpent": "4h"
+        },
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
+          "title": "OKR: Personal project: Improve anim quality",
+          "progress": "10%",
+          "timeSpent": "4h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
