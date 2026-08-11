@@ -1,53 +1,19 @@
 {
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "responses": [
     {
       "userId": "ou_e0897ef23f084625d708cd50c16468db",
-      "submittedAt": "2026-08-10T10:47:50.169Z",
-      "date": "2026-08-10",
+      "submittedAt": "2026-08-11T10:46:42.511Z",
+      "date": "2026-08-11",
       "tasks": [
         {
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
           "title": "SN Priority: 32. How Compensation Works in ABGs ~6min",
-          "progress": "60%",
-          "timeSpent": "4h"
-        }
-      ],
-      "message": "em sÃ¡Â»Â­a task 1. SN Outdated Content: 11. Geriatric Medication Safety hÃ¡ÂºÂ¿t 4h Ã¡ÂºÂ¡"
-    },
-    {
-      "date": "2026-08-10",
-      "message": "",
-      "submittedAt": "2026-08-10T11:05:14.543Z",
-      "tasks": [
-        {
           "progress": "100%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "4h",
-          "title": "SN Back to school video ~1min"
-        },
-        {
-          "progress": "10%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
-          "timeSpent": "4h",
-          "title": "OKR: Personal project: Improve anim quality"
+          "timeSpent": "6h"
         }
       ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-08-10",
-      "message": "",
-      "submittedAt": "2026-08-10T16:36:53.087Z",
-      "tasks": [
-        {
-          "progress": "50%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "8h",
-          "title": "SN Outdated Content: 10. Pediatric Medication Safety ~8.5 mins Illus (2.5)"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": "Em làm video 33. Common ABG Mistakes Nursing Students Make trong 2 giờ ạ"
     }
   ]
 }
