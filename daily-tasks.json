@@ -1,14 +1,14 @@
 {
-  "date": "10-Aug",
-  "generatedAt": "2026-08-10T10:45:09.124Z",
+  "date": "11-Aug",
+  "generatedAt": "2026-08-11T10:45:08.766Z",
   "members": [
     {
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "10-Aug",
+          "date": "11-Aug",
           "dueDate": "17/8",
-          "task": "LDA Safety Induction Video 1 ~1.5 min (1.5)"
+          "task": "LDA Safety Induction Video 1 ~1.5 min (1.5)\n\nSN fix 0.5"
         }
       ]
     },
@@ -16,19 +16,9 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "10-Aug",
+          "date": "11-Aug",
           "dueDate": "14/8",
           "task": "SN Priority: 32. How Compensation Works in ABGs ~6min"
-        }
-      ]
-    },
-    {
-      "member": "Duy Anh",
-      "tasks": [
-        {
-          "date": "10-Aug",
-          "dueDate": null,
-          "task": "Web Patient edu promote video: Script 3 SB AI tool"
         }
       ]
     },
@@ -36,12 +26,12 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "10-Aug",
-          "dueDate": "13/8",
-          "task": "SN Back to school video ~1min"
+          "date": "11-Aug",
+          "dueDate": null,
+          "task": "Web Patient edu promote video: Script 3 animatic -- wait for SB"
         },
         {
-          "date": "10-Aug",
+          "date": "11-Aug",
           "dueDate": null,
           "task": "OKR: Personal project: Improve anim quality"
         }
@@ -51,13 +41,13 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "10-Aug",
+          "date": "11-Aug",
           "dueDate": "28/8",
-          "task": "SN Outdated Content: 10. Pediatric Medication Safety ~8.5 mins Illus (2.5)"
+          "task": "SN Outdated Content: 10. Pediatric Medication Safety ~8.5 mins Illus (1.75)"
         }
       ]
     }
   ],
-  "totalMembers": 5,
-  "totalTasks": 6
+  "totalMembers": 4,
+  "totalTasks": 5
 }
