@@ -22,18 +22,18 @@
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     },
     {
-      "userId": "ou_e0897ef23f084625d708cd50c16468db",
-      "submittedAt": "2026-08-12T10:53:26.137Z",
       "date": "2026-08-12",
+      "message": "em sửa 32. How Compensation Works in ABGs trong 15 phút và làm 34. ABGs in Clinical Scenarios: From Numbers to Nursing Action trong 15 phút ạ",
+      "submittedAt": "2026-08-12T10:53:26.137Z",
       "tasks": [
         {
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "title": "SN Priority: 33. Common ABG Mistakes Nursing Students Make ~5mins",
           "progress": "100%",
-          "timeSpent": "7.5h"
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
+          "timeSpent": "7.5h",
+          "title": "SN Priority: 33. Common ABG Mistakes Nursing Students Make ~5mins"
         }
       ],
-      "message": "em sửa 32. How Compensation Works in ABGs trong 15 phút và làm 34. ABGs in Clinical Scenarios: From Numbers to Nursing Action trong 15 phút ạ"
+      "userId": "ou_e0897ef23f084625d708cd50c16468db"
     }
   ]
 }
