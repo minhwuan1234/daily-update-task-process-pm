@@ -23,7 +23,7 @@
     },
     {
       "date": "2026-08-12",
-      "message": "em sá»­a 32. How Compensation Works in ABGs trong 15 phÃºt vÃ  lÃ m 34. ABGs in Clinical Scenarios: From Numbers to Nursing Action trong 15 phÃºt áº¡",
+      "message": "em sÃ¡Â»Â­a 32. How Compensation Works in ABGs trong 15 phÃÂºt vÃÂ  lÃÂ m 34. ABGs in Clinical Scenarios: From Numbers to Nursing Action trong 15 phÃÂºt Ã¡ÂºÂ¡",
       "submittedAt": "2026-08-12T10:53:26.137Z",
       "tasks": [
         {
@@ -48,6 +48,26 @@
         }
       ],
       "userId": "ou_e273fec35061a42660190f8c70f19882"
+    },
+    {
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-08-12T11:05:18.000Z",
+      "date": "2026-08-12",
+      "tasks": [
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "title": "UV Smart: UV Smart x ASP - D60 booth design (30')",
+          "progress": "100%",
+          "timeSpent": "0.5h"
+        },
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
+          "title": "LDA Safety Induction Video 2 ~1.5 min (1.5)",
+          "progress": "70%",
+          "timeSpent": "7h"
+        }
+      ],
+      "message": "thỉnh thoảng sửa này sửa kia cái UV 1 tẹo"
     }
   ]
 }
