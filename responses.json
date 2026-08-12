@@ -2,24 +2,24 @@
   "date": "2026-08-12",
   "responses": [
     {
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-08-12T10:52:49.818Z",
       "date": "2026-08-12",
+      "message": "",
+      "submittedAt": "2026-08-12T10:52:49.818Z",
       "tasks": [
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "LDA Safety Induction Video 1 ~1.5 min (1.5)",
           "progress": "100%",
-          "timeSpent": "4h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "timeSpent": "4h",
+          "title": "LDA Safety Induction Video 1 ~1.5 min (1.5)"
         },
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
-          "title": "SN Homepage video update ~40s",
           "progress": "30%",
-          "timeSpent": "4h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
+          "timeSpent": "4h",
+          "title": "SN Homepage video update ~40s"
         }
       ],
-      "message": ""
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     }
   ]
 }
