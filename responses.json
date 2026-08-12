@@ -36,18 +36,18 @@
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
     },
     {
-      "userId": "ou_e273fec35061a42660190f8c70f19882",
-      "submittedAt": "2026-08-12T10:54:07.028Z",
       "date": "2026-08-12",
+      "message": "",
+      "submittedAt": "2026-08-12T10:54:07.028Z",
       "tasks": [
         {
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "title": "SN Priority: 29. What Nurses Must Monitor for Heart Failure Meds ~6 mins",
           "progress": "50%",
-          "timeSpent": "8h"
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
+          "timeSpent": "8h",
+          "title": "SN Priority: 29. What Nurses Must Monitor for Heart Failure Meds ~6 mins"
         }
       ],
-      "message": ""
+      "userId": "ou_e273fec35061a42660190f8c70f19882"
     }
   ]
 }
