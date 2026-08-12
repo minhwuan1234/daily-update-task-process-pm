@@ -1,67 +1,25 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "responses": [
     {
-      "userId": "ou_e0897ef23f084625d708cd50c16468db",
-      "submittedAt": "2026-08-11T10:46:42.511Z",
-      "date": "2026-08-11",
-      "tasks": [
-        {
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "title": "SN Priority: 32. How Compensation Works in ABGs ~6min",
-          "progress": "100%",
-          "timeSpent": "6h"
-        }
-      ],
-      "message": "Em lÃÂÃÂ m video 33. Common ABG Mistakes Nursing Students Make trong 2 giÃÂ¡ÃÂ»ÃÂ ÃÂ¡ÃÂºÃÂ¡"
-    },
-    {
       "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-08-11T10:59:32.935Z",
-      "date": "2026-08-11",
+      "submittedAt": "2026-08-12T10:52:49.818Z",
+      "date": "2026-08-12",
       "tasks": [
         {
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "LDA Safety Induction Video 1 ~1.5 min (1.5)\n\nSN fix 0.5",
-          "progress": "80%",
-          "timeSpent": "8h"
+          "title": "LDA Safety Induction Video 1 ~1.5 min (1.5)",
+          "progress": "100%",
+          "timeSpent": "4h"
+        },
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
+          "title": "SN Homepage video update ~40s",
+          "progress": "30%",
+          "timeSpent": "4h"
         }
       ],
       "message": ""
-    },
-    {
-      "date": "2026-08-11",
-      "message": "",
-      "submittedAt": "2026-08-11T11:13:44.183Z",
-      "tasks": [
-        {
-          "progress": "10%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "3h",
-          "title": "Web Patient edu promote video: Script 3 animatic -- wait for SB"
-        },
-        {
-          "progress": "10%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
-          "timeSpent": "5h",
-          "title": "OKR: Personal project: Improve anim quality"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-08-11",
-      "message": "3h animatic",
-      "submittedAt": "2026-08-11T15:37:55.607Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "5h",
-          "title": "SN Outdated Content: 10. Pediatric Medication Safety ~8.5 mins Illus (1.75)"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     }
   ]
 }
