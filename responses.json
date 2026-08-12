@@ -23,7 +23,7 @@
     },
     {
       "date": "2026-08-12",
-      "message": "em sÃÂ¡ÃÂ»ÃÂ­a 32. How Compensation Works in ABGs trong 15 phÃÂÃÂºt vÃÂÃÂ  lÃÂÃÂ m 34. ABGs in Clinical Scenarios: From Numbers to Nursing Action trong 15 phÃÂÃÂºt ÃÂ¡ÃÂºÃÂ¡",
+      "message": "em sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a 32. How Compensation Works in ABGs trong 15 phÃÂÃÂÃÂÃÂºt vÃÂÃÂÃÂÃÂ  lÃÂÃÂÃÂÃÂ m 34. ABGs in Clinical Scenarios: From Numbers to Nursing Action trong 15 phÃÂÃÂÃÂÃÂºt ÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¡",
       "submittedAt": "2026-08-12T10:53:26.137Z",
       "tasks": [
         {
@@ -51,7 +51,7 @@
     },
     {
       "date": "2026-08-12",
-      "message": "thá»nh thoáº£ng sá»­a nÃ y sá»­a kia cÃ¡i UV 1 táº¹o",
+      "message": "thÃ¡Â»Ânh thoÃ¡ÂºÂ£ng sÃ¡Â»Â­a nÃÂ y sÃ¡Â»Â­a kia cÃÂ¡i UV 1 tÃ¡ÂºÂ¹o",
       "submittedAt": "2026-08-12T11:05:18.000Z",
       "tasks": [
         {
@@ -82,6 +82,20 @@
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-08-12T14:34:51.878Z",
+      "date": "2026-08-12",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "Web Patient edu promote video: Script 2 animatic (2)",
+          "progress": "100%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
