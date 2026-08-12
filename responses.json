@@ -23,7 +23,7 @@
     },
     {
       "date": "2026-08-12",
-      "message": "em sÃ¡Â»Â­a 32. How Compensation Works in ABGs trong 15 phÃÂºt vÃÂ  lÃÂ m 34. ABGs in Clinical Scenarios: From Numbers to Nursing Action trong 15 phÃÂºt Ã¡ÂºÂ¡",
+      "message": "em sÃÂ¡ÃÂ»ÃÂ­a 32. How Compensation Works in ABGs trong 15 phÃÂÃÂºt vÃÂÃÂ  lÃÂÃÂ m 34. ABGs in Clinical Scenarios: From Numbers to Nursing Action trong 15 phÃÂÃÂºt ÃÂ¡ÃÂºÃÂ¡",
       "submittedAt": "2026-08-12T10:53:26.137Z",
       "tasks": [
         {
@@ -51,7 +51,7 @@
     },
     {
       "date": "2026-08-12",
-      "message": "thỉnh thoảng sửa này sửa kia cái UV 1 tẹo",
+      "message": "thá»nh thoáº£ng sá»­a nÃ y sá»­a kia cÃ¡i UV 1 táº¹o",
       "submittedAt": "2026-08-12T11:05:18.000Z",
       "tasks": [
         {
@@ -68,6 +68,20 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-08-12T11:17:02.451Z",
+      "date": "2026-08-12",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "Web Patient edu promote video: Script 3 animatic -- wait for SB",
+          "progress": "50%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
