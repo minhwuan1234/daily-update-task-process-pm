@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-08-13",
-      "message": "em sửa 32. How Compensation Works in ABGs trong 3.5h và trao đổi với chị Ánh trong 0.5h ạ",
+      "message": "em sá»­a 32. How Compensation Works in ABGs trong 3.5h vÃ  trao Äá»i vá»i chá» Ãnh trong 0.5h áº¡",
       "submittedAt": "2026-08-13T10:46:56.256Z",
       "tasks": [
         {
@@ -14,6 +14,20 @@
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
+    },
+    {
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-08-13T10:52:17.073Z",
+      "date": "2026-08-13",
+      "tasks": [
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "title": "Klett: D6.01 Illus (1 hình complex + 3 hình simple) fixing",
+          "progress": "100%",
+          "timeSpent": "2h"
+        }
+      ],
+      "message": "sáng làm nốt LDA 5.2\nchiều SN 1. Assessing the Community"
     }
   ]
 }
