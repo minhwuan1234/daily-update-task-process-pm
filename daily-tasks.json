@@ -1,19 +1,14 @@
 {
-  "date": "12-Aug",
-  "generatedAt": "2026-08-12T10:51:09.685Z",
+  "date": "13-Aug",
+  "generatedAt": "2026-08-13T10:45:08.223Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "12-Aug",
-          "dueDate": null,
-          "task": "UV Smart: UV Smart x ASP - D60 booth design (30')"
-        },
-        {
-          "date": "12-Aug",
-          "dueDate": "17/8",
-          "task": "LDA Safety Induction Video 2 ~1.5 min (1.5)"
+          "date": "13-Aug",
+          "dueDate": "18/7",
+          "task": "Klett: D6.01 Illus (1 hình complex + 3 hình simple) fixing"
         }
       ]
     },
@@ -21,12 +16,7 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "12-Aug",
-          "dueDate": "17/8",
-          "task": "LDA Safety Induction Video 1 ~1.5 min (1.5)"
-        },
-        {
-          "date": "12-Aug",
+          "date": "13-Aug",
           "dueDate": "17/8",
           "task": "SN Homepage video update ~40s"
         }
@@ -36,9 +26,9 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "12-Aug",
+          "date": "13-Aug",
           "dueDate": "28/8",
-          "task": "SN Priority: 33. Common ABG Mistakes Nursing Students Make ~5mins"
+          "task": "SN Priority: 34. ABGs in Clinical Scenarios: From Numbers to Nursing Action ~6mins"
         }
       ]
     },
@@ -46,7 +36,7 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "12-Aug",
+          "date": "13-Aug",
           "dueDate": "14/8",
           "task": "SN Priority: 29. What Nurses Must Monitor for Heart Failure Meds ~6 mins"
         }
@@ -56,9 +46,9 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "12-Aug",
-          "dueDate": null,
-          "task": "Web Patient edu promote video: Script 3 animatic -- wait for SB"
+          "date": "13-Aug",
+          "dueDate": "28/8",
+          "task": "SN Outdated Content: 11. Geriatric Medication Safety ~15 mins Anim (3.5)"
         }
       ]
     },
@@ -66,7 +56,7 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "12-Aug",
+          "date": "13-Aug",
           "dueDate": null,
           "task": "Web Patient edu promote video: Script 2 animatic (2)"
         }
@@ -74,5 +64,5 @@
     }
   ],
   "totalMembers": 6,
-  "totalTasks": 8
+  "totalTasks": 6
 }
