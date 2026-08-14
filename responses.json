@@ -30,18 +30,18 @@
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     },
     {
-      "userId": "ou_e0897ef23f084625d708cd50c16468db",
-      "submittedAt": "2026-08-14T11:11:11.757Z",
       "date": "2026-08-14",
+      "message": "em sửa nội bộ 32. How Compensation Works in ABGs trong 1h và họp tổng kết cuối tuần 0.5h ạ",
+      "submittedAt": "2026-08-14T11:11:11.757Z",
       "tasks": [
         {
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "title": "SN Priority: 34. ABGs in Clinical Scenarios: From Numbers to Nursing Action ~6mins",
           "progress": "80%",
-          "timeSpent": "6.5h"
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
+          "timeSpent": "6.5h",
+          "title": "SN Priority: 34. ABGs in Clinical Scenarios: From Numbers to Nursing Action ~6mins"
         }
       ],
-      "message": "em sửa nội bộ 32. How Compensation Works in ABGs trong 1h và họp tổng kết cuối tuần 0.5h ạ"
+      "userId": "ou_e0897ef23f084625d708cd50c16468db"
     }
   ]
 }
