@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-08-14",
-      "message": "CÃÂ²n lÃ¡ÂºÂ¡i sÃ¡Â»Â­a LDA vÃ¡Â»Âi sÃ¡Â»Â­a UV tÃ¡ÂºÂ¹o",
+      "message": "CÃÂÃÂ²n lÃÂ¡ÃÂºÃÂ¡i sÃÂ¡ÃÂ»ÃÂ­a LDA vÃÂ¡ÃÂ»ÃÂi sÃÂ¡ÃÂ»ÃÂ­a UV tÃÂ¡ÃÂºÃÂ¹o",
       "submittedAt": "2026-08-14T11:08:32.929Z",
       "tasks": [
         {
@@ -31,7 +31,7 @@
     },
     {
       "date": "2026-08-14",
-      "message": "em sửa nội bộ 32. How Compensation Works in ABGs trong 1h và họp tổng kết cuối tuần 0.5h ạ",
+      "message": "em sá»­a ná»i bá» 32. How Compensation Works in ABGs trong 1h vÃ  há»p tá»ng káº¿t cuá»i tuáº§n 0.5h áº¡",
       "submittedAt": "2026-08-14T11:11:11.757Z",
       "tasks": [
         {
@@ -42,6 +42,26 @@
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
+    },
+    {
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-08-14T11:11:55.418Z",
+      "date": "2026-08-14",
+      "tasks": [
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "SN Community Health: 2. Disaster Management - Types of Disasters ~16 mins",
+          "progress": "20%",
+          "timeSpent": "4h"
+        },
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
+          "title": "SN Back to school video (vertical) ~40s (0.5)",
+          "progress": "100%",
+          "timeSpent": "4h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
