@@ -1,75 +1,19 @@
 {
-  "date": "2026-08-13",
+  "date": "2026-08-14",
   "responses": [
     {
-      "date": "2026-08-13",
-      "message": "em sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a 32. How Compensation Works in ABGs trong 3.5h vÃÂÃÂÃÂÃÂ  trao ÃÂÃÂÃÂÃÂÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂi vÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂi chÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ ÃÂÃÂÃÂÃÂnh trong 0.5h ÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¡",
-      "submittedAt": "2026-08-13T10:46:56.256Z",
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-08-14T11:08:32.929Z",
+      "date": "2026-08-14",
       "tasks": [
         {
-          "progress": "20%",
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "4h",
-          "title": "SN Priority: 34. ABGs in Clinical Scenarios: From Numbers to Nursing Action ~6mins"
-        }
-      ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
-    },
-    {
-      "date": "2026-08-13",
-      "message": "sÃÂÃÂ¡ng lÃÂÃÂ m nÃÂ¡ÃÂ»ÃÂt LDA 5.2\nchiÃÂ¡ÃÂ»ÃÂu SN 1. Assessing the Community",
-      "submittedAt": "2026-08-13T10:52:17.073Z",
-      "tasks": [
-        {
-          "progress": "100%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "2h",
-          "title": "Klett: D6.01 Illus (1 hÃÂÃÂ¬nh complex + 3 hÃÂÃÂ¬nh simple) fixing"
+          "title": "SN Community Health: 1. Community Assessment  ~16 mins",
+          "progress": "10%",
+          "timeSpent": "6.5h"
         }
       ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
-      "submittedAt": "2026-08-13T11:07:56.749Z",
-      "date": "2026-08-13",
-      "tasks": [
-        {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "title": "SN Outdated Content: 11. Geriatric Medication Safety ~15 mins Anim (3.5)",
-          "progress": "0%",
-          "timeSpent": "Ã¢ÂÂ"
-        }
-      ],
-      "message": "Web Patient edu promote video: Script 3 animatic (8h)"
-    },
-    {
-      "date": "2026-08-13",
-      "message": "2h OKR",
-      "submittedAt": "2026-08-13T11:08:05.605Z",
-      "tasks": [
-        {
-          "progress": "70%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "6h",
-          "title": "Web Patient edu promote video: Script 2 animatic (2)"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
-    },
-    {
-      "date": "2026-08-13",
-      "message": "sửa AMD 1h",
-      "submittedAt": "2026-08-13T14:48:37.058Z",
-      "tasks": [
-        {
-          "progress": "90%",
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "7h",
-          "title": "SN Priority: 29. What Nurses Must Monitor for Heart Failure Meds ~6 mins"
-        }
-      ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
+      "message": "Còn lại sửa LDA với sửa UV tẹo"
     }
   ]
 }
