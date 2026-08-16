@@ -1,17 +1,17 @@
 {
-  "date": "15-Aug",
-  "generatedAt": "2026-08-15T10:45:10.478Z",
+  "date": "16-Aug",
+  "generatedAt": "2026-08-16T10:45:10.006Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "15-Aug",
+          "date": "16-Aug",
           "dueDate": "21/8",
           "task": "SN Community Health: 1. Community Assessment  ~16 mins"
         },
         {
-          "date": "15-Aug",
+          "date": "16-Aug",
           "dueDate": "5/6",
           "task": "CSL Forest M6 fixing (0.75)"
         }
@@ -21,12 +21,12 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "15-Aug",
+          "date": "16-Aug",
           "dueDate": "21/8",
           "task": "SN Community Health: 2. Disaster Management - Types of Disasters ~16 mins"
         },
         {
-          "date": "15-Aug",
+          "date": "16-Aug",
           "dueDate": "14/8",
           "task": "SN Back to school video (vertical) ~40s (0.5)"
         }
@@ -36,12 +36,12 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "15-Aug",
+          "date": "16-Aug",
           "dueDate": "28/8",
           "task": "SN Priority: 34. ABGs in Clinical Scenarios: From Numbers to Nursing Action ~6mins"
         },
         {
-          "date": "15-Aug",
+          "date": "16-Aug",
           "dueDate": null,
           "task": "SN 32 tiếp 0.5"
         }
@@ -51,12 +51,12 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "15-Aug",
+          "date": "16-Aug",
           "dueDate": null,
           "task": "OKR: Personal project: Build app"
         },
         {
-          "date": "15-Aug",
+          "date": "16-Aug",
           "dueDate": null,
           "task": "AMD: Chapter 7-4 fix #3 (2h)"
         }
@@ -66,12 +66,12 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "15-Aug",
+          "date": "16-Aug",
           "dueDate": null,
           "task": "Web Patient edu promote video: Script 3 animatic"
         },
         {
-          "date": "15-Aug",
+          "date": "16-Aug",
           "dueDate": null,
           "task": "OKR: Personal project: Improve anim quality"
         }
@@ -81,7 +81,7 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "15-Aug",
+          "date": "16-Aug",
           "dueDate": null,
           "task": "Web Patient edu promote video: Script 2 animatic (2)"
         }
