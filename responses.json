@@ -30,18 +30,18 @@
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     },
     {
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-08-17T11:06:48.336Z",
       "date": "2026-08-17",
+      "message": "Sửa LDA 5.1 nội bộ 2 tiếng",
+      "submittedAt": "2026-08-17T11:06:48.336Z",
       "tasks": [
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "SN Community Health: 2. Disaster Management - Types of Disasters ~16 mins",
           "progress": "40%",
-          "timeSpent": "6h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "timeSpent": "6h",
+          "title": "SN Community Health: 2. Disaster Management - Types of Disasters ~16 mins"
         }
       ],
-      "message": "Sửa LDA 5.1 nội bộ 2 tiếng"
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     }
   ]
 }
