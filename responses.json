@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-08-17",
-      "message": "Em lÃÂÃÂ m nÃÂ¡ÃÂ»ÃÂt 34. ABGs in Clinical Scenarios: From Numbers to Nursing Action hÃÂ¡ÃÂºÃÂ¿t 5.5h vÃÂÃÂ  sÃÂ¡ÃÂ»ÃÂ­a feedback cÃÂ¡ÃÂ»ÃÂ§a khÃÂÃÂ¡ch cho 32. How Compensation Works in ABGs hÃÂ¡ÃÂºÃÂ¿t 0.5h ÃÂ¡ÃÂºÃÂ¡",
+      "message": "Em lÃÂÃÂÃÂÃÂ m nÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂt 34. ABGs in Clinical Scenarios: From Numbers to Nursing Action hÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿t 5.5h vÃÂÃÂÃÂÃÂ  sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a feedback cÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ§a khÃÂÃÂÃÂÃÂ¡ch cho 32. How Compensation Works in ABGs hÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿t 0.5h ÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¡",
       "submittedAt": "2026-08-17T10:47:46.816Z",
       "tasks": [
         {
@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-08-17",
-      "message": "hÃ¡Â»Âp + 30p sÃ¡Â»Â­a Klett water cycle",
+      "message": "hÃÂ¡ÃÂ»ÃÂp + 30p sÃÂ¡ÃÂ»ÃÂ­a Klett water cycle",
       "submittedAt": "2026-08-17T10:59:51.895Z",
       "tasks": [
         {
@@ -31,7 +31,7 @@
     },
     {
       "date": "2026-08-17",
-      "message": "Sá»­a LDA 5.1 ná»i bá» 2 tiáº¿ng",
+      "message": "SÃ¡Â»Â­a LDA 5.1 nÃ¡Â»Âi bÃ¡Â»Â 2 tiÃ¡ÂºÂ¿ng",
       "submittedAt": "2026-08-17T11:06:48.336Z",
       "tasks": [
         {
@@ -62,6 +62,20 @@
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-08-17T11:22:37.131Z",
+      "date": "2026-08-17",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "LDA Business Continuity ~1.5 min (1.5)",
+          "progress": "70%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
