@@ -16,18 +16,18 @@
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
     },
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-08-17T10:59:51.895Z",
       "date": "2026-08-17",
+      "message": "họp + 30p sửa Klett water cycle",
+      "submittedAt": "2026-08-17T10:59:51.895Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "SN Community Health: 1. Community Assessment  ~16 mins",
           "progress": "50%",
-          "timeSpent": "7h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "7h",
+          "title": "SN Community Health: 1. Community Assessment  ~16 mins"
         }
       ],
-      "message": "họp + 30p sửa Klett water cycle"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }
