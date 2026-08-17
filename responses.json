@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-08-17",
-      "message": "Em lÃ m ná»t 34. ABGs in Clinical Scenarios: From Numbers to Nursing Action háº¿t 5.5h vÃ  sá»­a feedback cá»§a khÃ¡ch cho 32. How Compensation Works in ABGs háº¿t 0.5h áº¡",
+      "message": "Em lÃÂ m nÃ¡Â»Ât 34. ABGs in Clinical Scenarios: From Numbers to Nursing Action hÃ¡ÂºÂ¿t 5.5h vÃÂ  sÃ¡Â»Â­a feedback cÃ¡Â»Â§a khÃÂ¡ch cho 32. How Compensation Works in ABGs hÃ¡ÂºÂ¿t 0.5h Ã¡ÂºÂ¡",
       "submittedAt": "2026-08-17T10:47:46.816Z",
       "tasks": [
         {
@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-08-17",
-      "message": "họp + 30p sửa Klett water cycle",
+      "message": "há»p + 30p sá»­a Klett water cycle",
       "submittedAt": "2026-08-17T10:59:51.895Z",
       "tasks": [
         {
@@ -28,6 +28,20 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-08-17T11:06:48.336Z",
+      "date": "2026-08-17",
+      "tasks": [
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "SN Community Health: 2. Disaster Management - Types of Disasters ~16 mins",
+          "progress": "40%",
+          "timeSpent": "6h"
+        }
+      ],
+      "message": "Sửa LDA 5.1 nội bộ 2 tiếng"
     }
   ]
 }
