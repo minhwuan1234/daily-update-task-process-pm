@@ -64,18 +64,18 @@
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     },
     {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-08-17T11:22:37.131Z",
       "date": "2026-08-17",
+      "message": "",
+      "submittedAt": "2026-08-17T11:22:37.131Z",
       "tasks": [
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "LDA Business Continuity ~1.5 min (1.5)",
           "progress": "70%",
-          "timeSpent": "8h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "timeSpent": "8h",
+          "title": "LDA Business Continuity ~1.5 min (1.5)"
         }
       ],
-      "message": ""
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     }
   ]
 }
