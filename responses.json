@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-08-17",
-      "message": "Em làm nốt 34. ABGs in Clinical Scenarios: From Numbers to Nursing Action hết 5.5h và sửa feedback của khách cho 32. How Compensation Works in ABGs hết 0.5h ạ",
+      "message": "Em lÃ m ná»t 34. ABGs in Clinical Scenarios: From Numbers to Nursing Action háº¿t 5.5h vÃ  sá»­a feedback cá»§a khÃ¡ch cho 32. How Compensation Works in ABGs háº¿t 0.5h áº¡",
       "submittedAt": "2026-08-17T10:47:46.816Z",
       "tasks": [
         {
@@ -14,6 +14,20 @@
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
+    },
+    {
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-08-17T10:59:51.895Z",
+      "date": "2026-08-17",
+      "tasks": [
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "title": "SN Community Health: 1. Community Assessment  ~16 mins",
+          "progress": "50%",
+          "timeSpent": "7h"
+        }
+      ],
+      "message": "họp + 30p sửa Klett water cycle"
     }
   ]
 }
