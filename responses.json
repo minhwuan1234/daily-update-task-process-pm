@@ -1,81 +1,19 @@
 {
-  "date": "2026-08-14",
+  "date": "2026-08-17",
   "responses": [
     {
-      "date": "2026-08-14",
-      "message": "CÃÂÃÂÃÂÃÂ²n lÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¡i sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a LDA vÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂi sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a UV tÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¹o",
-      "submittedAt": "2026-08-14T11:08:32.929Z",
+      "userId": "ou_e0897ef23f084625d708cd50c16468db",
+      "submittedAt": "2026-08-17T10:47:46.816Z",
+      "date": "2026-08-17",
       "tasks": [
         {
-          "progress": "10%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "6.5h",
-          "title": "SN Community Health: 1. Community Assessment  ~16 mins"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-08-14",
-      "message": "SN Outdated content ep 11 (1.5h)",
-      "submittedAt": "2026-08-14T11:10:44.056Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "6.5h",
-          "title": "Web Patient edu promote video: Script 3 animatic"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-08-14",
-      "message": "em sÃ¡Â»Â­a nÃ¡Â»Âi bÃ¡Â»Â 32. How Compensation Works in ABGs trong 1h vÃÂ  hÃ¡Â»Âp tÃ¡Â»Âng kÃ¡ÂºÂ¿t cuÃ¡Â»Âi tuÃ¡ÂºÂ§n 0.5h Ã¡ÂºÂ¡",
-      "submittedAt": "2026-08-14T11:11:11.757Z",
-      "tasks": [
-        {
-          "progress": "80%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "6.5h",
-          "title": "SN Priority: 34. ABGs in Clinical Scenarios: From Numbers to Nursing Action ~6mins"
+          "title": "RnD: From script to storyboard (1.5)",
+          "progress": "10%",
+          "timeSpent": "1.5h"
         }
       ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
-    },
-    {
-      "date": "2026-08-14",
-      "message": "",
-      "submittedAt": "2026-08-14T11:11:55.418Z",
-      "tasks": [
-        {
-          "progress": "20%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "4h",
-          "title": "SN Community Health: 2. Disaster Management - Types of Disasters ~16 mins"
-        },
-        {
-          "progress": "100%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
-          "timeSpent": "4h",
-          "title": "SN Back to school video (vertical) ~40s (0.5)"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-08-14",
-      "message": "",
-      "submittedAt": "2026-08-14T14:06:51.756Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "8h",
-          "title": "Web Patient edu promote video: Script 2 animatic (2)"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": "Em làm nốt 34. ABGs in Clinical Scenarios: From Numbers to Nursing Action hết 5.5h và sửa feedback của khách cho 32. How Compensation Works in ABGs hết 0.5h ạ"
     }
   ]
 }
