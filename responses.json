@@ -35,7 +35,7 @@
         {
           "progress": "0%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
-          "timeSpent": "â",
+          "timeSpent": "Ã¢ÂÂ",
           "title": "Studiohumanity Concept Development fix #1 -- Feedback 17/8?"
         }
       ],
@@ -54,6 +54,20 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-08-18T11:16:51.538Z",
+      "date": "2026-08-18",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "SN Outdated Content: 11. Geriatric Medication Safety ~15 mins Anim (3.5)",
+          "progress": "50%",
+          "timeSpent": "6.5h"
+        }
+      ],
+      "message": "- Feedback RnD Storytelling (1h)\n- SN Back to school Homepage (0.5h)"
     }
   ]
 }
