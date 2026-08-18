@@ -20,6 +20,26 @@
         }
       ],
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+    },
+    {
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-08-18T10:53:46.108Z",
+      "date": "2026-08-18",
+      "tasks": [
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "SN Community Health: 2. Disaster Management - Types of Disasters ~16 mins",
+          "progress": "60%",
+          "timeSpent": "8h"
+        },
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
+          "title": "Studiohumanity Concept Development fix #1 -- Feedback 17/8?",
+          "progress": "0%",
+          "timeSpent": "—"
+        }
+      ],
+      "message": ""
     }
   ]
 }
