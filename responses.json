@@ -84,18 +84,18 @@
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
     },
     {
-      "userId": "ou_e273fec35061a42660190f8c70f19882",
-      "submittedAt": "2026-08-18T15:13:04.474Z",
       "date": "2026-08-18",
+      "message": "",
+      "submittedAt": "2026-08-18T15:13:04.474Z",
       "tasks": [
         {
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "title": "SN Priority: : 32. How Compensation Works in ABGs ~6min",
           "progress": "50%",
-          "timeSpent": "8h"
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
+          "timeSpent": "8h",
+          "title": "SN Priority: : 32. How Compensation Works in ABGs ~6min"
         }
       ],
-      "message": ""
+      "userId": "ou_e273fec35061a42660190f8c70f19882"
     }
   ]
 }
