@@ -70,18 +70,18 @@
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     },
     {
-      "userId": "ou_e0897ef23f084625d708cd50c16468db",
-      "submittedAt": "2026-08-18T13:05:10.611Z",
       "date": "2026-08-18",
+      "message": "em chuẩn bị wrap up và meeting hết 5h ạ",
+      "submittedAt": "2026-08-18T13:05:10.611Z",
       "tasks": [
         {
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "title": "RnD: From script to storyboard (1.5)",
           "progress": "20%",
-          "timeSpent": "3h"
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
+          "timeSpent": "3h",
+          "title": "RnD: From script to storyboard (1.5)"
         }
       ],
-      "message": "em chuẩn bị wrap up và meeting hết 5h ạ"
+      "userId": "ou_e0897ef23f084625d708cd50c16468db"
     }
   ]
 }
