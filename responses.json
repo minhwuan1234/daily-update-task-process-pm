@@ -17,13 +17,13 @@
     },
     {
       "date": "2026-08-19",
-      "message": "em lÃ m OKR háº¿t 8h áº¡",
+      "message": "em lÃÂ m OKR hÃ¡ÂºÂ¿t 8h Ã¡ÂºÂ¡",
       "submittedAt": "2026-08-19T10:49:54.062Z",
       "tasks": [
         {
           "progress": "0%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "â",
+          "timeSpent": "Ã¢ÂÂ",
           "title": "SN Priority: 35. ABG Practice Questions for Nursing Students ~5mins"
         }
       ],
@@ -42,6 +42,20 @@
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-08-19T11:13:28.376Z",
+      "date": "2026-08-19",
+      "tasks": [
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "title": "SN Community Health: 1. Community Assessment  ~16 mins",
+          "progress": "90%",
+          "timeSpent": "7.5h"
+        }
+      ],
+      "message": "thỉnh thoảng giải đáp thắc mắc cho anh em khoảng 30p"
     }
   ]
 }
