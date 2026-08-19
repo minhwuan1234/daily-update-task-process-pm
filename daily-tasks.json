@@ -1,12 +1,12 @@
 {
-  "date": "18-Aug",
-  "generatedAt": "2026-08-18T10:45:09.274Z",
+  "date": "19-Aug",
+  "generatedAt": "2026-08-19T10:45:10.381Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "18-Aug",
+          "date": "19-Aug",
           "dueDate": "21/8",
           "task": "SN Community Health: 1. Community Assessment  ~16 mins"
         }
@@ -16,14 +16,9 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "18-Aug",
+          "date": "19-Aug",
           "dueDate": "21/8",
           "task": "SN Community Health: 2. Disaster Management - Types of Disasters ~16 mins"
-        },
-        {
-          "date": "18-Aug",
-          "dueDate": "19/8",
-          "task": "Studiohumanity Concept Development fix #1 -- Feedback 17/8?"
         }
       ]
     },
@@ -31,9 +26,9 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "18-Aug",
-          "dueDate": null,
-          "task": "RnD: From script to storyboard (1.5)"
+          "date": "19-Aug",
+          "dueDate": "4/9",
+          "task": "SN Priority: 35. ABG Practice Questions for Nursing Students ~5mins"
         }
       ]
     },
@@ -41,7 +36,7 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "18-Aug",
+          "date": "19-Aug",
           "dueDate": "28/8",
           "task": "SN Priority: : 32. How Compensation Works in ABGs ~6min"
         }
@@ -51,7 +46,7 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "18-Aug",
+          "date": "19-Aug",
           "dueDate": "28/8",
           "task": "SN Outdated Content: 11. Geriatric Medication Safety ~15 mins Anim (3.5)"
         }
@@ -61,12 +56,7 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "18-Aug",
-          "dueDate": "25/8",
-          "task": "LDA Business Continuity ~1.5 min (1.5)"
-        },
-        {
-          "date": "18-Aug",
+          "date": "19-Aug",
           "dueDate": "28/8",
           "task": "SN Priority: 31. Respiratory vs Metabolic Disorders Made Simple ~5mins (1.25)"
         }
@@ -74,5 +64,5 @@
     }
   ],
   "totalMembers": 6,
-  "totalTasks": 8
+  "totalTasks": 6
 }
