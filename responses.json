@@ -30,18 +30,18 @@
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
     },
     {
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
-      "submittedAt": "2026-08-19T11:12:53.442Z",
       "date": "2026-08-19",
+      "message": "",
+      "submittedAt": "2026-08-19T11:12:53.442Z",
       "tasks": [
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "title": "SN Outdated Content: 11. Geriatric Medication Safety ~15 mins Anim (3.5)",
           "progress": "80%",
-          "timeSpent": "8h"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "timeSpent": "8h",
+          "title": "SN Outdated Content: 11. Geriatric Medication Safety ~15 mins Anim (3.5)"
         }
       ],
-      "message": ""
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     }
   ]
 }
