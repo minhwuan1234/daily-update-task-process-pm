@@ -1,14 +1,19 @@
 {
-  "date": "19-Aug",
-  "generatedAt": "2026-08-19T10:45:10.381Z",
+  "date": "20-Aug",
+  "generatedAt": "2026-08-20T10:45:09.411Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "19-Aug",
+          "date": "20-Aug",
           "dueDate": "21/8",
           "task": "SN Community Health: 1. Community Assessment  ~16 mins"
+        },
+        {
+          "date": "20-Aug",
+          "dueDate": "4/9",
+          "task": "SN Priority: 36. Don’t Confuse Metabolic vs Respiratory Imbalances ~4 mins"
         }
       ]
     },
@@ -16,7 +21,7 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "19-Aug",
+          "date": "20-Aug",
           "dueDate": "21/8",
           "task": "SN Community Health: 2. Disaster Management - Types of Disasters ~16 mins"
         }
@@ -26,7 +31,7 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "19-Aug",
+          "date": "20-Aug",
           "dueDate": "4/9",
           "task": "SN Priority: 35. ABG Practice Questions for Nursing Students ~5mins"
         }
@@ -36,9 +41,9 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "19-Aug",
-          "dueDate": "28/8",
-          "task": "SN Priority: : 32. How Compensation Works in ABGs ~6min"
+          "date": "20-Aug",
+          "dueDate": "24/8",
+          "task": "SN Homepage video update ~40s"
         }
       ]
     },
@@ -46,7 +51,12 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "19-Aug",
+          "date": "20-Aug",
+          "dueDate": null,
+          "task": "OKR: Personal project: Improve anim quality"
+        },
+        {
+          "date": "20-Aug",
           "dueDate": "28/8",
           "task": "SN Outdated Content: 11. Geriatric Medication Safety ~15 mins Anim (3.5)"
         }
@@ -56,13 +66,13 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "19-Aug",
-          "dueDate": "28/8",
-          "task": "SN Priority: 31. Respiratory vs Metabolic Disorders Made Simple ~5mins (1.25)"
+          "date": "20-Aug",
+          "dueDate": null,
+          "task": "OKR: Timing/Pacing course (1.5)"
         }
       ]
     }
   ],
   "totalMembers": 6,
-  "totalTasks": 6
+  "totalTasks": 8
 }
