@@ -1,61 +1,19 @@
 {
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "responses": [
     {
-      "date": "2026-08-19",
-      "message": "",
-      "submittedAt": "2026-08-19T10:49:00.713Z",
+      "userId": "ou_e0897ef23f084625d708cd50c16468db",
+      "submittedAt": "2026-08-20T10:46:39.092Z",
+      "date": "2026-08-20",
       "tasks": [
         {
-          "progress": "80%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "8h",
-          "title": "SN Community Health: 2. Disaster Management - Types of Disasters ~16 mins"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-08-19",
-      "message": "em lÃÂ m OKR hÃ¡ÂºÂ¿t 8h Ã¡ÂºÂ¡",
-      "submittedAt": "2026-08-19T10:49:54.062Z",
-      "tasks": [
-        {
-          "progress": "0%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "Ã¢ÂÂ",
-          "title": "SN Priority: 35. ABG Practice Questions for Nursing Students ~5mins"
+          "title": "SN Priority: 35. ABG Practice Questions for Nursing Students ~5mins",
+          "progress": "30%",
+          "timeSpent": "3h"
         }
       ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
-    },
-    {
-      "date": "2026-08-19",
-      "message": "",
-      "submittedAt": "2026-08-19T11:12:53.442Z",
-      "tasks": [
-        {
-          "progress": "80%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "8h",
-          "title": "SN Outdated Content: 11. Geriatric Medication Safety ~15 mins Anim (3.5)"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-08-19",
-      "message": "thỉnh thoảng giải đáp thắc mắc cho anh em khoảng 30p",
-      "submittedAt": "2026-08-19T11:13:28.376Z",
-      "tasks": [
-        {
-          "progress": "90%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "7.5h",
-          "title": "SN Community Health: 1. Community Assessment  ~16 mins"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+      "message": "em sửa nội bộ 33. Common ABG Mistakes Nursing Students Make hết 5h ạ"
     }
   ]
 }
