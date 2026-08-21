@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-08-21",
-      "message": "khoáº£ng thá»i gian cÃ²n láº¡i sá»­a tÃ½ SN Assessing the Community + AMD 7.4",
+      "message": "khoÃ¡ÂºÂ£ng thÃ¡Â»Âi gian cÃÂ²n lÃ¡ÂºÂ¡i sÃ¡Â»Â­a tÃÂ½ SN Assessing the Community + AMD 7.4",
       "submittedAt": "2026-08-21T10:46:51.227Z",
       "tasks": [
         {
@@ -16,14 +16,14 @@
           "progress": "70%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
           "timeSpent": "4h",
-          "title": "SN Priority: 36. Donât Confuse Metabolic vs Respiratory Imbalances ~4 mins"
+          "title": "SN Priority: 36. DonÃ¢ÂÂt Confuse Metabolic vs Respiratory Imbalances ~4 mins"
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     },
     {
       "date": "2026-08-21",
-      "message": "Em sửa nội bộ 33. Common ABG Mistakes Nursing Students Make hết 1h; 34. ABGs in Clinical Scenarios: From Numbers to Nursing Action hết 5.5h và so sánh cách làm SN giữa em vs chị Thư chị Vi hết 0.5h ạ",
+      "message": "Em sá»­a ná»i bá» 33. Common ABG Mistakes Nursing Students Make háº¿t 1h; 34. ABGs in Clinical Scenarios: From Numbers to Nursing Action háº¿t 5.5h vÃ  so sÃ¡nh cÃ¡ch lÃ m SN giá»¯a em vs chá» ThÆ° chá» Vi háº¿t 0.5h áº¡",
       "submittedAt": "2026-08-21T10:49:02.223Z",
       "tasks": [
         {
@@ -34,6 +34,20 @@
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
+    },
+    {
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-08-21T11:17:16.528Z",
+      "date": "2026-08-21",
+      "tasks": [
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "OKR",
+          "progress": "100%",
+          "timeSpent": "2h"
+        }
+      ],
+      "message": "SN Comm health 2: Illus 1h, Thumb 2 option: 30p\nSN priority 31 15p"
     }
   ]
 }
