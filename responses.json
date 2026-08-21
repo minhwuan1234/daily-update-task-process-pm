@@ -22,18 +22,18 @@
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     },
     {
-      "userId": "ou_e0897ef23f084625d708cd50c16468db",
-      "submittedAt": "2026-08-21T10:49:02.223Z",
       "date": "2026-08-21",
+      "message": "Em sửa nội bộ 33. Common ABG Mistakes Nursing Students Make hết 1h; 34. ABGs in Clinical Scenarios: From Numbers to Nursing Action hết 5.5h và so sánh cách làm SN giữa em vs chị Thư chị Vi hết 0.5h ạ",
+      "submittedAt": "2026-08-21T10:49:02.223Z",
       "tasks": [
         {
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "title": "SN Priority: 35. ABG Practice Questions for Nursing Students ~5mins",
           "progress": "40%",
-          "timeSpent": "1h"
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
+          "timeSpent": "1h",
+          "title": "SN Priority: 35. ABG Practice Questions for Nursing Students ~5mins"
         }
       ],
-      "message": "Em sửa nội bộ 33. Common ABG Mistakes Nursing Students Make hết 1h; 34. ABGs in Clinical Scenarios: From Numbers to Nursing Action hết 5.5h và so sánh cách làm SN giữa em vs chị Thư chị Vi hết 0.5h ạ"
+      "userId": "ou_e0897ef23f084625d708cd50c16468db"
     }
   ]
 }
