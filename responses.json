@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-08-21",
-      "message": "khoÃÂ¡ÃÂºÃÂ£ng thÃÂ¡ÃÂ»ÃÂi gian cÃÂÃÂ²n lÃÂ¡ÃÂºÃÂ¡i sÃÂ¡ÃÂ»ÃÂ­a tÃÂÃÂ½ SN Assessing the Community + AMD 7.4",
+      "message": "khoÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ£ng thÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂi gian cÃÂÃÂÃÂÃÂ²n lÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¡i sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a tÃÂÃÂÃÂÃÂ½ SN Assessing the Community + AMD 7.4",
       "submittedAt": "2026-08-21T10:46:51.227Z",
       "tasks": [
         {
@@ -16,14 +16,14 @@
           "progress": "70%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
           "timeSpent": "4h",
-          "title": "SN Priority: 36. DonÃÂ¢ÃÂÃÂt Confuse Metabolic vs Respiratory Imbalances ~4 mins"
+          "title": "SN Priority: 36. DonÃÂÃÂ¢ÃÂÃÂÃÂÃÂt Confuse Metabolic vs Respiratory Imbalances ~4 mins"
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     },
     {
       "date": "2026-08-21",
-      "message": "Em sÃ¡Â»Â­a nÃ¡Â»Âi bÃ¡Â»Â 33. Common ABG Mistakes Nursing Students Make hÃ¡ÂºÂ¿t 1h; 34. ABGs in Clinical Scenarios: From Numbers to Nursing Action hÃ¡ÂºÂ¿t 5.5h vÃÂ  so sÃÂ¡nh cÃÂ¡ch lÃÂ m SN giÃ¡Â»Â¯a em vs chÃ¡Â»Â ThÃÂ° chÃ¡Â»Â Vi hÃ¡ÂºÂ¿t 0.5h Ã¡ÂºÂ¡",
+      "message": "Em sÃÂ¡ÃÂ»ÃÂ­a nÃÂ¡ÃÂ»ÃÂi bÃÂ¡ÃÂ»ÃÂ 33. Common ABG Mistakes Nursing Students Make hÃÂ¡ÃÂºÃÂ¿t 1h; 34. ABGs in Clinical Scenarios: From Numbers to Nursing Action hÃÂ¡ÃÂºÃÂ¿t 5.5h vÃÂÃÂ  so sÃÂÃÂ¡nh cÃÂÃÂ¡ch lÃÂÃÂ m SN giÃÂ¡ÃÂ»ÃÂ¯a em vs chÃÂ¡ÃÂ»ÃÂ ThÃÂÃÂ° chÃÂ¡ÃÂ»ÃÂ Vi hÃÂ¡ÃÂºÃÂ¿t 0.5h ÃÂ¡ÃÂºÃÂ¡",
       "submittedAt": "2026-08-21T10:49:02.223Z",
       "tasks": [
         {
@@ -62,6 +62,20 @@
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-08-21T15:50:18.549Z",
+      "date": "2026-08-21",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "OKR: Timing/Pacing course",
+          "progress": "80%",
+          "timeSpent": "4h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
