@@ -1,17 +1,17 @@
 {
-  "date": "20-Aug",
-  "generatedAt": "2026-08-20T10:45:09.411Z",
+  "date": "21-Aug",
+  "generatedAt": "2026-08-21T10:45:10.108Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "20-Aug",
+          "date": "21-Aug",
           "dueDate": "21/8",
-          "task": "SN Community Health: 1. Community Assessment  ~16 mins"
+          "task": "UV Smart: D45 New physical flyer for German doctors 2h"
         },
         {
-          "date": "20-Aug",
+          "date": "21-Aug",
           "dueDate": "4/9",
           "task": "SN Priority: 36. Don’t Confuse Metabolic vs Respiratory Imbalances ~4 mins"
         }
@@ -21,9 +21,9 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "20-Aug",
-          "dueDate": "21/8",
-          "task": "SN Community Health: 2. Disaster Management - Types of Disasters ~16 mins"
+          "date": "21-Aug",
+          "dueDate": null,
+          "task": "OKR"
         }
       ]
     },
@@ -31,7 +31,7 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "20-Aug",
+          "date": "21-Aug",
           "dueDate": "4/9",
           "task": "SN Priority: 35. ABG Practice Questions for Nursing Students ~5mins"
         }
@@ -41,9 +41,9 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "20-Aug",
-          "dueDate": "24/8",
-          "task": "SN Homepage video update ~40s"
+          "date": "21-Aug",
+          "dueDate": null,
+          "task": "OKR: Personal project: Build app"
         }
       ]
     },
@@ -51,14 +51,9 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "20-Aug",
+          "date": "21-Aug",
           "dueDate": null,
-          "task": "OKR: Personal project: Improve anim quality"
-        },
-        {
-          "date": "20-Aug",
-          "dueDate": "28/8",
-          "task": "SN Outdated Content: 11. Geriatric Medication Safety ~15 mins Anim (3.5)"
+          "task": "OKR: Personal project: Improve anim quality (3h)"
         }
       ]
     },
@@ -66,13 +61,13 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "20-Aug",
+          "date": "21-Aug",
           "dueDate": null,
-          "task": "OKR: Timing/Pacing course (1.5)"
+          "task": "OKR: Timing/Pacing course"
         }
       ]
     }
   ],
   "totalMembers": 6,
-  "totalTasks": 8
+  "totalTasks": 7
 }
