@@ -2,24 +2,24 @@
   "date": "2026-08-21",
   "responses": [
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-08-21T10:46:51.227Z",
       "date": "2026-08-21",
+      "message": "khoảng thời gian còn lại sửa tý SN Assessing the Community + AMD 7.4",
+      "submittedAt": "2026-08-21T10:46:51.227Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "UV Smart: D45 New physical flyer for German doctors 2h",
           "progress": "100%",
-          "timeSpent": "3h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "3h",
+          "title": "UV Smart: D45 New physical flyer for German doctors 2h"
         },
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "title": "SN Priority: 36. Don’t Confuse Metabolic vs Respiratory Imbalances ~4 mins",
           "progress": "70%",
-          "timeSpent": "4h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
+          "timeSpent": "4h",
+          "title": "SN Priority: 36. Don’t Confuse Metabolic vs Respiratory Imbalances ~4 mins"
         }
       ],
-      "message": "khoảng thời gian còn lại sửa tý SN Assessing the Community + AMD 7.4"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }
