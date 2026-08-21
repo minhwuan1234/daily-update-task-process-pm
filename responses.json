@@ -1,67 +1,25 @@
 {
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "responses": [
     {
-      "date": "2026-08-20",
-      "message": "em sÃÂ¡ÃÂ»ÃÂ­a nÃÂ¡ÃÂ»ÃÂi bÃÂ¡ÃÂ»ÃÂ 33. Common ABG Mistakes Nursing Students Make hÃÂ¡ÃÂºÃÂ¿t 5h ÃÂ¡ÃÂºÃÂ¡",
-      "submittedAt": "2026-08-20T10:46:39.092Z",
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-08-21T10:46:51.227Z",
+      "date": "2026-08-21",
       "tasks": [
         {
-          "progress": "30%",
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "3h",
-          "title": "SN Priority: 35. ABG Practice Questions for Nursing Students ~5mins"
-        }
-      ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
-    },
-    {
-      "date": "2026-08-20",
-      "message": "",
-      "submittedAt": "2026-08-20T10:56:00.520Z",
-      "tasks": [
-        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "title": "UV Smart: D45 New physical flyer for German doctors 2h",
           "progress": "100%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "8h",
-          "title": "SN Community Health: 2. Disaster Management - Types of Disasters ~16 mins"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
-      "submittedAt": "2026-08-20T11:08:08.977Z",
-      "date": "2026-08-20",
-      "tasks": [
-        {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "title": "OKR: Personal project: Improve anim quality",
-          "progress": "10%",
           "timeSpent": "3h"
         },
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
-          "title": "SN Outdated Content: 11. Geriatric Medication Safety ~15 mins Anim (3.5)",
-          "progress": "100%",
-          "timeSpent": "5h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
+          "title": "SN Priority: 36. Don’t Confuse Metabolic vs Respiratory Imbalances ~4 mins",
+          "progress": "70%",
+          "timeSpent": "4h"
         }
       ],
-      "message": ""
-    },
-    {
-      "date": "2026-08-20",
-      "message": "2h fix LDA",
-      "submittedAt": "2026-08-20T11:09:58.966Z",
-      "tasks": [
-        {
-          "progress": "80%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "6h",
-          "title": "OKR: Timing/Pacing course (1.5)"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": "khoảng thời gian còn lại sửa tý SN Assessing the Community + AMD 7.4"
     }
   ]
 }
