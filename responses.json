@@ -2,24 +2,24 @@
   "date": "2026-08-22",
   "responses": [
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-08-22T11:09:24.069Z",
       "date": "2026-08-22",
+      "message": "sáng em làm nốt SN 36, còn lại 1,5h họp",
+      "submittedAt": "2026-08-22T11:09:24.069Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "Conation media: Concept Art (2)",
           "progress": "10%",
-          "timeSpent": "3h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "3h",
+          "title": "Conation media: Concept Art (2)"
         },
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "title": "AMD fixing 20'",
           "progress": "100%",
-          "timeSpent": "0.5h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
+          "timeSpent": "0.5h",
+          "title": "AMD fixing 20'"
         }
       ],
-      "message": "sáng em làm nốt SN 36, còn lại 1,5h họp"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }
