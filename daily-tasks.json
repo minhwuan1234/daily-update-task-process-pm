@@ -1,19 +1,19 @@
 {
-  "date": "21-Aug",
-  "generatedAt": "2026-08-21T10:45:10.108Z",
+  "date": "22-Aug",
+  "generatedAt": "2026-08-22T10:45:18.365Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "21-Aug",
-          "dueDate": "21/8",
-          "task": "UV Smart: D45 New physical flyer for German doctors 2h"
+          "date": "22-Aug",
+          "dueDate": "28/8",
+          "task": "Conation media: Concept Art (2)"
         },
         {
-          "date": "21-Aug",
-          "dueDate": "4/9",
-          "task": "SN Priority: 36. Don’t Confuse Metabolic vs Respiratory Imbalances ~4 mins"
+          "date": "22-Aug",
+          "dueDate": null,
+          "task": "AMD fixing 20'"
         }
       ]
     },
@@ -21,9 +21,9 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "21-Aug",
-          "dueDate": null,
-          "task": "OKR"
+          "date": "22-Aug",
+          "dueDate": "11/9",
+          "task": "SN Community Health: 3. Disaster Management - Terrorism ~18mins"
         }
       ]
     },
@@ -31,7 +31,7 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "21-Aug",
+          "date": "22-Aug",
           "dueDate": "4/9",
           "task": "SN Priority: 35. ABG Practice Questions for Nursing Students ~5mins"
         }
@@ -41,7 +41,7 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "21-Aug",
+          "date": "22-Aug",
           "dueDate": null,
           "task": "OKR: Personal project: Build app"
         }
@@ -51,9 +51,9 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "21-Aug",
+          "date": "22-Aug",
           "dueDate": null,
-          "task": "OKR: Personal project: Improve anim quality (3h)"
+          "task": "OKR: Personal project: Improve anim quality"
         }
       ]
     },
@@ -61,9 +61,9 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "21-Aug",
-          "dueDate": null,
-          "task": "OKR: Timing/Pacing course"
+          "date": "22-Aug",
+          "dueDate": "28/8",
+          "task": "SN Community Health: 1. Community Assessment  ~16 mins"
         }
       ]
     }
