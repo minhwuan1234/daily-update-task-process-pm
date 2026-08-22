@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-08-22",
-      "message": "sáng em làm nốt SN 36, còn lại 1,5h họp",
+      "message": "sÃ¡ng em lÃ m ná»t SN 36, cÃ²n láº¡i 1,5h há»p",
       "submittedAt": "2026-08-22T11:09:24.069Z",
       "tasks": [
         {
@@ -20,6 +20,20 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_e0897ef23f084625d708cd50c16468db",
+      "submittedAt": "2026-08-22T11:25:06.396Z",
+      "date": "2026-08-22",
+      "tasks": [
+        {
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
+          "title": "SN Priority: 35. ABG Practice Questions for Nursing Students ~5mins",
+          "progress": "90%",
+          "timeSpent": "7h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
