@@ -1,81 +1,25 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "responses": [
     {
-      "date": "2026-08-21",
-      "message": "khoÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ£ng thÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂi gian cÃÂÃÂÃÂÃÂ²n lÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¡i sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a tÃÂÃÂÃÂÃÂ½ SN Assessing the Community + AMD 7.4",
-      "submittedAt": "2026-08-21T10:46:51.227Z",
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-08-22T11:09:24.069Z",
+      "date": "2026-08-22",
       "tasks": [
         {
-          "progress": "100%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "3h",
-          "title": "UV Smart: D45 New physical flyer for German doctors 2h"
+          "title": "Conation media: Concept Art (2)",
+          "progress": "10%",
+          "timeSpent": "3h"
         },
         {
-          "progress": "70%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "timeSpent": "4h",
-          "title": "SN Priority: 36. DonÃÂÃÂ¢ÃÂÃÂÃÂÃÂt Confuse Metabolic vs Respiratory Imbalances ~4 mins"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-08-21",
-      "message": "Em sÃÂ¡ÃÂ»ÃÂ­a nÃÂ¡ÃÂ»ÃÂi bÃÂ¡ÃÂ»ÃÂ 33. Common ABG Mistakes Nursing Students Make hÃÂ¡ÃÂºÃÂ¿t 1h; 34. ABGs in Clinical Scenarios: From Numbers to Nursing Action hÃÂ¡ÃÂºÃÂ¿t 5.5h vÃÂÃÂ  so sÃÂÃÂ¡nh cÃÂÃÂ¡ch lÃÂÃÂ m SN giÃÂ¡ÃÂ»ÃÂ¯a em vs chÃÂ¡ÃÂ»ÃÂ ThÃÂÃÂ° chÃÂ¡ÃÂ»ÃÂ Vi hÃÂ¡ÃÂºÃÂ¿t 0.5h ÃÂ¡ÃÂºÃÂ¡",
-      "submittedAt": "2026-08-21T10:49:02.223Z",
-      "tasks": [
-        {
-          "progress": "40%",
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "1h",
-          "title": "SN Priority: 35. ABG Practice Questions for Nursing Students ~5mins"
-        }
-      ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
-    },
-    {
-      "date": "2026-08-21",
-      "message": "SN Comm health 2: Illus 1h, Thumb 2 option: 30p\nSN priority 31 15p",
-      "submittedAt": "2026-08-21T11:17:16.528Z",
-      "tasks": [
-        {
+          "title": "AMD fixing 20'",
           "progress": "100%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "2h",
-          "title": "OKR"
+          "timeSpent": "0.5h"
         }
       ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-08-21",
-      "message": "",
-      "submittedAt": "2026-08-21T11:33:07.745Z",
-      "tasks": [
-        {
-          "progress": "10%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "8h",
-          "title": "OKR: Personal project: Improve anim quality (3h)"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-08-21",
-      "message": "",
-      "submittedAt": "2026-08-21T15:50:18.549Z",
-      "tasks": [
-        {
-          "progress": "80%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "4h",
-          "title": "OKR: Timing/Pacing course"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": "sáng em làm nốt SN 36, còn lại 1,5h họp"
     }
   ]
 }
