@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-08-24",
-      "message": "em lÃÂ m nÃ¡Â»Ât 35. ABG Practice Questions for Nursing Students hÃ¡ÂºÂ¿t 3h Ã¡ÂºÂ¡",
+      "message": "em lÃÂÃÂ m nÃÂ¡ÃÂ»ÃÂt 35. ABG Practice Questions for Nursing Students hÃÂ¡ÃÂºÃÂ¿t 3h ÃÂ¡ÃÂºÃÂ¡",
       "submittedAt": "2026-08-24T10:56:11.470Z",
       "tasks": [
         {
@@ -45,17 +45,31 @@
     },
     {
       "date": "2026-08-24",
-      "message": "khoảng >30p họp + check câu hỏi Klett của Hà (~10p) + sửa tẹo SN 36 (~5p)",
+      "message": "khoáº£ng >30p há»p + check cÃ¢u há»i Klett cá»§a HÃ  (~10p) + sá»­a táº¹o SN 36 (~5p)",
       "submittedAt": "2026-08-24T11:16:44.993Z",
       "tasks": [
         {
           "progress": "80%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
           "timeSpent": "7h",
-          "title": "Conation media: Concept Art tiếp"
+          "title": "Conation media: Concept Art tiáº¿p"
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-08-24T16:58:22.762Z",
+      "date": "2026-08-24",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "OKR: Timing/Pacing course",
+          "progress": "20%",
+          "timeSpent": "4h"
+        }
+      ],
+      "message": "2h Maven 2h SN"
     }
   ]
 }
