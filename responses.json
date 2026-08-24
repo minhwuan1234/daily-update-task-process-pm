@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-08-24",
-      "message": "em lÃ m ná»t 35. ABG Practice Questions for Nursing Students háº¿t 3h áº¡",
+      "message": "em lÃÂ m nÃ¡Â»Ât 35. ABG Practice Questions for Nursing Students hÃ¡ÂºÂ¿t 3h Ã¡ÂºÂ¡",
       "submittedAt": "2026-08-24T10:56:11.470Z",
       "tasks": [
         {
@@ -42,6 +42,20 @@
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-08-24T11:16:44.993Z",
+      "date": "2026-08-24",
+      "tasks": [
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "title": "Conation media: Concept Art tiếp",
+          "progress": "80%",
+          "timeSpent": "7h"
+        }
+      ],
+      "message": "khoảng >30p họp + check câu hỏi Klett của Hà (~10p) + sửa tẹo SN 36 (~5p)"
     }
   ]
 }
