@@ -1,67 +1,19 @@
 {
-  "date": "2026-08-22",
+  "date": "2026-08-24",
   "responses": [
     {
-      "date": "2026-08-22",
-      "message": "sÃÂÃÂ¡ng em lÃÂÃÂ m nÃÂ¡ÃÂ»ÃÂt SN 36, cÃÂÃÂ²n lÃÂ¡ÃÂºÃÂ¡i 1,5h hÃÂ¡ÃÂ»ÃÂp",
-      "submittedAt": "2026-08-22T11:09:24.069Z",
+      "userId": "ou_e273fec35061a42660190f8c70f19882",
+      "submittedAt": "2026-08-24T10:47:51.037Z",
+      "date": "2026-08-24",
       "tasks": [
         {
-          "progress": "10%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "3h",
-          "title": "Conation media: Concept Art (2)"
-        },
-        {
-          "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "timeSpent": "0.5h",
-          "title": "AMD fixing 20'"
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
+          "title": "SN Priority: 33. Common ABG Mistakes Nursing Students Make ~ 5 mins",
+          "progress": "60%",
+          "timeSpent": "8h"
         }
       ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-08-22",
-      "message": "",
-      "submittedAt": "2026-08-22T11:25:06.396Z",
-      "tasks": [
-        {
-          "progress": "90%",
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "7h",
-          "title": "SN Priority: 35. ABG Practice Questions for Nursing Students ~5mins"
-        }
-      ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
-    },
-    {
-      "date": "2026-08-22",
-      "message": "20% non",
-      "submittedAt": "2026-08-22T11:29:56.349Z",
-      "tasks": [
-        {
-          "progress": "20%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "8h",
-          "title": "SN Community Health: 3. Disaster Management - Terrorism ~18mins"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-08-22",
-      "message": "1h hop team",
-      "submittedAt": "2026-08-22T14:56:34.520Z",
-      "tasks": [
-        {
-          "progress": "30%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "7h",
-          "title": "SN Community Health: 1. Community Assessment  ~16 mins"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": ""
     }
   ]
 }
