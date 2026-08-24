@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-08-24",
-      "message": "em làm nốt 35. ABG Practice Questions for Nursing Students hết 3h ạ",
+      "message": "em lÃ m ná»t 35. ABG Practice Questions for Nursing Students háº¿t 3h áº¡",
       "submittedAt": "2026-08-24T10:56:11.470Z",
       "tasks": [
         {
@@ -28,6 +28,20 @@
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-08-24T11:10:41.101Z",
+      "date": "2026-08-24",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "OKR: Personal project: Improve anim quality",
+          "progress": "10%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
