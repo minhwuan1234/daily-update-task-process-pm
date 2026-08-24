@@ -1,19 +1,14 @@
 {
-  "date": "23-Aug",
-  "generatedAt": "2026-08-23T10:45:09.152Z",
+  "date": "24-Aug",
+  "generatedAt": "2026-08-24T10:45:07.490Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "23-Aug",
-          "dueDate": "28/8",
-          "task": "Conation media: Concept Art (2)"
-        },
-        {
-          "date": "23-Aug",
+          "date": "24-Aug",
           "dueDate": null,
-          "task": "AMD fixing 20'"
+          "task": "Conation media: Concept Art tiếp"
         }
       ]
     },
@@ -21,7 +16,7 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "23-Aug",
+          "date": "24-Aug",
           "dueDate": "11/9",
           "task": "SN Community Health: 3. Disaster Management - Terrorism ~18mins"
         }
@@ -31,14 +26,9 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "23-Aug",
-          "dueDate": "4/9",
-          "task": "SN Priority: 35. ABG Practice Questions for Nursing Students ~5mins"
-        },
-        {
-          "date": "23-Aug",
+          "date": "24-Aug",
           "dueDate": null,
-          "task": "SN 34 tiếp 0.75"
+          "task": "Test 1: SmoothKP"
         }
       ]
     },
@@ -46,14 +36,9 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "23-Aug",
-          "dueDate": null,
-          "task": "OKR: Personal project: Build app"
-        },
-        {
-          "date": "23-Aug",
-          "dueDate": "28/8",
-          "task": "SN Priority: : 32. How Compensation Works in ABGs ~6min"
+          "date": "24-Aug",
+          "dueDate": "4/9",
+          "task": "SN Priority: 33. Common ABG Mistakes Nursing Students Make ~ 5 mins"
         }
       ]
     },
@@ -61,7 +46,7 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "23-Aug",
+          "date": "24-Aug",
           "dueDate": null,
           "task": "OKR: Personal project: Improve anim quality"
         }
@@ -71,13 +56,13 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "23-Aug",
-          "dueDate": "28/8",
-          "task": "SN Community Health: 1. Community Assessment  ~16 mins"
+          "date": "24-Aug",
+          "dueDate": null,
+          "task": "OKR: Timing/Pacing course"
         }
       ]
     }
   ],
   "totalMembers": 6,
-  "totalTasks": 9
+  "totalTasks": 6
 }
