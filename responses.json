@@ -31,7 +31,7 @@
     },
     {
       "date": "2026-08-25",
-      "message": "Sá»­a SN membership overview 1h",
+      "message": "SÃ¡Â»Â­a SN membership overview 1h",
       "submittedAt": "2026-08-25T11:03:20.799Z",
       "tasks": [
         {
@@ -58,10 +58,24 @@
           "progress": "10%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
           "timeSpent": "4.5h",
-          "title": "SN Community Health: 4. Environmental Health - Roles of Nurses in Environmental Health ~15 mins"
+          "title": "SN Community Health: 4. Environmental Health -Â Roles of Nurses in Environmental Health ~15 mins"
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-08-25T16:08:53.258Z",
+      "date": "2026-08-25",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "SN Community Health: 1. Community Assessment  ~16 mins",
+          "progress": "50%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
