@@ -5518,11 +5518,11 @@
     "toolName": "Daily Update Task Process PM",
     "date": "2026-08-26",
     "timezone": "Asia/Ho_Chi_Minh",
-    "updatedAt": "2026-08-26T11:47:21.450999+00:00",
+    "updatedAt": "2026-08-26T12:08:49.320750+00:00",
     "totalMembers": 11,
-    "submittedMembers": 4,
-    "missingMembers": 7,
-    "submissionRate": 36.36,
+    "submittedMembers": 5,
+    "missingMembers": 6,
+    "submissionRate": 45.45,
     "members": {
       "ou_7efb0c22f47740644cf374252d01fdba": {
         "memberName": "Ánh",
@@ -5534,9 +5534,9 @@
       "ou_5164f9cd3ea33166c65a61b378bb114d": {
         "memberName": "Thư",
         "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-        "status": "missing",
-        "submittedAt": null,
-        "submissionCountToday": 0
+        "status": "submitted",
+        "submittedAt": "2026-08-26T12:08:40.194Z",
+        "submissionCountToday": 1
       },
       "ou_e273fec35061a42660190f8c70f19882": {
         "memberName": "Duy Anh",
