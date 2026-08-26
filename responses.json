@@ -16,18 +16,18 @@
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
     },
     {
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-08-26T10:56:21.948Z",
       "date": "2026-08-26",
+      "message": "Sửa SN Comm health 2 45p",
+      "submittedAt": "2026-08-26T10:56:21.948Z",
       "tasks": [
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "SN Community Health: 3. Disaster Management - Terrorism ~18mins",
           "progress": "60%",
-          "timeSpent": "7h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "timeSpent": "7h",
+          "title": "SN Community Health: 3. Disaster Management - Terrorism ~18mins"
         }
       ],
-      "message": "Sửa SN Comm health 2 45p"
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     }
   ]
 }
