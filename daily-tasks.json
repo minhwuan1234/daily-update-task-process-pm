@@ -1,17 +1,17 @@
 {
-  "date": "25-Aug",
-  "generatedAt": "2026-08-25T10:45:12.042Z",
+  "date": "26-Aug",
+  "generatedAt": "2026-08-26T10:45:10.368Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "25-Aug",
-          "dueDate": "28/8",
-          "task": "Conation media: Concept Art (2)"
+          "date": "26-Aug",
+          "dueDate": "27/8",
+          "task": "UV Smart: Update to D45 brochure EMEA\n\nASP x UV Smart rollup banner 85 x 206 cm"
         },
         {
-          "date": "25-Aug",
+          "date": "26-Aug",
           "dueDate": "18/9",
           "task": "SN Community Health: 4. Environmental Health - Roles of Nurses in Environmental Health ~15 mins"
         }
@@ -21,7 +21,7 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "25-Aug",
+          "date": "26-Aug",
           "dueDate": "11/9",
           "task": "SN Community Health: 3. Disaster Management - Terrorism ~18mins"
         }
@@ -31,9 +31,9 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "25-Aug",
+          "date": "26-Aug",
           "dueDate": null,
-          "task": "Test 1: SmoothKP"
+          "task": "SN Community Health: 5. Family ~11 mins\n18/9"
         }
       ]
     },
@@ -41,9 +41,9 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "25-Aug",
-          "dueDate": "4/9",
-          "task": "SN Priority: 33. Common ABG Mistakes Nursing Students Make ~ 5 mins"
+          "date": "26-Aug",
+          "dueDate": null,
+          "task": "SN Priority: 33 tiếp"
         }
       ]
     },
@@ -51,9 +51,9 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "25-Aug",
-          "dueDate": null,
-          "task": "OKR: Personal project: Improve anim quality"
+          "date": "26-Aug",
+          "dueDate": "4/9",
+          "task": "SN Community Health: 2. Disaster Management - Types of Disasters ~14 mins"
         }
       ]
     },
@@ -61,7 +61,7 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "25-Aug",
+          "date": "26-Aug",
           "dueDate": "28/8",
           "task": "SN Community Health: 1. Community Assessment  ~16 mins"
         }
