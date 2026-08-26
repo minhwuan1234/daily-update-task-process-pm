@@ -1,81 +1,19 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "responses": [
     {
-      "date": "2026-08-25",
-      "message": "",
-      "submittedAt": "2026-08-25T10:46:01.693Z",
+      "userId": "ou_e0897ef23f084625d708cd50c16468db",
+      "submittedAt": "2026-08-26T10:46:25.169Z",
+      "date": "2026-08-26",
       "tasks": [
         {
-          "progress": "100%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "8h",
-          "title": "Test 1: SmoothKP"
+          "title": "SN Community Health: 5. Family ~11 mins\n18/9",
+          "progress": "20%",
+          "timeSpent": "4h"
         }
       ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
-    },
-    {
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
-      "submittedAt": "2026-08-25T11:03:13.279Z",
-      "date": "2026-08-25",
-      "tasks": [
-        {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "title": "OKR: Personal project: Improve anim quality",
-          "progress": "10%",
-          "timeSpent": "8h"
-        }
-      ],
-      "message": ""
-    },
-    {
-      "date": "2026-08-25",
-      "message": "SÃ¡Â»Â­a SN membership overview 1h",
-      "submittedAt": "2026-08-25T11:03:20.799Z",
-      "tasks": [
-        {
-          "progress": "40%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "7h",
-          "title": "SN Community Health: 3. Disaster Management - Terrorism ~18mins"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-08-25",
-      "message": "",
-      "submittedAt": "2026-08-25T11:13:10.415Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "3.5h",
-          "title": "Conation media: Concept Art (2)"
-        },
-        {
-          "progress": "10%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "timeSpent": "4.5h",
-          "title": "SN Community Health: 4. Environmental Health -Â Roles of Nurses in Environmental Health ~15 mins"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-08-25",
-      "message": "",
-      "submittedAt": "2026-08-25T16:08:53.258Z",
-      "tasks": [
-        {
-          "progress": "50%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "8h",
-          "title": "SN Community Health: 1. Community Assessment  ~16 mins"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": "em sửa nội bộ 35. ABG Practice Questions for Nursing Students hết 4h ạ"
     }
   ]
 }
