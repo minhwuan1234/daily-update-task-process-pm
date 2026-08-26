@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-08-26",
-      "message": "em sÃ¡Â»Â­a nÃ¡Â»Âi bÃ¡Â»Â 35. ABG Practice Questions for Nursing Students hÃ¡ÂºÂ¿t 4h Ã¡ÂºÂ¡",
+      "message": "em sÃÂ¡ÃÂ»ÃÂ­a nÃÂ¡ÃÂ»ÃÂi bÃÂ¡ÃÂ»ÃÂ 35. ABG Practice Questions for Nursing Students hÃÂ¡ÃÂºÃÂ¿t 4h ÃÂ¡ÃÂºÃÂ¡",
       "submittedAt": "2026-08-26T10:46:25.169Z",
       "tasks": [
         {
@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-08-26",
-      "message": "Sá»­a SN Comm health 2 45p",
+      "message": "SÃ¡Â»Â­a SN Comm health 2 45p",
       "submittedAt": "2026-08-26T10:56:21.948Z",
       "tasks": [
         {
@@ -42,6 +42,20 @@
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-08-26T11:47:11.036Z",
+      "date": "2026-08-26",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "SN Community Health: 1. Community Assessment  ~16 mins",
+          "progress": "80%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
