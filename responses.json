@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-08-26",
-      "message": "em sÃÂ¡ÃÂ»ÃÂ­a nÃÂ¡ÃÂ»ÃÂi bÃÂ¡ÃÂ»ÃÂ 35. ABG Practice Questions for Nursing Students hÃÂ¡ÃÂºÃÂ¿t 4h ÃÂ¡ÃÂºÃÂ¡",
+      "message": "em sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a nÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂi bÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ 35. ABG Practice Questions for Nursing Students hÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿t 4h ÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¡",
       "submittedAt": "2026-08-26T10:46:25.169Z",
       "tasks": [
         {
@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-08-26",
-      "message": "SÃ¡Â»Â­a SN Comm health 2 45p",
+      "message": "SÃÂ¡ÃÂ»ÃÂ­a SN Comm health 2 45p",
       "submittedAt": "2026-08-26T10:56:21.948Z",
       "tasks": [
         {
@@ -56,6 +56,26 @@
         }
       ],
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+    },
+    {
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-08-26T12:08:40.194Z",
+      "date": "2026-08-26",
+      "tasks": [
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "title": "UV Smart: Update to D45 brochure EMEA\n\nASP x UV Smart rollup banner 85 x 206 cm",
+          "progress": "100%",
+          "timeSpent": "2h"
+        },
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
+          "title": "SN Community Health: 4. Environmental Health - Roles of Nurses in Environmental Health ~15 mins",
+          "progress": "20%",
+          "timeSpent": "3.5h"
+        }
+      ],
+      "message": "cÒn lại sửa UV brochure í ạ"
     }
   ]
 }
