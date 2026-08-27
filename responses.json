@@ -50,18 +50,18 @@
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     },
     {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-08-27T16:37:57.352Z",
       "date": "2026-08-27",
+      "message": "1.5h okr",
+      "submittedAt": "2026-08-27T16:37:57.352Z",
       "tasks": [
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "SN Community Health: 1. Community Assessment  ~16 mins",
           "progress": "100%",
-          "timeSpent": "6.5h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "timeSpent": "6.5h",
+          "title": "SN Community Health: 1. Community Assessment  ~16 mins"
         }
       ],
-      "message": "1.5h okr"
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     }
   ]
 }
