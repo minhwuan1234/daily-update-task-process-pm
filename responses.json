@@ -1,81 +1,19 @@
 {
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "responses": [
     {
-      "date": "2026-08-26",
-      "message": "em sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a nÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂi bÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ 35. ABG Practice Questions for Nursing Students hÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿t 4h ÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¡",
-      "submittedAt": "2026-08-26T10:46:25.169Z",
+      "userId": "ou_e0897ef23f084625d708cd50c16468db",
+      "submittedAt": "2026-08-27T10:47:32.206Z",
+      "date": "2026-08-27",
       "tasks": [
         {
-          "progress": "20%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "4h",
-          "title": "SN Community Health: 5. Family ~11 mins\n18/9"
+          "title": "SN Community Health: 5. Family ~11 mins\n18/9",
+          "progress": "50%",
+          "timeSpent": "8h"
         }
       ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
-    },
-    {
-      "date": "2026-08-26",
-      "message": "SÃÂ¡ÃÂ»ÃÂ­a SN Comm health 2 45p",
-      "submittedAt": "2026-08-26T10:56:21.948Z",
-      "tasks": [
-        {
-          "progress": "60%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "7h",
-          "title": "SN Community Health: 3. Disaster Management - Terrorism ~18mins"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-08-26",
-      "message": "OKR (3h)",
-      "submittedAt": "2026-08-26T11:14:27.279Z",
-      "tasks": [
-        {
-          "progress": "20%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "5h",
-          "title": "SN Community Health: 2. Disaster Management - Types of Disasters ~14 mins"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-08-26",
-      "message": "",
-      "submittedAt": "2026-08-26T11:47:11.036Z",
-      "tasks": [
-        {
-          "progress": "80%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "8h",
-          "title": "SN Community Health: 1. Community Assessment  ~16 mins"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
-    },
-    {
-      "date": "2026-08-26",
-      "message": "cÒn lại sửa UV brochure í ạ",
-      "submittedAt": "2026-08-26T12:08:40.194Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "2h",
-          "title": "UV Smart: Update to D45 brochure EMEA\n\nASP x UV Smart rollup banner 85 x 206 cm"
-        },
-        {
-          "progress": "20%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "timeSpent": "3.5h",
-          "title": "SN Community Health: 4. Environmental Health - Roles of Nurses in Environmental Health ~15 mins"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+      "message": ""
     }
   ]
 }
