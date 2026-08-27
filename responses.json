@@ -16,24 +16,24 @@
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
     },
     {
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-08-27T11:01:09.964Z",
       "date": "2026-08-27",
+      "message": "Check cmt Stuhu 30p\nSửa CSL hospice pyramid 30p",
+      "submittedAt": "2026-08-27T11:01:09.964Z",
       "tasks": [
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "SN Community Health: 3. Disaster Management - Terrorism ~18mins",
           "progress": "90%",
-          "timeSpent": "7h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "timeSpent": "7h",
+          "title": "SN Community Health: 3. Disaster Management - Terrorism ~18mins"
         },
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
-          "title": "Studiohumanity Storyboard fix #1 \nDue:",
           "progress": "0%",
-          "timeSpent": "—"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
+          "timeSpent": "—",
+          "title": "Studiohumanity Storyboard fix #1 \nDue:"
         }
       ],
-      "message": "Check cmt Stuhu 30p\nSửa CSL hospice pyramid 30p"
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     }
   ]
 }
