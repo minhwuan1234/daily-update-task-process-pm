@@ -1,14 +1,19 @@
 {
-  "date": "27-Aug",
-  "generatedAt": "2026-08-27T10:45:08.078Z",
+  "date": "28-Aug",
+  "generatedAt": "2026-08-28T10:45:11.966Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "27-Aug",
-          "dueDate": null,
-          "task": "Conation media: Concept Art tiếp"
+          "date": "28-Aug",
+          "dueDate": "28/8",
+          "task": "UV Smart: 1. D60 TEE one pager\n2. D60 USA brochure with ASP branding"
+        },
+        {
+          "date": "28-Aug",
+          "dueDate": "4/9",
+          "task": "SN Community Health: Study guide 1. Community Assessment"
         }
       ]
     },
@@ -16,12 +21,7 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "27-Aug",
-          "dueDate": "11/9",
-          "task": "SN Community Health: 3. Disaster Management - Terrorism ~18mins"
-        },
-        {
-          "date": "27-Aug",
+          "date": "28-Aug",
           "dueDate": null,
           "task": "Studiohumanity Storyboard fix #1 \nDue:"
         }
@@ -31,7 +31,7 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "27-Aug",
+          "date": "28-Aug",
           "dueDate": null,
           "task": "SN Community Health: 5. Family ~11 mins\n18/9"
         }
@@ -41,12 +41,7 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "27-Aug",
-          "dueDate": null,
-          "task": "SN Priority: 33 tiếp"
-        },
-        {
-          "date": "27-Aug",
+          "date": "28-Aug",
           "dueDate": "4/9",
           "task": "SN Homepage video update vertical ~40s"
         }
@@ -56,7 +51,7 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "27-Aug",
+          "date": "28-Aug",
           "dueDate": "4/9",
           "task": "SN Community Health: 2. Disaster Management - Types of Disasters ~14 mins"
         }
@@ -66,13 +61,13 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "27-Aug",
-          "dueDate": "28/8",
-          "task": "SN Community Health: 1. Community Assessment  ~16 mins"
+          "date": "28-Aug",
+          "dueDate": null,
+          "task": "OKR: Timing/Pacing course"
         }
       ]
     }
   ],
   "totalMembers": 6,
-  "totalTasks": 8
+  "totalTasks": 7
 }
