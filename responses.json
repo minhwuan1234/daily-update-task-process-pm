@@ -1,67 +1,19 @@
 {
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "responses": [
     {
-      "date": "2026-08-27",
-      "message": "",
-      "submittedAt": "2026-08-27T10:47:32.206Z",
+      "userId": "ou_e0897ef23f084625d708cd50c16468db",
+      "submittedAt": "2026-08-28T11:22:09.545Z",
+      "date": "2026-08-28",
       "tasks": [
         {
-          "progress": "50%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "8h",
-          "title": "SN Community Health: 5. Family ~11 mins\n18/9"
+          "title": "SN Community Health: 5. Family ~11 mins\n18/9",
+          "progress": "80%",
+          "timeSpent": "5h"
         }
       ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
-    },
-    {
-      "date": "2026-08-27",
-      "message": "Check cmt Stuhu 30p\nSÃ¡Â»Â­a CSL hospice pyramid 30p",
-      "submittedAt": "2026-08-27T11:01:09.964Z",
-      "tasks": [
-        {
-          "progress": "90%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "7h",
-          "title": "SN Community Health: 3. Disaster Management - Terrorism ~18mins"
-        },
-        {
-          "progress": "0%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
-          "timeSpent": "Ã¢ÂÂ",
-          "title": "Studiohumanity Storyboard fix #1 \nDue:"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-08-27",
-      "message": "",
-      "submittedAt": "2026-08-27T11:17:22.141Z",
-      "tasks": [
-        {
-          "progress": "50%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "8h",
-          "title": "SN Community Health: 2. Disaster Management - Types of Disasters ~14 mins"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-08-27",
-      "message": "1.5h okr",
-      "submittedAt": "2026-08-27T16:37:57.352Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "6.5h",
-          "title": "SN Community Health: 1. Community Assessment  ~16 mins"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": "em sửa nội bộ 35. ABG Practice Questions for Nursing Students hết 2.5h ạ"
     }
   ]
 }
