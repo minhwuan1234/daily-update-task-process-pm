@@ -1,19 +1,19 @@
 {
-  "date": "28-Aug",
-  "generatedAt": "2026-08-28T10:45:11.966Z",
+  "date": "29-Aug",
+  "generatedAt": "2026-08-29T10:45:09.588Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "28-Aug",
+          "date": "29-Aug",
           "dueDate": "28/8",
           "task": "UV Smart: 1. D60 TEE one pager\n2. D60 USA brochure with ASP branding"
         },
         {
-          "date": "28-Aug",
+          "date": "29-Aug",
           "dueDate": "4/9",
-          "task": "SN Community Health: Study guide 1. Community Assessment"
+          "task": "SN Community Health: Study guide 1. Community Assessment 2h"
         }
       ]
     },
@@ -21,9 +21,9 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "28-Aug",
-          "dueDate": null,
-          "task": "Studiohumanity Storyboard fix #1 \nDue:"
+          "date": "29-Aug",
+          "dueDate": "28/8",
+          "task": "Studiohumanity Storyboard fix #1"
         }
       ]
     },
@@ -31,9 +31,14 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "28-Aug",
+          "date": "29-Aug",
           "dueDate": null,
           "task": "SN Community Health: 5. Family ~11 mins\n18/9"
+        },
+        {
+          "date": "29-Aug",
+          "dueDate": null,
+          "task": "SN 35 tiếp 0.5"
         }
       ]
     },
@@ -41,7 +46,12 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "28-Aug",
+          "date": "29-Aug",
+          "dueDate": "4/9",
+          "task": "IHF Care Pyramid  ~1 min (1)"
+        },
+        {
+          "date": "29-Aug",
           "dueDate": "4/9",
           "task": "SN Homepage video update vertical ~40s"
         }
@@ -51,7 +61,12 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "28-Aug",
+          "date": "29-Aug",
+          "dueDate": null,
+          "task": "3h"
+        },
+        {
+          "date": "29-Aug",
           "dueDate": "4/9",
           "task": "SN Community Health: 2. Disaster Management - Types of Disasters ~14 mins"
         }
@@ -61,7 +76,7 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "28-Aug",
+          "date": "29-Aug",
           "dueDate": null,
           "task": "OKR: Timing/Pacing course"
         }
@@ -69,5 +84,5 @@
     }
   ],
   "totalMembers": 6,
-  "totalTasks": 7
+  "totalTasks": 10
 }
