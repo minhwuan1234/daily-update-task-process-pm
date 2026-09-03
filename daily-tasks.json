@@ -1,19 +1,14 @@
 {
-  "date": "30-Aug",
-  "generatedAt": "2026-08-30T10:45:07.186Z",
+  "date": "3-Sep",
+  "generatedAt": "2026-09-03T10:45:15.207Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "30-Aug",
-          "dueDate": "28/8",
-          "task": "UV Smart: 1. D60 TEE one pager\n2. D60 USA brochure with ASP branding"
-        },
-        {
-          "date": "30-Aug",
-          "dueDate": "4/9",
-          "task": "SN Community Health: Study guide 1. Community Assessment 2h"
+          "date": "3-Sep",
+          "dueDate": "18/9",
+          "task": "SN Community Health: 4. Environmental Health - Roles of Nurses in Environmental Health ~15 mins"
         }
       ]
     },
@@ -21,9 +16,9 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "30-Aug",
-          "dueDate": "28/8",
-          "task": "Studiohumanity Storyboard fix #1"
+          "date": "3-Sep",
+          "dueDate": "11/9",
+          "task": "SN Community Health: 3. Disaster Management - Terrorism ~18mins"
         }
       ]
     },
@@ -31,14 +26,9 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "30-Aug",
+          "date": "3-Sep",
           "dueDate": null,
           "task": "SN Community Health: 5. Family ~11 mins\n18/9"
-        },
-        {
-          "date": "30-Aug",
-          "dueDate": null,
-          "task": "SN 35 tiếp 0.5"
         }
       ]
     },
@@ -46,14 +36,9 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "30-Aug",
+          "date": "3-Sep",
           "dueDate": "4/9",
           "task": "IHF Care Pyramid  ~1 min (1)"
-        },
-        {
-          "date": "30-Aug",
-          "dueDate": "4/9",
-          "task": "SN Homepage video update vertical ~40s"
         }
       ]
     },
@@ -61,12 +46,7 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "30-Aug",
-          "dueDate": null,
-          "task": "3h"
-        },
-        {
-          "date": "30-Aug",
+          "date": "3-Sep",
           "dueDate": "4/9",
           "task": "SN Community Health: 2. Disaster Management - Types of Disasters ~14 mins"
         }
@@ -76,13 +56,13 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "30-Aug",
-          "dueDate": null,
-          "task": "OKR: Timing/Pacing course"
+          "date": "3-Sep",
+          "dueDate": "4/9",
+          "task": "SN Priority: 34. ABGs in Clinical Scenarios: From Numbers to Nursing Action ~6mins"
         }
       ]
     }
   ],
   "totalMembers": 6,
-  "totalTasks": 10
+  "totalTasks": 6
 }
