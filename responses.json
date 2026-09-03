@@ -58,18 +58,18 @@
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     },
     {
-      "userId": "ou_e0897ef23f084625d708cd50c16468db",
-      "submittedAt": "2026-09-03T13:18:04.394Z",
       "date": "2026-09-03",
+      "message": "em sửa 34. ABGs in Clinical Scenarios: From Numbers to Nursing Action hết 1h ạ",
+      "submittedAt": "2026-09-03T13:18:04.394Z",
       "tasks": [
         {
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "title": "SN Community Health: 5. Family ~11 mins\n18/9",
           "progress": "90%",
-          "timeSpent": "7h"
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
+          "timeSpent": "7h",
+          "title": "SN Community Health: 5. Family ~11 mins\n18/9"
         }
       ],
-      "message": "em sửa 34. ABGs in Clinical Scenarios: From Numbers to Nursing Action hết 1h ạ"
+      "userId": "ou_e0897ef23f084625d708cd50c16468db"
     }
   ]
 }
