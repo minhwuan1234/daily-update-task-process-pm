@@ -1,33 +1,19 @@
 {
-  "date": "2026-08-28",
+  "date": "2026-09-03",
   "responses": [
     {
-      "date": "2026-08-28",
-      "message": "em sá»­a ná»i bá» 35. ABG Practice Questions for Nursing Students háº¿t 2.5h áº¡",
-      "submittedAt": "2026-08-28T11:22:09.545Z",
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-09-03T10:46:13.224Z",
+      "date": "2026-09-03",
       "tasks": [
         {
-          "progress": "80%",
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "5h",
-          "title": "SN Community Health: 5. Family ~11 mins\n18/9"
-        }
-      ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
-    },
-    {
-      "date": "2026-08-28",
-      "message": "1,5 h SN 0,5 h hop team",
-      "submittedAt": "2026-08-28T15:52:05.309Z",
-      "tasks": [
-        {
-          "progress": "80%",
           "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "6h",
-          "title": "OKR: Timing/Pacing course"
+          "title": "SN Priority: 34. ABGs in Clinical Scenarios: From Numbers to Nursing Action ~6mins",
+          "progress": "70%",
+          "timeSpent": "8h"
         }
       ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": ""
     }
   ]
 }
