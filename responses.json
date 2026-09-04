@@ -3,14 +3,14 @@
   "responses": [
     {
       "date": "2026-09-04",
-      "message": "khoáº£ng 1h buá»i sÃ¡ng Äá» Äáº¡c \nkhoáº£ng 30p sá»­a SN 36\nkhoáº£ng 30p rep request task cá»§a G\nkhoáº£ng 2h sá»­a Klett water cycle",
+      "message": "khoÃ¡ÂºÂ£ng 1h buÃ¡Â»Âi sÃÂ¡ng ÃÂÃ¡Â»Â ÃÂÃ¡ÂºÂ¡c \nkhoÃ¡ÂºÂ£ng 30p sÃ¡Â»Â­a SN 36\nkhoÃ¡ÂºÂ£ng 30p rep request task cÃ¡Â»Â§a G\nkhoÃ¡ÂºÂ£ng 2h sÃ¡Â»Â­a Klett water cycle",
       "submittedAt": "2026-09-04T11:01:39.423Z",
       "tasks": [
         {
           "progress": "60%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
           "timeSpent": "4h",
-          "title": "SN Community Health: 4. Environmental Health -Â Roles of Nurses in Environmental Health ~15 mins"
+          "title": "SN Community Health: 4. Environmental Health -ÃÂ Roles of Nurses in Environmental Health ~15 mins"
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
@@ -24,10 +24,30 @@
           "progress": "80%",
           "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
           "timeSpent": "6.5h",
-          "title": "SN Priority: 36. Don’t Confuse Metabolic vs Respiratory Imbalances ~4 mins"
+          "title": "SN Priority: 36. Donât Confuse Metabolic vs Respiratory Imbalances ~4 mins"
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_e273fec35061a42660190f8c70f19882",
+      "submittedAt": "2026-09-04T11:16:04.267Z",
+      "date": "2026-09-04",
+      "tasks": [
+        {
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
+          "title": "IHF Care Pyramid  ~1 min (1)",
+          "progress": "100%",
+          "timeSpent": "4h"
+        },
+        {
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
+          "title": "OKR: Personal project: Build app",
+          "progress": "20%",
+          "timeSpent": "4h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
