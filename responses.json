@@ -1,75 +1,19 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "responses": [
     {
-      "date": "2026-09-03",
-      "message": "",
-      "submittedAt": "2026-09-03T10:46:13.224Z",
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-09-04T11:01:39.423Z",
+      "date": "2026-09-04",
       "tasks": [
         {
-          "progress": "70%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "8h",
-          "title": "SN Priority: 34. ABGs in Clinical Scenarios: From Numbers to Nursing Action ~6mins"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
-    },
-    {
-      "date": "2026-09-03",
-      "message": "",
-      "submittedAt": "2026-09-03T10:49:49.122Z",
-      "tasks": [
-        {
-          "progress": "50%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "8h",
-          "title": "SN Community Health: 4. Environmental Health -ÃÂÃÂ Roles of Nurses in Environmental Health ~15 mins"
+          "title": "SN Community Health: 4. Environmental Health - Roles of Nurses in Environmental Health ~15 mins",
+          "progress": "60%",
+          "timeSpent": "4h"
         }
       ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-09-03",
-      "message": "",
-      "submittedAt": "2026-09-03T11:04:05.030Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "8h",
-          "title": "SN Community Health: 3. Disaster Management - Terrorism ~18mins"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-09-03",
-      "message": "",
-      "submittedAt": "2026-09-03T11:11:51.816Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "8h",
-          "title": "SN Community Health: 2. Disaster Management - Types of Disasters ~14 mins"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-09-03",
-      "message": "em sửa 34. ABGs in Clinical Scenarios: From Numbers to Nursing Action hết 1h ạ",
-      "submittedAt": "2026-09-03T13:18:04.394Z",
-      "tasks": [
-        {
-          "progress": "90%",
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "7h",
-          "title": "SN Community Health: 5. Family ~11 mins\n18/9"
-        }
-      ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
+      "message": "khoảng 1h buổi sáng đồ đạc \nkhoảng 30p sửa SN 36\nkhoảng 30p rep request task của G\nkhoảng 2h sửa Klett water cycle"
     }
   ]
 }
