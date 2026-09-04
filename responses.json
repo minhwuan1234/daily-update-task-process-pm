@@ -2,18 +2,18 @@
   "date": "2026-09-04",
   "responses": [
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-09-04T11:01:39.423Z",
       "date": "2026-09-04",
+      "message": "khoảng 1h buổi sáng đồ đạc \nkhoảng 30p sửa SN 36\nkhoảng 30p rep request task của G\nkhoảng 2h sửa Klett water cycle",
+      "submittedAt": "2026-09-04T11:01:39.423Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "SN Community Health: 4. Environmental Health - Roles of Nurses in Environmental Health ~15 mins",
           "progress": "60%",
-          "timeSpent": "4h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "4h",
+          "title": "SN Community Health: 4. Environmental Health - Roles of Nurses in Environmental Health ~15 mins"
         }
       ],
-      "message": "khoảng 1h buổi sáng đồ đạc \nkhoảng 30p sửa SN 36\nkhoảng 30p rep request task của G\nkhoảng 2h sửa Klett water cycle"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }
