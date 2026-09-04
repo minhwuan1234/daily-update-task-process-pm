@@ -64,18 +64,18 @@
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     },
     {
-      "userId": "ou_e0897ef23f084625d708cd50c16468db",
-      "submittedAt": "2026-09-04T16:17:40.636Z",
       "date": "2026-09-04",
+      "message": "em sửa 35. ABG Practice Questions for Nursing Students hết 0.5h ạ",
+      "submittedAt": "2026-09-04T16:17:40.636Z",
       "tasks": [
         {
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "title": "SN Community Health: 5. Family ~11 mins\n18/9",
           "progress": "100%",
-          "timeSpent": "7.5h"
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
+          "timeSpent": "7.5h",
+          "title": "SN Community Health: 5. Family ~11 mins\n18/9"
         }
       ],
-      "message": "em sửa 35. ABG Practice Questions for Nursing Students hết 0.5h ạ"
+      "userId": "ou_e0897ef23f084625d708cd50c16468db"
     }
   ]
 }
