@@ -3,17 +3,31 @@
   "responses": [
     {
       "date": "2026-09-04",
-      "message": "khoảng 1h buổi sáng đồ đạc \nkhoảng 30p sửa SN 36\nkhoảng 30p rep request task của G\nkhoảng 2h sửa Klett water cycle",
+      "message": "khoáº£ng 1h buá»i sÃ¡ng Äá» Äáº¡c \nkhoáº£ng 30p sá»­a SN 36\nkhoáº£ng 30p rep request task cá»§a G\nkhoáº£ng 2h sá»­a Klett water cycle",
       "submittedAt": "2026-09-04T11:01:39.423Z",
       "tasks": [
         {
           "progress": "60%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
           "timeSpent": "4h",
-          "title": "SN Community Health: 4. Environmental Health - Roles of Nurses in Environmental Health ~15 mins"
+          "title": "SN Community Health: 4. Environmental Health -Â Roles of Nurses in Environmental Health ~15 mins"
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-09-04T11:11:58.206Z",
+      "date": "2026-09-04",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "SN Priority: 36. Don’t Confuse Metabolic vs Respiratory Imbalances ~4 mins",
+          "progress": "80%",
+          "timeSpent": "6.5h"
+        }
+      ],
+      "message": "SN Community Health: 2. Disaster Management (1.5h)"
     }
   ]
 }
