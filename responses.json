@@ -96,18 +96,18 @@
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     },
     {
-      "userId": "ou_e0897ef23f084625d708cd50c16468db",
-      "submittedAt": "2026-09-07T12:46:11.691Z",
       "date": "2026-09-07",
+      "message": "Em sửa nội bộ file SmoothKP hết 7.5h và họp đầu tuần 15 phút ạ",
+      "submittedAt": "2026-09-07T12:46:11.691Z",
       "tasks": [
         {
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "title": "Test 2: CSL SFPA (1.5)",
           "progress": "0%",
-          "timeSpent": "—"
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
+          "timeSpent": "—",
+          "title": "Test 2: CSL SFPA (1.5)"
         }
       ],
-      "message": "Em sửa nội bộ file SmoothKP hết 7.5h và họp đầu tuần 15 phút ạ"
+      "userId": "ou_e0897ef23f084625d708cd50c16468db"
     }
   ]
 }
