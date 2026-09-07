@@ -1,14 +1,19 @@
 {
-  "date": "6-Sep",
-  "generatedAt": "2026-09-06T10:45:08.489Z",
+  "date": "7-Sep",
+  "generatedAt": "2026-09-07T10:52:27.228Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "6-Sep",
-          "dueDate": "18/9",
-          "task": "SN Community Health: 4. Environmental Health - Roles of Nurses in Environmental Health ~15 mins"
+          "date": "7-Sep",
+          "dueDate": "14/9",
+          "task": "Conation media: illus (3)"
+        },
+        {
+          "date": "7-Sep",
+          "dueDate": "7/9",
+          "task": "UV Smart: New 1 pager VN ver (3h)"
         }
       ]
     },
@@ -16,9 +21,14 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "6-Sep",
+          "date": "7-Sep",
           "dueDate": "11/9",
-          "task": "SN Community Health: 3. Disaster Management - Terrorism ~18mins"
+          "task": "SN Community Health: 2. Disaster Management - Types of Disasters  study guide (2h)\n\nSN Priority: 37. Causes of Acid–Base Imbalances You Need to Know (1.5)"
+        },
+        {
+          "date": "7-Sep",
+          "dueDate": "7/9",
+          "task": "Nordex: M14 Finishing Preparation Background (30')"
         }
       ]
     },
@@ -26,9 +36,9 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "6-Sep",
+          "date": "7-Sep",
           "dueDate": null,
-          "task": "SN Community Health: 5. Family ~11 mins\n18/9"
+          "task": "Test 2: CSL SFPA (1.5)"
         }
       ]
     },
@@ -36,14 +46,14 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "6-Sep",
-          "dueDate": "4/9",
-          "task": "IHF Care Pyramid  ~1 min (1)"
+          "date": "7-Sep",
+          "dueDate": "10/9",
+          "task": "Nordex: M14 Finishing Preparation (0.5)"
         },
         {
-          "date": "6-Sep",
-          "dueDate": null,
-          "task": "OKR: Personal project: Build app"
+          "date": "7-Sep",
+          "dueDate": "11/9",
+          "task": "SN Priority: 35. ABG Practice Questions for Nursing Students ~5 mins"
         }
       ]
     },
@@ -51,9 +61,14 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "6-Sep",
-          "dueDate": "11/9",
-          "task": "SN Priority: 36. Don’t Confuse Metabolic vs Respiratory Imbalances ~4 mins"
+          "date": "7-Sep",
+          "dueDate": "16/9",
+          "task": "LDA Safety Induction Video 2 ~1.5 min (1.5)"
+        },
+        {
+          "date": "7-Sep",
+          "dueDate": null,
+          "task": "SN 36 tiếp 0.25"
         }
       ]
     },
@@ -61,13 +76,13 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "6-Sep",
-          "dueDate": "4/9",
-          "task": "SN Priority: 34. ABGs in Clinical Scenarios: From Numbers to Nursing Action ~6mins"
+          "date": "7-Sep",
+          "dueDate": "16/9",
+          "task": "LDA Safety Induction Video 1 ~1.5 min (1.5)"
         }
       ]
     }
   ],
   "totalMembers": 6,
-  "totalTasks": 7
+  "totalTasks": 10
 }
