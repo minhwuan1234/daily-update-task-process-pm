@@ -1,0 +1,729 @@
+name: Send Standup Reminders
+
+on:
+  schedule:
+    # GitHub Actions dùng UTC:
+    # 10:59 UTC = 17:59 Việt Nam
+    # 11:09 UTC = 18:09 Việt Nam
+    # 11:19 UTC = 18:19 Việt Nam
+    - cron: "59 10 * * *"
+    - cron: "9 11 * * *"
+    - cron: "19 11 * * *"
+
+  # Cho phép chạy thử thủ công
+  workflow_dispatch:
+    inputs:
+      reminder_index:
+        description: "Chọn lần nhắc"
+        required: true
+        default: "1"
+        type: choice
+        options:
+          - "1"
+          - "2"
+          - "3"
+
+      dry_run:
+        description: "Chỉ test, không gửi thật"
+        required: true
+        default: true
+        type: boolean
+
+jobs:
+  send-reminders:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: read
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Xác định lần nhắc
+        id: reminder
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          EVENT_SCHEDULE: ${{ github.event.schedule }}
+          MANUAL_INDEX: ${{ inputs.reminder_index }}
+          MANUAL_DRY_RUN: ${{ inputs.dry_run }}
+        run: |
+          if [ "$EVENT_NAME" = "workflow_dispatch" ]; then
+            reminder_index="$MANUAL_INDEX"
+            dry_run="$MANUAL_DRY_RUN"
+          else
+            dry_run="false"
+
+            case "$EVENT_SCHEDULE" in
+              "59 10 * * *")
+                reminder_index="1"
+                ;;
+              "9 11 * * *")
+                reminder_index="2"
+                ;;
+              "19 11 * * *")
+                reminder_index="3"
+                ;;
+              *)
+                echo "Không xác định được lịch: $EVENT_SCHEDULE"
+                exit 1
+                ;;
+            esac
+          fi
+
+          echo "reminder_index=$reminder_index" >> "$GITHUB_OUTPUT"
+          echo "dry_run=$dry_run" >> "$GITHUB_OUTPUT"
+
+      - name: Gửi reminder
+        env:
+          LARK_APP_ID: ${{ secrets.LARK_APP_ID }}
+          LARK_APP_SECRET: ${{ secrets.LARK_APP_SECRET }}
+
+          REMINDER_INDEX: ${{ steps.reminder.outputs.reminder_index }}
+          DRY_RUN: ${{ steps.reminder.outputs.dry_run }}
+
+          FORM_BASE_URL: "https://minhwuan1234.github.io/daily-update-task-process-pm/index.html"
+
+        run: |
+          python3 << 'PYTHON'
+          import json
+          import os
+          import urllib.error
+          import urllib.parse
+          import urllib.request
+
+          from datetime import datetime
+          from datetime import time
+          from datetime import timedelta
+          from datetime import timezone
+
+
+          # =========================================================
+          # CONFIG
+          # =========================================================
+
+          VN_TIMEZONE = timezone(timedelta(hours=7))
+
+          MINH_QUAN_OPEN_ID = (
+              "ou_a3cd717fbf6c8058d12c76c980f52eb7"
+          )
+
+          REMINDER_MESSAGES = {
+              1: "Đừng quên fill task hôm nay nhé!",
+              2: "Suýt quên! Fill task thôi",
+              3: "Mãi làm quá đúng ko? Đừng quên fill task nhé",
+          }
+
+          reminder_index = int(
+              os.environ.get("REMINDER_INDEX", "1")
+          )
+
+          dry_run = (
+              os.environ.get("DRY_RUN", "false").lower()
+              == "true"
+          )
+
+          form_base_url = os.environ.get(
+              "FORM_BASE_URL",
+              (
+                  "https://minhwuan1234.github.io/"
+                  "daily-update-task-process-pm/index.html"
+              ),
+          )
+
+
+          # =========================================================
+          # READ JSON
+          # =========================================================
+
+          def read_json(file_path, fallback):
+              try:
+                  with open(
+                      file_path,
+                      "r",
+                      encoding="utf-8",
+                  ) as file:
+                      return json.load(file)
+
+              except Exception as error:
+                  print(
+                      f"Không đọc được {file_path}: {error}"
+                  )
+                  return fallback
+
+
+          daily_tasks = read_json(
+              "daily-tasks.json",
+              {},
+          )
+
+          members = read_json(
+              "members.json",
+              {},
+          )
+
+          responses = read_json(
+              "responses.json",
+              {
+                  "date": "",
+                  "responses": [],
+              },
+          )
+
+
+          # =========================================================
+          # DATE — GIỜ VIỆT NAM
+          # =========================================================
+
+          now_vn = datetime.now(VN_TIMEZONE)
+
+          today = now_vn.date()
+
+          today_iso = today.isoformat()
+
+
+          def tasks_are_for_today(data):
+              generated_at = data.get("generatedAt")
+
+              if generated_at:
+                  try:
+                      generated_date = (
+                          datetime.fromisoformat(
+                              generated_at.replace(
+                                  "Z",
+                                  "+00:00",
+                              )
+                          )
+                          .astimezone(VN_TIMEZONE)
+                          .date()
+                      )
+
+                      return generated_date == today
+
+                  except ValueError:
+                      print(
+                          "generatedAt không đúng định dạng."
+                      )
+                      return False
+
+              # Fallback cho dạng: 6-Sep
+              task_date = str(
+                  data.get("date", "")
+              ).strip()
+
+              expected_date = (
+                  f"{today.day}-{today.strftime('%b')}"
+              )
+
+              return (
+                  task_date.casefold()
+                  == expected_date.casefold()
+              )
+
+
+          if not tasks_are_for_today(daily_tasks):
+              print(
+                  f"Không có task mới cho ngày {today_iso}."
+              )
+              print("Không gửi reminder.")
+
+              raise SystemExit(0)
+
+
+          # =========================================================
+          # DANH SÁCH NGƯỜI ĐÃ SUBMIT
+          # =========================================================
+
+          submitted_user_ids = set()
+
+          if responses.get("date") == today_iso:
+              for response in responses.get(
+                  "responses",
+                  [],
+              ):
+                  if not isinstance(response, dict):
+                      continue
+
+                  user_id = response.get("userId")
+
+                  if user_id:
+                      submitted_user_ids.add(user_id)
+
+
+          # =========================================================
+          # DANH SÁCH NGƯỜI CÓ TASK HÔM NAY
+          # =========================================================
+
+          assigned_members = []
+
+          for member_data in daily_tasks.get(
+              "members",
+              [],
+          ):
+              if not isinstance(member_data, dict):
+                  continue
+
+              tasks = member_data.get("tasks", [])
+
+              if not tasks:
+                  continue
+
+              member_name = str(
+                  member_data.get("member", "")
+              ).strip()
+
+              user_id = members.get(member_name)
+
+              if not user_id:
+                  print(
+                      "Không tìm thấy Lark Open ID "
+                      f"của {member_name}"
+                  )
+                  continue
+
+              assigned_members.append(
+                  {
+                      "name": member_name,
+                      "userId": user_id,
+                  }
+              )
+
+
+          # Chỉ lấy người chưa submit
+          missing_members = [
+              member
+              for member in assigned_members
+              if member["userId"]
+              not in submitted_user_ids
+          ]
+
+
+          print(
+              f"Reminder lần {reminder_index}/3"
+          )
+
+          print(
+              f"Có task: {len(assigned_members)}"
+          )
+
+          print(
+              f"Đã submit: {len(submitted_user_ids)}"
+          )
+
+          print(
+              f"Chưa submit: {len(missing_members)}"
+          )
+
+
+          # Nếu tất cả đã submit thì dừng
+          if not missing_members:
+              print(
+                  "Tất cả mọi người đã submit."
+              )
+
+              print(
+                  "Không cần gửi reminder."
+              )
+
+              raise SystemExit(0)
+
+
+          # =========================================================
+          # BUILD FORM URL
+          # =========================================================
+
+          def build_form_url(user_id):
+              end_of_day_vn = datetime.combine(
+                  today,
+                  time(23, 59, 59),
+                  tzinfo=VN_TIMEZONE,
+              )
+
+              expires_utc = (
+                  end_of_day_vn
+                  .astimezone(timezone.utc)
+                  .strftime("%Y-%m-%dT%H:%M:%SZ")
+              )
+
+              params = urllib.parse.urlencode(
+                  {
+                      "userId": user_id,
+                      "expires": expires_utc,
+                  }
+              )
+
+              return f"{form_base_url}?{params}"
+
+
+          # =========================================================
+          # BUILD CARD
+          # =========================================================
+
+          def build_member_card(
+              message,
+              form_url,
+          ):
+              return {
+                  "config": {
+                      "wide_screen_mode": True,
+                  },
+                  "header": {
+                      "title": {
+                          "tag": "plain_text",
+                          "content": (
+                              "⏰ Daily Standup Reminder"
+                          ),
+                      },
+                      "template": "orange",
+                  },
+                  "elements": [
+                      {
+                          "tag": "div",
+                          "text": {
+                              "tag": "lark_md",
+                              "content": message,
+                          },
+                      },
+                      {
+                          "tag": "action",
+                          "actions": [
+                              {
+                                  "tag": "button",
+                                  "text": {
+                                      "tag": "plain_text",
+                                      "content": (
+                                          "✍️ Fill task ngay"
+                                      ),
+                                  },
+                                  "type": "primary",
+                                  "url": form_url,
+                              }
+                          ],
+                      },
+                      {
+                          "tag": "note",
+                          "elements": [
+                              {
+                                  "tag": "plain_text",
+                                  "content": (
+                                      f"Nhắc lần "
+                                      f"{reminder_index}/3"
+                                      " · Bạn sẽ không nhận "
+                                      "thêm sau khi submit."
+                                  ),
+                              }
+                          ],
+                      },
+                  ],
+              }
+
+
+          def build_minh_quan_copy_card(
+              message,
+              member_name,
+              form_url,
+          ):
+              return {
+                  "config": {
+                      "wide_screen_mode": True,
+                  },
+                  "header": {
+                      "title": {
+                          "tag": "plain_text",
+                          "content": (
+                              "⏰ Daily Standup Reminder"
+                          ),
+                      },
+                      "template": "orange",
+                  },
+                  "elements": [
+                      {
+                          "tag": "div",
+                          "text": {
+                              "tag": "lark_md",
+                              "content": (
+                                  f"👤 **{member_name}** "
+                                  f"chưa submit\n\n{message}"
+                              ),
+                          },
+                      },
+                      {
+                          "tag": "action",
+                          "actions": [
+                              {
+                                  "tag": "button",
+                                  "text": {
+                                      "tag": "plain_text",
+                                      "content": (
+                                          "✍️ Mở form của "
+                                          f"{member_name}"
+                                      ),
+                                  },
+                                  "type": "primary",
+                                  "url": form_url,
+                              }
+                          ],
+                      },
+                      {
+                          "tag": "note",
+                          "elements": [
+                              {
+                                  "tag": "plain_text",
+                                  "content": (
+                                      "Bản copy reminder lần "
+                                      f"{reminder_index}/3 "
+                                      "gửi cho Minh Quân."
+                                  ),
+                              }
+                          ],
+                      },
+                  ],
+              }
+
+
+          # =========================================================
+          # LARK API
+          # =========================================================
+
+          def get_bot_token():
+              app_id = os.environ.get(
+                  "LARK_APP_ID",
+                  "",
+              )
+
+              app_secret = os.environ.get(
+                  "LARK_APP_SECRET",
+                  "",
+              )
+
+              if not app_id or not app_secret:
+                  raise RuntimeError(
+                      "Thiếu LARK_APP_ID hoặc "
+                      "LARK_APP_SECRET."
+                  )
+
+              body = json.dumps(
+                  {
+                      "app_id": app_id,
+                      "app_secret": app_secret,
+                  }
+              ).encode("utf-8")
+
+              request = urllib.request.Request(
+                  (
+                      "https://open.larksuite.com/"
+                      "open-apis/auth/v3/"
+                      "tenant_access_token/internal"
+                  ),
+                  data=body,
+                  headers={
+                      "Content-Type": (
+                          "application/json"
+                      ),
+                  },
+                  method="POST",
+              )
+
+              with urllib.request.urlopen(
+                  request,
+                  timeout=30,
+              ) as response:
+                  result = json.loads(
+                      response.read()
+                  )
+
+              if result.get("code") != 0:
+                  raise RuntimeError(
+                      f"Lỗi lấy bot token: {result}"
+                  )
+
+              return result[
+                  "tenant_access_token"
+              ]
+
+
+          def send_card(
+              bot_token,
+              receiver_id,
+              card,
+          ):
+              payload = {
+                  "receive_id": receiver_id,
+                  "msg_type": "interactive",
+                  "content": json.dumps(
+                      card,
+                      ensure_ascii=False,
+                  ),
+              }
+
+              request = urllib.request.Request(
+                  (
+                      "https://open.larksuite.com/"
+                      "open-apis/im/v1/messages"
+                      "?receive_id_type=open_id"
+                  ),
+                  data=json.dumps(
+                      payload,
+                      ensure_ascii=False,
+                  ).encode("utf-8"),
+                  headers={
+                      "Authorization": (
+                          f"Bearer {bot_token}"
+                      ),
+                      "Content-Type": (
+                          "application/json; "
+                          "charset=utf-8"
+                      ),
+                  },
+                  method="POST",
+              )
+
+              try:
+                  with urllib.request.urlopen(
+                      request,
+                      timeout=30,
+                  ) as response:
+                      result = json.loads(
+                          response.read()
+                      )
+
+              except urllib.error.HTTPError as error:
+                  error_content = (
+                      error.read().decode(
+                          "utf-8",
+                          errors="replace",
+                      )
+                  )
+
+                  raise RuntimeError(
+                      f"Lark HTTP {error.code}: "
+                      f"{error_content}"
+                  ) from error
+
+              if result.get("code") != 0:
+                  raise RuntimeError(
+                      f"Lark API error: {result}"
+                  )
+
+
+          # =========================================================
+          # SEND
+          # =========================================================
+
+          reminder_message = REMINDER_MESSAGES[
+              reminder_index
+          ]
+
+
+          # Chế độ test, không gửi thật
+          if dry_run:
+              for member in missing_members:
+                  print(
+                      "TEST — gửi reminder cho: "
+                      f"{member['name']}"
+                  )
+
+                  if (
+                      member["userId"]
+                      != MINH_QUAN_OPEN_ID
+                  ):
+                      print(
+                          "TEST — gửi bản copy cho "
+                          "Minh Quân: "
+                          f"{member['name']}"
+                      )
+
+              raise SystemExit(0)
+
+
+          bot_token = get_bot_token()
+
+          failures = []
+
+
+          for member in missing_members:
+              member_name = member["name"]
+              member_id = member["userId"]
+
+              form_url = build_form_url(
+                  member_id
+              )
+
+              member_card = build_member_card(
+                  reminder_message,
+                  form_url,
+              )
+
+              # Gửi cho member chưa submit
+              try:
+                  send_card(
+                      bot_token,
+                      member_id,
+                      member_card,
+                  )
+
+                  print(
+                      f"Đã gửi reminder cho "
+                      f"{member_name}"
+                  )
+
+              except Exception as error:
+                  failures.append(member_name)
+
+                  print(
+                      f"Lỗi gửi cho {member_name}: "
+                      f"{error}"
+                  )
+
+                  continue
+
+
+              # Gửi bản copy cho Minh Quân
+              # Nếu member chính là Minh Quân thì không gửi lặp
+              if member_id != MINH_QUAN_OPEN_ID:
+                  copy_card = (
+                      build_minh_quan_copy_card(
+                          reminder_message,
+                          member_name,
+                          form_url,
+                      )
+                  )
+
+                  try:
+                      send_card(
+                          bot_token,
+                          MINH_QUAN_OPEN_ID,
+                          copy_card,
+                      )
+
+                      print(
+                          "Đã gửi bản copy cho "
+                          f"Minh Quân: {member_name}"
+                      )
+
+                  except Exception as error:
+                      failures.append(
+                          "Minh Quân — copy "
+                          f"{member_name}"
+                      )
+
+                      print(
+                          "Lỗi gửi bản copy cho "
+                          f"Minh Quân: {error}"
+                      )
+
+
+          if failures:
+              raise RuntimeError(
+                  "Các lượt gửi thất bại: "
+                  + ", ".join(failures)
+              )
+
+
+          print("Hoàn thành gửi reminder.")
+          PYTHON
