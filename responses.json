@@ -44,7 +44,7 @@
           "progress": "100%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
           "timeSpent": "4h",
-          "title": "SN Community Health: 2. Disaster Management - Types of Disasters  study guide (2h)\n\nSN Priority: 37. Causes of AcidÃ¢ÂÂBase Imbalances You Need to Know (1.5)"
+          "title": "SN Community Health: 2. Disaster Management - Types of Disasters  study guide (2h)\n\nSN Priority: 37. Causes of AcidÃÂ¢ÃÂÃÂBase Imbalances You Need to Know (1.5)"
         },
         {
           "progress": "100%",
@@ -57,7 +57,7 @@
     },
     {
       "date": "2026-09-07",
-      "message": "há»p háº¿t khoáº£ng 45p\nsá»­a UV German flyers khoáº£ng 10p",
+      "message": "hÃ¡Â»Âp hÃ¡ÂºÂ¿t khoÃ¡ÂºÂ£ng 45p\nsÃ¡Â»Â­a UV German flyers khoÃ¡ÂºÂ£ng 10p",
       "submittedAt": "2026-09-07T11:04:30.066Z",
       "tasks": [
         {
@@ -90,10 +90,24 @@
           "progress": "100%",
           "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
           "timeSpent": "2.5h",
-          "title": "SN 36 tiếp 0.25"
+          "title": "SN 36 tiáº¿p 0.25"
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_e0897ef23f084625d708cd50c16468db",
+      "submittedAt": "2026-09-07T12:46:11.691Z",
+      "date": "2026-09-07",
+      "tasks": [
+        {
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
+          "title": "Test 2: CSL SFPA (1.5)",
+          "progress": "0%",
+          "timeSpent": "—"
+        }
+      ],
+      "message": "Em sửa nội bộ file SmoothKP hết 7.5h và họp đầu tuần 15 phút ạ"
     }
   ]
 }
