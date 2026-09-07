@@ -44,7 +44,7 @@
           "progress": "100%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
           "timeSpent": "4h",
-          "title": "SN Community Health: 2. Disaster Management - Types of Disasters  study guide (2h)\n\nSN Priority: 37. Causes of AcidâBase Imbalances You Need to Know (1.5)"
+          "title": "SN Community Health: 2. Disaster Management - Types of Disasters  study guide (2h)\n\nSN Priority: 37. Causes of AcidÃ¢ÂÂBase Imbalances You Need to Know (1.5)"
         },
         {
           "progress": "100%",
@@ -57,7 +57,7 @@
     },
     {
       "date": "2026-09-07",
-      "message": "họp hết khoảng 45p\nsửa UV German flyers khoảng 10p",
+      "message": "há»p háº¿t khoáº£ng 45p\nsá»­a UV German flyers khoáº£ng 10p",
       "submittedAt": "2026-09-07T11:04:30.066Z",
       "tasks": [
         {
@@ -74,6 +74,26 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-09-07T11:12:36.130Z",
+      "date": "2026-09-07",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "LDA Safety Induction Video 2 ~1.5 min (1.5)",
+          "progress": "20%",
+          "timeSpent": "5.5h"
+        },
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
+          "title": "SN 36 tiếp 0.25",
+          "progress": "100%",
+          "timeSpent": "2.5h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
