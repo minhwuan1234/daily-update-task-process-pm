@@ -1,0 +1,31 @@
+
+Daily Update Task Process PM
+============================
+
+The repository receives daily tasks, sends personalised Lark form links, stores
+standup responses and tracks submission status.
+
+Standup reminders
+-----------------
+
+`.github/workflows/send-standup-reminders.yml` checks the latest task and
+response files at these Asia/Ho_Chi_Minh times:
+
+- 17:59 — `Đừng quên fill task hôm nay nhé!`
+- 18:09 — `Suýt quên! Fill task thôi`
+- 18:19 — `Mãi làm quá đúng ko? Đừng quên fill task nhé`
+
+At every run, only members who have tasks for the current day and have not yet
+submitted receive a Lark card. If everyone has submitted, nothing is sent. A
+stale `daily-tasks.json` payload is ignored, so old tasks cannot trigger a new
+day's reminder.
+
+The workflow uses the existing `LARK_APP_ID` and `LARK_APP_SECRET` repository
+secrets. It can also be run manually in dry-run mode from GitHub Actions to
+preview the recipients without sending messages.
+
+Local dry-run example:
+
+```bash
+python scripts/send-reminders.py --reminder-index 1 --dry-run
+```

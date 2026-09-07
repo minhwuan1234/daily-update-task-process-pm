@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Daily Standup</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Freeman&family=Rethink+Sans:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div class="page-wrapper">
+    <div class="card">
+
+      <!-- LEFT PANEL -->
+      <div class="left-panel">
+        <div class="hero-gif"></div>
+        <div class="hero-blur"></div>
+        <div class="quote-overlay">
+          <span class="quote-mark">"</span>
+          <p class="quote-text" id="daily-quote"></p>
+        </div>
+      </div>
+
+      <!-- RIGHT PANEL -->
+      <div class="right-panel">
+
+        <div id="state-loading" class="state-box">
+          <div class="spinner"></div>
+          <p>Đang tải task của bạn...</p>
+        </div>
+
+        <div id="state-error" class="state-box" style="display:none;">
+          <p class="state-icon">⚠️</p>
+          <p id="error-msg">Không tìm thấy task.</p>
+        </div>
+
+        <div id="state-success" class="state-box" style="display:none;">
+          <p class="state-icon">✅</p>
+          <p>Standup của bạn đã được ghi nhận!</p>
+          <p class="state-sub">Cảm ơn bạn đã update hôm nay 🙌</p>
+        </div>
+
+        <div id="state-expired" class="state-box" style="display:none;">
+          <p class="state-icon">⏰</p>
+          <p>Link đã hết hạn rồi!</p>
+          <p class="state-sub">Link daily standup chỉ có hiệu lực trong ngày hôm đó.<br>Chờ tin nhắn mới từ bot vào sáng mai nhé 🌿</p>
+        </div>
+
+        <div id="state-form" style="display:none; flex-direction:column; gap:32px; width:100%;">
+
+          <div class="form-header">
+            <div class="title-row">
+              <div class="gap-8">
+                <h1 class="form-title">Daily Standup<span class="spark">✦</span></h1>
+                <p class="form-subtitle">Checkin hôm nay — <span id="today-label"></span></p>
+              </div>
+              <div class="rocket-icon">🚀</div>
+            </div>
+          </div>
+
+          <div class="form-body">
+
+            <!-- TASK 1 -->
+            <div class="field-group">
+              <label class="field-label">Task 1 <span class="badge-due" id="due1"></span></label>
+              <input class="field-input is-autofilled" id="task1-title" type="text" readonly />
+            </div>
+
+            <div class="field-group">
+              <label class="field-label">Task 1 Progress</label>
+              <div class="progress-picker" id="picker1" data-value="">
+                <button class="progress-btn" data-val="0">0%</button>
+                <button class="progress-btn" data-val="10">10%</button>
+                <button class="progress-btn" data-val="20">20%</button>
+                <button class="progress-btn" data-val="30">30%</button>
+                <button class="progress-btn" data-val="40">40%</button>
+                <button class="progress-btn" data-val="50">50%</button>
+                <button class="progress-btn" data-val="60">60%</button>
+                <button class="progress-btn" data-val="70">70%</button>
+                <button class="progress-btn" data-val="80">80%</button>
+                <button class="progress-btn" data-val="90">90%</button>
+                <button class="progress-btn is-done" data-val="100">100%</button>
+              </div>
+              <div class="progress-track-wrap">
+                <div class="progress-track"><div class="progress-fill" id="fill1"></div></div>
+                <span class="progress-value-label" id="label1">—</span>
+              </div>
+            </div>
+
+            <div class="field-group">
+              <label class="field-label">Nay tốn nhiều time cho task này khum</label>
+              <div class="select-wrapper">
+                <select class="field-select" id="time-select1">
+                  <option value="">-- Chọn thời gian --</option>
+                  <option value="0.5">0.5h</option><option value="1">1h</option>
+                  <option value="1.5">1.5h</option><option value="2">2h</option>
+                  <option value="2.5">2.5h</option><option value="3">3h</option>
+                  <option value="3.5">3.5h</option><option value="4">4h</option>
+                  <option value="4.5">4.5h</option><option value="5">5h</option>
+                  <option value="5.5">5.5h</option><option value="6">6h</option>
+                  <option value="6.5">6.5h</option><option value="7">7h</option>
+                  <option value="7.5">7.5h</option><option value="8">8h</option>
+                </select>
+                <span class="select-arrow">&#8964;</span>
+              </div>
+            </div>
+
+            <!-- TASK 2 -->
+            <div class="field-group" id="group-task2" style="display:none;">
+              <label class="field-label">Task 2 <span class="badge-due" id="due2"></span></label>
+              <input class="field-input is-autofilled" id="task2-title" type="text" readonly />
+            </div>
+
+            <div class="field-group" id="group-prog2" style="display:none;">
+              <label class="field-label">Task 2 Progress</label>
+              <div class="progress-picker" id="picker2" data-value="">
+                <button class="progress-btn" data-val="0">0%</button>
+                <button class="progress-btn" data-val="10">10%</button>
+                <button class="progress-btn" data-val="20">20%</button>
+                <button class="progress-btn" data-val="30">30%</button>
+                <button class="progress-btn" data-val="40">40%</button>
+                <button class="progress-btn" data-val="50">50%</button>
+                <button class="progress-btn" data-val="60">60%</button>
+                <button class="progress-btn" data-val="70">70%</button>
+                <button class="progress-btn" data-val="80">80%</button>
+                <button class="progress-btn" data-val="90">90%</button>
+                <button class="progress-btn is-done" data-val="100">100%</button>
+              </div>
+              <div class="progress-track-wrap">
+                <div class="progress-track"><div class="progress-fill" id="fill2"></div></div>
+                <span class="progress-value-label" id="label2">—</span>
+              </div>
+            </div>
+
+            <div class="field-group" id="group-time2" style="display:none;">
+              <label class="field-label">Task này thì seo</label>
+              <div class="select-wrapper">
+                <select class="field-select" id="time-select2">
+                  <option value="">-- Chọn thời gian --</option>
+                  <option value="0.5">0.5h</option><option value="1">1h</option>
+                  <option value="1.5">1.5h</option><option value="2">2h</option>
+                  <option value="2.5">2.5h</option><option value="3">3h</option>
+                  <option value="3.5">3.5h</option><option value="4">4h</option>
+                  <option value="4.5">4.5h</option><option value="5">5h</option>
+                  <option value="5.5">5.5h</option><option value="6">6h</option>
+                  <option value="6.5">6.5h</option><option value="7">7h</option>
+                  <option value="7.5">7.5h</option><option value="8">8h</option>
+                </select>
+                <span class="select-arrow">&#8964;</span>
+              </div>
+            </div>
+
+            <!-- MESSAGE -->
+            <div class="field-group">
+              <label class="field-label">Hôm nay có phát sinh thêm task nào ngoài lịch hem (VD: sửa feedback của khách cho task A, lên guideline cho task B,...)? Có thì note cho chị thời gian nhó hihi</label>
+              <textarea class="field-textarea" id="message" placeholder="Nhập task phát sinh nếu có nhé..."></textarea>
+            </div>
+
+            <button class="submit-btn" id="submit-btn" type="button">Submit</button>
+
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <script>
+  const QUOTES = [
+    "",
+    "Alo em à em",
+    "https://www.youtube.com/watch?v=rvBz2wLoDOI&list=RDrvBz2wLoDOI&start_radio=1",
+    "Once you meet someone, you never really forget them. It just takes a while for your memories to return.",
+    "I don't think any of us are normal people",
+    "Not anyone can become a great artist, but a great artist can come from anywhere."
+  ];
+  const IMAGES = [
+    'assets/hero-1.png','assets/hero-2.png','assets/hero-3.png',
+    'assets/hero-4.png','assets/hero-5.png','assets/hero-6.png'
+  ];
+  const vnDay = new Date(new Date().toLocaleString('en-US', { timeZone: 'Asia/Ho_Chi_Minh' })).getDay();
+  const dayIdx = vnDay === 0 ? 5 : (vnDay - 1) % QUOTES.length;
+  document.getElementById('daily-quote').textContent = QUOTES[dayIdx];
+  document.querySelector('.hero-gif').style.backgroundImage = `url('${IMAGES[dayIdx]}')`;
+
+  const GITHUB_RAW = 'https://raw.githubusercontent.com/minhwuan1234/daily-update-task-process-pm/main/daily-tasks.json';
+  const WORKER_URL = 'https://daily-standup-proxy.minhwuan889.workers.dev';
+
+  const qs  = (id) => document.getElementById(id);
+  const uid = () => new URLSearchParams(location.search).get('userId');
+
+  // ── Kiểm tra link hết hạn ──────────────────────────────────────────────────
+  function isExpired() {
+    const expires = new URLSearchParams(location.search).get('expires');
+    if (!expires) return false;                      // không có param → không chặn
+    const expiryTime = new Date(expires).getTime();
+    if (isNaN(expiryTime)) return false;             // param sai format → không chặn
+    return Date.now() > expiryTime;
+  }
+  // ──────────────────────────────────────────────────────────────────────────
+
+  function initPicker(pickerId, fillId, labelId) {
+    const picker = qs(pickerId), fill = qs(fillId), label = qs(labelId);
+    picker.querySelectorAll('.progress-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        picker.querySelectorAll('.progress-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        const val = btn.dataset.val;
+        picker.dataset.value = val;
+        fill.style.width = val + '%';
+        label.textContent = val + '%';
+        if (val == 100) {
+          fill.style.background = 'linear-gradient(90deg, #4caf50, #81c784)';
+          label.style.color = '#4caf50';
+        } else if (val >= 60) {
+          fill.style.background = 'linear-gradient(90deg, #FF9333, #ffb347)';
+          label.style.color = '#FF9333';
+        } else {
+          fill.style.background = 'linear-gradient(90deg, #FE8A22, #ffb347)';
+          label.style.color = '#FE8A22';
+        }
+      });
+    });
+  }
+
+  initPicker('picker1', 'fill1', 'label1');
+  initPicker('picker2', 'fill2', 'label2');
+
+  function showState(name) {
+    ['loading','error','success','expired','form'].forEach(s => {
+      const el = qs(`state-${s}`);
+      if (!el) return;
+      el.style.display = (s === name) ? 'flex' : 'none';
+    });
+  }
+
+  function fmtDate(iso) {
+    if (!iso) return '';
+    return new Date(iso).toLocaleDateString('vi-VN', { day:'2-digit', month:'2-digit' });
+  }
+
+  function todayLabel() {
+    return new Date().toLocaleDateString('vi-VN', { weekday:'long', day:'2-digit', month:'2-digit', year:'numeric' });
+  }
+
+  async function fetchTasksForUser(userId) {
+    const [dailyRes, membersRes] = await Promise.all([
+      fetch(`${GITHUB_RAW}?t=${Date.now()}`),
+      fetch('https://raw.githubusercontent.com/minhwuan1234/daily-update-task-process-pm/main/members.json?t=' + Date.now())
+    ]);
+    if (!dailyRes.ok) throw new Error(`GitHub fetch failed: ${dailyRes.status}`);
+    const daily = await dailyRes.json();
+    const members = membersRes.ok ? await membersRes.json() : {};
+    const idToName = Object.fromEntries(Object.entries(members).map(([name, id]) => [id, name]));
+    const memberName = idToName[userId];
+    if (!memberName) throw new Error(`Không tìm thấy tên cho userId: ${userId}`);
+    const member = (daily.members || []).find(m => m.member === memberName);
+    if (!member || !member.tasks?.length) return [];
+    return member.tasks.map((t, i) => ({
+      taskId: `${userId}-${i}`,
+      title: t.task,
+      dueDate: t.dueDate ? convertDueDate(t.dueDate) : null,
+      status: 'in_progress',
+      assignees: [{ userId }]
+    }));
+  }
+
+  function convertDueDate(str) {
+    if (!str) return null;
+    const parts = str.split('/');
+    if (parts.length < 2) return null;
+    const year = new Date().getFullYear();
+    return new Date(`${year}-${parts[1].padStart(2,'0')}-${parts[0].padStart(2,'0')}T00:00:00Z`).toISOString();
+  }
+
+  function fillForm(tasks) {
+    qs('today-label').textContent = todayLabel();
+    const t1 = tasks[0], t2 = tasks[1] || null;
+    qs('task1-title').value = t1.title || '';
+    if (t1.dueDate) qs('due1').textContent = `Due ${fmtDate(t1.dueDate)}`;
+    if (t2) {
+      qs('task2-title').value = t2.title || '';
+      if (t2.dueDate) qs('due2').textContent = `Due ${fmtDate(t2.dueDate)}`;
+      qs('group-task2').style.display = 'flex';
+      qs('group-prog2').style.display = 'flex';
+      qs('group-time2').style.display = 'flex';
+    }
+  }
+
+  async function handleSubmit() {
+    const hasTwoTasks = qs('group-task2').style.display !== 'none';
+    const prog1 = qs('picker1').dataset.value;
+    const prog2 = hasTwoTasks ? qs('picker2').dataset.value : null;
+    const time1 = qs('time-select1').value;
+    const time2 = hasTwoTasks ? qs('time-select2').value : null;
+    const message = qs('message').value.trim();
+
+    if (!prog1) { highlightPicker('picker1'); return; }
+    if (hasTwoTasks && !prog2) { highlightPicker('picker2'); return; }
+
+    const btn = qs('submit-btn');
+    btn.disabled = true;
+    btn.textContent = 'Đang gửi...';
+
+    const today = new Date().toISOString().split('T')[0];
+    const userId = uid();
+
+    const payload = {
+      userId,
+      submittedAt: new Date().toISOString(),
+      date: today,
+      tasks: [
+        { taskId: window._myTasks[0]?.taskId, title: window._myTasks[0]?.title, progress: prog1 + '%', timeSpent: time1 ? time1 + 'h' : '—' },
+        ...(hasTwoTasks ? [{ taskId: window._myTasks[1]?.taskId, title: window._myTasks[1]?.title, progress: prog2 + '%', timeSpent: time2 ? time2 + 'h' : '—' }] : [])
+      ],
+      message,
+    };
+
+    try {
+      await writeToGitHub(today, userId, payload);
+      showState('success');
+    } catch (err) {
+      btn.disabled = false;
+      btn.textContent = 'Submit';
+      alert(`❌ Gửi thất bại: ${err.message}`);
+    }
+  }
+
+  async function writeToGitHub(date, userId, payload) {
+    const res = await fetch(WORKER_URL, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(payload)
+    });
+    if (!res.ok) {
+      const err = await res.json();
+      throw new Error(err.error || `Worker error ${res.status}`);
+    }
+  }
+
+  function highlightPicker(pickerId) {
+    const el = qs(pickerId);
+    el.classList.add('picker-error');
+    el.addEventListener('animationend', () => el.classList.remove('picker-error'), { once: true });
+  }
+
+  async function init() {
+    // ── Check expired trước mọi thứ ──
+    if (isExpired()) {
+      showState('expired');
+      return;
+    }
+
+    const userId = uid();
+    if (!userId) {
+      showState('error');
+      qs('error-msg').textContent = '❌ Link không hợp lệ — thiếu userId. Vui lòng dùng link được gửi qua Lark.';
+      return;
+    }
+    try {
+      const tasks = await fetchTasksForUser(userId);
+      if (!tasks.length) {
+        showState('error');
+        qs('error-msg').textContent = `Không tìm thấy task nào cho userId: ${userId}`;
+        return;
+      }
+      window._myTasks = tasks;
+      fillForm(tasks);
+      showState('form');
+    } catch (err) {
+      showState('error');
+      qs('error-msg').textContent = `❌ Lỗi khi tải data: ${err.message}`;
+    }
+  }
+
+  qs('submit-btn').addEventListener('click', handleSubmit);
+  init();
+  </script>
+
+</body>
+</html>
