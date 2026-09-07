@@ -76,24 +76,24 @@
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     },
     {
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
-      "submittedAt": "2026-09-07T11:12:36.130Z",
       "date": "2026-09-07",
+      "message": "",
+      "submittedAt": "2026-09-07T11:12:36.130Z",
       "tasks": [
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "title": "LDA Safety Induction Video 2 ~1.5 min (1.5)",
           "progress": "20%",
-          "timeSpent": "5.5h"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "timeSpent": "5.5h",
+          "title": "LDA Safety Induction Video 2 ~1.5 min (1.5)"
         },
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
-          "title": "SN 36 tiếp 0.25",
           "progress": "100%",
-          "timeSpent": "2.5h"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
+          "timeSpent": "2.5h",
+          "title": "SN 36 tiếp 0.25"
         }
       ],
-      "message": ""
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     }
   ]
 }
