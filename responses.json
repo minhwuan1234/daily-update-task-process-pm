@@ -30,18 +30,18 @@
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
     },
     {
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
-      "submittedAt": "2026-09-08T11:06:00.498Z",
       "date": "2026-09-08",
+      "message": "",
+      "submittedAt": "2026-09-08T11:06:00.498Z",
       "tasks": [
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "title": "LDA Safety Induction Video 2 ~1.5 min (1.5)",
           "progress": "50%",
-          "timeSpent": "8h"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "timeSpent": "8h",
+          "title": "LDA Safety Induction Video 2 ~1.5 min (1.5)"
         }
       ],
-      "message": ""
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     }
   ]
 }
