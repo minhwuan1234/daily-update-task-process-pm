@@ -3,14 +3,14 @@
   "responses": [
     {
       "date": "2026-09-08",
-      "message": "LÃÂÃÂÃÂÃÂ m nÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂt Study guide Comm health 2 1h",
+      "message": "LÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ m nÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ»ÃÂÃÂÃÂÃÂt Study guide Comm health 2 1h",
       "submittedAt": "2026-09-08T11:01:10.562Z",
       "tasks": [
         {
           "progress": "60%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
           "timeSpent": "7h",
-          "title": "SN Priority: 37. Causes of AcidÃÂÃÂ¢ÃÂÃÂÃÂÃÂBase Imbalances You Need to Know (1.5)"
+          "title": "SN Priority: 37. Causes of AcidÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂBase Imbalances You Need to Know (1.5)"
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
@@ -70,6 +70,20 @@
         }
       ],
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+    },
+    {
+      "userId": "ou_e273fec35061a42660190f8c70f19882",
+      "submittedAt": "2026-09-08T15:04:43.649Z",
+      "date": "2026-09-08",
+      "tasks": [
+        {
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
+          "title": "SN Priority: 35. ABG Practice Questions for Nursing Students ~5 mins",
+          "progress": "70%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
