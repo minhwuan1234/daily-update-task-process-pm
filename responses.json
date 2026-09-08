@@ -1,113 +1,19 @@
 {
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "responses": [
     {
-      "userId": "ou_e273fec35061a42660190f8c70f19882",
-      "submittedAt": "2026-09-07T10:53:26.673Z",
-      "date": "2026-09-07",
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-09-08T11:01:10.562Z",
+      "date": "2026-09-08",
       "tasks": [
         {
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "title": "Nordex: M14 Finishing Preparation (0.5)",
-          "progress": "90%",
-          "timeSpent": "4h"
-        },
-        {
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
-          "title": "SN Priority: 35. ABG Practice Questions for Nursing Students ~5 mins",
-          "progress": "30%",
-          "timeSpent": "4h"
-        }
-      ],
-      "message": ""
-    },
-    {
-      "date": "2026-09-07",
-      "message": "",
-      "submittedAt": "2026-09-07T10:53:35.970Z",
-      "tasks": [
-        {
-          "progress": "60%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "8h",
-          "title": "LDA Safety Induction Video 1 ~1.5 min (1.5)"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
-    },
-    {
-      "date": "2026-09-07",
-      "message": "",
-      "submittedAt": "2026-09-07T11:04:07.881Z",
-      "tasks": [
-        {
-          "progress": "100%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "4h",
-          "title": "SN Community Health: 2. Disaster Management - Types of Disasters  study guide (2h)\n\nSN Priority: 37. Causes of AcidÃÂ¢ÃÂÃÂBase Imbalances You Need to Know (1.5)"
-        },
-        {
-          "progress": "100%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
-          "timeSpent": "2h",
-          "title": "Nordex: M14 Finishing Preparation Background (30')"
+          "title": "SN Priority: 37. Causes of Acid–Base Imbalances You Need to Know (1.5)",
+          "progress": "60%",
+          "timeSpent": "7h"
         }
       ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-09-07",
-      "message": "hÃ¡Â»Âp hÃ¡ÂºÂ¿t khoÃ¡ÂºÂ£ng 45p\nsÃ¡Â»Â­a UV German flyers khoÃ¡ÂºÂ£ng 10p",
-      "submittedAt": "2026-09-07T11:04:30.066Z",
-      "tasks": [
-        {
-          "progress": "20%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "4.5h",
-          "title": "Conation media: illus (3)"
-        },
-        {
-          "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "timeSpent": "2.5h",
-          "title": "UV Smart: New 1 pager VN ver (3h)"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-09-07",
-      "message": "",
-      "submittedAt": "2026-09-07T11:12:36.130Z",
-      "tasks": [
-        {
-          "progress": "20%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "5.5h",
-          "title": "LDA Safety Induction Video 2 ~1.5 min (1.5)"
-        },
-        {
-          "progress": "100%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
-          "timeSpent": "2.5h",
-          "title": "SN 36 tiáº¿p 0.25"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-09-07",
-      "message": "Em sửa nội bộ file SmoothKP hết 7.5h và họp đầu tuần 15 phút ạ",
-      "submittedAt": "2026-09-07T12:46:11.691Z",
-      "tasks": [
-        {
-          "progress": "0%",
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "—",
-          "title": "Test 2: CSL SFPA (1.5)"
-        }
-      ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
+      "message": "Làm nốt Study guide Comm health 2 1h"
     }
   ]
 }
