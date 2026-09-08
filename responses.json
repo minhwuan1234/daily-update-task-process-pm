@@ -3,14 +3,14 @@
   "responses": [
     {
       "date": "2026-09-08",
-      "message": "LÃÂ m nÃ¡Â»Ât Study guide Comm health 2 1h",
+      "message": "LÃÂÃÂ m nÃÂ¡ÃÂ»ÃÂt Study guide Comm health 2 1h",
       "submittedAt": "2026-09-08T11:01:10.562Z",
       "tasks": [
         {
           "progress": "60%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
           "timeSpent": "7h",
-          "title": "SN Priority: 37. Causes of AcidÃ¢ÂÂBase Imbalances You Need to Know (1.5)"
+          "title": "SN Priority: 37. Causes of AcidÃÂ¢ÃÂÃÂBase Imbalances You Need to Know (1.5)"
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
@@ -42,6 +42,20 @@
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-09-08T11:06:38.372Z",
+      "date": "2026-09-08",
+      "tasks": [
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "title": "Conation media: illus (3)",
+          "progress": "50%",
+          "timeSpent": "6h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
