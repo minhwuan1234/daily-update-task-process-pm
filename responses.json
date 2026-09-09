@@ -10,7 +10,7 @@
           "progress": "100%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
           "timeSpent": "6h",
-          "title": "SN Priority: 37. Causes of AcidâBase Imbalances You Need to Know (1.5)"
+          "title": "SN Priority: 37. Causes of AcidÃ¢ÂÂBase Imbalances You Need to Know (1.5)"
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
@@ -28,6 +28,26 @@
         }
       ],
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+    },
+    {
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-09-09T11:05:20.205Z",
+      "date": "2026-09-09",
+      "tasks": [
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "title": "Conation media: illus (3)",
+          "progress": "80%",
+          "timeSpent": "4h"
+        },
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
+          "title": "UV Smart: ASP x UV Smart rollup banner (2h)\nD60/D45 A5 landscape product brochure (2h)",
+          "progress": "100%",
+          "timeSpent": "2.5h"
+        }
+      ],
+      "message": "Sửa Klett water cycle khoảng 30p\nSửa D60xASP rollup banner 85x206cm khoảng 30p"
     }
   ]
 }
