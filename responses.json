@@ -50,18 +50,18 @@
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     },
     {
-      "userId": "ou_e0897ef23f084625d708cd50c16468db",
-      "submittedAt": "2026-09-09T11:06:41.564Z",
       "date": "2026-09-09",
+      "message": "Em làm 38. How Acid–Base Imbalances Affect Potassium xong 80%, hết 8h ạ",
+      "submittedAt": "2026-09-09T11:06:41.564Z",
       "tasks": [
         {
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "title": "Test 2: CSL SFPA (1.5)",
           "progress": "100%",
-          "timeSpent": "—"
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
+          "timeSpent": "—",
+          "title": "Test 2: CSL SFPA (1.5)"
         }
       ],
-      "message": "Em làm 38. How Acid–Base Imbalances Affect Potassium xong 80%, hết 8h ạ"
+      "userId": "ou_e0897ef23f084625d708cd50c16468db"
     }
   ]
 }
