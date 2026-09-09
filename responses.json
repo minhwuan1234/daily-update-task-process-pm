@@ -84,18 +84,18 @@
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     },
     {
-      "userId": "ou_e273fec35061a42660190f8c70f19882",
-      "submittedAt": "2026-09-09T15:23:42.875Z",
       "date": "2026-09-09",
+      "message": "",
+      "submittedAt": "2026-09-09T15:23:42.875Z",
       "tasks": [
         {
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "title": "RnD format: SFPA Video 2 15s / Flexigas 60s",
           "progress": "100%",
-          "timeSpent": "8h"
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
+          "timeSpent": "8h",
+          "title": "RnD format: SFPA Video 2 15s / Flexigas 60s"
         }
       ],
-      "message": ""
+      "userId": "ou_e273fec35061a42660190f8c70f19882"
     }
   ]
 }
