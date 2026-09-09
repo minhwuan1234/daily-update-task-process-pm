@@ -10,7 +10,7 @@
           "progress": "100%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
           "timeSpent": "6h",
-          "title": "SN Priority: 37. Causes of AcidÃ¢ÂÂBase Imbalances You Need to Know (1.5)"
+          "title": "SN Priority: 37. Causes of AcidÃÂ¢ÃÂÃÂBase Imbalances You Need to Know (1.5)"
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
@@ -31,7 +31,7 @@
     },
     {
       "date": "2026-09-09",
-      "message": "Sửa Klett water cycle khoảng 30p\nSửa D60xASP rollup banner 85x206cm khoảng 30p",
+      "message": "Sá»­a Klett water cycle khoáº£ng 30p\nSá»­a D60xASP rollup banner 85x206cm khoáº£ng 30p",
       "submittedAt": "2026-09-09T11:05:20.205Z",
       "tasks": [
         {
@@ -48,6 +48,20 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_e0897ef23f084625d708cd50c16468db",
+      "submittedAt": "2026-09-09T11:06:41.564Z",
+      "date": "2026-09-09",
+      "tasks": [
+        {
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
+          "title": "Test 2: CSL SFPA (1.5)",
+          "progress": "100%",
+          "timeSpent": "—"
+        }
+      ],
+      "message": "Em làm 38. How Acid–Base Imbalances Affect Potassium xong 80%, hết 8h ạ"
     }
   ]
 }
