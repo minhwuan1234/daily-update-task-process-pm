@@ -16,18 +16,18 @@
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     },
     {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-09-09T11:02:27.085Z",
       "date": "2026-09-09",
+      "message": "",
+      "submittedAt": "2026-09-09T11:02:27.085Z",
       "tasks": [
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "OKR: Timing/Pacing course",
           "progress": "80%",
-          "timeSpent": "8h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "timeSpent": "8h",
+          "title": "OKR: Timing/Pacing course"
         }
       ],
-      "message": ""
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     }
   ]
 }
