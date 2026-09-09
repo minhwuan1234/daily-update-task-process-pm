@@ -1,14 +1,19 @@
 {
-  "date": "8-Sep",
-  "generatedAt": "2026-09-08T10:46:57.100Z",
+  "date": "9-Sep",
+  "generatedAt": "2026-09-09T10:48:29.802Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "8-Sep",
+          "date": "9-Sep",
           "dueDate": "14/9",
           "task": "Conation media: illus (3)"
+        },
+        {
+          "date": "9-Sep",
+          "dueDate": "10/9",
+          "task": "UV Smart: ASP x UV Smart rollup banner (2h)\nD60/D45 A5 landscape product brochure (2h)"
         }
       ]
     },
@@ -16,8 +21,8 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "8-Sep",
-          "dueDate": null,
+          "date": "9-Sep",
+          "dueDate": "11/9",
           "task": "SN Priority: 37. Causes of Acid–Base Imbalances You Need to Know (1.5)"
         }
       ]
@@ -26,7 +31,7 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "8-Sep",
+          "date": "9-Sep",
           "dueDate": null,
           "task": "Test 2: CSL SFPA (1.5)"
         }
@@ -36,9 +41,9 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "8-Sep",
-          "dueDate": "11/9",
-          "task": "SN Priority: 35. ABG Practice Questions for Nursing Students ~5 mins"
+          "date": "9-Sep",
+          "dueDate": null,
+          "task": "RnD format: SFPA Video 2 15s / Flexigas 60s"
         }
       ]
     },
@@ -46,7 +51,12 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "8-Sep",
+          "date": "9-Sep",
+          "dueDate": "13/9",
+          "task": "Klett: D4.02 (1 hình complex) (1)"
+        },
+        {
+          "date": "9-Sep",
           "dueDate": "16/9",
           "task": "LDA Safety Induction Video 2 ~1.5 min (1.5)"
         }
@@ -56,13 +66,13 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "8-Sep",
-          "dueDate": "16/9",
-          "task": "LDA Safety Induction Video 1 ~1.5 min (1.5)"
+          "date": "9-Sep",
+          "dueDate": null,
+          "task": "OKR: Timing/Pacing course"
         }
       ]
     }
   ],
   "totalMembers": 6,
-  "totalTasks": 6
+  "totalTasks": 8
 }
