@@ -3,21 +3,21 @@
   "responses": [
     {
       "date": "2026-09-10",
-      "message": "Em lÃÂ m 6. Rural - urban health ÃÂÃÂ°Ã¡Â»Â£c 10%, hÃ¡ÂºÂ¿t 4.5h Ã¡ÂºÂ¡",
+      "message": "Em lÃÂÃÂ m 6. Rural - urban health ÃÂÃÂÃÂÃÂ°ÃÂ¡ÃÂ»ÃÂ£c 10%, hÃÂ¡ÃÂºÃÂ¿t 4.5h ÃÂ¡ÃÂºÃÂ¡",
       "submittedAt": "2026-09-10T10:46:57.993Z",
       "tasks": [
         {
           "progress": "100%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
           "timeSpent": "3.5h",
-          "title": "SN Priority: 38. How AcidÃ¢ÂÂBase Imbalances Affect Potassium"
+          "title": "SN Priority: 38. How AcidÃÂ¢ÃÂÃÂBase Imbalances Affect Potassium"
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
     },
     {
       "date": "2026-09-10",
-      "message": "Sá»­a comm health 3 1.5h",
+      "message": "SÃ¡Â»Â­a comm health 3 1.5h",
       "submittedAt": "2026-09-10T10:47:37.906Z",
       "tasks": [
         {
@@ -31,7 +31,7 @@
     },
     {
       "date": "2026-09-10",
-      "message": "khoảng 1h30 sửa qua lại mấy cái UV",
+      "message": "khoáº£ng 1h30 sá»­a qua láº¡i máº¥y cÃ¡i UV",
       "submittedAt": "2026-09-10T10:53:10.816Z",
       "tasks": [
         {
@@ -42,6 +42,26 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-09-10T11:10:06.471Z",
+      "date": "2026-09-10",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "OKR: Timing/Pacing course",
+          "progress": "90%",
+          "timeSpent": "4h"
+        },
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
+          "title": "Klett: D4.02 (1 hình complex) (1)",
+          "progress": "70%",
+          "timeSpent": "4h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
