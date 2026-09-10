@@ -1,101 +1,19 @@
 {
-  "date": "2026-09-09",
+  "date": "2026-09-10",
   "responses": [
     {
-      "date": "2026-09-09",
-      "message": "30p support Klett\n1.5h AM 7-5",
-      "submittedAt": "2026-09-09T10:50:58.468Z",
+      "userId": "ou_e0897ef23f084625d708cd50c16468db",
+      "submittedAt": "2026-09-10T10:46:57.993Z",
+      "date": "2026-09-10",
       "tasks": [
         {
-          "progress": "100%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "6h",
-          "title": "SN Priority: 37. Causes of AcidÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂBase Imbalances You Need to Know (1.5)"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-09-09",
-      "message": "",
-      "submittedAt": "2026-09-09T11:02:27.085Z",
-      "tasks": [
-        {
-          "progress": "80%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "8h",
-          "title": "OKR: Timing/Pacing course"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
-    },
-    {
-      "date": "2026-09-09",
-      "message": "SÃÂ¡ÃÂ»ÃÂ­a Klett water cycle khoÃÂ¡ÃÂºÃÂ£ng 30p\nSÃÂ¡ÃÂ»ÃÂ­a D60xASP rollup banner 85x206cm khoÃÂ¡ÃÂºÃÂ£ng 30p",
-      "submittedAt": "2026-09-09T11:05:20.205Z",
-      "tasks": [
-        {
-          "progress": "80%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "4h",
-          "title": "Conation media: illus (3)"
-        },
-        {
-          "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "timeSpent": "2.5h",
-          "title": "UV Smart: ASP x UV Smart rollup banner (2h)\nD60/D45 A5 landscape product brochure (2h)"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-09-09",
-      "message": "Em lÃÂ m 38. How AcidÃ¢ÂÂBase Imbalances Affect Potassium xong 80%, hÃ¡ÂºÂ¿t 8h Ã¡ÂºÂ¡",
-      "submittedAt": "2026-09-09T11:06:41.564Z",
-      "tasks": [
-        {
-          "progress": "100%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "Ã¢ÂÂ",
-          "title": "Test 2: CSL SFPA (1.5)"
-        }
-      ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
-    },
-    {
-      "date": "2026-09-09",
-      "message": "",
-      "submittedAt": "2026-09-09T11:30:08.961Z",
-      "tasks": [
-        {
-          "progress": "0%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "â",
-          "title": "Klett: D4.02 (1 hÃ¬nh complex) (1)"
-        },
-        {
-          "progress": "70%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
-          "timeSpent": "8h",
-          "title": "LDA Safety Induction Video 2 ~1.5 min (1.5)"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-09-09",
-      "message": "",
-      "submittedAt": "2026-09-09T15:23:42.875Z",
-      "tasks": [
-        {
+          "title": "SN Priority: 38. How Acid–Base Imbalances Affect Potassium",
           "progress": "100%",
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "8h",
-          "title": "RnD format: SFPA Video 2 15s / Flexigas 60s"
+          "timeSpent": "3.5h"
         }
       ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
+      "message": "Em làm 6. Rural - urban health được 10%, hết 4.5h ạ"
     }
   ]
 }
