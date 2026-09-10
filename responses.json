@@ -3,17 +3,31 @@
   "responses": [
     {
       "date": "2026-09-10",
-      "message": "Em làm 6. Rural - urban health được 10%, hết 4.5h ạ",
+      "message": "Em lÃ m 6. Rural - urban health ÄÆ°á»£c 10%, háº¿t 4.5h áº¡",
       "submittedAt": "2026-09-10T10:46:57.993Z",
       "tasks": [
         {
           "progress": "100%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
           "timeSpent": "3.5h",
-          "title": "SN Priority: 38. How Acid–Base Imbalances Affect Potassium"
+          "title": "SN Priority: 38. How AcidâBase Imbalances Affect Potassium"
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
+    },
+    {
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-09-10T10:47:37.906Z",
+      "date": "2026-09-10",
+      "tasks": [
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "AMD: Chapter 7-5 - 3.5 mins\n1.5h",
+          "progress": "70%",
+          "timeSpent": "6.5h"
+        }
+      ],
+      "message": "Sửa comm health 3 1.5h"
     }
   ]
 }
