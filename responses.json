@@ -3,21 +3,21 @@
   "responses": [
     {
       "date": "2026-09-10",
-      "message": "Em lÃÂÃÂ m 6. Rural - urban health ÃÂÃÂÃÂÃÂ°ÃÂ¡ÃÂ»ÃÂ£c 10%, hÃÂ¡ÃÂºÃÂ¿t 4.5h ÃÂ¡ÃÂºÃÂ¡",
+      "message": "Em lÃÂÃÂÃÂÃÂ m 6. Rural - urban health ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ£c 10%, hÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿t 4.5h ÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¡",
       "submittedAt": "2026-09-10T10:46:57.993Z",
       "tasks": [
         {
           "progress": "100%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
           "timeSpent": "3.5h",
-          "title": "SN Priority: 38. How AcidÃÂ¢ÃÂÃÂBase Imbalances Affect Potassium"
+          "title": "SN Priority: 38. How AcidÃÂÃÂ¢ÃÂÃÂÃÂÃÂBase Imbalances Affect Potassium"
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
     },
     {
       "date": "2026-09-10",
-      "message": "SÃ¡Â»Â­a comm health 3 1.5h",
+      "message": "SÃÂ¡ÃÂ»ÃÂ­a comm health 3 1.5h",
       "submittedAt": "2026-09-10T10:47:37.906Z",
       "tasks": [
         {
@@ -31,7 +31,7 @@
     },
     {
       "date": "2026-09-10",
-      "message": "khoáº£ng 1h30 sá»­a qua láº¡i máº¥y cÃ¡i UV",
+      "message": "khoÃ¡ÂºÂ£ng 1h30 sÃ¡Â»Â­a qua lÃ¡ÂºÂ¡i mÃ¡ÂºÂ¥y cÃÂ¡i UV",
       "submittedAt": "2026-09-10T10:53:10.816Z",
       "tasks": [
         {
@@ -58,10 +58,24 @@
           "progress": "70%",
           "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
           "timeSpent": "4h",
-          "title": "Klett: D4.02 (1 hình complex) (1)"
+          "title": "Klett: D4.02 (1 hÃ¬nh complex) (1)"
         }
       ],
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-09-10T14:15:20.842Z",
+      "date": "2026-09-10",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "LDA Safety Induction Video 2 ~2.5 min (3.5)",
+          "progress": "100%",
+          "timeSpent": "7h"
+        }
+      ],
+      "message": "Sửa SN Community Health: 2. Disaster Management - Types of Disasters (1h)"
     }
   ]
 }
