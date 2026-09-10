@@ -30,18 +30,18 @@
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     },
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-09-10T10:53:10.816Z",
       "date": "2026-09-10",
+      "message": "khoảng 1h30 sửa qua lại mấy cái UV",
+      "submittedAt": "2026-09-10T10:53:10.816Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "Conation media: Concept Art (2)",
           "progress": "100%",
-          "timeSpent": "3.5h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "3.5h",
+          "title": "Conation media: Concept Art (2)"
         }
       ],
-      "message": "khoảng 1h30 sửa qua lại mấy cái UV"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }
