@@ -78,24 +78,24 @@
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     },
     {
-      "userId": "ou_e273fec35061a42660190f8c70f19882",
-      "submittedAt": "2026-09-10T16:26:20.374Z",
       "date": "2026-09-10",
+      "message": "",
+      "submittedAt": "2026-09-10T16:26:20.374Z",
       "tasks": [
         {
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "title": "RnD format: SFPA Video 2 15s",
           "progress": "20%",
-          "timeSpent": "8h"
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
+          "timeSpent": "8h",
+          "title": "RnD format: SFPA Video 2 15s"
         },
         {
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
-          "title": "RnD format: Flexigas 60s",
           "progress": "0%",
-          "timeSpent": "—"
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
+          "timeSpent": "—",
+          "title": "RnD format: Flexigas 60s"
         }
       ],
-      "message": ""
+      "userId": "ou_e273fec35061a42660190f8c70f19882"
     }
   ]
 }
