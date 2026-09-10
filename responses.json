@@ -16,18 +16,18 @@
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
     },
     {
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-09-10T10:47:37.906Z",
       "date": "2026-09-10",
+      "message": "Sửa comm health 3 1.5h",
+      "submittedAt": "2026-09-10T10:47:37.906Z",
       "tasks": [
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "AMD: Chapter 7-5 - 3.5 mins\n1.5h",
           "progress": "70%",
-          "timeSpent": "6.5h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "timeSpent": "6.5h",
+          "title": "AMD: Chapter 7-5 - 3.5 mins\n1.5h"
         }
       ],
-      "message": "Sửa comm health 3 1.5h"
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     }
   ]
 }
