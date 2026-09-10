@@ -1,19 +1,14 @@
 {
-  "date": "9-Sep",
-  "generatedAt": "2026-09-09T10:48:29.802Z",
+  "date": "10-Sep",
+  "generatedAt": "2026-09-10T10:45:14.025Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "9-Sep",
-          "dueDate": "14/9",
-          "task": "Conation media: illus (3)"
-        },
-        {
-          "date": "9-Sep",
-          "dueDate": "10/9",
-          "task": "UV Smart: ASP x UV Smart rollup banner (2h)\nD60/D45 A5 landscape product brochure (2h)"
+          "date": "10-Sep",
+          "dueDate": "28/8",
+          "task": "Conation media: Concept Art (2)"
         }
       ]
     },
@@ -21,9 +16,9 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "9-Sep",
-          "dueDate": "11/9",
-          "task": "SN Priority: 37. Causes of Acid–Base Imbalances You Need to Know (1.5)"
+          "date": "10-Sep",
+          "dueDate": "15/9",
+          "task": "AMD: Chapter 7-5 - 3.5 mins\n1.5h"
         }
       ]
     },
@@ -31,9 +26,9 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "9-Sep",
-          "dueDate": null,
-          "task": "Test 2: CSL SFPA (1.5)"
+          "date": "10-Sep",
+          "dueDate": "2/10",
+          "task": "SN Priority: 38. How Acid–Base Imbalances Affect Potassium"
         }
       ]
     },
@@ -41,9 +36,14 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "9-Sep",
+          "date": "10-Sep",
           "dueDate": null,
-          "task": "RnD format: SFPA Video 2 15s / Flexigas 60s"
+          "task": "RnD format: SFPA Video 2 15s"
+        },
+        {
+          "date": "10-Sep",
+          "dueDate": null,
+          "task": "RnD format: Flexigas 60s"
         }
       ]
     },
@@ -51,14 +51,9 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "9-Sep",
-          "dueDate": "13/9",
-          "task": "Klett: D4.02 (1 hình complex) (1)"
-        },
-        {
-          "date": "9-Sep",
+          "date": "10-Sep",
           "dueDate": "16/9",
-          "task": "LDA Safety Induction Video 2 ~1.5 min (1.5)"
+          "task": "LDA Safety Induction Video 2 ~2.5 min (3.5)"
         }
       ]
     },
@@ -66,9 +61,14 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "9-Sep",
+          "date": "10-Sep",
           "dueDate": null,
           "task": "OKR: Timing/Pacing course"
+        },
+        {
+          "date": "10-Sep",
+          "dueDate": "16/9",
+          "task": "Klett: D4.02 (1 hình complex) (1)"
         }
       ]
     }
