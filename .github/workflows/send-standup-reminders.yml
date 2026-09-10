@@ -6,9 +6,9 @@ on:
     # 10:59 UTC = 17:59 Việt Nam
     # 11:09 UTC = 18:09 Việt Nam
     # 11:19 UTC = 18:19 Việt Nam
-    - cron: "59 7 * * *"
-    - cron: "9 8 * * *"
-    - cron: "19 8 * * *"
+    - cron: "59 17 * * *"
+    - cron: "9 18 * * *"
+    - cron: "19 18 * * *"
 
   # Cho phép chạy thử thủ công
   workflow_dispatch:
