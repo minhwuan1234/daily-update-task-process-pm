@@ -1,14 +1,14 @@
 {
-  "date": "10-Sep",
-  "generatedAt": "2026-09-10T10:45:14.025Z",
+  "date": "11-Sep",
+  "generatedAt": "2026-09-11T10:45:17.397Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "10-Sep",
-          "dueDate": "28/8",
-          "task": "Conation media: Concept Art (2)"
+          "date": "11-Sep",
+          "dueDate": "18/9",
+          "task": "SN Community Health: 4. Environmental Health tiếp"
         }
       ]
     },
@@ -16,9 +16,9 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "10-Sep",
+          "date": "11-Sep",
           "dueDate": "15/9",
-          "task": "AMD: Chapter 7-5 - 3.5 mins\n1.5h"
+          "task": "AMD: Chapter 7-5 - 3.5 mins"
         }
       ]
     },
@@ -26,9 +26,9 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "10-Sep",
-          "dueDate": "2/10",
-          "task": "SN Priority: 38. How Acid–Base Imbalances Affect Potassium"
+          "date": "11-Sep",
+          "dueDate": "9/10",
+          "task": "SN Community Health: 6. Rural & Urban Health ~13 mins"
         }
       ]
     },
@@ -36,12 +36,7 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "10-Sep",
-          "dueDate": null,
-          "task": "RnD format: SFPA Video 2 15s"
-        },
-        {
-          "date": "10-Sep",
+          "date": "11-Sep",
           "dueDate": null,
           "task": "RnD format: Flexigas 60s"
         }
@@ -51,9 +46,9 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "10-Sep",
-          "dueDate": "16/9",
-          "task": "LDA Safety Induction Video 2 ~2.5 min (3.5)"
+          "date": "11-Sep",
+          "dueDate": null,
+          "task": "OKR: Personal project: Improve anim quality"
         }
       ]
     },
@@ -61,12 +56,7 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "10-Sep",
-          "dueDate": null,
-          "task": "OKR: Timing/Pacing course"
-        },
-        {
-          "date": "10-Sep",
+          "date": "11-Sep",
           "dueDate": "16/9",
           "task": "Klett: D4.02 (1 hình complex) (1)"
         }
@@ -74,5 +64,5 @@
     }
   ],
   "totalMembers": 6,
-  "totalTasks": 8
+  "totalTasks": 6
 }
