@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-09-11",
-      "message": "há»p tuáº§n 1h",
+      "message": "hÃ¡Â»Âp tuÃ¡ÂºÂ§n 1h",
       "submittedAt": "2026-09-11T11:00:51.804Z",
       "tasks": [
         {
@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-09-11",
-      "message": "em sửa nội bộ 38. How Acid–Base Imbalances Affect Potassium hết 2h và họp cuối tuần hết 1h ạ",
+      "message": "em sá»­a ná»i bá» 38. How AcidâBase Imbalances Affect Potassium háº¿t 2h vÃ  há»p cuá»i tuáº§n háº¿t 1h áº¡",
       "submittedAt": "2026-09-11T11:08:47.976Z",
       "tasks": [
         {
@@ -28,6 +28,20 @@
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-09-11T15:07:12.184Z",
+      "date": "2026-09-11",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "Klett: D4.02 (1 hình complex) (1)",
+          "progress": "100%",
+          "timeSpent": "4h"
+        }
+      ],
+      "message": "1h fix LDA 2h OKR 1h hop team"
     }
   ]
 }
