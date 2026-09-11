@@ -1,101 +1,19 @@
 {
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "responses": [
     {
-      "date": "2026-09-10",
-      "message": "Em lÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ m 6. Rural - urban health ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ»ÃÂÃÂÃÂÃÂ£c 10%, hÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ¿t 4.5h ÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ¡",
-      "submittedAt": "2026-09-10T10:46:57.993Z",
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-09-11T11:00:51.804Z",
+      "date": "2026-09-11",
       "tasks": [
         {
-          "progress": "100%",
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "3.5h",
-          "title": "SN Priority: 38. How AcidÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂBase Imbalances Affect Potassium"
-        }
-      ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
-    },
-    {
-      "date": "2026-09-10",
-      "message": "SÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a comm health 3 1.5h",
-      "submittedAt": "2026-09-10T10:47:37.906Z",
-      "tasks": [
-        {
-          "progress": "70%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "6.5h",
-          "title": "AMD: Chapter 7-5 - 3.5 mins\n1.5h"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-09-10",
-      "message": "khoÃÂ¡ÃÂºÃÂ£ng 1h30 sÃÂ¡ÃÂ»ÃÂ­a qua lÃÂ¡ÃÂºÃÂ¡i mÃÂ¡ÃÂºÃÂ¥y cÃÂÃÂ¡i UV",
-      "submittedAt": "2026-09-10T10:53:10.816Z",
-      "tasks": [
-        {
+          "title": "AMD: Chapter 7-5 - 3.5 mins",
           "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "3.5h",
-          "title": "Conation media: Concept Art (2)"
+          "timeSpent": "6.5h"
         }
       ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-09-10",
-      "message": "",
-      "submittedAt": "2026-09-10T11:10:06.471Z",
-      "tasks": [
-        {
-          "progress": "90%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "4h",
-          "title": "OKR: Timing/Pacing course"
-        },
-        {
-          "progress": "70%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
-          "timeSpent": "4h",
-          "title": "Klett: D4.02 (1 hÃÂ¬nh complex) (1)"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
-    },
-    {
-      "date": "2026-09-10",
-      "message": "Sá»­a SN Community Health: 2. Disaster Management - Types of Disasters (1h)",
-      "submittedAt": "2026-09-10T14:15:20.842Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "7h",
-          "title": "LDA Safety Induction Video 2 ~2.5 min (3.5)"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-09-10",
-      "message": "",
-      "submittedAt": "2026-09-10T16:26:20.374Z",
-      "tasks": [
-        {
-          "progress": "20%",
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "8h",
-          "title": "RnD format: SFPA Video 2 15s"
-        },
-        {
-          "progress": "0%",
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
-          "timeSpent": "—",
-          "title": "RnD format: Flexigas 60s"
-        }
-      ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
+      "message": "họp tuần 1h"
     }
   ]
 }
