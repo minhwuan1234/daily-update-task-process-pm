@@ -2,18 +2,18 @@
   "date": "2026-09-11",
   "responses": [
     {
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-09-11T11:00:51.804Z",
       "date": "2026-09-11",
+      "message": "họp tuần 1h",
+      "submittedAt": "2026-09-11T11:00:51.804Z",
       "tasks": [
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "AMD: Chapter 7-5 - 3.5 mins",
           "progress": "100%",
-          "timeSpent": "6.5h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "timeSpent": "6.5h",
+          "title": "AMD: Chapter 7-5 - 3.5 mins"
         }
       ],
-      "message": "họp tuần 1h"
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     }
   ]
 }
