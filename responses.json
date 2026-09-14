@@ -44,24 +44,24 @@
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
     },
     {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-09-14T11:04:51.080Z",
       "date": "2026-09-14",
+      "message": "20p hop dau tuan, 3,5h ANIMATIC STUDIO HUMANITY",
+      "submittedAt": "2026-09-14T11:04:51.080Z",
       "tasks": [
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "Nordex: M15 Key Finishing Operations - 2 anim (0.5)",
           "progress": "100%",
-          "timeSpent": "4h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "timeSpent": "4h",
+          "title": "Nordex: M15 Key Finishing Operations - 2 anim (0.5)"
         },
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
-          "title": "OKR: Timing/Pacing course (0.5)",
           "progress": "0%",
-          "timeSpent": "0.5h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
+          "timeSpent": "0.5h",
+          "title": "OKR: Timing/Pacing course (0.5)"
         }
       ],
-      "message": "20p hop dau tuan, 3,5h ANIMATIC STUDIO HUMANITY"
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     }
   ]
 }
