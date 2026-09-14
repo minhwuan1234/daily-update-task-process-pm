@@ -2,18 +2,18 @@
   "date": "2026-09-14",
   "responses": [
     {
-      "userId": "ou_e273fec35061a42660190f8c70f19882",
-      "submittedAt": "2026-09-14T10:46:26.915Z",
       "date": "2026-09-14",
+      "message": "2 tiếng sửa IHF Pyramid",
+      "submittedAt": "2026-09-14T10:46:26.915Z",
       "tasks": [
         {
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "title": "BD videos: HRRP #77 Prepare before HIP surgery",
           "progress": "30%",
-          "timeSpent": "6h"
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
+          "timeSpent": "6h",
+          "title": "BD videos: HRRP #77 Prepare before HIP surgery"
         }
       ],
-      "message": "2 tiếng sửa IHF Pyramid"
+      "userId": "ou_e273fec35061a42660190f8c70f19882"
     }
   ]
 }
