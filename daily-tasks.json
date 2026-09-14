@@ -1,14 +1,14 @@
 {
-  "date": "11-Sep",
-  "generatedAt": "2026-09-11T10:45:17.397Z",
+  "date": "14-Sep",
+  "generatedAt": "2026-09-14T10:45:11.661Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "11-Sep",
+          "date": "14-Sep",
           "dueDate": "18/9",
-          "task": "SN Community Health: 4. Environmental Health tiếp"
+          "task": "SN Community Health: 4. tiếp"
         }
       ]
     },
@@ -16,9 +16,9 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "11-Sep",
+          "date": "14-Sep",
           "dueDate": "15/9",
-          "task": "AMD: Chapter 7-5 - 3.5 mins"
+          "task": "Studiohumanity Storyboard fix #2"
         }
       ]
     },
@@ -26,9 +26,9 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "11-Sep",
+          "date": "14-Sep",
           "dueDate": "9/10",
-          "task": "SN Community Health: 6. Rural & Urban Health ~13 mins"
+          "task": "SN Community Health: 6. tiếp"
         }
       ]
     },
@@ -36,9 +36,9 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "11-Sep",
+          "date": "14-Sep",
           "dueDate": null,
-          "task": "RnD format: Flexigas 60s"
+          "task": "BD videos: HRRP #77 Prepare before HIP surgery"
         }
       ]
     },
@@ -46,9 +46,9 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "11-Sep",
-          "dueDate": null,
-          "task": "OKR: Personal project: Improve anim quality"
+          "date": "14-Sep",
+          "dueDate": "22/9",
+          "task": "SN Community Health: 3. Disaster Management - Terrorism 14mins"
         }
       ]
     },
@@ -56,13 +56,18 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "11-Sep",
-          "dueDate": "16/9",
-          "task": "Klett: D4.02 (1 hình complex) (1)"
+          "date": "14-Sep",
+          "dueDate": "17/9",
+          "task": "Nordex: M15 Key Finishing Operations - 2 anim (0.5)"
+        },
+        {
+          "date": "14-Sep",
+          "dueDate": null,
+          "task": "OKR: Timing/Pacing course (0.5)"
         }
       ]
     }
   ],
   "totalMembers": 6,
-  "totalTasks": 6
+  "totalTasks": 7
 }
