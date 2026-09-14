@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-09-14",
-      "message": "2 tiáº¿ng sá»­a IHF Pyramid",
+      "message": "2 tiÃ¡ÂºÂ¿ng sÃ¡Â»Â­a IHF Pyramid",
       "submittedAt": "2026-09-14T10:46:26.915Z",
       "tasks": [
         {
@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-09-14",
-      "message": "làm thumb comm health 9+3 45p\nSửa concept stuhu họa tiết quấn áo 1h\nStuhu illus 1,5h",
+      "message": "lÃ m thumb comm health 9+3 45p\nSá»­a concept stuhu há»a tiáº¿t quáº¥n Ã¡o 1h\nStuhu illus 1,5h",
       "submittedAt": "2026-09-14T10:51:31.507Z",
       "tasks": [
         {
@@ -28,6 +28,20 @@
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+    },
+    {
+      "userId": "ou_e0897ef23f084625d708cd50c16468db",
+      "submittedAt": "2026-09-14T10:54:51.838Z",
+      "date": "2026-09-14",
+      "tasks": [
+        {
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
+          "title": "SN Community Health: 6. tiếp",
+          "progress": "60%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
