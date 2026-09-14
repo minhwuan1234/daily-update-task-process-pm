@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-09-14",
-      "message": "2 tiÃ¡ÂºÂ¿ng sÃ¡Â»Â­a IHF Pyramid",
+      "message": "2 tiÃÂ¡ÃÂºÃÂ¿ng sÃÂ¡ÃÂ»ÃÂ­a IHF Pyramid",
       "submittedAt": "2026-09-14T10:46:26.915Z",
       "tasks": [
         {
@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-09-14",
-      "message": "lÃ m thumb comm health 9+3 45p\nSá»­a concept stuhu há»a tiáº¿t quáº¥n Ã¡o 1h\nStuhu illus 1,5h",
+      "message": "lÃÂ m thumb comm health 9+3 45p\nSÃ¡Â»Â­a concept stuhu hÃ¡Â»Âa tiÃ¡ÂºÂ¿t quÃ¡ÂºÂ¥n ÃÂ¡o 1h\nStuhu illus 1,5h",
       "submittedAt": "2026-09-14T10:51:31.507Z",
       "tasks": [
         {
@@ -38,10 +38,30 @@
           "progress": "60%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
           "timeSpent": "8h",
-          "title": "SN Community Health: 6. tiếp"
+          "title": "SN Community Health: 6. tiáº¿p"
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-09-14T11:04:51.080Z",
+      "date": "2026-09-14",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "Nordex: M15 Key Finishing Operations - 2 anim (0.5)",
+          "progress": "100%",
+          "timeSpent": "4h"
+        },
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
+          "title": "OKR: Timing/Pacing course (0.5)",
+          "progress": "0%",
+          "timeSpent": "0.5h"
+        }
+      ],
+      "message": "20p hop dau tuan, 3,5h ANIMATIC STUDIO HUMANITY"
     }
   ]
 }
