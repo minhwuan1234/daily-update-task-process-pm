@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-09-15",
-      "message": "ÃÂ  mÃÂ  mai em cÃÂ³ task sÃ¡Â»Â­a brochure UV nÃÂªn UV lÃÂ m trÃÂ°Ã¡Â»Âc phÃ¡ÂºÂ£i khÃÂ´ng Ã¡ÂºÂ¡?",
+      "message": "ÃÂÃÂ  mÃÂÃÂ  mai em cÃÂÃÂ³ task sÃÂ¡ÃÂ»ÃÂ­a brochure UV nÃÂÃÂªn UV lÃÂÃÂ m trÃÂÃÂ°ÃÂ¡ÃÂ»ÃÂc phÃÂ¡ÃÂºÃÂ£i khÃÂÃÂ´ng ÃÂ¡ÃÂºÃÂ¡?",
       "submittedAt": "2026-09-15T10:50:33.255Z",
       "tasks": [
         {
@@ -31,7 +31,7 @@
     },
     {
       "date": "2026-09-15",
-      "message": "Sá»­a AMD ná»i bá» 30p",
+      "message": "SÃ¡Â»Â­a AMD nÃ¡Â»Âi bÃ¡Â»Â 30p",
       "submittedAt": "2026-09-15T10:56:44.863Z",
       "tasks": [
         {
@@ -52,10 +52,24 @@
           "progress": "80%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
           "timeSpent": "8h",
-          "title": "SN Community Health: 6. tiếp"
+          "title": "SN Community Health: 6. tiáº¿p"
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-09-15T11:13:59.707Z",
+      "date": "2026-09-15",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "SN Community Health: 3. Disaster Management - Terrorism 14mins",
+          "progress": "40%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
