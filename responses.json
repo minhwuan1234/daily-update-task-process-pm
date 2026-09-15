@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-09-15",
-      "message": "à mà mai em có task sửa brochure UV nên UV làm trước phải không ạ?",
+      "message": "Ã  mÃ  mai em cÃ³ task sá»­a brochure UV nÃªn UV lÃ m trÆ°á»c pháº£i khÃ´ng áº¡?",
       "submittedAt": "2026-09-15T10:50:33.255Z",
       "tasks": [
         {
@@ -28,6 +28,20 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-09-15T10:56:44.863Z",
+      "date": "2026-09-15",
+      "tasks": [
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "Studiohumanity Illus 1.5 trong 3.5 mins (4)",
+          "progress": "20%",
+          "timeSpent": "7.5h"
+        }
+      ],
+      "message": "Sửa AMD nội bộ 30p"
     }
   ]
 }
