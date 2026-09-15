@@ -30,18 +30,18 @@
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     },
     {
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-09-15T10:56:44.863Z",
       "date": "2026-09-15",
+      "message": "Sửa AMD nội bộ 30p",
+      "submittedAt": "2026-09-15T10:56:44.863Z",
       "tasks": [
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "Studiohumanity Illus 1.5 trong 3.5 mins (4)",
           "progress": "20%",
-          "timeSpent": "7.5h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "timeSpent": "7.5h",
+          "title": "Studiohumanity Illus 1.5 trong 3.5 mins (4)"
         }
       ],
-      "message": "Sửa AMD nội bộ 30p"
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     }
   ]
 }
