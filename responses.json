@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-09-15",
-      "message": "ÃÂÃÂ  mÃÂÃÂ  mai em cÃÂÃÂ³ task sÃÂ¡ÃÂ»ÃÂ­a brochure UV nÃÂÃÂªn UV lÃÂÃÂ m trÃÂÃÂ°ÃÂ¡ÃÂ»ÃÂc phÃÂ¡ÃÂºÃÂ£i khÃÂÃÂ´ng ÃÂ¡ÃÂºÃÂ¡?",
+      "message": "ÃÂÃÂÃÂÃÂ  mÃÂÃÂÃÂÃÂ  mai em cÃÂÃÂÃÂÃÂ³ task sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a brochure UV nÃÂÃÂÃÂÃÂªn UV lÃÂÃÂÃÂÃÂ m trÃÂÃÂÃÂÃÂ°ÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂc phÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ£i khÃÂÃÂÃÂÃÂ´ng ÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¡?",
       "submittedAt": "2026-09-15T10:50:33.255Z",
       "tasks": [
         {
@@ -31,7 +31,7 @@
     },
     {
       "date": "2026-09-15",
-      "message": "SÃ¡Â»Â­a AMD nÃ¡Â»Âi bÃ¡Â»Â 30p",
+      "message": "SÃÂ¡ÃÂ»ÃÂ­a AMD nÃÂ¡ÃÂ»ÃÂi bÃÂ¡ÃÂ»ÃÂ 30p",
       "submittedAt": "2026-09-15T10:56:44.863Z",
       "tasks": [
         {
@@ -52,7 +52,7 @@
           "progress": "80%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
           "timeSpent": "8h",
-          "title": "SN Community Health: 6. tiáº¿p"
+          "title": "SN Community Health: 6. tiÃ¡ÂºÂ¿p"
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
@@ -70,6 +70,20 @@
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-09-15T11:23:01.768Z",
+      "date": "2026-09-15",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "Studiohumanity animatic opt2",
+          "progress": "60%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
