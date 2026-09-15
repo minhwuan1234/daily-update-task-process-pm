@@ -44,18 +44,18 @@
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     },
     {
-      "userId": "ou_e0897ef23f084625d708cd50c16468db",
-      "submittedAt": "2026-09-15T11:00:55.205Z",
       "date": "2026-09-15",
+      "message": "",
+      "submittedAt": "2026-09-15T11:00:55.205Z",
       "tasks": [
         {
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "title": "SN Community Health: 6. tiếp",
           "progress": "80%",
-          "timeSpent": "8h"
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
+          "timeSpent": "8h",
+          "title": "SN Community Health: 6. tiếp"
         }
       ],
-      "message": ""
+      "userId": "ou_e0897ef23f084625d708cd50c16468db"
     }
   ]
 }
