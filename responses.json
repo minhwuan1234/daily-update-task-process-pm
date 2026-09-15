@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-09-15",
-      "message": "Ã  mÃ  mai em cÃ³ task sá»­a brochure UV nÃªn UV lÃ m trÆ°á»c pháº£i khÃ´ng áº¡?",
+      "message": "ÃÂ  mÃÂ  mai em cÃÂ³ task sÃ¡Â»Â­a brochure UV nÃÂªn UV lÃÂ m trÃÂ°Ã¡Â»Âc phÃ¡ÂºÂ£i khÃÂ´ng Ã¡ÂºÂ¡?",
       "submittedAt": "2026-09-15T10:50:33.255Z",
       "tasks": [
         {
@@ -31,7 +31,7 @@
     },
     {
       "date": "2026-09-15",
-      "message": "Sửa AMD nội bộ 30p",
+      "message": "Sá»­a AMD ná»i bá» 30p",
       "submittedAt": "2026-09-15T10:56:44.863Z",
       "tasks": [
         {
@@ -42,6 +42,20 @@
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+    },
+    {
+      "userId": "ou_e0897ef23f084625d708cd50c16468db",
+      "submittedAt": "2026-09-15T11:00:55.205Z",
+      "date": "2026-09-15",
+      "tasks": [
+        {
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
+          "title": "SN Community Health: 6. tiếp",
+          "progress": "80%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
