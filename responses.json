@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-09-16",
-      "message": "sÃÂ¡ÃÂ»ÃÂ­a Epioxa khoÃÂ¡ÃÂºÃÂ£ng 30p\ncÃÂÃÂ²n lÃÂ¡ÃÂºÃÂ¡i trao ÃÂÃÂÃÂ¡ÃÂ»ÃÂi vs chÃÂ¡ÃÂ»ÃÂ ÃÂÃÂnh vÃÂ¡ÃÂ»ÃÂ ÃÂÃÂÃÂ¡ÃÂ»ÃÂnh hÃÂÃÂ°ÃÂ¡ÃÂ»ÃÂng lÃÂ¡ÃÂºÃÂ¡i video HRRP #10, sÃÂ¡ÃÂ»ÃÂ­a lÃÂ¡ÃÂºÃÂ¡i mÃÂ¡ÃÂºÃÂ¥y cÃÂÃÂ¡i cÃÂÃÂ© nÃÂÃÂªn vÃÂ¡ÃÂºÃÂ«n giÃÂ¡ÃÂºÃÂ­m chÃÂÃÂ¢n tÃÂ¡ÃÂºÃÂ¡i chÃÂ¡ÃÂ»ÃÂ ÃÂ¡ÃÂºÃÂ¡ T_T (10/28 cÃÂ¡ÃÂºÃÂ£nh)",
+      "message": "sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a Epioxa khoÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ£ng 30p\ncÃÂÃÂÃÂÃÂ²n lÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¡i trao ÃÂÃÂÃÂÃÂÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂi vs chÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ ÃÂÃÂÃÂÃÂnh vÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ ÃÂÃÂÃÂÃÂÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂnh hÃÂÃÂÃÂÃÂ°ÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂng lÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¡i video HRRP #10, sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a lÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¡i mÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¥y cÃÂÃÂÃÂÃÂ¡i cÃÂÃÂÃÂÃÂ© nÃÂÃÂÃÂÃÂªn vÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ«n giÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ­m chÃÂÃÂÃÂÃÂ¢n tÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¡i chÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ ÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¡ T_T (10/28 cÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ£nh)",
       "submittedAt": "2026-09-16T11:10:43.202Z",
       "tasks": [
         {
@@ -65,23 +65,43 @@
     },
     {
       "date": "2026-09-16",
-      "message": "em sử nội bộ 38. How Acid–Base Imbalances Affect Potassium hết 1h ạ",
+      "message": "em sá»­ ná»i bá» 38. How AcidâBase Imbalances Affect Potassium háº¿t 1h áº¡",
       "submittedAt": "2026-09-16T11:43:27.337Z",
       "tasks": [
         {
           "progress": "0%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "—",
+          "timeSpent": "â",
           "title": "Test 3: ELX Advisor"
         },
         {
           "progress": "100%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-1",
           "timeSpent": "7h",
-          "title": "SN Community Health: 6. tiếp"
+          "title": "SN Community Health: 6. tiáº¿p"
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
+    },
+    {
+      "userId": "ou_e273fec35061a42660190f8c70f19882",
+      "submittedAt": "2026-09-16T13:37:06.212Z",
+      "date": "2026-09-16",
+      "tasks": [
+        {
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
+          "title": "BD videos: HRRP #77 Prepare before HIP surgery",
+          "progress": "100%",
+          "timeSpent": "8h"
+        },
+        {
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
+          "title": "SN Priority: 37. Causes of Acid–Base Imbalances You Need to Know 6m15s",
+          "progress": "0%",
+          "timeSpent": "—"
+        }
+      ],
+      "message": ""
     }
   ]
 }
