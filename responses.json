@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-09-16",
-      "message": "sửa Epioxa khoảng 30p\ncòn lại trao đổi vs chị Ánh về định hướng lại video HRRP #10, sửa lại mấy cái cũ nên vẫn giậm chân tại chỗ ạ T_T (10/28 cảnh)",
+      "message": "sá»­a Epioxa khoáº£ng 30p\ncÃ²n láº¡i trao Äá»i vs chá» Ãnh vá» Äá»nh hÆ°á»ng láº¡i video HRRP #10, sá»­a láº¡i máº¥y cÃ¡i cÅ© nÃªn váº«n giáº­m chÃ¢n táº¡i chá» áº¡ T_T (10/28 cáº£nh)",
       "submittedAt": "2026-09-16T11:10:43.202Z",
       "tasks": [
         {
@@ -34,6 +34,20 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-09-16T11:17:02.440Z",
+      "date": "2026-09-16",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "SN Community Health: 3. Disaster Management - Terrorism 14mins",
+          "progress": "70%",
+          "timeSpent": "6.5h"
+        }
+      ],
+      "message": "LDA Safety Induction video 2 (1.5h)"
     }
   ]
 }
