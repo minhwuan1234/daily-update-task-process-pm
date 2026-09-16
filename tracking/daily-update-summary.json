@@ -6598,11 +6598,11 @@
     "toolName": "Daily Update Task Process PM",
     "date": "2026-09-16",
     "timezone": "Asia/Ho_Chi_Minh",
-    "updatedAt": "2026-09-16T11:43:05.956208+00:00",
+    "updatedAt": "2026-09-16T11:43:34.582389+00:00",
     "totalMembers": 11,
-    "submittedMembers": 4,
-    "missingMembers": 7,
-    "submissionRate": 36.36,
+    "submittedMembers": 5,
+    "missingMembers": 6,
+    "submissionRate": 45.45,
     "members": {
       "ou_7efb0c22f47740644cf374252d01fdba": {
         "memberName": "Ánh",
@@ -6677,9 +6677,9 @@
       "ou_e0897ef23f084625d708cd50c16468db": {
         "memberName": "Thế Anh",
         "userId": "ou_e0897ef23f084625d708cd50c16468db",
-        "status": "missing",
-        "submittedAt": null,
-        "submissionCountToday": 0
+        "status": "submitted",
+        "submittedAt": "2026-09-16T11:43:27.337Z",
+        "submissionCountToday": 1
       }
     }
   }
