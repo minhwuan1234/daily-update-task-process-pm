@@ -2,18 +2,18 @@
   "date": "2026-09-16",
   "responses": [
     {
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-09-16T10:54:39.831Z",
       "date": "2026-09-16",
+      "message": "",
+      "submittedAt": "2026-09-16T10:54:39.831Z",
       "tasks": [
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "Studiohumanity Illus 1.5 trong 3.5 mins (4)",
           "progress": "50%",
-          "timeSpent": "8h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "timeSpent": "8h",
+          "title": "Studiohumanity Illus 1.5 trong 3.5 mins (4)"
         }
       ],
-      "message": ""
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     }
   ]
 }
