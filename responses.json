@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-09-16",
-      "message": "sá»­a Epioxa khoáº£ng 30p\ncÃ²n láº¡i trao Äá»i vs chá» Ãnh vá» Äá»nh hÆ°á»ng láº¡i video HRRP #10, sá»­a láº¡i máº¥y cÃ¡i cÅ© nÃªn váº«n giáº­m chÃ¢n táº¡i chá» áº¡ T_T (10/28 cáº£nh)",
+      "message": "sÃ¡Â»Â­a Epioxa khoÃ¡ÂºÂ£ng 30p\ncÃÂ²n lÃ¡ÂºÂ¡i trao ÃÂÃ¡Â»Âi vs chÃ¡Â»Â ÃÂnh vÃ¡Â»Â ÃÂÃ¡Â»Ânh hÃÂ°Ã¡Â»Âng lÃ¡ÂºÂ¡i video HRRP #10, sÃ¡Â»Â­a lÃ¡ÂºÂ¡i mÃ¡ÂºÂ¥y cÃÂ¡i cÃÂ© nÃÂªn vÃ¡ÂºÂ«n giÃ¡ÂºÂ­m chÃÂ¢n tÃ¡ÂºÂ¡i chÃ¡Â»Â Ã¡ÂºÂ¡ T_T (10/28 cÃ¡ÂºÂ£nh)",
       "submittedAt": "2026-09-16T11:10:43.202Z",
       "tasks": [
         {
@@ -48,6 +48,20 @@
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-09-16T11:42:57.166Z",
+      "date": "2026-09-16",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "Studiohumanity animatic opt2",
+          "progress": "100%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
