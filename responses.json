@@ -14,6 +14,26 @@
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+    },
+    {
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-09-16T11:10:43.202Z",
+      "date": "2026-09-16",
+      "tasks": [
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "title": "BD videos: HRRP #10 Your 7-days follow up",
+          "progress": "30%",
+          "timeSpent": "3.5h"
+        },
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
+          "title": "UV Smart: D45 brochure EMEA ASP brand update (3h)",
+          "progress": "100%",
+          "timeSpent": "3.5h"
+        }
+      ],
+      "message": "sửa Epioxa khoảng 30p\ncòn lại trao đổi vs chị Ánh về định hướng lại video HRRP #10, sửa lại mấy cái cũ nên vẫn giậm chân tại chỗ ạ T_T (10/28 cảnh)"
     }
   ]
 }
