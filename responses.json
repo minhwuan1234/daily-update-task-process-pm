@@ -1,89 +1,19 @@
 {
-  "date": "2026-09-15",
+  "date": "2026-09-16",
   "responses": [
     {
-      "date": "2026-09-15",
-      "message": "",
-      "submittedAt": "2026-09-15T10:45:52.705Z",
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-09-16T10:54:39.831Z",
+      "date": "2026-09-16",
       "tasks": [
         {
-          "progress": "100%",
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "8h",
-          "title": "BD videos: HRRP #77 Prepare before HIP surgery"
-        }
-      ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
-    },
-    {
-      "date": "2026-09-15",
-      "message": "ÃÂÃÂÃÂÃÂ  mÃÂÃÂÃÂÃÂ  mai em cÃÂÃÂÃÂÃÂ³ task sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a brochure UV nÃÂÃÂÃÂÃÂªn UV lÃÂÃÂÃÂÃÂ m trÃÂÃÂÃÂÃÂ°ÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂc phÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ£i khÃÂÃÂÃÂÃÂ´ng ÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¡?",
-      "submittedAt": "2026-09-15T10:50:33.255Z",
-      "tasks": [
-        {
-          "progress": "30%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "8h",
-          "title": "BD videos: HRRP #10 Your 7-days follow up"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-09-15",
-      "message": "SÃÂ¡ÃÂ»ÃÂ­a AMD nÃÂ¡ÃÂ»ÃÂi bÃÂ¡ÃÂ»ÃÂ 30p",
-      "submittedAt": "2026-09-15T10:56:44.863Z",
-      "tasks": [
-        {
-          "progress": "20%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "7.5h",
-          "title": "Studiohumanity Illus 1.5 trong 3.5 mins (4)"
+          "title": "Studiohumanity Illus 1.5 trong 3.5 mins (4)",
+          "progress": "50%",
+          "timeSpent": "8h"
         }
       ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-09-15",
-      "message": "",
-      "submittedAt": "2026-09-15T11:00:55.205Z",
-      "tasks": [
-        {
-          "progress": "80%",
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "8h",
-          "title": "SN Community Health: 6. tiÃ¡ÂºÂ¿p"
-        }
-      ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
-    },
-    {
-      "date": "2026-09-15",
-      "message": "",
-      "submittedAt": "2026-09-15T11:13:59.707Z",
-      "tasks": [
-        {
-          "progress": "40%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "8h",
-          "title": "SN Community Health: 3. Disaster Management - Terrorism 14mins"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-09-15",
-      "message": "",
-      "submittedAt": "2026-09-15T11:23:01.768Z",
-      "tasks": [
-        {
-          "progress": "60%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "8h",
-          "title": "Studiohumanity animatic opt2"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": ""
     }
   ]
 }
