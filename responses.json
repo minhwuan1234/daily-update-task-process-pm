@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-09-16",
-      "message": "sÃ¡Â»Â­a Epioxa khoÃ¡ÂºÂ£ng 30p\ncÃÂ²n lÃ¡ÂºÂ¡i trao ÃÂÃ¡Â»Âi vs chÃ¡Â»Â ÃÂnh vÃ¡Â»Â ÃÂÃ¡Â»Ânh hÃÂ°Ã¡Â»Âng lÃ¡ÂºÂ¡i video HRRP #10, sÃ¡Â»Â­a lÃ¡ÂºÂ¡i mÃ¡ÂºÂ¥y cÃÂ¡i cÃÂ© nÃÂªn vÃ¡ÂºÂ«n giÃ¡ÂºÂ­m chÃÂ¢n tÃ¡ÂºÂ¡i chÃ¡Â»Â Ã¡ÂºÂ¡ T_T (10/28 cÃ¡ÂºÂ£nh)",
+      "message": "sÃÂ¡ÃÂ»ÃÂ­a Epioxa khoÃÂ¡ÃÂºÃÂ£ng 30p\ncÃÂÃÂ²n lÃÂ¡ÃÂºÃÂ¡i trao ÃÂÃÂÃÂ¡ÃÂ»ÃÂi vs chÃÂ¡ÃÂ»ÃÂ ÃÂÃÂnh vÃÂ¡ÃÂ»ÃÂ ÃÂÃÂÃÂ¡ÃÂ»ÃÂnh hÃÂÃÂ°ÃÂ¡ÃÂ»ÃÂng lÃÂ¡ÃÂºÃÂ¡i video HRRP #10, sÃÂ¡ÃÂ»ÃÂ­a lÃÂ¡ÃÂºÃÂ¡i mÃÂ¡ÃÂºÃÂ¥y cÃÂÃÂ¡i cÃÂÃÂ© nÃÂÃÂªn vÃÂ¡ÃÂºÃÂ«n giÃÂ¡ÃÂºÃÂ­m chÃÂÃÂ¢n tÃÂ¡ÃÂºÃÂ¡i chÃÂ¡ÃÂ»ÃÂ ÃÂ¡ÃÂºÃÂ¡ T_T (10/28 cÃÂ¡ÃÂºÃÂ£nh)",
       "submittedAt": "2026-09-16T11:10:43.202Z",
       "tasks": [
         {
@@ -62,6 +62,26 @@
         }
       ],
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+    },
+    {
+      "userId": "ou_e0897ef23f084625d708cd50c16468db",
+      "submittedAt": "2026-09-16T11:43:27.337Z",
+      "date": "2026-09-16",
+      "tasks": [
+        {
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
+          "title": "Test 3: ELX Advisor",
+          "progress": "0%",
+          "timeSpent": "—"
+        },
+        {
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-1",
+          "title": "SN Community Health: 6. tiếp",
+          "progress": "100%",
+          "timeSpent": "7h"
+        }
+      ],
+      "message": "em sử nội bộ 38. How Acid–Base Imbalances Affect Potassium hết 1h ạ"
     }
   ]
 }
