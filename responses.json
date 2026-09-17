@@ -1,107 +1,25 @@
 {
-  "date": "2026-09-16",
+  "date": "2026-09-17",
   "responses": [
     {
-      "date": "2026-09-16",
-      "message": "",
-      "submittedAt": "2026-09-16T10:54:39.831Z",
+      "userId": "ou_e273fec35061a42660190f8c70f19882",
+      "submittedAt": "2026-09-17T10:46:17.046Z",
+      "date": "2026-09-17",
       "tasks": [
         {
-          "progress": "50%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "8h",
-          "title": "Studiohumanity Illus 1.5 trong 3.5 mins (4)"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-09-16",
-      "message": "sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a Epioxa khoÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ£ng 30p\ncÃÂÃÂÃÂÃÂ²n lÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¡i trao ÃÂÃÂÃÂÃÂÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂi vs chÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ ÃÂÃÂÃÂÃÂnh vÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ ÃÂÃÂÃÂÃÂÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂnh hÃÂÃÂÃÂÃÂ°ÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂng lÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¡i video HRRP #10, sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a lÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¡i mÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¥y cÃÂÃÂÃÂÃÂ¡i cÃÂÃÂÃÂÃÂ© nÃÂÃÂÃÂÃÂªn vÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ«n giÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ­m chÃÂÃÂÃÂÃÂ¢n tÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¡i chÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ ÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¡ T_T (10/28 cÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ£nh)",
-      "submittedAt": "2026-09-16T11:10:43.202Z",
-      "tasks": [
-        {
-          "progress": "30%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "3.5h",
-          "title": "BD videos: HRRP #10 Your 7-days follow up"
-        },
-        {
-          "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "timeSpent": "3.5h",
-          "title": "UV Smart: D45 brochure EMEA ASP brand update (3h)"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-09-16",
-      "message": "LDA Safety Induction video 2 (1.5h)",
-      "submittedAt": "2026-09-16T11:17:02.440Z",
-      "tasks": [
-        {
-          "progress": "70%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "6.5h",
-          "title": "SN Community Health: 3. Disaster Management - Terrorism 14mins"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-09-16",
-      "message": "",
-      "submittedAt": "2026-09-16T11:42:57.166Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "8h",
-          "title": "Studiohumanity animatic opt2"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
-    },
-    {
-      "date": "2026-09-16",
-      "message": "em sá»­ ná»i bá» 38. How AcidâBase Imbalances Affect Potassium háº¿t 1h áº¡",
-      "submittedAt": "2026-09-16T11:43:27.337Z",
-      "tasks": [
-        {
-          "progress": "0%",
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "â",
-          "title": "Test 3: ELX Advisor"
-        },
-        {
-          "progress": "100%",
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-1",
-          "timeSpent": "7h",
-          "title": "SN Community Health: 6. tiáº¿p"
-        }
-      ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
-    },
-    {
-      "date": "2026-09-16",
-      "message": "",
-      "submittedAt": "2026-09-16T13:37:06.212Z",
-      "tasks": [
-        {
-          "progress": "100%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "8h",
-          "title": "BD videos: HRRP #77 Prepare before HIP surgery"
+          "title": "BD videos: HRRP #77 Prepare before HIP surgery",
+          "progress": "50%",
+          "timeSpent": "1h"
         },
         {
-          "progress": "0%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
-          "timeSpent": "—",
-          "title": "SN Priority: 37. Causes of Acid–Base Imbalances You Need to Know 6m15s"
+          "title": "SN Priority: 37. Causes of Acid–Base Imbalances You Need to Know 6m15s",
+          "progress": "100%",
+          "timeSpent": "7h"
         }
       ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
+      "message": ""
     }
   ]
 }
