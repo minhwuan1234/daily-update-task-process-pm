@@ -76,18 +76,18 @@
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     },
     {
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-09-17T12:10:20.198Z",
       "date": "2026-09-17",
+      "message": "",
+      "submittedAt": "2026-09-17T12:10:20.198Z",
       "tasks": [
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "Studiohumanity Illus 1.5 trong 3.5 mins (4)",
           "progress": "70%",
-          "timeSpent": "8h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "timeSpent": "8h",
+          "title": "Studiohumanity Illus 1.5 trong 3.5 mins (4)"
         }
       ],
-      "message": ""
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     }
   ]
 }
