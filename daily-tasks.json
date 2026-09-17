@@ -1,24 +1,19 @@
 {
-  "date": "16-Sep",
-  "generatedAt": "2026-09-16T10:47:23.404Z",
+  "date": "17-Sep",
+  "generatedAt": "2026-09-17T10:45:14.506Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "16-Sep",
-          "dueDate": null,
-          "task": "BD videos: HRRP #10 Your 7-days follow up"
+          "date": "17-Sep",
+          "dueDate": "18/9",
+          "task": "SN LP Video #3: “See What Students Are Saying” - 1.2 min"
         },
         {
-          "date": "16-Sep",
-          "dueDate": "16/9",
-          "task": "UV Smart: D45 brochure EMEA ASP brand update (3h)"
-        },
-        {
-          "date": "16-Sep",
-          "dueDate": null,
-          "task": "Conation media: Epioxa illus fix #1"
+          "date": "17-Sep",
+          "dueDate": "17/9",
+          "task": "UV Smart: D60 brochure ASP brand update (0.5)"
         }
       ]
     },
@@ -26,7 +21,7 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "16-Sep",
+          "date": "17-Sep",
           "dueDate": "25/9",
           "task": "Studiohumanity Illus 1.5 trong 3.5 mins (4)"
         }
@@ -36,14 +31,9 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "16-Sep",
+          "date": "17-Sep",
           "dueDate": null,
           "task": "Test 3: ELX Advisor"
-        },
-        {
-          "date": "16-Sep",
-          "dueDate": "9/10",
-          "task": "SN Community Health: 6. tiếp"
         }
       ]
     },
@@ -51,12 +41,12 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "16-Sep",
+          "date": "17-Sep",
           "dueDate": null,
           "task": "BD videos: HRRP #77 Prepare before HIP surgery"
         },
         {
-          "date": "16-Sep",
+          "date": "17-Sep",
           "dueDate": "18/9",
           "task": "SN Priority: 37. Causes of Acid–Base Imbalances You Need to Know 6m15s"
         }
@@ -66,9 +56,14 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "16-Sep",
+          "date": "17-Sep",
           "dueDate": "22/9",
           "task": "SN Community Health: 3. Disaster Management - Terrorism 14mins"
+        },
+        {
+          "date": "17-Sep",
+          "dueDate": "18/9",
+          "task": "Studiohumanity animatic opt1"
         }
       ]
     },
@@ -76,9 +71,14 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "16-Sep",
-          "dueDate": "18/9",
-          "task": "Studiohumanity animatic opt2"
+          "date": "17-Sep",
+          "dueDate": "21/9",
+          "task": "SN flashcard promo video (0.5)"
+        },
+        {
+          "date": "17-Sep",
+          "dueDate": "29/9",
+          "task": "Conation media: anim (2)"
         }
       ]
     }
