@@ -14,7 +14,7 @@
         },
         {
           "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
-          "title": "SN Priority: 37. Causes of AcidâBase Imbalances You Need to Know 6m15s",
+          "title": "SN Priority: 37. Causes of AcidÃ¢ÂÂBase Imbalances You Need to Know 6m15s",
           "progress": "100%",
           "timeSpent": "7h"
         }
@@ -34,6 +34,26 @@
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
+    },
+    {
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-09-17T11:05:09.384Z",
+      "date": "2026-09-17",
+      "tasks": [
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "title": "SN LP Video #3: “See What Students Are Saying” - 1.2 min",
+          "progress": "20%",
+          "timeSpent": "2.5h"
+        },
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
+          "title": "UV Smart: D60 brochure ASP brand update (0.5)",
+          "progress": "100%",
+          "timeSpent": "5.5h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
