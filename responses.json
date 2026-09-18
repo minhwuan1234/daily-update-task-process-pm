@@ -3,14 +3,14 @@
   "responses": [
     {
       "date": "2026-09-18",
-      "message": "30p há»p, 30p sá»­a SN 4. Environmental",
+      "message": "30p hÃ¡Â»Âp, 30p sÃ¡Â»Â­a SN 4. Environmental",
       "submittedAt": "2026-09-18T10:56:23.377Z",
       "tasks": [
         {
           "progress": "60%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
           "timeSpent": "7h",
-          "title": "SN LP Video #3: âSee What Students Are Sayingâ - 1.2 min"
+          "title": "SN LP Video #3: Ã¢ÂÂSee What Students Are SayingÃ¢ÂÂ - 1.2 min"
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
@@ -28,6 +28,20 @@
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+    },
+    {
+      "userId": "ou_e0897ef23f084625d708cd50c16468db",
+      "submittedAt": "2026-09-18T13:19:37.814Z",
+      "date": "2026-09-18",
+      "tasks": [
+        {
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
+          "title": "Test 3: ELX Advisor",
+          "progress": "90%",
+          "timeSpent": "4.5h"
+        }
+      ],
+      "message": "em sửa nội bộ 5. Family hết 3.5h ạ"
     }
   ]
 }
