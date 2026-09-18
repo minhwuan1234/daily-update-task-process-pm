@@ -3,14 +3,14 @@
   "responses": [
     {
       "date": "2026-09-18",
-      "message": "30p hÃ¡Â»Âp, 30p sÃ¡Â»Â­a SN 4. Environmental",
+      "message": "30p hÃÂ¡ÃÂ»ÃÂp, 30p sÃÂ¡ÃÂ»ÃÂ­a SN 4. Environmental",
       "submittedAt": "2026-09-18T10:56:23.377Z",
       "tasks": [
         {
           "progress": "60%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
           "timeSpent": "7h",
-          "title": "SN LP Video #3: Ã¢ÂÂSee What Students Are SayingÃ¢ÂÂ - 1.2 min"
+          "title": "SN LP Video #3: ÃÂ¢ÃÂÃÂSee What Students Are SayingÃÂ¢ÃÂÃÂ - 1.2 min"
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
@@ -31,7 +31,7 @@
     },
     {
       "date": "2026-09-18",
-      "message": "em sửa nội bộ 5. Family hết 3.5h ạ",
+      "message": "em sá»­a ná»i bá» 5. Family háº¿t 3.5h áº¡",
       "submittedAt": "2026-09-18T13:19:37.814Z",
       "tasks": [
         {
@@ -42,6 +42,20 @@
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-09-18T14:11:40.242Z",
+      "date": "2026-09-18",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "Studiohumanity animatic opt1",
+          "progress": "40%",
+          "timeSpent": "7h"
+        }
+      ],
+      "message": "- Họp (0.5h)\n- Đánh giá script CardioClin HeartForce (0.5h)"
     }
   ]
 }
