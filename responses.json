@@ -30,18 +30,18 @@
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     },
     {
-      "userId": "ou_e0897ef23f084625d708cd50c16468db",
-      "submittedAt": "2026-09-18T13:19:37.814Z",
       "date": "2026-09-18",
+      "message": "em sửa nội bộ 5. Family hết 3.5h ạ",
+      "submittedAt": "2026-09-18T13:19:37.814Z",
       "tasks": [
         {
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "title": "Test 3: ELX Advisor",
           "progress": "90%",
-          "timeSpent": "4.5h"
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
+          "timeSpent": "4.5h",
+          "title": "Test 3: ELX Advisor"
         }
       ],
-      "message": "em sửa nội bộ 5. Family hết 3.5h ạ"
+      "userId": "ou_e0897ef23f084625d708cd50c16468db"
     }
   ]
 }
