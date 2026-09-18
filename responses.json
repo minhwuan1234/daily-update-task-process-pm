@@ -3,17 +3,31 @@
   "responses": [
     {
       "date": "2026-09-18",
-      "message": "30p họp, 30p sửa SN 4. Environmental",
+      "message": "30p há»p, 30p sá»­a SN 4. Environmental",
       "submittedAt": "2026-09-18T10:56:23.377Z",
       "tasks": [
         {
           "progress": "60%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
           "timeSpent": "7h",
-          "title": "SN LP Video #3: “See What Students Are Saying” - 1.2 min"
+          "title": "SN LP Video #3: âSee What Students Are Sayingâ - 1.2 min"
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-09-18T11:39:56.100Z",
+      "date": "2026-09-18",
+      "tasks": [
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "Studiohumanity Illus 1.5 trong 3.5 mins (4)",
+          "progress": "90%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
