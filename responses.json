@@ -3,14 +3,14 @@
   "responses": [
     {
       "date": "2026-09-18",
-      "message": "30p hÃÂ¡ÃÂ»ÃÂp, 30p sÃÂ¡ÃÂ»ÃÂ­a SN 4. Environmental",
+      "message": "30p hÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂp, 30p sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a SN 4. Environmental",
       "submittedAt": "2026-09-18T10:56:23.377Z",
       "tasks": [
         {
           "progress": "60%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
           "timeSpent": "7h",
-          "title": "SN LP Video #3: ÃÂ¢ÃÂÃÂSee What Students Are SayingÃÂ¢ÃÂÃÂ - 1.2 min"
+          "title": "SN LP Video #3: ÃÂÃÂ¢ÃÂÃÂÃÂÃÂSee What Students Are SayingÃÂÃÂ¢ÃÂÃÂÃÂÃÂ - 1.2 min"
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
@@ -31,7 +31,7 @@
     },
     {
       "date": "2026-09-18",
-      "message": "em sá»­a ná»i bá» 5. Family háº¿t 3.5h áº¡",
+      "message": "em sÃ¡Â»Â­a nÃ¡Â»Âi bÃ¡Â»Â 5. Family hÃ¡ÂºÂ¿t 3.5h Ã¡ÂºÂ¡",
       "submittedAt": "2026-09-18T13:19:37.814Z",
       "tasks": [
         {
@@ -45,7 +45,7 @@
     },
     {
       "date": "2026-09-18",
-      "message": "- Họp (0.5h)\n- Đánh giá script CardioClin HeartForce (0.5h)",
+      "message": "- Há»p (0.5h)\n- ÄÃ¡nh giÃ¡ script CardioClin HeartForce (0.5h)",
       "submittedAt": "2026-09-18T14:11:40.242Z",
       "tasks": [
         {
@@ -56,6 +56,20 @@
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-09-18T16:35:35.173Z",
+      "date": "2026-09-18",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "Conation media: anim (2)",
+          "progress": "60%",
+          "timeSpent": "7.5h"
+        }
+      ],
+      "message": "30p hop team"
     }
   ]
 }
