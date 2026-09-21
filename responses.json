@@ -16,48 +16,48 @@
           "progress": "20%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-1",
           "timeSpent": "4h",
-          "title": "SN Priority: 39. Nursing Interventions for AcidÃÂ¢ÃÂÃÂBase Imbalances ~7 mins"
+          "title": "SN Priority: 39. Nursing Interventions for AcidÃÂÃÂ¢ÃÂÃÂÃÂÃÂBase Imbalances ~7 mins"
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
     },
     {
       "date": "2026-09-21",
-      "message": "sÃ¡Â»Â­a feedback lÃ¡ÂºÂ§n 2",
+      "message": "sÃÂ¡ÃÂ»ÃÂ­a feedback lÃÂ¡ÃÂºÃÂ§n 2",
       "submittedAt": "2026-09-21T10:47:46.816Z",
       "tasks": [
         {
           "progress": "100%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
           "timeSpent": "8h",
-          "title": "BD videos: HRRP #77 tiÃ¡ÂºÂ¿p"
+          "title": "BD videos: HRRP #77 tiÃÂ¡ÃÂºÃÂ¿p"
         }
       ],
       "userId": "ou_e273fec35061a42660190f8c70f19882"
     },
     {
       "date": "2026-09-21",
-      "message": "45p há»p\n~10p cÃ¹ng Oanh sá»­a LDA\n30p sá»­a Klett Water Cycle\n~1h sá»­a D60 brochure with ASP branding\n\n\n*note thÃªm vá» 2 task á» trÃªn:\nSN LP Video #3: 4,5h bao gá»m 4h lÃ m vÃ o khoáº£ng 20p sá»­a ná»i bá»\ntask 2 (1h) ÄÃ£ gá»­i vÃ  há» feedback nÃ³ng nhÆ°ng mai sá»­a váº«n ká»p áº¡ (coi nhÆ° done 50%)",
+      "message": "45p hÃ¡Â»Âp\n~10p cÃÂ¹ng Oanh sÃ¡Â»Â­a LDA\n30p sÃ¡Â»Â­a Klett Water Cycle\n~1h sÃ¡Â»Â­a D60 brochure with ASP branding\n\n\n*note thÃÂªm vÃ¡Â»Â 2 task Ã¡Â»Â trÃÂªn:\nSN LP Video #3: 4,5h bao gÃ¡Â»Âm 4h lÃÂ m vÃÂ o khoÃ¡ÂºÂ£ng 20p sÃ¡Â»Â­a nÃ¡Â»Âi bÃ¡Â»Â\ntask 2 (1h) ÃÂÃÂ£ gÃ¡Â»Â­i vÃÂ  hÃ¡Â»Â feedback nÃÂ³ng nhÃÂ°ng mai sÃ¡Â»Â­a vÃ¡ÂºÂ«n kÃ¡Â»Âp Ã¡ÂºÂ¡ (coi nhÃÂ° done 50%)",
       "submittedAt": "2026-09-21T11:13:14.738Z",
       "tasks": [
         {
           "progress": "100%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
           "timeSpent": "4.5h",
-          "title": "SN LP Video #3: âSee What Students Are Sayingâ - 1.2 min"
+          "title": "SN LP Video #3: Ã¢ÂÂSee What Students Are SayingÃ¢ÂÂ - 1.2 min"
         },
         {
           "progress": "50%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
           "timeSpent": "1h",
-          "title": "UV Smart: \nâD60 DGSV DE pullupâ zipper wall fix\nD60 brochure fix"
+          "title": "UV Smart: \nÃ¢ÂÂD60 DGSV DE pullupÃ¢ÂÂ zipper wall fix\nD60 brochure fix"
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     },
     {
       "date": "2026-09-21",
-      "message": "khum có",
+      "message": "khum cÃ³",
       "submittedAt": "2026-09-21T12:02:18.312Z",
       "tasks": [
         {
@@ -74,6 +74,20 @@
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-09-21T13:51:15.297Z",
+      "date": "2026-09-21",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "Conation media: anim (2)",
+          "progress": "70%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
