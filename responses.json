@@ -1,75 +1,25 @@
 {
-  "date": "2026-09-18",
+  "date": "2026-09-21",
   "responses": [
     {
-      "date": "2026-09-18",
-      "message": "30p hÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂp, 30p sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a SN 4. Environmental",
-      "submittedAt": "2026-09-18T10:56:23.377Z",
+      "userId": "ou_e0897ef23f084625d708cd50c16468db",
+      "submittedAt": "2026-09-21T10:47:33.787Z",
+      "date": "2026-09-21",
       "tasks": [
         {
-          "progress": "60%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "7h",
-          "title": "SN LP Video #3: ÃÂÃÂ¢ÃÂÃÂÃÂÃÂSee What Students Are SayingÃÂÃÂ¢ÃÂÃÂÃÂÃÂ - 1.2 min"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-09-18",
-      "message": "",
-      "submittedAt": "2026-09-18T11:39:56.100Z",
-      "tasks": [
-        {
-          "progress": "90%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "8h",
-          "title": "Studiohumanity Illus 1.5 trong 3.5 mins (4)"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-09-18",
-      "message": "em sÃ¡Â»Â­a nÃ¡Â»Âi bÃ¡Â»Â 5. Family hÃ¡ÂºÂ¿t 3.5h Ã¡ÂºÂ¡",
-      "submittedAt": "2026-09-18T13:19:37.814Z",
-      "tasks": [
-        {
-          "progress": "90%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "4.5h",
-          "title": "Test 3: ELX Advisor"
-        }
-      ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
-    },
-    {
-      "date": "2026-09-18",
-      "message": "- Há»p (0.5h)\n- ÄÃ¡nh giÃ¡ script CardioClin HeartForce (0.5h)",
-      "submittedAt": "2026-09-18T14:11:40.242Z",
-      "tasks": [
+          "title": "Test 3: ELX Advisor",
+          "progress": "100%",
+          "timeSpent": "3.5h"
+        },
         {
-          "progress": "40%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "7h",
-          "title": "Studiohumanity animatic opt1"
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-1",
+          "title": "SN Priority: 39. Nursing Interventions for Acid–Base Imbalances ~7 mins",
+          "progress": "20%",
+          "timeSpent": "4h"
         }
       ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-09-18",
-      "message": "30p hop team",
-      "submittedAt": "2026-09-18T16:35:35.173Z",
-      "tasks": [
-        {
-          "progress": "60%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "7.5h",
-          "title": "Conation media: anim (2)"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": ""
     }
   ]
 }
