@@ -16,44 +16,64 @@
           "progress": "20%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-1",
           "timeSpent": "4h",
-          "title": "SN Priority: 39. Nursing Interventions for AcidÃ¢ÂÂBase Imbalances ~7 mins"
+          "title": "SN Priority: 39. Nursing Interventions for AcidÃÂ¢ÃÂÃÂBase Imbalances ~7 mins"
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
     },
     {
       "date": "2026-09-21",
-      "message": "sá»­a feedback láº§n 2",
+      "message": "sÃ¡Â»Â­a feedback lÃ¡ÂºÂ§n 2",
       "submittedAt": "2026-09-21T10:47:46.816Z",
       "tasks": [
         {
           "progress": "100%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
           "timeSpent": "8h",
-          "title": "BD videos: HRRP #77 tiáº¿p"
+          "title": "BD videos: HRRP #77 tiÃ¡ÂºÂ¿p"
         }
       ],
       "userId": "ou_e273fec35061a42660190f8c70f19882"
     },
     {
       "date": "2026-09-21",
-      "message": "45p họp\n~10p cùng Oanh sửa LDA\n30p sửa Klett Water Cycle\n~1h sửa D60 brochure with ASP branding\n\n\n*note thêm về 2 task ở trên:\nSN LP Video #3: 4,5h bao gồm 4h làm vào khoảng 20p sửa nội bộ\ntask 2 (1h) đã gửi và họ feedback nóng nhưng mai sửa vẫn kịp ạ (coi như done 50%)",
+      "message": "45p há»p\n~10p cÃ¹ng Oanh sá»­a LDA\n30p sá»­a Klett Water Cycle\n~1h sá»­a D60 brochure with ASP branding\n\n\n*note thÃªm vá» 2 task á» trÃªn:\nSN LP Video #3: 4,5h bao gá»m 4h lÃ m vÃ o khoáº£ng 20p sá»­a ná»i bá»\ntask 2 (1h) ÄÃ£ gá»­i vÃ  há» feedback nÃ³ng nhÆ°ng mai sá»­a váº«n ká»p áº¡ (coi nhÆ° done 50%)",
       "submittedAt": "2026-09-21T11:13:14.738Z",
       "tasks": [
         {
           "progress": "100%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
           "timeSpent": "4.5h",
-          "title": "SN LP Video #3: “See What Students Are Saying” - 1.2 min"
+          "title": "SN LP Video #3: âSee What Students Are Sayingâ - 1.2 min"
         },
         {
           "progress": "50%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
           "timeSpent": "1h",
-          "title": "UV Smart: \n“D60 DGSV DE pullup” zipper wall fix\nD60 brochure fix"
+          "title": "UV Smart: \nâD60 DGSV DE pullupâ zipper wall fix\nD60 brochure fix"
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-09-21T12:02:18.312Z",
+      "date": "2026-09-21",
+      "tasks": [
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "SN Community Health: 3. Disaster Management - Terrorism study guide (3h)",
+          "progress": "100%",
+          "timeSpent": "5.5h"
+        },
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
+          "title": "AMD: Chapter 7-5 fix",
+          "progress": "70%",
+          "timeSpent": "2.5h"
+        }
+      ],
+      "message": "khum có"
     }
   ]
 }
