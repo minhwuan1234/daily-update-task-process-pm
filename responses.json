@@ -56,24 +56,24 @@
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     },
     {
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-09-22T11:30:57.615Z",
       "date": "2026-09-22",
+      "message": "1,5h sửa AMD 7-5",
+      "submittedAt": "2026-09-22T11:30:57.615Z",
       "tasks": [
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "SN LP Video #1: “There’s a Better Way to Study” -  1 min",
           "progress": "80%",
-          "timeSpent": "6h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "timeSpent": "6h",
+          "title": "SN LP Video #1: “There’s a Better Way to Study” -  1 min"
         },
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
-          "title": "LDA Safety Induction video fix",
           "progress": "100%",
-          "timeSpent": "0.5h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
+          "timeSpent": "0.5h",
+          "title": "LDA Safety Induction video fix"
         }
       ],
-      "message": "1,5h sửa AMD 7-5"
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     }
   ]
 }
