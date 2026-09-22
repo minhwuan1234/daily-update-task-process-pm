@@ -96,18 +96,18 @@
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     },
     {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-09-22T16:22:46.143Z",
       "date": "2026-09-22",
+      "message": "2h fix LDA (khach), 0,5h SN flashcard promo (khach)",
+      "submittedAt": "2026-09-22T16:22:46.143Z",
       "tasks": [
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "Conation media: anim (2)",
           "progress": "100%",
-          "timeSpent": "5.5h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "timeSpent": "5.5h",
+          "title": "Conation media: anim (2)"
         }
       ],
-      "message": "2h fix LDA (khach), 0,5h SN flashcard promo (khach)"
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     }
   ]
 }
