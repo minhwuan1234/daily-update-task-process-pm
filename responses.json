@@ -3,21 +3,21 @@
   "responses": [
     {
       "date": "2026-09-22",
-      "message": "Em sÃ¡Â»Â­a 5. Family hÃ¡ÂºÂ¿t 2h Ã¡ÂºÂ¡",
+      "message": "Em sÃÂ¡ÃÂ»ÃÂ­a 5. Family hÃÂ¡ÃÂºÃÂ¿t 2h ÃÂ¡ÃÂºÃÂ¡",
       "submittedAt": "2026-09-22T10:47:24.178Z",
       "tasks": [
         {
           "progress": "60%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
           "timeSpent": "6h",
-          "title": "SN Priority: 39. Nursing Interventions for AcidÃ¢ÂÂBase Imbalances ~7 mins"
+          "title": "SN Priority: 39. Nursing Interventions for AcidÃÂ¢ÃÂÃÂBase Imbalances ~7 mins"
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
     },
     {
       "date": "2026-09-22",
-      "message": "buá»i sÃ¡ng build cÃ¡i tool cho c Giang",
+      "message": "buÃ¡Â»Âi sÃÂ¡ng build cÃÂ¡i tool cho c Giang",
       "submittedAt": "2026-09-22T11:07:32.660Z",
       "tasks": [
         {
@@ -30,7 +30,7 @@
           "progress": "20%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
           "timeSpent": "4.5h",
-          "title": "SN Community Health: 4. Environmental Health -Â Roles of Nurses in Environmental Health ~15 mins\n29/9"
+          "title": "SN Community Health: 4. Environmental Health -ÃÂ Roles of Nurses in Environmental Health ~15 mins\n29/9"
         }
       ],
       "userId": "ou_e273fec35061a42660190f8c70f19882"
@@ -50,10 +50,30 @@
           "progress": "30%",
           "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
           "timeSpent": "5h",
-          "title": "SN LP Video #3: “See What Students Are Saying” - 1.2 min"
+          "title": "SN LP Video #3: âSee What Students Are Sayingâ - 1.2 min"
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-09-22T11:30:57.615Z",
+      "date": "2026-09-22",
+      "tasks": [
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "SN LP Video #1: “There’s a Better Way to Study” -  1 min",
+          "progress": "80%",
+          "timeSpent": "6h"
+        },
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
+          "title": "LDA Safety Induction video fix",
+          "progress": "100%",
+          "timeSpent": "0.5h"
+        }
+      ],
+      "message": "1,5h sửa AMD 7-5"
     }
   ]
 }
