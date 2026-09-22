@@ -3,21 +3,21 @@
   "responses": [
     {
       "date": "2026-09-22",
-      "message": "Em sá»­a 5. Family háº¿t 2h áº¡",
+      "message": "Em sÃ¡Â»Â­a 5. Family hÃ¡ÂºÂ¿t 2h Ã¡ÂºÂ¡",
       "submittedAt": "2026-09-22T10:47:24.178Z",
       "tasks": [
         {
           "progress": "60%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
           "timeSpent": "6h",
-          "title": "SN Priority: 39. Nursing Interventions for AcidâBase Imbalances ~7 mins"
+          "title": "SN Priority: 39. Nursing Interventions for AcidÃ¢ÂÂBase Imbalances ~7 mins"
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
     },
     {
       "date": "2026-09-22",
-      "message": "buổi sáng build cái tool cho c Giang",
+      "message": "buá»i sÃ¡ng build cÃ¡i tool cho c Giang",
       "submittedAt": "2026-09-22T11:07:32.660Z",
       "tasks": [
         {
@@ -30,10 +30,30 @@
           "progress": "20%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
           "timeSpent": "4.5h",
-          "title": "SN Community Health: 4. Environmental Health - Roles of Nurses in Environmental Health ~15 mins\n29/9"
+          "title": "SN Community Health: 4. Environmental Health -Â Roles of Nurses in Environmental Health ~15 mins\n29/9"
         }
       ],
       "userId": "ou_e273fec35061a42660190f8c70f19882"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-09-22T11:13:39.178Z",
+      "date": "2026-09-22",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "Studiohumanity animatic opt1",
+          "progress": "100%",
+          "timeSpent": "2.5h"
+        },
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
+          "title": "SN LP Video #3: “See What Students Are Saying” - 1.2 min",
+          "progress": "30%",
+          "timeSpent": "5h"
+        }
+      ],
+      "message": "SN Community health ep 3 (0.5h)"
     }
   ]
 }
