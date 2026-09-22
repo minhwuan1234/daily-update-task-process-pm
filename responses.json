@@ -3,21 +3,21 @@
   "responses": [
     {
       "date": "2026-09-22",
-      "message": "Em sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a 5. Family hÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿t 2h ÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¡",
+      "message": "Em sÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ»ÃÂÃÂÃÂÃÂ­a 5. Family hÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ¿t 2h ÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ¡",
       "submittedAt": "2026-09-22T10:47:24.178Z",
       "tasks": [
         {
           "progress": "60%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
           "timeSpent": "6h",
-          "title": "SN Priority: 39. Nursing Interventions for AcidÃÂÃÂ¢ÃÂÃÂÃÂÃÂBase Imbalances ~7 mins"
+          "title": "SN Priority: 39. Nursing Interventions for AcidÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂBase Imbalances ~7 mins"
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
     },
     {
       "date": "2026-09-22",
-      "message": "buÃÂ¡ÃÂ»ÃÂi sÃÂÃÂ¡ng build cÃÂÃÂ¡i tool cho c Giang",
+      "message": "buÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂi sÃÂÃÂÃÂÃÂ¡ng build cÃÂÃÂÃÂÃÂ¡i tool cho c Giang",
       "submittedAt": "2026-09-22T11:07:32.660Z",
       "tasks": [
         {
@@ -30,7 +30,7 @@
           "progress": "20%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
           "timeSpent": "4.5h",
-          "title": "SN Community Health: 4. Environmental Health -ÃÂÃÂ Roles of Nurses in Environmental Health ~15 mins\n29/9"
+          "title": "SN Community Health: 4. Environmental Health -ÃÂÃÂÃÂÃÂ Roles of Nurses in Environmental Health ~15 mins\n29/9"
         }
       ],
       "userId": "ou_e273fec35061a42660190f8c70f19882"
@@ -50,21 +50,21 @@
           "progress": "30%",
           "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
           "timeSpent": "5h",
-          "title": "SN LP Video #3: Ã¢ÂÂSee What Students Are SayingÃ¢ÂÂ - 1.2 min"
+          "title": "SN LP Video #3: ÃÂ¢ÃÂÃÂSee What Students Are SayingÃÂ¢ÃÂÃÂ - 1.2 min"
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     },
     {
       "date": "2026-09-22",
-      "message": "1,5h sá»­a AMD 7-5",
+      "message": "1,5h sÃ¡Â»Â­a AMD 7-5",
       "submittedAt": "2026-09-22T11:30:57.615Z",
       "tasks": [
         {
           "progress": "80%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
           "timeSpent": "6h",
-          "title": "SN LP Video #1: âThereâs a Better Way to Studyâ -  1 min"
+          "title": "SN LP Video #1: Ã¢ÂÂThereÃ¢ÂÂs a Better Way to StudyÃ¢ÂÂ -  1 min"
         },
         {
           "progress": "100%",
@@ -77,14 +77,14 @@
     },
     {
       "date": "2026-09-22",
-      "message": "hôm nay làm nhiều thứ UV lẫn lộn nên không nhớ chính xác từng task lắm ạ huhu\n30p làm lipsync SN",
+      "message": "hÃ´m nay lÃ m nhiá»u thá»© UV láº«n lá»n nÃªn khÃ´ng nhá» chÃ­nh xÃ¡c tá»«ng task láº¯m áº¡ huhu\n30p lÃ m lipsync SN",
       "submittedAt": "2026-09-22T11:50:31.859Z",
       "tasks": [
         {
           "progress": "90%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
           "timeSpent": "3h",
-          "title": "BD videos: HRRP #10  tiếp 0.5"
+          "title": "BD videos: HRRP #10  tiáº¿p 0.5"
         },
         {
           "progress": "100%",
@@ -94,6 +94,20 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-09-22T16:22:46.143Z",
+      "date": "2026-09-22",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "Conation media: anim (2)",
+          "progress": "100%",
+          "timeSpent": "5.5h"
+        }
+      ],
+      "message": "2h fix LDA (khach), 0,5h SN flashcard promo (khach)"
     }
   ]
 }
