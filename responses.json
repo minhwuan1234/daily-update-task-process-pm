@@ -3,17 +3,37 @@
   "responses": [
     {
       "date": "2026-09-22",
-      "message": "Em sửa 5. Family hết 2h ạ",
+      "message": "Em sá»­a 5. Family háº¿t 2h áº¡",
       "submittedAt": "2026-09-22T10:47:24.178Z",
       "tasks": [
         {
           "progress": "60%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
           "timeSpent": "6h",
-          "title": "SN Priority: 39. Nursing Interventions for Acid–Base Imbalances ~7 mins"
+          "title": "SN Priority: 39. Nursing Interventions for AcidâBase Imbalances ~7 mins"
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
+    },
+    {
+      "userId": "ou_e273fec35061a42660190f8c70f19882",
+      "submittedAt": "2026-09-22T11:07:32.660Z",
+      "date": "2026-09-22",
+      "tasks": [
+        {
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
+          "title": "Article video:  Disadvantages of visual in teaching 0.75",
+          "progress": "0%",
+          "timeSpent": "0.5h"
+        },
+        {
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
+          "title": "SN Community Health: 4. Environmental Health - Roles of Nurses in Environmental Health ~15 mins\n29/9",
+          "progress": "20%",
+          "timeSpent": "4.5h"
+        }
+      ],
+      "message": "buổi sáng build cái tool cho c Giang"
     }
   ]
 }
