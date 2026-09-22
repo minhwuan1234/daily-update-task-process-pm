@@ -76,24 +76,24 @@
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     },
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-09-22T11:50:31.859Z",
       "date": "2026-09-22",
+      "message": "hôm nay làm nhiều thứ UV lẫn lộn nên không nhớ chính xác từng task lắm ạ huhu\n30p làm lipsync SN",
+      "submittedAt": "2026-09-22T11:50:31.859Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "BD videos: HRRP #10  tiếp 0.5",
           "progress": "90%",
-          "timeSpent": "3h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "3h",
+          "title": "BD videos: HRRP #10  tiếp 0.5"
         },
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "title": "UV Smart: AAO rollup banner +  SEORL lightbox 2 options (0.5)",
           "progress": "100%",
-          "timeSpent": "4.5h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
+          "timeSpent": "4.5h",
+          "title": "UV Smart: AAO rollup banner +  SEORL lightbox 2 options (0.5)"
         }
       ],
-      "message": "hôm nay làm nhiều thứ UV lẫn lộn nên không nhớ chính xác từng task lắm ạ huhu\n30p làm lipsync SN"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }
