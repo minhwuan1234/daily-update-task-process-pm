@@ -1,107 +1,19 @@
 {
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "responses": [
     {
-      "date": "2026-09-21",
-      "message": "",
-      "submittedAt": "2026-09-21T10:47:33.787Z",
+      "userId": "ou_e0897ef23f084625d708cd50c16468db",
+      "submittedAt": "2026-09-22T10:47:24.178Z",
+      "date": "2026-09-22",
       "tasks": [
         {
-          "progress": "100%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "3.5h",
-          "title": "Test 3: ELX Advisor"
-        },
-        {
-          "progress": "20%",
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-1",
-          "timeSpent": "4h",
-          "title": "SN Priority: 39. Nursing Interventions for AcidÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂBase Imbalances ~7 mins"
+          "title": "SN Priority: 39. Nursing Interventions for Acid–Base Imbalances ~7 mins",
+          "progress": "60%",
+          "timeSpent": "6h"
         }
       ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
-    },
-    {
-      "date": "2026-09-21",
-      "message": "sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a feedback lÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ§n 2",
-      "submittedAt": "2026-09-21T10:47:46.816Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "8h",
-          "title": "BD videos: HRRP #77 tiÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿p"
-        }
-      ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
-    },
-    {
-      "date": "2026-09-21",
-      "message": "45p hÃÂ¡ÃÂ»ÃÂp\n~10p cÃÂÃÂ¹ng Oanh sÃÂ¡ÃÂ»ÃÂ­a LDA\n30p sÃÂ¡ÃÂ»ÃÂ­a Klett Water Cycle\n~1h sÃÂ¡ÃÂ»ÃÂ­a D60 brochure with ASP branding\n\n\n*note thÃÂÃÂªm vÃÂ¡ÃÂ»ÃÂ 2 task ÃÂ¡ÃÂ»ÃÂ trÃÂÃÂªn:\nSN LP Video #3: 4,5h bao gÃÂ¡ÃÂ»ÃÂm 4h lÃÂÃÂ m vÃÂÃÂ o khoÃÂ¡ÃÂºÃÂ£ng 20p sÃÂ¡ÃÂ»ÃÂ­a nÃÂ¡ÃÂ»ÃÂi bÃÂ¡ÃÂ»ÃÂ\ntask 2 (1h) ÃÂÃÂÃÂÃÂ£ gÃÂ¡ÃÂ»ÃÂ­i vÃÂÃÂ  hÃÂ¡ÃÂ»ÃÂ feedback nÃÂÃÂ³ng nhÃÂÃÂ°ng mai sÃÂ¡ÃÂ»ÃÂ­a vÃÂ¡ÃÂºÃÂ«n kÃÂ¡ÃÂ»ÃÂp ÃÂ¡ÃÂºÃÂ¡ (coi nhÃÂÃÂ° done 50%)",
-      "submittedAt": "2026-09-21T11:13:14.738Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "4.5h",
-          "title": "SN LP Video #3: ÃÂ¢ÃÂÃÂSee What Students Are SayingÃÂ¢ÃÂÃÂ - 1.2 min"
-        },
-        {
-          "progress": "50%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "timeSpent": "1h",
-          "title": "UV Smart: \nÃÂ¢ÃÂÃÂD60 DGSV DE pullupÃÂ¢ÃÂÃÂ zipper wall fix\nD60 brochure fix"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-09-21",
-      "message": "khum cÃÂ³",
-      "submittedAt": "2026-09-21T12:02:18.312Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "5.5h",
-          "title": "SN Community Health: 3. Disaster Management - Terrorism study guide (3h)"
-        },
-        {
-          "progress": "70%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
-          "timeSpent": "2.5h",
-          "title": "AMD: Chapter 7-5 fix"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-09-21",
-      "message": "",
-      "submittedAt": "2026-09-21T13:51:15.297Z",
-      "tasks": [
-        {
-          "progress": "70%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "8h",
-          "title": "Conation media: anim (2)"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
-    },
-    {
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
-      "submittedAt": "2026-09-21T13:53:37.417Z",
-      "date": "2026-09-21",
-      "tasks": [
-        {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "title": "Studiohumanity animatic opt1",
-          "progress": "90%",
-          "timeSpent": "7h"
-        }
-      ],
-      "message": "Sửa LDA Safety Induction Video 2 (1h)"
+      "message": "Em sửa 5. Family hết 2h ạ"
     }
   ]
 }
