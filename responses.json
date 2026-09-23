@@ -1,113 +1,25 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "responses": [
     {
-      "date": "2026-09-22",
-      "message": "Em sÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ»ÃÂÃÂÃÂÃÂ­a 5. Family hÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ¿t 2h ÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ¡",
-      "submittedAt": "2026-09-22T10:47:24.178Z",
+      "userId": "ou_e0897ef23f084625d708cd50c16468db",
+      "submittedAt": "2026-09-23T10:50:16.943Z",
+      "date": "2026-09-23",
       "tasks": [
         {
-          "progress": "60%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "6h",
-          "title": "SN Priority: 39. Nursing Interventions for AcidÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂBase Imbalances ~7 mins"
-        }
-      ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
-    },
-    {
-      "date": "2026-09-22",
-      "message": "buÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂi sÃÂÃÂÃÂÃÂ¡ng build cÃÂÃÂÃÂÃÂ¡i tool cho c Giang",
-      "submittedAt": "2026-09-22T11:07:32.660Z",
-      "tasks": [
-        {
-          "progress": "0%",
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "0.5h",
-          "title": "Article video:  Disadvantages of visual in teaching 0.75"
-        },
-        {
+          "title": "RnD: Pre-Op Video #13 Flow test 1 min",
           "progress": "20%",
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
-          "timeSpent": "4.5h",
-          "title": "SN Community Health: 4. Environmental Health -ÃÂÃÂÃÂÃÂ Roles of Nurses in Environmental Health ~15 mins\n29/9"
-        }
-      ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
-    },
-    {
-      "date": "2026-09-22",
-      "message": "SN Community health ep 3 (0.5h)",
-      "submittedAt": "2026-09-22T11:13:39.178Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "2.5h",
-          "title": "Studiohumanity animatic opt1"
+          "timeSpent": "3h"
         },
         {
-          "progress": "30%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
-          "timeSpent": "5h",
-          "title": "SN LP Video #3: ÃÂ¢ÃÂÃÂSee What Students Are SayingÃÂ¢ÃÂÃÂ - 1.2 min"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-09-22",
-      "message": "1,5h sÃ¡Â»Â­a AMD 7-5",
-      "submittedAt": "2026-09-22T11:30:57.615Z",
-      "tasks": [
-        {
-          "progress": "80%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "6h",
-          "title": "SN LP Video #1: Ã¢ÂÂThereÃ¢ÂÂs a Better Way to StudyÃ¢ÂÂ -  1 min"
-        },
-        {
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-1",
+          "title": "SN Outdated Content 11 tiếp 0.5",
           "progress": "100%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
-          "timeSpent": "0.5h",
-          "title": "LDA Safety Induction video fix"
+          "timeSpent": "—"
         }
       ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-09-22",
-      "message": "hÃ´m nay lÃ m nhiá»u thá»© UV láº«n lá»n nÃªn khÃ´ng nhá» chÃ­nh xÃ¡c tá»«ng task láº¯m áº¡ huhu\n30p lÃ m lipsync SN",
-      "submittedAt": "2026-09-22T11:50:31.859Z",
-      "tasks": [
-        {
-          "progress": "90%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "3h",
-          "title": "BD videos: HRRP #10  tiáº¿p 0.5"
-        },
-        {
-          "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "timeSpent": "4.5h",
-          "title": "UV Smart: AAO rollup banner +  SEORL lightbox 2 options (0.5)"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-09-22",
-      "message": "2h fix LDA (khach), 0,5h SN flashcard promo (khach)",
-      "submittedAt": "2026-09-22T16:22:46.143Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "5.5h",
-          "title": "Conation media: anim (2)"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": "em làm nốt 39. Nursing Interventions for Acid–Base Imbalances hết 5h ạ"
     }
   ]
 }
