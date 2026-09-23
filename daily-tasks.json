@@ -1,24 +1,19 @@
 {
-  "date": "22-Sep",
-  "generatedAt": "2026-09-22T10:45:19.426Z",
+  "date": "23-Sep",
+  "generatedAt": "2026-09-23T10:45:10.303Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "22-Sep",
+          "date": "23-Sep",
           "dueDate": null,
-          "task": "BD videos: HRRP #10  tiếp 0.5"
+          "task": "Klett: D6.01 fix"
         },
         {
-          "date": "22-Sep",
-          "dueDate": "22/9",
-          "task": "UV Smart: AAO rollup banner +  SEORL lightbox 2 options (0.5)"
-        },
-        {
-          "date": "22-Sep",
+          "date": "23-Sep",
           "dueDate": null,
-          "task": "UV Smart: \n“D60 DGSV DE pullup” zipper wall fix 2 options"
+          "task": "UV Smart:\nD60 brochure fix\nD45 brochure fix"
         }
       ]
     },
@@ -26,19 +21,14 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "22-Sep",
+          "date": "23-Sep",
           "dueDate": "24/9",
           "task": "SN LP Video #1: “There’s a Better Way to Study” -  1 min"
         },
         {
-          "date": "22-Sep",
-          "dueDate": null,
-          "task": "LDA Safety Induction video fix"
-        },
-        {
-          "date": "22-Sep",
-          "dueDate": null,
-          "task": "AMD: Chapter 7-5 fix"
+          "date": "23-Sep",
+          "dueDate": "24/9",
+          "task": "SN LP Video #2: “New Way to Study” -  30s (0.5)"
         }
       ]
     },
@@ -46,9 +36,14 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "22-Sep",
-          "dueDate": "2/10",
-          "task": "SN Priority: 39. Nursing Interventions for Acid–Base Imbalances ~7 mins"
+          "date": "23-Sep",
+          "dueDate": null,
+          "task": "RnD: Pre-Op Video #13 Flow test 1 min"
+        },
+        {
+          "date": "23-Sep",
+          "dueDate": null,
+          "task": "SN Outdated Content 11 tiếp 0.5"
         }
       ]
     },
@@ -56,12 +51,7 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "22-Sep",
-          "dueDate": "6/6",
-          "task": "Article video:  Disadvantages of visual in teaching 0.75"
-        },
-        {
-          "date": "22-Sep",
+          "date": "23-Sep",
           "dueDate": null,
           "task": "SN Community Health: 4. Environmental Health - Roles of Nurses in Environmental Health ~15 mins\n29/9"
         }
@@ -71,12 +61,7 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "22-Sep",
-          "dueDate": "18/9",
-          "task": "Studiohumanity animatic opt1"
-        },
-        {
-          "date": "22-Sep",
+          "date": "23-Sep",
           "dueDate": "28/9",
           "task": "SN LP Video #3: “See What Students Are Saying” - 1.2 min"
         }
@@ -86,13 +71,18 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "22-Sep",
-          "dueDate": "29/9",
-          "task": "Conation media: anim (2)"
+          "date": "23-Sep",
+          "dueDate": null,
+          "task": "5.5h"
+        },
+        {
+          "date": "23-Sep",
+          "dueDate": null,
+          "task": "LDA Safety Induction video 1 fix (2h)\n0,5h fix SN flashcard promo"
         }
       ]
     }
   ],
   "totalMembers": 6,
-  "totalTasks": 12
+  "totalTasks": 10
 }
