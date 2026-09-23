@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-09-23",
-      "message": "em lÃÂÃÂÃÂÃÂ m nÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂt 39. Nursing Interventions for AcidÃÂÃÂ¢ÃÂÃÂÃÂÃÂBase Imbalances hÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿t 5h ÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¡",
+      "message": "em lÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ m nÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ»ÃÂÃÂÃÂÃÂt 39. Nursing Interventions for AcidÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂBase Imbalances hÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ¿t 5h ÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ¡",
       "submittedAt": "2026-09-23T10:50:16.943Z",
       "tasks": [
         {
@@ -15,8 +15,8 @@
         {
           "progress": "100%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-1",
-          "timeSpent": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ",
-          "title": "SN Outdated Content 11 tiÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿p 0.5"
+          "timeSpent": "ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ",
+          "title": "SN Outdated Content 11 tiÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ¿p 0.5"
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
@@ -39,7 +39,7 @@
           "timeSpent": "3h"
         }
       ],
-      "message": "1h lÃÂÃÂ m BD #10"
+      "message": "1h lÃÂÃÂÃÂÃÂ m BD #10"
     },
     {
       "date": "2026-09-23",
@@ -50,7 +50,7 @@
           "progress": "90%",
           "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
           "timeSpent": "8h",
-          "title": "SN LP Video #3: Ã¢ÂÂSee What Students Are SayingÃ¢ÂÂ - 1.2 min"
+          "title": "SN LP Video #3: ÃÂ¢ÃÂÃÂSee What Students Are SayingÃÂ¢ÃÂÃÂ - 1.2 min"
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
@@ -64,7 +64,7 @@
           "progress": "50%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
           "timeSpent": "8h",
-          "title": "SN Community Health: 4. Environmental Health -Â Roles of Nurses in Environmental Health ~15 mins\n29/9"
+          "title": "SN Community Health: 4. Environmental Health -ÃÂ Roles of Nurses in Environmental Health ~15 mins\n29/9"
         }
       ],
       "userId": "ou_e273fec35061a42660190f8c70f19882"
@@ -78,16 +78,36 @@
           "progress": "100%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
           "timeSpent": "1.5h",
-          "title": "SN LP Video #1: “There’s a Better Way to Study” -  1 min"
+          "title": "SN LP Video #1: âThereâs a Better Way to Studyâ -  1 min"
         },
         {
           "progress": "100%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
           "timeSpent": "6.5h",
-          "title": "SN LP Video #2: “New Way to Study” -  30s (0.5)"
+          "title": "SN LP Video #2: âNew Way to Studyâ -  30s (0.5)"
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-09-23T16:13:58.391Z",
+      "date": "2026-09-23",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "5.5h",
+          "progress": "50%",
+          "timeSpent": "8h"
+        },
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
+          "title": "LDA Safety Induction video 1 fix (2h)\n0,5h fix SN flashcard promo",
+          "progress": "100%",
+          "timeSpent": "—"
+        }
+      ],
+      "message": ""
     }
   ]
 }
