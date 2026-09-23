@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-09-23",
-      "message": "em làm nốt 39. Nursing Interventions for Acid–Base Imbalances hết 5h ạ",
+      "message": "em lÃ m ná»t 39. Nursing Interventions for AcidâBase Imbalances háº¿t 5h áº¡",
       "submittedAt": "2026-09-23T10:50:16.943Z",
       "tasks": [
         {
@@ -15,11 +15,31 @@
         {
           "progress": "100%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-1",
-          "timeSpent": "—",
-          "title": "SN Outdated Content 11 tiếp 0.5"
+          "timeSpent": "â",
+          "title": "SN Outdated Content 11 tiáº¿p 0.5"
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
+    },
+    {
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-09-23T10:57:09.521Z",
+      "date": "2026-09-23",
+      "tasks": [
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "title": "Klett: D6.01 fix",
+          "progress": "100%",
+          "timeSpent": "0.5h"
+        },
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
+          "title": "UV Smart:\nD60 brochure fix\nD45 brochure fix",
+          "progress": "100%",
+          "timeSpent": "3h"
+        }
+      ],
+      "message": "1h làm BD #10"
     }
   ]
 }
