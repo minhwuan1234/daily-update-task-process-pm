@@ -1,19 +1,24 @@
 {
-  "date": "23-Sep",
-  "generatedAt": "2026-09-23T10:45:10.303Z",
+  "date": "24-Sep",
+  "generatedAt": "2026-09-24T10:45:29.130Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "23-Sep",
+          "date": "24-Sep",
           "dueDate": null,
-          "task": "Klett: D6.01 fix"
+          "task": "BD videos: HRRP #10  tiếp 3h"
         },
         {
-          "date": "23-Sep",
+          "date": "24-Sep",
           "dueDate": null,
-          "task": "UV Smart:\nD60 brochure fix\nD45 brochure fix"
+          "task": "BD videos: Pre-Op Video #13 Bariatric Pre-Op Diet ~ 3 mins\n1h"
+        },
+        {
+          "date": "24-Sep",
+          "dueDate": null,
+          "task": "UV Smart:\nD25+ brochure (urgent)"
         }
       ]
     },
@@ -21,14 +26,14 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "23-Sep",
-          "dueDate": "24/9",
-          "task": "SN LP Video #1: “There’s a Better Way to Study” -  1 min"
+          "date": "24-Sep",
+          "dueDate": null,
+          "task": "Studiohumanity: Feedback illus c Muối"
         },
         {
-          "date": "23-Sep",
-          "dueDate": "24/9",
-          "task": "SN LP Video #2: “New Way to Study” -  30s (0.5)"
+          "date": "24-Sep",
+          "dueDate": null,
+          "task": "AMD: Chapter 7-5 fix - 0.5"
         }
       ]
     },
@@ -36,14 +41,9 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "23-Sep",
+          "date": "24-Sep",
           "dueDate": null,
-          "task": "RnD: Pre-Op Video #13 Flow test 1 min"
-        },
-        {
-          "date": "23-Sep",
-          "dueDate": null,
-          "task": "SN Outdated Content 11 tiếp 0.5"
+          "task": "RnD: Pre-Op Video #13 Flow test 1 min\n3h"
         }
       ]
     },
@@ -51,7 +51,7 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "23-Sep",
+          "date": "24-Sep",
           "dueDate": null,
           "task": "SN Community Health: 4. Environmental Health - Roles of Nurses in Environmental Health ~15 mins\n29/9"
         }
@@ -61,7 +61,12 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "23-Sep",
+          "date": "24-Sep",
+          "dueDate": null,
+          "task": "BD videos: HRRP #10 Your 7-days follow up"
+        },
+        {
+          "date": "24-Sep",
           "dueDate": "28/9",
           "task": "SN LP Video #3: “See What Students Are Saying” - 1.2 min"
         }
@@ -71,14 +76,9 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "23-Sep",
+          "date": "24-Sep",
           "dueDate": null,
-          "task": "5.5h"
-        },
-        {
-          "date": "23-Sep",
-          "dueDate": null,
-          "task": "LDA Safety Induction video 1 fix (2h)\n0,5h fix SN flashcard promo"
+          "task": "SN Community Health: 5. Family ~11 mins\n29/9"
         }
       ]
     }
