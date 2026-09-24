@@ -36,24 +36,24 @@
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     },
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-09-24T11:26:09.172Z",
       "date": "2026-09-24",
+      "message": "hôm nay chưa làm được task 2 vì:\n4h - UV D25 rebrand ASP (định cop mấy cái icon từ slide sang mà nó bị vỡ ảnh nên phải đồ lại)\n1,5h - Sửa UV D60 rebrand brochure",
+      "submittedAt": "2026-09-24T11:26:09.172Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "BD videos: HRRP #10  tiếp 3h",
           "progress": "100%",
-          "timeSpent": "2h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "2h",
+          "title": "BD videos: HRRP #10  tiếp 3h"
         },
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "title": "BD videos: Pre-Op Video #13 Bariatric Pre-Op Diet ~ 3 mins\n1h",
           "progress": "0%",
-          "timeSpent": "0.5h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
+          "timeSpent": "0.5h",
+          "title": "BD videos: Pre-Op Video #13 Bariatric Pre-Op Diet ~ 3 mins\n1h"
         }
       ],
-      "message": "hôm nay chưa làm được task 2 vì:\n4h - UV D25 rebrand ASP (định cop mấy cái icon từ slide sang mà nó bị vỡ ảnh nên phải đồ lại)\n1,5h - Sửa UV D60 rebrand brochure"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }
