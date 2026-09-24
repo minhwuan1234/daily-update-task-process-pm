@@ -23,28 +23,28 @@
         {
           "progress": "0%",
           "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "â",
+          "timeSpent": "Ã¢ÂÂ",
           "title": "BD videos: HRRP #10 Your 7-days follow up"
         },
         {
           "progress": "100%",
           "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
           "timeSpent": "1h",
-          "title": "SN LP Video #3: âSee What Students Are Sayingâ - 1.2 min"
+          "title": "SN LP Video #3: Ã¢ÂÂSee What Students Are SayingÃ¢ÂÂ - 1.2 min"
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     },
     {
       "date": "2026-09-24",
-      "message": "hôm nay chưa làm được task 2 vì:\n4h - UV D25 rebrand ASP (định cop mấy cái icon từ slide sang mà nó bị vỡ ảnh nên phải đồ lại)\n1,5h - Sửa UV D60 rebrand brochure",
+      "message": "hÃ´m nay chÆ°a lÃ m ÄÆ°á»£c task 2 vÃ¬:\n4h - UV D25 rebrand ASP (Äá»nh cop máº¥y cÃ¡i icon tá»« slide sang mÃ  nÃ³ bá» vá»¡ áº£nh nÃªn pháº£i Äá» láº¡i)\n1,5h - Sá»­a UV D60 rebrand brochure",
       "submittedAt": "2026-09-24T11:26:09.172Z",
       "tasks": [
         {
           "progress": "100%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
           "timeSpent": "2h",
-          "title": "BD videos: HRRP #10  tiếp 3h"
+          "title": "BD videos: HRRP #10  tiáº¿p 3h"
         },
         {
           "progress": "0%",
@@ -54,6 +54,20 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-09-24T11:38:50.899Z",
+      "date": "2026-09-24",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "SN Community Health: 5. Family ~11 mins\n29/9",
+          "progress": "100%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
