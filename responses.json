@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-09-25",
-      "message": "khoÃ¡ÂºÂ£ng thgian cÃÂ²n lÃ¡ÂºÂ¡i lÃÂ  hÃ¡Â»Âp vÃÂ  sÃ¡Â»Â­a nÃ¡Â»Ât HRRP Video 10",
+      "message": "khoÃÂ¡ÃÂºÃÂ£ng thgian cÃÂÃÂ²n lÃÂ¡ÃÂºÃÂ¡i lÃÂÃÂ  hÃÂ¡ÃÂ»ÃÂp vÃÂÃÂ  sÃÂ¡ÃÂ»ÃÂ­a nÃÂ¡ÃÂ»ÃÂt HRRP Video 10",
       "submittedAt": "2026-09-25T11:06:39.495Z",
       "tasks": [
         {
@@ -23,7 +23,7 @@
     },
     {
       "date": "2026-09-25",
-      "message": "30p \nLÃ m linh tinh 1 sá» task SN, check cmt Stuhu vÃ  comment AMD",
+      "message": "30p \nLÃÂ m linh tinh 1 sÃ¡Â»Â task SN, check cmt Stuhu vÃÂ  comment AMD",
       "submittedAt": "2026-09-25T11:13:20.505Z",
       "tasks": [
         {
@@ -37,13 +37,13 @@
     },
     {
       "date": "2026-09-25",
-      "message": "em làm Google Flow illustration Testing hết 3.5h, tổng kết cách thực hiện Google Flow illustration Testing và 3 bài test hết 1h, sửa 39. Nursing Interventions for Acid–Base Imbalances ~7 mins hết 2h, họp tuần hết 0.5h ạ",
+      "message": "em lÃ m Google Flow illustration Testing háº¿t 3.5h, tá»ng káº¿t cÃ¡ch thá»±c hiá»n Google Flow illustration Testing vÃ  3 bÃ i test háº¿t 1h, sá»­a 39. Nursing Interventions for AcidâBase Imbalances ~7 mins háº¿t 2h, há»p tuáº§n háº¿t 0.5h áº¡",
       "submittedAt": "2026-09-25T11:19:32.829Z",
       "tasks": [
         {
           "progress": "100%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "—",
+          "timeSpent": "â",
           "title": "Test 1: SmoothKP fix"
         },
         {
@@ -54,6 +54,20 @@
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-09-25T11:32:42.872Z",
+      "date": "2026-09-25",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "SN LP Video #1: “There’s a Better Way to Study” -  1 min",
+          "progress": "70%",
+          "timeSpent": "7.5h"
+        }
+      ],
+      "message": "0,5h hop team"
     }
   ]
 }
