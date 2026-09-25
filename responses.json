@@ -56,18 +56,18 @@
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
     },
     {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-09-25T11:32:42.872Z",
       "date": "2026-09-25",
+      "message": "0,5h hop team",
+      "submittedAt": "2026-09-25T11:32:42.872Z",
       "tasks": [
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "SN LP Video #1: “There’s a Better Way to Study” -  1 min",
           "progress": "70%",
-          "timeSpent": "7.5h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "timeSpent": "7.5h",
+          "title": "SN LP Video #1: “There’s a Better Way to Study” -  1 min"
         }
       ],
-      "message": "0,5h hop team"
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     }
   ]
 }
