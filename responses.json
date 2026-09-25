@@ -70,18 +70,18 @@
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     },
     {
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
-      "submittedAt": "2026-09-25T13:05:28.682Z",
       "date": "2026-09-25",
+      "message": "",
+      "submittedAt": "2026-09-25T13:05:28.682Z",
       "tasks": [
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "title": "Klett: D6.01 (1 hình complex + 3 hình simple)",
           "progress": "100%",
-          "timeSpent": "8h"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "timeSpent": "8h",
+          "title": "Klett: D6.01 (1 hình complex + 3 hình simple)"
         }
       ],
-      "message": ""
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     }
   ]
 }
