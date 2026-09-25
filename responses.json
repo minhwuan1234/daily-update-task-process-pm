@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-09-25",
-      "message": "khoảng thgian còn lại là họp và sửa nốt HRRP Video 10",
+      "message": "khoáº£ng thgian cÃ²n láº¡i lÃ  há»p vÃ  sá»­a ná»t HRRP Video 10",
       "submittedAt": "2026-09-25T11:06:39.495Z",
       "tasks": [
         {
@@ -20,6 +20,20 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-09-25T11:13:20.505Z",
+      "date": "2026-09-25",
+      "tasks": [
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "Providence: concept art",
+          "progress": "60%",
+          "timeSpent": "7.5h"
+        }
+      ],
+      "message": "30p \nLàm linh tinh 1 số task SN, check cmt Stuhu và comment AMD"
     }
   ]
 }
