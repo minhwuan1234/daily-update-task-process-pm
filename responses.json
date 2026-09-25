@@ -22,18 +22,18 @@
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     },
     {
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-09-25T11:13:20.505Z",
       "date": "2026-09-25",
+      "message": "30p \nLàm linh tinh 1 số task SN, check cmt Stuhu và comment AMD",
+      "submittedAt": "2026-09-25T11:13:20.505Z",
       "tasks": [
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "Providence: concept art",
           "progress": "60%",
-          "timeSpent": "7.5h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "timeSpent": "7.5h",
+          "title": "Providence: concept art"
         }
       ],
-      "message": "30p \nLàm linh tinh 1 số task SN, check cmt Stuhu và comment AMD"
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     }
   ]
 }
