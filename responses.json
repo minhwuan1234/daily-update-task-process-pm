@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-09-25",
-      "message": "khoÃÂ¡ÃÂºÃÂ£ng thgian cÃÂÃÂ²n lÃÂ¡ÃÂºÃÂ¡i lÃÂÃÂ  hÃÂ¡ÃÂ»ÃÂp vÃÂÃÂ  sÃÂ¡ÃÂ»ÃÂ­a nÃÂ¡ÃÂ»ÃÂt HRRP Video 10",
+      "message": "khoÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ£ng thgian cÃÂÃÂÃÂÃÂ²n lÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¡i lÃÂÃÂÃÂÃÂ  hÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂp vÃÂÃÂÃÂÃÂ  sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a nÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂt HRRP Video 10",
       "submittedAt": "2026-09-25T11:06:39.495Z",
       "tasks": [
         {
@@ -23,7 +23,7 @@
     },
     {
       "date": "2026-09-25",
-      "message": "30p \nLÃÂ m linh tinh 1 sÃ¡Â»Â task SN, check cmt Stuhu vÃÂ  comment AMD",
+      "message": "30p \nLÃÂÃÂ m linh tinh 1 sÃÂ¡ÃÂ»ÃÂ task SN, check cmt Stuhu vÃÂÃÂ  comment AMD",
       "submittedAt": "2026-09-25T11:13:20.505Z",
       "tasks": [
         {
@@ -37,13 +37,13 @@
     },
     {
       "date": "2026-09-25",
-      "message": "em lÃ m Google Flow illustration Testing háº¿t 3.5h, tá»ng káº¿t cÃ¡ch thá»±c hiá»n Google Flow illustration Testing vÃ  3 bÃ i test háº¿t 1h, sá»­a 39. Nursing Interventions for AcidâBase Imbalances ~7 mins háº¿t 2h, há»p tuáº§n háº¿t 0.5h áº¡",
+      "message": "em lÃÂ m Google Flow illustration Testing hÃ¡ÂºÂ¿t 3.5h, tÃ¡Â»Âng kÃ¡ÂºÂ¿t cÃÂ¡ch thÃ¡Â»Â±c hiÃ¡Â»Ân Google Flow illustration Testing vÃÂ  3 bÃÂ i test hÃ¡ÂºÂ¿t 1h, sÃ¡Â»Â­a 39. Nursing Interventions for AcidÃ¢ÂÂBase Imbalances ~7 mins hÃ¡ÂºÂ¿t 2h, hÃ¡Â»Âp tuÃ¡ÂºÂ§n hÃ¡ÂºÂ¿t 0.5h Ã¡ÂºÂ¡",
       "submittedAt": "2026-09-25T11:19:32.829Z",
       "tasks": [
         {
           "progress": "100%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "â",
+          "timeSpent": "Ã¢ÂÂ",
           "title": "Test 1: SmoothKP fix"
         },
         {
@@ -64,10 +64,24 @@
           "progress": "70%",
           "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
           "timeSpent": "7.5h",
-          "title": "SN LP Video #1: “There’s a Better Way to Study” -  1 min"
+          "title": "SN LP Video #1: âThereâs a Better Way to Studyâ -  1 min"
         }
       ],
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-09-25T13:05:28.682Z",
+      "date": "2026-09-25",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "Klett: D6.01 (1 hình complex + 3 hình simple)",
+          "progress": "100%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
