@@ -6022,5 +6022,20 @@
     "hasBlocker": false,
     "source": "github-actions",
     "responseFile": "responses.json"
+  },
+  {
+    "submissionId": "daily-update_2026-09-25_ou_e0897ef23f084625d708cd50c16468db_2026-09-25T11:19:32.829Z",
+    "toolId": "daily-update",
+    "toolName": "Daily Update Task Process PM",
+    "userId": "ou_e0897ef23f084625d708cd50c16468db",
+    "memberName": "Thế Anh",
+    "date": "2026-09-25",
+    "submittedAt": "2026-09-25T11:19:32.829Z",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "taskCount": 2,
+    "hasMessage": true,
+    "hasBlocker": false,
+    "source": "github-actions",
+    "responseFile": "responses.json"
   }
 ]

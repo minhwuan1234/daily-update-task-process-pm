@@ -36,24 +36,24 @@
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     },
     {
-      "userId": "ou_e0897ef23f084625d708cd50c16468db",
-      "submittedAt": "2026-09-25T11:19:32.829Z",
       "date": "2026-09-25",
+      "message": "em làm Google Flow illustration Testing hết 3.5h, tổng kết cách thực hiện Google Flow illustration Testing và 3 bài test hết 1h, sửa 39. Nursing Interventions for Acid–Base Imbalances ~7 mins hết 2h, họp tuần hết 0.5h ạ",
+      "submittedAt": "2026-09-25T11:19:32.829Z",
       "tasks": [
         {
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "title": "Test 1: SmoothKP fix",
           "progress": "100%",
-          "timeSpent": "—"
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
+          "timeSpent": "—",
+          "title": "Test 1: SmoothKP fix"
         },
         {
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-1",
-          "title": "SN Community Health: 5. Family study guide (0.5)",
           "progress": "30%",
-          "timeSpent": "1h"
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-1",
+          "timeSpent": "1h",
+          "title": "SN Community Health: 5. Family study guide (0.5)"
         }
       ],
-      "message": "em làm Google Flow illustration Testing hết 3.5h, tổng kết cách thực hiện Google Flow illustration Testing và 3 bài test hết 1h, sửa 39. Nursing Interventions for Acid–Base Imbalances ~7 mins hết 2h, họp tuần hết 0.5h ạ"
+      "userId": "ou_e0897ef23f084625d708cd50c16468db"
     }
   ]
 }
