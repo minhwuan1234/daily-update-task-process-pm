@@ -1,87 +1,25 @@
 {
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "responses": [
     {
-      "date": "2026-09-24",
-      "message": "",
-      "submittedAt": "2026-09-24T10:55:15.753Z",
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-09-25T11:06:39.495Z",
+      "date": "2026-09-25",
       "tasks": [
         {
-          "progress": "70%",
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "8h",
-          "title": "RnD: Pre-Op Video #13 Flow test 1 min\n3h"
-        }
-      ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
-    },
-    {
-      "date": "2026-09-24",
-      "message": "OKR - Personal Project (7h)",
-      "submittedAt": "2026-09-24T10:58:24.519Z",
-      "tasks": [
-        {
-          "progress": "0%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "ÃÂ¢ÃÂÃÂ",
-          "title": "BD videos: HRRP #10 Your 7-days follow up"
-        },
-        {
-          "progress": "100%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
-          "timeSpent": "1h",
-          "title": "SN LP Video #3: ÃÂ¢ÃÂÃÂSee What Students Are SayingÃÂ¢ÃÂÃÂ - 1.2 min"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-09-24",
-      "message": "hÃÂ´m nay chÃÂ°a lÃÂ m ÃÂÃÂ°Ã¡Â»Â£c task 2 vÃÂ¬:\n4h - UV D25 rebrand ASP (ÃÂÃ¡Â»Ânh cop mÃ¡ÂºÂ¥y cÃÂ¡i icon tÃ¡Â»Â« slide sang mÃÂ  nÃÂ³ bÃ¡Â»Â vÃ¡Â»Â¡ Ã¡ÂºÂ£nh nÃÂªn phÃ¡ÂºÂ£i ÃÂÃ¡Â»Â lÃ¡ÂºÂ¡i)\n1,5h - SÃ¡Â»Â­a UV D60 rebrand brochure",
-      "submittedAt": "2026-09-24T11:26:09.172Z",
-      "tasks": [
-        {
-          "progress": "100%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "2h",
-          "title": "BD videos: HRRP #10  tiÃ¡ÂºÂ¿p 3h"
+          "title": "BD videos: Pre-Op Video #13 Bariatric Pre-Op Diet ~ 3 mins",
+          "progress": "0%",
+          "timeSpent": "0.5h"
         },
         {
-          "progress": "0%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "timeSpent": "0.5h",
-          "title": "BD videos: Pre-Op Video #13 Bariatric Pre-Op Diet ~ 3 mins\n1h"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-09-24",
-      "message": "",
-      "submittedAt": "2026-09-24T11:38:50.899Z",
-      "tasks": [
-        {
+          "title": "UV Smart:\nD60 + D45 +D25 brochure fix",
           "progress": "100%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "8h",
-          "title": "SN Community Health: 5. Family ~11 mins\n29/9"
+          "timeSpent": "6h"
         }
       ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
-    },
-    {
-      "date": "2026-09-24",
-      "message": "",
-      "submittedAt": "2026-09-24T12:02:46.459Z",
-      "tasks": [
-        {
-          "progress": "70%",
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "8h",
-          "title": "SN Community Health: 4. Environmental Health - Roles of Nurses in Environmental Health ~15 mins\n29/9"
-        }
-      ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
+      "message": "khoảng thgian còn lại là họp và sửa nốt HRRP Video 10"
     }
   ]
 }
