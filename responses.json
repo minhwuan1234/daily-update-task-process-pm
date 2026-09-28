@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-09-28",
-      "message": "Providence concept tiếp 4h\nSửa Studyguide comm health 2 30p\nStuhu Illustration tiếp 2,5h",
+      "message": "Providence concept tiáº¿p 4h\nSá»­a Studyguide comm health 2 30p\nStuhu Illustration tiáº¿p 2,5h",
       "submittedAt": "2026-09-28T10:55:20.012Z",
       "tasks": [
         {
@@ -14,6 +14,20 @@
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-09-28T10:56:36.170Z",
+      "date": "2026-09-28",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "BD videos: HRRP #10 Your 7-days follow up",
+          "progress": "30%",
+          "timeSpent": "6.5h"
+        }
+      ],
+      "message": "- SN LP Video #3: See What Students Are Saying (1.25h)\n- Họp (0.25)"
     }
   ]
 }
