@@ -1,87 +1,19 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-28",
   "responses": [
     {
-      "date": "2026-09-25",
-      "message": "khoÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ£ng thgian cÃÂÃÂÃÂÃÂ²n lÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¡i lÃÂÃÂÃÂÃÂ  hÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂp vÃÂÃÂÃÂÃÂ  sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a nÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂt HRRP Video 10",
-      "submittedAt": "2026-09-25T11:06:39.495Z",
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-09-28T10:55:20.012Z",
+      "date": "2026-09-28",
       "tasks": [
         {
-          "progress": "0%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "0.5h",
-          "title": "BD videos: Pre-Op Video #13 Bariatric Pre-Op Diet ~ 3 mins"
-        },
-        {
-          "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "timeSpent": "6h",
-          "title": "UV Smart:\nD60 + D45 +D25 brochure fix"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-09-25",
-      "message": "30p \nLÃÂÃÂ m linh tinh 1 sÃÂ¡ÃÂ»ÃÂ task SN, check cmt Stuhu vÃÂÃÂ  comment AMD",
-      "submittedAt": "2026-09-25T11:13:20.505Z",
-      "tasks": [
-        {
-          "progress": "60%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "7.5h",
-          "title": "Providence: concept art"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-09-25",
-      "message": "em lÃÂ m Google Flow illustration Testing hÃ¡ÂºÂ¿t 3.5h, tÃ¡Â»Âng kÃ¡ÂºÂ¿t cÃÂ¡ch thÃ¡Â»Â±c hiÃ¡Â»Ân Google Flow illustration Testing vÃÂ  3 bÃÂ i test hÃ¡ÂºÂ¿t 1h, sÃ¡Â»Â­a 39. Nursing Interventions for AcidÃ¢ÂÂBase Imbalances ~7 mins hÃ¡ÂºÂ¿t 2h, hÃ¡Â»Âp tuÃ¡ÂºÂ§n hÃ¡ÂºÂ¿t 0.5h Ã¡ÂºÂ¡",
-      "submittedAt": "2026-09-25T11:19:32.829Z",
-      "tasks": [
-        {
+          "title": "Studiohumanity: SB fix",
           "progress": "100%",
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "Ã¢ÂÂ",
-          "title": "Test 1: SmoothKP fix"
-        },
-        {
-          "progress": "30%",
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-1",
-          "timeSpent": "1h",
-          "title": "SN Community Health: 5. Family study guide (0.5)"
+          "timeSpent": "0.5h"
         }
       ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
-    },
-    {
-      "date": "2026-09-25",
-      "message": "0,5h hop team",
-      "submittedAt": "2026-09-25T11:32:42.872Z",
-      "tasks": [
-        {
-          "progress": "70%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "7.5h",
-          "title": "SN LP Video #1: âThereâs a Better Way to Studyâ -  1 min"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
-    },
-    {
-      "date": "2026-09-25",
-      "message": "",
-      "submittedAt": "2026-09-25T13:05:28.682Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "8h",
-          "title": "Klett: D6.01 (1 hình complex + 3 hình simple)"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+      "message": "Providence concept tiếp 4h\nSửa Studyguide comm health 2 30p\nStuhu Illustration tiếp 2,5h"
     }
   ]
 }
