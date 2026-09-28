@@ -1,19 +1,24 @@
 {
-  "date": "25-Sep",
-  "generatedAt": "2026-09-25T10:45:08.455Z",
+  "date": "28-Sep",
+  "generatedAt": "2026-09-28T10:45:12.697Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "25-Sep",
+          "date": "28-Sep",
           "dueDate": null,
           "task": "BD videos: Pre-Op Video #13 Bariatric Pre-Op Diet ~ 3 mins"
         },
         {
-          "date": "25-Sep",
+          "date": "28-Sep",
+          "dueDate": "29/9",
+          "task": "SN Community Health: 4. Environmental Health study guide (0.5)"
+        },
+        {
+          "date": "28-Sep",
           "dueDate": null,
-          "task": "UV Smart:\nD60 + D45 +D25 brochure fix"
+          "task": "UV Smart:\nD25 + D60 brochure fix"
         }
       ]
     },
@@ -21,9 +26,9 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "25-Sep",
-          "dueDate": "29/9",
-          "task": "Providence: concept art"
+          "date": "28-Sep",
+          "dueDate": null,
+          "task": "Studiohumanity: SB fix"
         }
       ]
     },
@@ -31,14 +36,14 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "25-Sep",
+          "date": "28-Sep",
           "dueDate": null,
-          "task": "Test 1: SmoothKP fix"
+          "task": "RnD: Pre-Op Video #13 Flow test full"
         },
         {
-          "date": "25-Sep",
+          "date": "28-Sep",
           "dueDate": "29/9",
-          "task": "SN Community Health: 5. Family study guide (0.5)"
+          "task": "SN Community Health: 5. Family study guide tiếp 0.5"
         }
       ]
     },
@@ -46,9 +51,14 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "25-Sep",
+          "date": "28-Sep",
           "dueDate": null,
-          "task": "SN Community Health: 4. Environmental Health - Roles of Nurses in Environmental Health ~15 mins\n29/9"
+          "task": "RnD format: SFPA Video 2 tiếp"
+        },
+        {
+          "date": "28-Sep",
+          "dueDate": null,
+          "task": "SN Community Health: 4. tiếp"
         }
       ]
     },
@@ -56,9 +66,9 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "25-Sep",
-          "dueDate": "1/10",
-          "task": "Klett: D6.01 (1 hình complex + 3 hình simple)"
+          "date": "28-Sep",
+          "dueDate": null,
+          "task": "BD videos: HRRP #10 Your 7-days follow up"
         }
       ]
     },
@@ -66,13 +76,13 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "25-Sep",
-          "dueDate": "30/9",
-          "task": "SN LP Video #1: “There’s a Better Way to Study” -  1 min"
+          "date": "28-Sep",
+          "dueDate": "29/9",
+          "task": "Conation media tiếp"
         }
       ]
     }
   ],
   "totalMembers": 6,
-  "totalTasks": 8
+  "totalTasks": 10
 }
