@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-09-28",
-      "message": "Providence concept tiáº¿p 4h\nSá»­a Studyguide comm health 2 30p\nStuhu Illustration tiáº¿p 2,5h",
+      "message": "Providence concept tiÃ¡ÂºÂ¿p 4h\nSÃ¡Â»Â­a Studyguide comm health 2 30p\nStuhu Illustration tiÃ¡ÂºÂ¿p 2,5h",
       "submittedAt": "2026-09-28T10:55:20.012Z",
       "tasks": [
         {
@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-09-28",
-      "message": "- SN LP Video #3: See What Students Are Saying (1.25h)\n- Họp (0.25)",
+      "message": "- SN LP Video #3: See What Students Are Saying (1.25h)\n- Há»p (0.25)",
       "submittedAt": "2026-09-28T10:56:36.170Z",
       "tasks": [
         {
@@ -28,6 +28,26 @@
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_e0897ef23f084625d708cd50c16468db",
+      "submittedAt": "2026-09-28T10:56:44.313Z",
+      "date": "2026-09-28",
+      "tasks": [
+        {
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
+          "title": "RnD: Pre-Op Video #13 Flow test full",
+          "progress": "80%",
+          "timeSpent": "4.5h"
+        },
+        {
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-1",
+          "title": "SN Community Health: 5. Family study guide tiếp 0.5",
+          "progress": "100%",
+          "timeSpent": "2h"
+        }
+      ],
+      "message": "em sửa 39. Nursing Interventions for Acid–Base Imbalances hết 45 phút, 38. How Acid–Base Imbalances Affect Potassium hết 30 phút và họp đầu tuần hết 15 phút ạ"
     }
   ]
 }
