@@ -50,24 +50,24 @@
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
     },
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-09-28T10:57:50.295Z",
       "date": "2026-09-28",
+      "message": "BD Video #13 em mới đọc qua script nghĩ nghĩ thôi chưa làm gì hết :D \n45p họp\ncòn lại là thời gian sửa UV các kiểu (D60 + D25)",
+      "submittedAt": "2026-09-28T10:57:50.295Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "BD videos: Pre-Op Video #13 Bariatric Pre-Op Diet ~ 3 mins",
           "progress": "10%",
-          "timeSpent": "1h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "1h",
+          "title": "BD videos: Pre-Op Video #13 Bariatric Pre-Op Diet ~ 3 mins"
         },
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "title": "SN Community Health: 4. Environmental Health study guide (0.5)",
           "progress": "100%",
-          "timeSpent": "2h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
+          "timeSpent": "2h",
+          "title": "SN Community Health: 4. Environmental Health study guide (0.5)"
         }
       ],
-      "message": "BD Video #13 em mới đọc qua script nghĩ nghĩ thôi chưa làm gì hết :D \n45p họp\ncòn lại là thời gian sửa UV các kiểu (D60 + D25)"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }
