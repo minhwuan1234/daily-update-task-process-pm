@@ -70,18 +70,18 @@
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     },
     {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-09-28T15:42:30.030Z",
       "date": "2026-09-28",
+      "message": "4h nốt SN LP1",
+      "submittedAt": "2026-09-28T15:42:30.030Z",
       "tasks": [
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "Conation media tiếp",
           "progress": "90%",
-          "timeSpent": "4h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "timeSpent": "4h",
+          "title": "Conation media tiếp"
         }
       ],
-      "message": "4h nốt SN LP1"
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     }
   ]
 }
