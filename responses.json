@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-09-28",
-      "message": "Providence concept tiÃÂ¡ÃÂºÃÂ¿p 4h\nSÃÂ¡ÃÂ»ÃÂ­a Studyguide comm health 2 30p\nStuhu Illustration tiÃÂ¡ÃÂºÃÂ¿p 2,5h",
+      "message": "Providence concept tiÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿p 4h\nSÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a Studyguide comm health 2 30p\nStuhu Illustration tiÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿p 2,5h",
       "submittedAt": "2026-09-28T10:55:20.012Z",
       "tasks": [
         {
@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-09-28",
-      "message": "- SN LP Video #3: See What Students Are Saying (1.25h)\n- HÃ¡Â»Âp (0.25)",
+      "message": "- SN LP Video #3: See What Students Are Saying (1.25h)\n- HÃÂ¡ÃÂ»ÃÂp (0.25)",
       "submittedAt": "2026-09-28T10:56:36.170Z",
       "tasks": [
         {
@@ -31,7 +31,7 @@
     },
     {
       "date": "2026-09-28",
-      "message": "em sá»­a 39. Nursing Interventions for AcidâBase Imbalances háº¿t 45 phÃºt, 38. How AcidâBase Imbalances Affect Potassium háº¿t 30 phÃºt vÃ  há»p Äáº§u tuáº§n háº¿t 15 phÃºt áº¡",
+      "message": "em sÃ¡Â»Â­a 39. Nursing Interventions for AcidÃ¢ÂÂBase Imbalances hÃ¡ÂºÂ¿t 45 phÃÂºt, 38. How AcidÃ¢ÂÂBase Imbalances Affect Potassium hÃ¡ÂºÂ¿t 30 phÃÂºt vÃÂ  hÃ¡Â»Âp ÃÂÃ¡ÂºÂ§u tuÃ¡ÂºÂ§n hÃ¡ÂºÂ¿t 15 phÃÂºt Ã¡ÂºÂ¡",
       "submittedAt": "2026-09-28T10:56:44.313Z",
       "tasks": [
         {
@@ -44,14 +44,14 @@
           "progress": "100%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-1",
           "timeSpent": "2h",
-          "title": "SN Community Health: 5. Family study guide tiáº¿p 0.5"
+          "title": "SN Community Health: 5. Family study guide tiÃ¡ÂºÂ¿p 0.5"
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
     },
     {
       "date": "2026-09-28",
-      "message": "BD Video #13 em mới đọc qua script nghĩ nghĩ thôi chưa làm gì hết :D \n45p họp\ncòn lại là thời gian sửa UV các kiểu (D60 + D25)",
+      "message": "BD Video #13 em má»i Äá»c qua script nghÄ© nghÄ© thÃ´i chÆ°a lÃ m gÃ¬ háº¿t :D \n45p há»p\ncÃ²n láº¡i lÃ  thá»i gian sá»­a UV cÃ¡c kiá»u (D60 + D25)",
       "submittedAt": "2026-09-28T10:57:50.295Z",
       "tasks": [
         {
@@ -68,6 +68,20 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-09-28T15:42:30.030Z",
+      "date": "2026-09-28",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "Conation media tiếp",
+          "progress": "90%",
+          "timeSpent": "4h"
+        }
+      ],
+      "message": "4h nốt SN LP1"
     }
   ]
 }
