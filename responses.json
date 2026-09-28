@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-09-28",
-      "message": "Providence concept tiÃ¡ÂºÂ¿p 4h\nSÃ¡Â»Â­a Studyguide comm health 2 30p\nStuhu Illustration tiÃ¡ÂºÂ¿p 2,5h",
+      "message": "Providence concept tiÃÂ¡ÃÂºÃÂ¿p 4h\nSÃÂ¡ÃÂ»ÃÂ­a Studyguide comm health 2 30p\nStuhu Illustration tiÃÂ¡ÃÂºÃÂ¿p 2,5h",
       "submittedAt": "2026-09-28T10:55:20.012Z",
       "tasks": [
         {
@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-09-28",
-      "message": "- SN LP Video #3: See What Students Are Saying (1.25h)\n- Há»p (0.25)",
+      "message": "- SN LP Video #3: See What Students Are Saying (1.25h)\n- HÃ¡Â»Âp (0.25)",
       "submittedAt": "2026-09-28T10:56:36.170Z",
       "tasks": [
         {
@@ -31,7 +31,7 @@
     },
     {
       "date": "2026-09-28",
-      "message": "em sửa 39. Nursing Interventions for Acid–Base Imbalances hết 45 phút, 38. How Acid–Base Imbalances Affect Potassium hết 30 phút và họp đầu tuần hết 15 phút ạ",
+      "message": "em sá»­a 39. Nursing Interventions for AcidâBase Imbalances háº¿t 45 phÃºt, 38. How AcidâBase Imbalances Affect Potassium háº¿t 30 phÃºt vÃ  há»p Äáº§u tuáº§n háº¿t 15 phÃºt áº¡",
       "submittedAt": "2026-09-28T10:56:44.313Z",
       "tasks": [
         {
@@ -44,10 +44,30 @@
           "progress": "100%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-1",
           "timeSpent": "2h",
-          "title": "SN Community Health: 5. Family study guide tiếp 0.5"
+          "title": "SN Community Health: 5. Family study guide tiáº¿p 0.5"
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
+    },
+    {
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-09-28T10:57:50.295Z",
+      "date": "2026-09-28",
+      "tasks": [
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "title": "BD videos: Pre-Op Video #13 Bariatric Pre-Op Diet ~ 3 mins",
+          "progress": "10%",
+          "timeSpent": "1h"
+        },
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
+          "title": "SN Community Health: 4. Environmental Health study guide (0.5)",
+          "progress": "100%",
+          "timeSpent": "2h"
+        }
+      ],
+      "message": "BD Video #13 em mới đọc qua script nghĩ nghĩ thôi chưa làm gì hết :D \n45p họp\ncòn lại là thời gian sửa UV các kiểu (D60 + D25)"
     }
   ]
 }
