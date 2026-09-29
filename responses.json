@@ -30,18 +30,18 @@
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
     },
     {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-09-29T11:07:13.990Z",
       "date": "2026-09-29",
+      "message": "2h fix SN5. Family",
+      "submittedAt": "2026-09-29T11:07:13.990Z",
       "tasks": [
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "Conation media tiếp",
           "progress": "100%",
-          "timeSpent": "8h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "timeSpent": "8h",
+          "title": "Conation media tiếp"
         }
       ],
-      "message": "2h fix SN5. Family"
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     }
   ]
 }
