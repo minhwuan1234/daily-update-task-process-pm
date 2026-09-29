@@ -17,14 +17,14 @@
     },
     {
       "date": "2026-09-29",
-      "message": "em lÃÂ m RnD: Pre-Op Video #13 Flow test full hÃ¡ÂºÂ¿t 3.5h Ã¡ÂºÂ¡",
+      "message": "em lÃÂÃÂ m RnD: Pre-Op Video #13 Flow test full hÃÂ¡ÃÂºÃÂ¿t 3.5h ÃÂ¡ÃÂºÃÂ¡",
       "submittedAt": "2026-09-29T11:00:34.965Z",
       "tasks": [
         {
           "progress": "40%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
           "timeSpent": "4.5h",
-          "title": "SN Priority: 40. NCLEX AcidÃ¢ÂÂBase Questions Made Easy ~5 mins"
+          "title": "SN Priority: 40. NCLEX AcidÃÂ¢ÃÂÃÂBase Questions Made Easy ~5 mins"
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
@@ -38,14 +38,14 @@
           "progress": "100%",
           "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
           "timeSpent": "8h",
-          "title": "Conation media tiáº¿p"
+          "title": "Conation media tiÃ¡ÂºÂ¿p"
         }
       ],
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     },
     {
       "date": "2026-09-29",
-      "message": "SN LP Video #2: “New Way to Study” (3h)",
+      "message": "SN LP Video #2: âNew Way to Studyâ (3h)",
       "submittedAt": "2026-09-29T11:11:53.914Z",
       "tasks": [
         {
@@ -56,6 +56,20 @@
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-09-29T11:20:10.893Z",
+      "date": "2026-09-29",
+      "tasks": [
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "title": "BD videos: Pre-Op Video #13 Bariatric Pre-Op Diet ~ 3 mins",
+          "progress": "30%",
+          "timeSpent": "7h"
+        }
+      ],
+      "message": "1h sửa UV ạ"
     }
   ]
 }
