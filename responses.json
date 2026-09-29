@@ -17,14 +17,14 @@
     },
     {
       "date": "2026-09-29",
-      "message": "em lÃ m RnD: Pre-Op Video #13 Flow test full háº¿t 3.5h áº¡",
+      "message": "em lÃÂ m RnD: Pre-Op Video #13 Flow test full hÃ¡ÂºÂ¿t 3.5h Ã¡ÂºÂ¡",
       "submittedAt": "2026-09-29T11:00:34.965Z",
       "tasks": [
         {
           "progress": "40%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
           "timeSpent": "4.5h",
-          "title": "SN Priority: 40. NCLEX AcidâBase Questions Made Easy ~5 mins"
+          "title": "SN Priority: 40. NCLEX AcidÃ¢ÂÂBase Questions Made Easy ~5 mins"
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
@@ -38,10 +38,24 @@
           "progress": "100%",
           "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
           "timeSpent": "8h",
-          "title": "Conation media tiếp"
+          "title": "Conation media tiáº¿p"
         }
       ],
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-09-29T11:11:53.914Z",
+      "date": "2026-09-29",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "BD videos: HRRP #10 Your 7-days follow up",
+          "progress": "80%",
+          "timeSpent": "5h"
+        }
+      ],
+      "message": "SN LP Video #2: “New Way to Study” (3h)"
     }
   ]
 }
