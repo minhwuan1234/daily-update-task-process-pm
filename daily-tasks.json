@@ -1,24 +1,14 @@
 {
-  "date": "28-Sep",
-  "generatedAt": "2026-09-28T10:45:12.697Z",
+  "date": "29-Sep",
+  "generatedAt": "2026-09-29T10:45:09.474Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "28-Sep",
+          "date": "29-Sep",
           "dueDate": null,
           "task": "BD videos: Pre-Op Video #13 Bariatric Pre-Op Diet ~ 3 mins"
-        },
-        {
-          "date": "28-Sep",
-          "dueDate": "29/9",
-          "task": "SN Community Health: 4. Environmental Health study guide (0.5)"
-        },
-        {
-          "date": "28-Sep",
-          "dueDate": null,
-          "task": "UV Smart:\nD25 + D60 brochure fix"
         }
       ]
     },
@@ -26,9 +16,9 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "28-Sep",
+          "date": "29-Sep",
           "dueDate": null,
-          "task": "Studiohumanity: SB fix"
+          "task": "SN Community Health: 7. Home Visit ~14 mins\n16/10"
         }
       ]
     },
@@ -36,14 +26,9 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "28-Sep",
-          "dueDate": null,
-          "task": "RnD: Pre-Op Video #13 Flow test full"
-        },
-        {
-          "date": "28-Sep",
-          "dueDate": "29/9",
-          "task": "SN Community Health: 5. Family study guide tiếp 0.5"
+          "date": "29-Sep",
+          "dueDate": "9/10",
+          "task": "SN Priority: 40. NCLEX Acid–Base Questions Made Easy ~5 mins"
         }
       ]
     },
@@ -51,14 +36,9 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "28-Sep",
-          "dueDate": null,
-          "task": "RnD format: SFPA Video 2 tiếp"
-        },
-        {
-          "date": "28-Sep",
-          "dueDate": null,
-          "task": "SN Community Health: 4. tiếp"
+          "date": "29-Sep",
+          "dueDate": "9/10",
+          "task": "SN Priority: 38. How Acid–Base Imbalances Affect Potassium ~5mins"
         }
       ]
     },
@@ -66,7 +46,7 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "28-Sep",
+          "date": "29-Sep",
           "dueDate": null,
           "task": "BD videos: HRRP #10 Your 7-days follow up"
         }
@@ -76,7 +56,7 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "28-Sep",
+          "date": "29-Sep",
           "dueDate": "29/9",
           "task": "Conation media tiếp"
         }
@@ -84,5 +64,5 @@
     }
   ],
   "totalMembers": 6,
-  "totalTasks": 10
+  "totalTasks": 6
 }
