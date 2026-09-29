@@ -1,107 +1,19 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "responses": [
     {
-      "date": "2026-09-28",
-      "message": "Providence concept tiÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ¿p 4h\nSÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ»ÃÂÃÂÃÂÃÂ­a Studyguide comm health 2 30p\nStuhu Illustration tiÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ¿p 2,5h",
-      "submittedAt": "2026-09-28T10:55:20.012Z",
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-09-29T10:48:22.735Z",
+      "date": "2026-09-29",
       "tasks": [
         {
-          "progress": "100%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "0.5h",
-          "title": "Studiohumanity: SB fix"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-09-28",
-      "message": "- SN LP Video #3: See What Students Are Saying (1.25h)\n- HÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂp (0.25)",
-      "submittedAt": "2026-09-28T10:56:36.170Z",
-      "tasks": [
-        {
+          "title": "SN Community Health: 7. Home Visit ~14 mins\n16/10",
           "progress": "30%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "6.5h",
-          "title": "BD videos: HRRP #10 Your 7-days follow up"
+          "timeSpent": "8h"
         }
       ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-09-28",
-      "message": "em sÃÂ¡ÃÂ»ÃÂ­a 39. Nursing Interventions for AcidÃÂ¢ÃÂÃÂBase Imbalances hÃÂ¡ÃÂºÃÂ¿t 45 phÃÂÃÂºt, 38. How AcidÃÂ¢ÃÂÃÂBase Imbalances Affect Potassium hÃÂ¡ÃÂºÃÂ¿t 30 phÃÂÃÂºt vÃÂÃÂ  hÃÂ¡ÃÂ»ÃÂp ÃÂÃÂÃÂ¡ÃÂºÃÂ§u tuÃÂ¡ÃÂºÃÂ§n hÃÂ¡ÃÂºÃÂ¿t 15 phÃÂÃÂºt ÃÂ¡ÃÂºÃÂ¡",
-      "submittedAt": "2026-09-28T10:56:44.313Z",
-      "tasks": [
-        {
-          "progress": "80%",
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "4.5h",
-          "title": "RnD: Pre-Op Video #13 Flow test full"
-        },
-        {
-          "progress": "100%",
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-1",
-          "timeSpent": "2h",
-          "title": "SN Community Health: 5. Family study guide tiÃÂ¡ÃÂºÃÂ¿p 0.5"
-        }
-      ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
-    },
-    {
-      "date": "2026-09-28",
-      "message": "BD Video #13 em mÃ¡Â»Âi ÃÂÃ¡Â»Âc qua script nghÃÂ© nghÃÂ© thÃÂ´i chÃÂ°a lÃÂ m gÃÂ¬ hÃ¡ÂºÂ¿t :D \n45p hÃ¡Â»Âp\ncÃÂ²n lÃ¡ÂºÂ¡i lÃÂ  thÃ¡Â»Âi gian sÃ¡Â»Â­a UV cÃÂ¡c kiÃ¡Â»Âu (D60 + D25)",
-      "submittedAt": "2026-09-28T10:57:50.295Z",
-      "tasks": [
-        {
-          "progress": "10%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "1h",
-          "title": "BD videos: Pre-Op Video #13 Bariatric Pre-Op Diet ~ 3 mins"
-        },
-        {
-          "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "timeSpent": "2h",
-          "title": "SN Community Health: 4. Environmental Health study guide (0.5)"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-09-28",
-      "message": "4h ná»t SN LP1",
-      "submittedAt": "2026-09-28T15:42:30.030Z",
-      "tasks": [
-        {
-          "progress": "90%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "4h",
-          "title": "Conation media tiáº¿p"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
-    },
-    {
-      "date": "2026-09-28",
-      "message": "",
-      "submittedAt": "2026-09-28T16:30:38.406Z",
-      "tasks": [
-        {
-          "progress": "20%",
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "4h",
-          "title": "RnD format: SFPA Video 2 tiếp"
-        },
-        {
-          "progress": "100%",
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
-          "timeSpent": "4h",
-          "title": "SN Community Health: 4. tiếp"
-        }
-      ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
+      "message": ""
     }
   ]
 }
