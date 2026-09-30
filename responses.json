@@ -3,21 +3,21 @@
   "responses": [
     {
       "date": "2026-09-30",
-      "message": "em lÃÂ m tiÃ¡ÂºÂ¿p 40. NCLEX AcidÃ¢ÂÂBase Questions Made Easy (100%) hÃ¡ÂºÂ¿t 5.5h vÃÂ  em lÃÂ m 41. How to Remember Antibiotic Drug (15%) hÃ¡ÂºÂ¿t 2.5h Ã¡ÂºÂ¡",
+      "message": "em lÃÂÃÂ m tiÃÂ¡ÃÂºÃÂ¿p 40. NCLEX AcidÃÂ¢ÃÂÃÂBase Questions Made Easy (100%) hÃÂ¡ÃÂºÃÂ¿t 5.5h vÃÂÃÂ  em lÃÂÃÂ m 41. How to Remember Antibiotic Drug (15%) hÃÂ¡ÃÂºÃÂ¿t 2.5h ÃÂ¡ÃÂºÃÂ¡",
       "submittedAt": "2026-09-30T10:47:58.499Z",
       "tasks": [
         {
           "progress": "100%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "Ã¢ÂÂ",
-          "title": "SN Outdated Content 11 tiÃ¡ÂºÂ¿p 0.5"
+          "timeSpent": "ÃÂ¢ÃÂÃÂ",
+          "title": "SN Outdated Content 11 tiÃÂ¡ÃÂºÃÂ¿p 0.5"
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
     },
     {
       "date": "2026-09-30",
-      "message": "sá»­a AMD 7-5 30p",
+      "message": "sÃ¡Â»Â­a AMD 7-5 30p",
       "submittedAt": "2026-09-30T10:49:18.603Z",
       "tasks": [
         {
@@ -29,15 +29,15 @@
         {
           "progress": "0%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
-          "timeSpent": "â",
-          "title": "Studiohumanity Illus tiáº¿p 0.5?"
+          "timeSpent": "Ã¢ÂÂ",
+          "title": "Studiohumanity Illus tiÃ¡ÂºÂ¿p 0.5?"
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     },
     {
       "date": "2026-09-30",
-      "message": "cuộc đời happy khi làm UV ạ",
+      "message": "cuá»c Äá»i happy khi lÃ m UV áº¡",
       "submittedAt": "2026-09-30T10:53:10.303Z",
       "tasks": [
         {
@@ -50,10 +50,30 @@
           "progress": "100%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
           "timeSpent": "7h",
-          "title": "UV Smart: -- GHI NHẬN THÁNG 10\nLightbox graphic 200x225 D45 device 2h\nResize new D60 USA brochure\nD60 USA + D60 EMEA + D45 one pager"
+          "title": "UV Smart: -- GHI NHáº¬N THÃNG 10\nLightbox graphic 200x225 D45 device 2h\nResize new D60 USA brochure\nD60 USA + D60 EMEA + D45 one pager"
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-09-30T11:04:01.874Z",
+      "date": "2026-09-30",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "BD videos: HRRP #10 Your 7-days follow up",
+          "progress": "90%",
+          "timeSpent": "4.5h"
+        },
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
+          "title": "SN LP Video #2: “New Way to Study” -  35s (0.5)",
+          "progress": "100%",
+          "timeSpent": "3.5h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
