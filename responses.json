@@ -3,21 +3,21 @@
   "responses": [
     {
       "date": "2026-09-30",
-      "message": "em lÃÂÃÂ m tiÃÂ¡ÃÂºÃÂ¿p 40. NCLEX AcidÃÂ¢ÃÂÃÂBase Questions Made Easy (100%) hÃÂ¡ÃÂºÃÂ¿t 5.5h vÃÂÃÂ  em lÃÂÃÂ m 41. How to Remember Antibiotic Drug (15%) hÃÂ¡ÃÂºÃÂ¿t 2.5h ÃÂ¡ÃÂºÃÂ¡",
+      "message": "em lÃÂÃÂÃÂÃÂ m tiÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿p 40. NCLEX AcidÃÂÃÂ¢ÃÂÃÂÃÂÃÂBase Questions Made Easy (100%) hÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿t 5.5h vÃÂÃÂÃÂÃÂ  em lÃÂÃÂÃÂÃÂ m 41. How to Remember Antibiotic Drug (15%) hÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿t 2.5h ÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¡",
       "submittedAt": "2026-09-30T10:47:58.499Z",
       "tasks": [
         {
           "progress": "100%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "ÃÂ¢ÃÂÃÂ",
-          "title": "SN Outdated Content 11 tiÃÂ¡ÃÂºÃÂ¿p 0.5"
+          "timeSpent": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ",
+          "title": "SN Outdated Content 11 tiÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿p 0.5"
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
     },
     {
       "date": "2026-09-30",
-      "message": "sÃ¡Â»Â­a AMD 7-5 30p",
+      "message": "sÃÂ¡ÃÂ»ÃÂ­a AMD 7-5 30p",
       "submittedAt": "2026-09-30T10:49:18.603Z",
       "tasks": [
         {
@@ -29,15 +29,15 @@
         {
           "progress": "0%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
-          "timeSpent": "Ã¢ÂÂ",
-          "title": "Studiohumanity Illus tiÃ¡ÂºÂ¿p 0.5?"
+          "timeSpent": "ÃÂ¢ÃÂÃÂ",
+          "title": "Studiohumanity Illus tiÃÂ¡ÃÂºÃÂ¿p 0.5?"
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     },
     {
       "date": "2026-09-30",
-      "message": "cuá»c Äá»i happy khi lÃ m UV áº¡",
+      "message": "cuÃ¡Â»Âc ÃÂÃ¡Â»Âi happy khi lÃÂ m UV Ã¡ÂºÂ¡",
       "submittedAt": "2026-09-30T10:53:10.303Z",
       "tasks": [
         {
@@ -50,7 +50,7 @@
           "progress": "100%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
           "timeSpent": "7h",
-          "title": "UV Smart: -- GHI NHáº¬N THÃNG 10\nLightbox graphic 200x225 D45 device 2h\nResize new D60 USA brochure\nD60 USA + D60 EMEA + D45 one pager"
+          "title": "UV Smart: -- GHI NHÃ¡ÂºÂ¬N THÃÂNG 10\nLightbox graphic 200x225 D45 device 2h\nResize new D60 USA brochure\nD60 USA + D60 EMEA + D45 one pager"
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
@@ -70,10 +70,24 @@
           "progress": "100%",
           "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
           "timeSpent": "3.5h",
-          "title": "SN LP Video #2: “New Way to Study” -  35s (0.5)"
+          "title": "SN LP Video #2: âNew Way to Studyâ -  35s (0.5)"
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-09-30T11:31:45.941Z",
+      "date": "2026-09-30",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "OKR: Timing/Pacing course",
+          "progress": "80%",
+          "timeSpent": "0.5h"
+        }
+      ],
+      "message": "6,5h SN 39, 0,25h fĩ SN 5. Family (khach), 0,75h SN LP1"
     }
   ]
 }
