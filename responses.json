@@ -2,18 +2,18 @@
   "date": "2026-09-30",
   "responses": [
     {
-      "userId": "ou_e0897ef23f084625d708cd50c16468db",
-      "submittedAt": "2026-09-30T10:47:58.499Z",
       "date": "2026-09-30",
+      "message": "em làm tiếp 40. NCLEX Acid–Base Questions Made Easy (100%) hết 5.5h và em làm 41. How to Remember Antibiotic Drug (15%) hết 2.5h ạ",
+      "submittedAt": "2026-09-30T10:47:58.499Z",
       "tasks": [
         {
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "title": "SN Outdated Content 11 tiếp 0.5",
           "progress": "100%",
-          "timeSpent": "—"
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
+          "timeSpent": "—",
+          "title": "SN Outdated Content 11 tiếp 0.5"
         }
       ],
-      "message": "em làm tiếp 40. NCLEX Acid–Base Questions Made Easy (100%) hết 5.5h và em làm 41. How to Remember Antibiotic Drug (15%) hết 2.5h ạ"
+      "userId": "ou_e0897ef23f084625d708cd50c16468db"
     }
   ]
 }
