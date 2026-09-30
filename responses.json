@@ -76,18 +76,18 @@
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     },
     {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-09-30T11:31:45.941Z",
       "date": "2026-09-30",
+      "message": "6,5h SN 39, 0,25h fĩ SN 5. Family (khach), 0,75h SN LP1",
+      "submittedAt": "2026-09-30T11:31:45.941Z",
       "tasks": [
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "OKR: Timing/Pacing course",
           "progress": "80%",
-          "timeSpent": "0.5h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "timeSpent": "0.5h",
+          "title": "OKR: Timing/Pacing course"
         }
       ],
-      "message": "6,5h SN 39, 0,25h fĩ SN 5. Family (khach), 0,75h SN LP1"
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     }
   ]
 }
