@@ -56,24 +56,24 @@
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     },
     {
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
-      "submittedAt": "2026-09-30T11:04:01.874Z",
       "date": "2026-09-30",
+      "message": "",
+      "submittedAt": "2026-09-30T11:04:01.874Z",
       "tasks": [
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "title": "BD videos: HRRP #10 Your 7-days follow up",
           "progress": "90%",
-          "timeSpent": "4.5h"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "timeSpent": "4.5h",
+          "title": "BD videos: HRRP #10 Your 7-days follow up"
         },
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
-          "title": "SN LP Video #2: “New Way to Study” -  35s (0.5)",
           "progress": "100%",
-          "timeSpent": "3.5h"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
+          "timeSpent": "3.5h",
+          "title": "SN LP Video #2: “New Way to Study” -  35s (0.5)"
         }
       ],
-      "message": ""
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     }
   ]
 }
