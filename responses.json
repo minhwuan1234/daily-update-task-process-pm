@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-10-01",
-      "message": "em họp tổng kết 2 tháng thử việc hết 30 phút ạ",
+      "message": "em há»p tá»ng káº¿t 2 thÃ¡ng thá»­ viá»c háº¿t 30 phÃºt áº¡",
       "submittedAt": "2026-10-01T10:53:39.484Z",
       "tasks": [
         {
@@ -14,6 +14,20 @@
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
+    },
+    {
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-10-01T11:19:56.078Z",
+      "date": "2026-10-01",
+      "tasks": [
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "title": "1h",
+          "progress": "60%",
+          "timeSpent": "5.5h"
+        }
+      ],
+      "message": "khoảng hơn 2h sửa UV các kiểu ạ"
     }
   ]
 }
