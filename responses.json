@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-10-01",
-      "message": "em hÃ¡Â»Âp tÃ¡Â»Âng kÃ¡ÂºÂ¿t 2 thÃÂ¡ng thÃ¡Â»Â­ viÃ¡Â»Âc hÃ¡ÂºÂ¿t 30 phÃÂºt Ã¡ÂºÂ¡",
+      "message": "em hÃÂ¡ÃÂ»ÃÂp tÃÂ¡ÃÂ»ÃÂng kÃÂ¡ÃÂºÃÂ¿t 2 thÃÂÃÂ¡ng thÃÂ¡ÃÂ»ÃÂ­ viÃÂ¡ÃÂ»ÃÂc hÃÂ¡ÃÂºÃÂ¿t 30 phÃÂÃÂºt ÃÂ¡ÃÂºÃÂ¡",
       "submittedAt": "2026-10-01T10:53:39.484Z",
       "tasks": [
         {
@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-10-01",
-      "message": "khoáº£ng hÆ¡n 2h sá»­a UV cÃ¡c kiá»u áº¡",
+      "message": "khoÃ¡ÂºÂ£ng hÃÂ¡n 2h sÃ¡Â»Â­a UV cÃÂ¡c kiÃ¡Â»Âu Ã¡ÂºÂ¡",
       "submittedAt": "2026-10-01T11:19:56.078Z",
       "tasks": [
         {
@@ -38,10 +38,30 @@
           "progress": "100%",
           "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
           "timeSpent": "7.5h",
-          "title": "SN Priority: 39. Nursing Interventions for Acid–Base Imbalances ~7 mins  0.75"
+          "title": "SN Priority: 39. Nursing Interventions for AcidâBase Imbalances ~7 mins  0.75"
         }
       ],
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-10-01T15:46:58.849Z",
+      "date": "2026-10-01",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "OKR: Personal project: Build lộ trình tiếp (0.5)",
+          "progress": "100%",
+          "timeSpent": "—"
+        },
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
+          "title": "OKR: Personal project: Improve anim quality",
+          "progress": "70%",
+          "timeSpent": "3h"
+        }
+      ],
+      "message": "1. BD videos: HRRP #10 Your 7-days follow up (5h)"
     }
   ]
 }
