@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-10-01",
-      "message": "em há»p tá»ng káº¿t 2 thÃ¡ng thá»­ viá»c háº¿t 30 phÃºt áº¡",
+      "message": "em hÃ¡Â»Âp tÃ¡Â»Âng kÃ¡ÂºÂ¿t 2 thÃÂ¡ng thÃ¡Â»Â­ viÃ¡Â»Âc hÃ¡ÂºÂ¿t 30 phÃÂºt Ã¡ÂºÂ¡",
       "submittedAt": "2026-10-01T10:53:39.484Z",
       "tasks": [
         {
@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-10-01",
-      "message": "khoảng hơn 2h sửa UV các kiểu ạ",
+      "message": "khoáº£ng hÆ¡n 2h sá»­a UV cÃ¡c kiá»u áº¡",
       "submittedAt": "2026-10-01T11:19:56.078Z",
       "tasks": [
         {
@@ -28,6 +28,20 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-10-01T11:31:13.572Z",
+      "date": "2026-10-01",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "SN Priority: 39. Nursing Interventions for Acid–Base Imbalances ~7 mins  0.75",
+          "progress": "100%",
+          "timeSpent": "7.5h"
+        }
+      ],
+      "message": "0,5h fix Nordex (khach)"
     }
   ]
 }
