@@ -2,18 +2,18 @@
   "date": "2026-10-01",
   "responses": [
     {
-      "userId": "ou_e0897ef23f084625d708cd50c16468db",
-      "submittedAt": "2026-10-01T10:53:39.484Z",
       "date": "2026-10-01",
+      "message": "em họp tổng kết 2 tháng thử việc hết 30 phút ạ",
+      "submittedAt": "2026-10-01T10:53:39.484Z",
       "tasks": [
         {
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "title": "SN Priority: 41. How to Remember Antibiotic Drug Classes ~7 mins",
           "progress": "50%",
-          "timeSpent": "7.5h"
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
+          "timeSpent": "7.5h",
+          "title": "SN Priority: 41. How to Remember Antibiotic Drug Classes ~7 mins"
         }
       ],
-      "message": "em họp tổng kết 2 tháng thử việc hết 30 phút ạ"
+      "userId": "ou_e0897ef23f084625d708cd50c16468db"
     }
   ]
 }
