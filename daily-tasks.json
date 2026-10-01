@@ -1,19 +1,14 @@
 {
-  "date": "30-Sep",
-  "generatedAt": "2026-09-30T10:45:10.079Z",
+  "date": "1-Oct",
+  "generatedAt": "2026-10-01T10:50:08.591Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "30-Sep",
+          "date": "1-Oct",
           "dueDate": null,
-          "task": "BD videos: Pre-Op Video #13 Bariatric Pre-Op Diet ~ 3 mins"
-        },
-        {
-          "date": "30-Sep",
-          "dueDate": null,
-          "task": "UV Smart: -- GHI NHẬN THÁNG 10\nLightbox graphic 200x225 D45 device 2h\nResize new D60 USA brochure\nD60 USA + D60 EMEA + D45 one pager"
+          "task": "1h"
         }
       ]
     },
@@ -21,14 +16,9 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "30-Sep",
+          "date": "1-Oct",
           "dueDate": null,
           "task": "SN Community Health: 7. Home Visit ~14 mins\n16/10"
-        },
-        {
-          "date": "30-Sep",
-          "dueDate": "2/10",
-          "task": "Studiohumanity Illus tiếp 0.5?"
         }
       ]
     },
@@ -36,9 +26,9 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "30-Sep",
-          "dueDate": null,
-          "task": "SN Outdated Content 11 tiếp 0.5"
+          "date": "1-Oct",
+          "dueDate": "9/10",
+          "task": "SN Priority: 41. How to Remember Antibiotic Drug Classes ~7 mins"
         }
       ]
     },
@@ -46,9 +36,9 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "30-Sep",
-          "dueDate": "9/10",
-          "task": "SN Priority: 38. How Acid–Base Imbalances Affect Potassium ~5mins"
+          "date": "1-Oct",
+          "dueDate": null,
+          "task": "RnD format: SFPA Video 2 tiếp"
         }
       ]
     },
@@ -56,14 +46,14 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "30-Sep",
+          "date": "1-Oct",
           "dueDate": null,
-          "task": "BD videos: HRRP #10 Your 7-days follow up"
+          "task": "OKR: Personal project: Build lộ trình tiếp (0.5)"
         },
         {
-          "date": "30-Sep",
-          "dueDate": "30/9",
-          "task": "SN LP Video #2: “New Way to Study” -  35s (0.5)"
+          "date": "1-Oct",
+          "dueDate": null,
+          "task": "OKR: Personal project: Improve anim quality"
         }
       ]
     },
@@ -71,13 +61,13 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "30-Sep",
-          "dueDate": null,
-          "task": "OKR: Timing/Pacing course"
+          "date": "1-Oct",
+          "dueDate": "9/10",
+          "task": "SN Priority: 39. Nursing Interventions for Acid–Base Imbalances ~7 mins  0.75"
         }
       ]
     }
   ],
   "totalMembers": 6,
-  "totalTasks": 9
+  "totalTasks": 7
 }
