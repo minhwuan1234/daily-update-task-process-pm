@@ -1,93 +1,19 @@
 {
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "responses": [
     {
-      "date": "2026-09-30",
-      "message": "em lÃÂÃÂÃÂÃÂ m tiÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿p 40. NCLEX AcidÃÂÃÂ¢ÃÂÃÂÃÂÃÂBase Questions Made Easy (100%) hÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿t 5.5h vÃÂÃÂÃÂÃÂ  em lÃÂÃÂÃÂÃÂ m 41. How to Remember Antibiotic Drug (15%) hÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿t 2.5h ÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¡",
-      "submittedAt": "2026-09-30T10:47:58.499Z",
+      "userId": "ou_e0897ef23f084625d708cd50c16468db",
+      "submittedAt": "2026-10-01T10:53:39.484Z",
+      "date": "2026-10-01",
       "tasks": [
         {
-          "progress": "100%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ",
-          "title": "SN Outdated Content 11 tiÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿p 0.5"
-        }
-      ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
-    },
-    {
-      "date": "2026-09-30",
-      "message": "sÃÂ¡ÃÂ»ÃÂ­a AMD 7-5 30p",
-      "submittedAt": "2026-09-30T10:49:18.603Z",
-      "tasks": [
-        {
+          "title": "SN Priority: 41. How to Remember Antibiotic Drug Classes ~7 mins",
           "progress": "50%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "7.5h",
-          "title": "SN Community Health: 7. Home Visit ~14 mins\n16/10"
-        },
-        {
-          "progress": "0%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
-          "timeSpent": "ÃÂ¢ÃÂÃÂ",
-          "title": "Studiohumanity Illus tiÃÂ¡ÃÂºÃÂ¿p 0.5?"
+          "timeSpent": "7.5h"
         }
       ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-09-30",
-      "message": "cuÃ¡Â»Âc ÃÂÃ¡Â»Âi happy khi lÃÂ m UV Ã¡ÂºÂ¡",
-      "submittedAt": "2026-09-30T10:53:10.303Z",
-      "tasks": [
-        {
-          "progress": "50%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "1h",
-          "title": "BD videos: Pre-Op Video #13 Bariatric Pre-Op Diet ~ 3 mins"
-        },
-        {
-          "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "timeSpent": "7h",
-          "title": "UV Smart: -- GHI NHÃ¡ÂºÂ¬N THÃÂNG 10\nLightbox graphic 200x225 D45 device 2h\nResize new D60 USA brochure\nD60 USA + D60 EMEA + D45 one pager"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-09-30",
-      "message": "",
-      "submittedAt": "2026-09-30T11:04:01.874Z",
-      "tasks": [
-        {
-          "progress": "90%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "4.5h",
-          "title": "BD videos: HRRP #10 Your 7-days follow up"
-        },
-        {
-          "progress": "100%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
-          "timeSpent": "3.5h",
-          "title": "SN LP Video #2: âNew Way to Studyâ -  35s (0.5)"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-09-30",
-      "message": "6,5h SN 39, 0,25h fĩ SN 5. Family (khach), 0,75h SN LP1",
-      "submittedAt": "2026-09-30T11:31:45.941Z",
-      "tasks": [
-        {
-          "progress": "80%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "0.5h",
-          "title": "OKR: Timing/Pacing course"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": "em họp tổng kết 2 tháng thử việc hết 30 phút ạ"
     }
   ]
 }
