@@ -2,18 +2,18 @@
   "date": "2026-10-02",
   "responses": [
     {
-      "userId": "ou_e0897ef23f084625d708cd50c16468db",
-      "submittedAt": "2026-10-02T11:35:17.463Z",
       "date": "2026-10-02",
+      "message": "em sửa nội bộ 40. NCLEX Acid–Base Questions Made Easy hết 1.5h, sửa nội bộ 6. Rural & Urban Health hết 1h ạ",
+      "submittedAt": "2026-10-02T11:35:17.463Z",
       "tasks": [
         {
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "title": "SN Priority: 41. How to Remember Antibiotic Drug Classes ~7 mins",
           "progress": "80%",
-          "timeSpent": "5.5h"
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
+          "timeSpent": "5.5h",
+          "title": "SN Priority: 41. How to Remember Antibiotic Drug Classes ~7 mins"
         }
       ],
-      "message": "em sửa nội bộ 40. NCLEX Acid–Base Questions Made Easy hết 1.5h, sửa nội bộ 6. Rural & Urban Health hết 1h ạ"
+      "userId": "ou_e0897ef23f084625d708cd50c16468db"
     }
   ]
 }
