@@ -1,33 +1,19 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-05",
   "responses": [
     {
-      "date": "2026-10-02",
-      "message": "em sá»­a ná»i bá» 40. NCLEX AcidâBase Questions Made Easy háº¿t 1.5h, sá»­a ná»i bá» 6. Rural & Urban Health háº¿t 1h áº¡",
-      "submittedAt": "2026-10-02T11:35:17.463Z",
+      "userId": "ou_e0897ef23f084625d708cd50c16468db",
+      "submittedAt": "2026-10-05T11:08:55.910Z",
+      "date": "2026-10-05",
       "tasks": [
         {
-          "progress": "80%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "5.5h",
-          "title": "SN Priority: 41. How to Remember Antibiotic Drug Classes ~7 mins"
+          "title": "SN Priority: 42. Antibiotics You Should Never Mix Up ~7 mins",
+          "progress": "0%",
+          "timeSpent": "—"
         }
       ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
-    },
-    {
-      "date": "2026-10-02",
-      "message": "",
-      "submittedAt": "2026-10-02T13:44:03.304Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "4h",
-          "title": "OKR: Timing/Pacing course (0.5)"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": "Em làm nốt  41. How to Remember Antibiotic Drug Classes hết 3h, sửa 40. NCLEX Acid–Base Questions Made Easy hết 15 phút, họp đầu tuần 15 phút và sửa nội bộ 6. Rural & Urban Health hết 4.5h ạ"
     }
   ]
 }
