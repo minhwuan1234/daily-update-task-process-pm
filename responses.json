@@ -3,13 +3,13 @@
   "responses": [
     {
       "date": "2026-10-05",
-      "message": "Em lÃÂÃÂ m nÃÂ¡ÃÂ»ÃÂt  41. How to Remember Antibiotic Drug Classes hÃÂ¡ÃÂºÃÂ¿t 3h, sÃÂ¡ÃÂ»ÃÂ­a 40. NCLEX AcidÃÂ¢ÃÂÃÂBase Questions Made Easy hÃÂ¡ÃÂºÃÂ¿t 15 phÃÂÃÂºt, hÃÂ¡ÃÂ»ÃÂp ÃÂÃÂÃÂ¡ÃÂºÃÂ§u tuÃÂ¡ÃÂºÃÂ§n 15 phÃÂÃÂºt vÃÂÃÂ  sÃÂ¡ÃÂ»ÃÂ­a nÃÂ¡ÃÂ»ÃÂi bÃÂ¡ÃÂ»ÃÂ 6. Rural & Urban Health hÃÂ¡ÃÂºÃÂ¿t 4.5h ÃÂ¡ÃÂºÃÂ¡",
+      "message": "Em lÃÂÃÂÃÂÃÂ m nÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂt  41. How to Remember Antibiotic Drug Classes hÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿t 3h, sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a 40. NCLEX AcidÃÂÃÂ¢ÃÂÃÂÃÂÃÂBase Questions Made Easy hÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿t 15 phÃÂÃÂÃÂÃÂºt, hÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂp ÃÂÃÂÃÂÃÂÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ§u tuÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ§n 15 phÃÂÃÂÃÂÃÂºt vÃÂÃÂÃÂÃÂ  sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a nÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂi bÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ 6. Rural & Urban Health hÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿t 4.5h ÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¡",
       "submittedAt": "2026-10-05T11:08:55.910Z",
       "tasks": [
         {
           "progress": "0%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "ÃÂ¢ÃÂÃÂ",
+          "timeSpent": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ",
           "title": "SN Priority: 42. Antibiotics You Should Never Mix Up ~7 mins"
         }
       ],
@@ -30,7 +30,7 @@
           "progress": "80%",
           "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
           "timeSpent": "3.5h",
-          "title": "OKR tiÃ¡ÂºÂ¿p"
+          "title": "OKR tiÃÂ¡ÃÂºÃÂ¿p"
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
@@ -44,21 +44,21 @@
           "progress": "90%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
           "timeSpent": "8h",
-          "title": "RnD format: SFPA Video 2 tiáº¿p"
+          "title": "RnD format: SFPA Video 2 tiÃ¡ÂºÂ¿p"
         }
       ],
       "userId": "ou_e273fec35061a42660190f8c70f19882"
     },
     {
       "date": "2026-10-05",
-      "message": "1h: bàn sale request illus sách unicef x studiohumanity\n45p họp\n3h sửa BD #13\n30p discuss với NLinh về brief social plan",
+      "message": "1h: bÃ n sale request illus sÃ¡ch unicef x studiohumanity\n45p há»p\n3h sá»­a BD #13\n30p discuss vá»i NLinh vá» brief social plan",
       "submittedAt": "2026-10-05T11:31:02.973Z",
       "tasks": [
         {
           "progress": "100%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
           "timeSpent": "3h",
-          "title": "BD videos #13 tiếp 0.5"
+          "title": "BD videos #13 tiáº¿p 0.5"
         },
         {
           "progress": "50%",
@@ -68,6 +68,20 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-10-05T11:56:38.898Z",
+      "date": "2026-10-05",
+      "tasks": [
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "Studiohumanity Illus tiếp",
+          "progress": "100%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
