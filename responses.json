@@ -70,18 +70,18 @@
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     },
     {
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-10-05T11:56:38.898Z",
       "date": "2026-10-05",
+      "message": "",
+      "submittedAt": "2026-10-05T11:56:38.898Z",
       "tasks": [
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "Studiohumanity Illus tiếp",
           "progress": "100%",
-          "timeSpent": "8h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "timeSpent": "8h",
+          "title": "Studiohumanity Illus tiếp"
         }
       ],
-      "message": ""
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     }
   ]
 }
