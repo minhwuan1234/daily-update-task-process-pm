@@ -1,19 +1,19 @@
 {
-  "date": "2-Oct",
-  "generatedAt": "2026-10-02T11:30:18.995Z",
+  "date": "5-Oct",
+  "generatedAt": "2026-10-05T10:45:07.820Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "2-Oct",
+          "date": "5-Oct",
           "dueDate": null,
-          "task": "BD videos: Pre-Op Video #13 Bariatric Pre-Op Diet ~ 3 mins"
+          "task": "BD videos #13 tiếp 0.5"
         },
         {
-          "date": "2-Oct",
+          "date": "5-Oct",
           "dueDate": null,
-          "task": "UV Smart: D25 one-pager (2h)"
+          "task": "Social post 3-4-6-7 (1)"
         }
       ]
     },
@@ -21,9 +21,9 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "2-Oct",
-          "dueDate": null,
-          "task": "SN Community Health: 7. Home Visit ~14 mins\n16/10"
+          "date": "5-Oct",
+          "dueDate": "5/10",
+          "task": "Studiohumanity Illus tiếp"
         }
       ]
     },
@@ -31,9 +31,9 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "2-Oct",
-          "dueDate": "9/10",
-          "task": "SN Priority: 41. How to Remember Antibiotic Drug Classes ~7 mins"
+          "date": "5-Oct",
+          "dueDate": "16/10",
+          "task": "SN Priority: 42. Antibiotics You Should Never Mix Up ~7 mins"
         }
       ]
     },
@@ -41,7 +41,7 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "2-Oct",
+          "date": "5-Oct",
           "dueDate": null,
           "task": "RnD format: SFPA Video 2 tiếp"
         }
@@ -51,9 +51,14 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "2-Oct",
+          "date": "5-Oct",
           "dueDate": null,
-          "task": "OKR: Personal project: Improve anim quality"
+          "task": "BD videos: Pre-Op Video #13 Bariatric Pre-Op Diet"
+        },
+        {
+          "date": "5-Oct",
+          "dueDate": null,
+          "task": "OKR tiếp"
         }
       ]
     },
@@ -61,13 +66,18 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "2-Oct",
-          "dueDate": null,
-          "task": "OKR: Timing/Pacing course (0.5)"
+          "date": "5-Oct",
+          "dueDate": "29/9",
+          "task": "AMD: Chapter 7-5 - 3.5 mins"
+        },
+        {
+          "date": "5-Oct",
+          "dueDate": "6/10",
+          "task": "Conation media: anim fixing #1"
         }
       ]
     }
   ],
   "totalMembers": 6,
-  "totalTasks": 7
+  "totalTasks": 9
 }
