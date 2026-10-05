@@ -50,24 +50,24 @@
       "userId": "ou_e273fec35061a42660190f8c70f19882"
     },
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-10-05T11:31:02.973Z",
       "date": "2026-10-05",
+      "message": "1h: bàn sale request illus sách unicef x studiohumanity\n45p họp\n3h sửa BD #13\n30p discuss với NLinh về brief social plan",
+      "submittedAt": "2026-10-05T11:31:02.973Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "BD videos #13 tiếp 0.5",
           "progress": "100%",
-          "timeSpent": "3h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "3h",
+          "title": "BD videos #13 tiếp 0.5"
         },
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "title": "Social post 3-4-6-7 (1)",
           "progress": "50%",
-          "timeSpent": "2.5h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
+          "timeSpent": "2.5h",
+          "title": "Social post 3-4-6-7 (1)"
         }
       ],
-      "message": "1h: bàn sale request illus sách unicef x studiohumanity\n45p họp\n3h sửa BD #13\n30p discuss với NLinh về brief social plan"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }
