@@ -3,13 +3,13 @@
   "responses": [
     {
       "date": "2026-10-05",
-      "message": "Em lÃ m ná»t  41. How to Remember Antibiotic Drug Classes háº¿t 3h, sá»­a 40. NCLEX AcidâBase Questions Made Easy háº¿t 15 phÃºt, há»p Äáº§u tuáº§n 15 phÃºt vÃ  sá»­a ná»i bá» 6. Rural & Urban Health háº¿t 4.5h áº¡",
+      "message": "Em lÃÂ m nÃ¡Â»Ât  41. How to Remember Antibiotic Drug Classes hÃ¡ÂºÂ¿t 3h, sÃ¡Â»Â­a 40. NCLEX AcidÃ¢ÂÂBase Questions Made Easy hÃ¡ÂºÂ¿t 15 phÃÂºt, hÃ¡Â»Âp ÃÂÃ¡ÂºÂ§u tuÃ¡ÂºÂ§n 15 phÃÂºt vÃÂ  sÃ¡Â»Â­a nÃ¡Â»Âi bÃ¡Â»Â 6. Rural & Urban Health hÃ¡ÂºÂ¿t 4.5h Ã¡ÂºÂ¡",
       "submittedAt": "2026-10-05T11:08:55.910Z",
       "tasks": [
         {
           "progress": "0%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "â",
+          "timeSpent": "Ã¢ÂÂ",
           "title": "SN Priority: 42. Antibiotics You Should Never Mix Up ~7 mins"
         }
       ],
@@ -30,10 +30,24 @@
           "progress": "80%",
           "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
           "timeSpent": "3.5h",
-          "title": "OKR tiếp"
+          "title": "OKR tiáº¿p"
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_e273fec35061a42660190f8c70f19882",
+      "submittedAt": "2026-10-05T11:15:16.110Z",
+      "date": "2026-10-05",
+      "tasks": [
+        {
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
+          "title": "RnD format: SFPA Video 2 tiếp",
+          "progress": "90%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
