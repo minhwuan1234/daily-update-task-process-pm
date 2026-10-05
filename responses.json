@@ -3,17 +3,37 @@
   "responses": [
     {
       "date": "2026-10-05",
-      "message": "Em làm nốt  41. How to Remember Antibiotic Drug Classes hết 3h, sửa 40. NCLEX Acid–Base Questions Made Easy hết 15 phút, họp đầu tuần 15 phút và sửa nội bộ 6. Rural & Urban Health hết 4.5h ạ",
+      "message": "Em lÃ m ná»t  41. How to Remember Antibiotic Drug Classes háº¿t 3h, sá»­a 40. NCLEX AcidâBase Questions Made Easy háº¿t 15 phÃºt, há»p Äáº§u tuáº§n 15 phÃºt vÃ  sá»­a ná»i bá» 6. Rural & Urban Health háº¿t 4.5h áº¡",
       "submittedAt": "2026-10-05T11:08:55.910Z",
       "tasks": [
         {
           "progress": "0%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "—",
+          "timeSpent": "â",
           "title": "SN Priority: 42. Antibiotics You Should Never Mix Up ~7 mins"
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-10-05T11:14:59.300Z",
+      "date": "2026-10-05",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "BD videos: Pre-Op Video #13 Bariatric Pre-Op Diet",
+          "progress": "10%",
+          "timeSpent": "2.5h"
+        },
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
+          "title": "OKR tiếp",
+          "progress": "80%",
+          "timeSpent": "3.5h"
+        }
+      ],
+      "message": "BD videos: HRRP #10 Your 7-days follow up (2h)"
     }
   ]
 }
