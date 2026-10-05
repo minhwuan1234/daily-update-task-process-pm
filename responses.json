@@ -16,24 +16,24 @@
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
     },
     {
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
-      "submittedAt": "2026-10-05T11:14:59.300Z",
       "date": "2026-10-05",
+      "message": "BD videos: HRRP #10 Your 7-days follow up (2h)",
+      "submittedAt": "2026-10-05T11:14:59.300Z",
       "tasks": [
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "title": "BD videos: Pre-Op Video #13 Bariatric Pre-Op Diet",
           "progress": "10%",
-          "timeSpent": "2.5h"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "timeSpent": "2.5h",
+          "title": "BD videos: Pre-Op Video #13 Bariatric Pre-Op Diet"
         },
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
-          "title": "OKR tiếp",
           "progress": "80%",
-          "timeSpent": "3.5h"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
+          "timeSpent": "3.5h",
+          "title": "OKR tiếp"
         }
       ],
-      "message": "BD videos: HRRP #10 Your 7-days follow up (2h)"
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     }
   ]
 }
