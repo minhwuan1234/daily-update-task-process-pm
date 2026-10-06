@@ -2,24 +2,24 @@
   "date": "2026-10-06",
   "responses": [
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-10-06T10:54:32.739Z",
       "date": "2026-10-06",
+      "message": "BD 21 chưa làm gì hết ạ hihi\n~ 1h sửa mấy cái lặt vặt D25 + D60 One-pager\n2h D25 Sale off\n1h biến hình layout BD #77",
+      "submittedAt": "2026-10-06T10:54:32.739Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "BD videos: Pre-Op Video #21 Before Cardiac Catheterization - wait for script",
           "progress": "0%",
-          "timeSpent": "0.5h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "0.5h",
+          "title": "BD videos: Pre-Op Video #21 Before Cardiac Catheterization - wait for script"
         },
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "title": "Social post 3-4-6-7 (1)",
           "progress": "100%",
-          "timeSpent": "3.5h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
+          "timeSpent": "3.5h",
+          "title": "Social post 3-4-6-7 (1)"
         }
       ],
-      "message": "BD 21 chưa làm gì hết ạ hihi\n~ 1h sửa mấy cái lặt vặt D25 + D60 One-pager\n2h D25 Sale off\n1h biến hình layout BD #77"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }
