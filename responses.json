@@ -1,107 +1,25 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "responses": [
     {
-      "date": "2026-10-05",
-      "message": "Em lÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ m nÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ»ÃÂÃÂÃÂÃÂt  41. How to Remember Antibiotic Drug Classes hÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ¿t 3h, sÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ»ÃÂÃÂÃÂÃÂ­a 40. NCLEX AcidÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂBase Questions Made Easy hÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ¿t 15 phÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂºt, hÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ»ÃÂÃÂÃÂÃÂp ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ§u tuÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ§n 15 phÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂºt vÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ  sÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ»ÃÂÃÂÃÂÃÂ­a nÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ»ÃÂÃÂÃÂÃÂi bÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ»ÃÂÃÂÃÂÃÂ 6. Rural & Urban Health hÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ¿t 4.5h ÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ¡",
-      "submittedAt": "2026-10-05T11:08:55.910Z",
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-10-06T10:54:32.739Z",
+      "date": "2026-10-06",
       "tasks": [
         {
-          "progress": "0%",
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ",
-          "title": "SN Priority: 42. Antibiotics You Should Never Mix Up ~7 mins"
-        }
-      ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
-    },
-    {
-      "date": "2026-10-05",
-      "message": "BD videos: HRRP #10 Your 7-days follow up (2h)",
-      "submittedAt": "2026-10-05T11:14:59.300Z",
-      "tasks": [
-        {
-          "progress": "10%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "2.5h",
-          "title": "BD videos: Pre-Op Video #13 Bariatric Pre-Op Diet"
-        },
-        {
-          "progress": "80%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
-          "timeSpent": "3.5h",
-          "title": "OKR tiÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿p"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-10-05",
-      "message": "",
-      "submittedAt": "2026-10-05T11:15:16.110Z",
-      "tasks": [
-        {
-          "progress": "90%",
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "8h",
-          "title": "RnD format: SFPA Video 2 tiÃÂ¡ÃÂºÃÂ¿p"
-        }
-      ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
-    },
-    {
-      "date": "2026-10-05",
-      "message": "1h: bÃÂ n sale request illus sÃÂ¡ch unicef x studiohumanity\n45p hÃ¡Â»Âp\n3h sÃ¡Â»Â­a BD #13\n30p discuss vÃ¡Â»Âi NLinh vÃ¡Â»Â brief social plan",
-      "submittedAt": "2026-10-05T11:31:02.973Z",
-      "tasks": [
-        {
-          "progress": "100%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "3h",
-          "title": "BD videos #13 tiÃ¡ÂºÂ¿p 0.5"
+          "title": "BD videos: Pre-Op Video #21 Before Cardiac Catheterization - wait for script",
+          "progress": "0%",
+          "timeSpent": "0.5h"
         },
         {
-          "progress": "50%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "timeSpent": "2.5h",
-          "title": "Social post 3-4-6-7 (1)"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-10-05",
-      "message": "",
-      "submittedAt": "2026-10-05T11:56:38.898Z",
-      "tasks": [
-        {
+          "title": "Social post 3-4-6-7 (1)",
           "progress": "100%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "8h",
-          "title": "Studiohumanity Illus tiáº¿p"
+          "timeSpent": "3.5h"
         }
       ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-10-05",
-      "message": "",
-      "submittedAt": "2026-10-05T16:38:25.747Z",
-      "tasks": [
-        {
-          "progress": "90%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "6h",
-          "title": "AMD: Chapter 7-5 - 3.5 mins"
-        },
-        {
-          "progress": "100%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
-          "timeSpent": "2h",
-          "title": "Conation media: anim fixing #1"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": "BD 21 chưa làm gì hết ạ hihi\n~ 1h sửa mấy cái lặt vặt D25 + D60 One-pager\n2h D25 Sale off\n1h biến hình layout BD #77"
     }
   ]
 }
