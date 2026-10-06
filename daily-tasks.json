@@ -1,19 +1,24 @@
 {
-  "date": "5-Oct",
-  "generatedAt": "2026-10-05T10:45:07.820Z",
+  "date": "6-Oct",
+  "generatedAt": "2026-10-06T10:45:13.058Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "5-Oct",
+          "date": "6-Oct",
           "dueDate": null,
-          "task": "BD videos #13 tiếp 0.5"
+          "task": "BD videos: Pre-Op Video #21 Before Cardiac Catheterization - wait for script"
         },
         {
-          "date": "5-Oct",
+          "date": "6-Oct",
           "dueDate": null,
           "task": "Social post 3-4-6-7 (1)"
+        },
+        {
+          "date": "6-Oct",
+          "dueDate": null,
+          "task": "HNO Mannheim congress offer (2h)"
         }
       ]
     },
@@ -21,9 +26,14 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "5-Oct",
-          "dueDate": "5/10",
-          "task": "Studiohumanity Illus tiếp"
+          "date": "6-Oct",
+          "dueDate": null,
+          "task": "SN Community Health: 7. Home Visit tiếp\n16/10"
+        },
+        {
+          "date": "6-Oct",
+          "dueDate": "8/10",
+          "task": "Klett: DA5.04 (2 hình complex)"
         }
       ]
     },
@@ -31,7 +41,7 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "5-Oct",
+          "date": "6-Oct",
           "dueDate": "16/10",
           "task": "SN Priority: 42. Antibiotics You Should Never Mix Up ~7 mins"
         }
@@ -41,7 +51,7 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "5-Oct",
+          "date": "6-Oct",
           "dueDate": null,
           "task": "RnD format: SFPA Video 2 tiếp"
         }
@@ -51,14 +61,9 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "5-Oct",
+          "date": "6-Oct",
           "dueDate": null,
           "task": "BD videos: Pre-Op Video #13 Bariatric Pre-Op Diet"
-        },
-        {
-          "date": "5-Oct",
-          "dueDate": null,
-          "task": "OKR tiếp"
         }
       ]
     },
@@ -66,18 +71,18 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "5-Oct",
-          "dueDate": "29/9",
-          "task": "AMD: Chapter 7-5 - 3.5 mins"
+          "date": "6-Oct",
+          "dueDate": "9/10",
+          "task": "AMD: Chapter 7-5 - 3.5 mins (1.25)"
         },
         {
-          "date": "5-Oct",
-          "dueDate": "6/10",
-          "task": "Conation media: anim fixing #1"
+          "date": "6-Oct",
+          "dueDate": "16/10",
+          "task": "SN Priority: 40. NCLEX Acid–Base Questions Made Easy ~5 mins (1)"
         }
       ]
     }
   ],
   "totalMembers": 6,
-  "totalTasks": 9
+  "totalTasks": 10
 }
