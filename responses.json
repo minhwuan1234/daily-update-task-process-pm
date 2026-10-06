@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-10-06",
-      "message": "BD 21 chÃÂ°a lÃÂ m gÃÂ¬ hÃ¡ÂºÂ¿t Ã¡ÂºÂ¡ hihi\n~ 1h sÃ¡Â»Â­a mÃ¡ÂºÂ¥y cÃÂ¡i lÃ¡ÂºÂ·t vÃ¡ÂºÂ·t D25 + D60 One-pager\n2h D25 Sale off\n1h biÃ¡ÂºÂ¿n hÃÂ¬nh layout BD #77",
+      "message": "BD 21 chÃÂÃÂ°a lÃÂÃÂ m gÃÂÃÂ¬ hÃÂ¡ÃÂºÃÂ¿t ÃÂ¡ÃÂºÃÂ¡ hihi\n~ 1h sÃÂ¡ÃÂ»ÃÂ­a mÃÂ¡ÃÂºÃÂ¥y cÃÂÃÂ¡i lÃÂ¡ÃÂºÃÂ·t vÃÂ¡ÃÂºÃÂ·t D25 + D60 One-pager\n2h D25 Sale off\n1h biÃÂ¡ÃÂºÃÂ¿n hÃÂÃÂ¬nh layout BD #77",
       "submittedAt": "2026-10-06T10:54:32.739Z",
       "tasks": [
         {
@@ -23,7 +23,7 @@
     },
     {
       "date": "2026-10-06",
-      "message": "Em sửa nội bộ 6. 6. Rural & Urban Health hết 3h45 phút và sửa nội bộ 41. How to Remember Antibiotic Drug Classes hết 15 phút ạ",
+      "message": "Em sá»­a ná»i bá» 6. 6. Rural & Urban Health háº¿t 3h45 phÃºt vÃ  sá»­a ná»i bá» 41. How to Remember Antibiotic Drug Classes háº¿t 15 phÃºt áº¡",
       "submittedAt": "2026-10-06T11:06:59.048Z",
       "tasks": [
         {
@@ -34,6 +34,26 @@
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-10-06T11:33:32.401Z",
+      "date": "2026-10-06",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "AMD: Chapter 7-5 - 3.5 mins (1.25)",
+          "progress": "100%",
+          "timeSpent": "1h"
+        },
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
+          "title": "SN Priority: 40. NCLEX Acid–Base Questions Made Easy ~5 mins (1)",
+          "progress": "80%",
+          "timeSpent": "7h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
