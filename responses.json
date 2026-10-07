@@ -44,24 +44,24 @@
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     },
     {
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
-      "submittedAt": "2026-10-07T11:04:41.172Z",
       "date": "2026-10-07",
+      "message": "",
+      "submittedAt": "2026-10-07T11:04:41.172Z",
       "tasks": [
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "title": "BD videos: Pre-Op Video #13 Bariatric Pre-Op Diet",
           "progress": "80%",
-          "timeSpent": "8h"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "timeSpent": "8h",
+          "title": "BD videos: Pre-Op Video #13 Bariatric Pre-Op Diet"
         },
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
-          "title": "SN Priority: 41. How to Remember Antibiotic Drug Classes ~7 mins",
           "progress": "0%",
-          "timeSpent": "—"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
+          "timeSpent": "—",
+          "title": "SN Priority: 41. How to Remember Antibiotic Drug Classes ~7 mins"
         }
       ],
-      "message": ""
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     }
   ]
 }
