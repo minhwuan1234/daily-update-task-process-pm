@@ -10,14 +10,14 @@
           "progress": "80%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
           "timeSpent": "8h",
-          "title": "BD videos: HRRP #77 tiáº¿p"
+          "title": "BD videos: HRRP #77 tiÃ¡ÂºÂ¿p"
         }
       ],
       "userId": "ou_e273fec35061a42660190f8c70f19882"
     },
     {
       "date": "2026-10-07",
-      "message": "em sửa 41. How to Remember Antibiotic Drug Classes hết 1h và sửa 6. Rural & Urban Health hết 2.5h ạ",
+      "message": "em sá»­a 41. How to Remember Antibiotic Drug Classes háº¿t 1h vÃ  sá»­a 6. Rural & Urban Health háº¿t 2.5h áº¡",
       "submittedAt": "2026-10-07T10:51:54.232Z",
       "tasks": [
         {
@@ -28,6 +28,20 @@
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
+    },
+    {
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-10-07T11:01:15.375Z",
+      "date": "2026-10-07",
+      "tasks": [
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "SN Community Health: 7. Home Visit tiếp\n16/10",
+          "progress": "100%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
