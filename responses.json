@@ -1,59 +1,19 @@
 {
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "responses": [
     {
-      "date": "2026-10-06",
-      "message": "BD 21 chÃÂÃÂ°a lÃÂÃÂ m gÃÂÃÂ¬ hÃÂ¡ÃÂºÃÂ¿t ÃÂ¡ÃÂºÃÂ¡ hihi\n~ 1h sÃÂ¡ÃÂ»ÃÂ­a mÃÂ¡ÃÂºÃÂ¥y cÃÂÃÂ¡i lÃÂ¡ÃÂºÃÂ·t vÃÂ¡ÃÂºÃÂ·t D25 + D60 One-pager\n2h D25 Sale off\n1h biÃÂ¡ÃÂºÃÂ¿n hÃÂÃÂ¬nh layout BD #77",
-      "submittedAt": "2026-10-06T10:54:32.739Z",
+      "userId": "ou_e273fec35061a42660190f8c70f19882",
+      "submittedAt": "2026-10-07T10:48:16.556Z",
+      "date": "2026-10-07",
       "tasks": [
         {
-          "progress": "0%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "0.5h",
-          "title": "BD videos: Pre-Op Video #21 Before Cardiac Catheterization - wait for script"
-        },
-        {
-          "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "timeSpent": "3.5h",
-          "title": "Social post 3-4-6-7 (1)"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-10-06",
-      "message": "Em sá»­a ná»i bá» 6. 6. Rural & Urban Health háº¿t 3h45 phÃºt vÃ  sá»­a ná»i bá» 41. How to Remember Antibiotic Drug Classes háº¿t 15 phÃºt áº¡",
-      "submittedAt": "2026-10-06T11:06:59.048Z",
-      "tasks": [
-        {
-          "progress": "30%",
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "4h",
-          "title": "SN Priority: 42. Antibiotics You Should Never Mix Up ~7 mins"
-        }
-      ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
-    },
-    {
-      "date": "2026-10-06",
-      "message": "",
-      "submittedAt": "2026-10-06T11:33:32.401Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "1h",
-          "title": "AMD: Chapter 7-5 - 3.5 mins (1.25)"
-        },
-        {
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
+          "title": "BD videos: HRRP #77 tiếp",
           "progress": "80%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
-          "timeSpent": "7h",
-          "title": "SN Priority: 40. NCLEX Acid–Base Questions Made Easy ~5 mins (1)"
+          "timeSpent": "8h"
         }
       ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": ""
     }
   ]
 }
