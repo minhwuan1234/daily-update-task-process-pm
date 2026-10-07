@@ -10,14 +10,14 @@
           "progress": "80%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
           "timeSpent": "8h",
-          "title": "BD videos: HRRP #77 tiÃ¡ÂºÂ¿p"
+          "title": "BD videos: HRRP #77 tiÃÂ¡ÃÂºÃÂ¿p"
         }
       ],
       "userId": "ou_e273fec35061a42660190f8c70f19882"
     },
     {
       "date": "2026-10-07",
-      "message": "em sá»­a 41. How to Remember Antibiotic Drug Classes háº¿t 1h vÃ  sá»­a 6. Rural & Urban Health háº¿t 2.5h áº¡",
+      "message": "em sÃ¡Â»Â­a 41. How to Remember Antibiotic Drug Classes hÃ¡ÂºÂ¿t 1h vÃÂ  sÃ¡Â»Â­a 6. Rural & Urban Health hÃ¡ÂºÂ¿t 2.5h Ã¡ÂºÂ¡",
       "submittedAt": "2026-10-07T10:51:54.232Z",
       "tasks": [
         {
@@ -38,10 +38,30 @@
           "progress": "100%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
           "timeSpent": "8h",
-          "title": "SN Community Health: 7. Home Visit tiếp\n16/10"
+          "title": "SN Community Health: 7. Home Visit tiáº¿p\n16/10"
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-10-07T11:04:41.172Z",
+      "date": "2026-10-07",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "BD videos: Pre-Op Video #13 Bariatric Pre-Op Diet",
+          "progress": "80%",
+          "timeSpent": "8h"
+        },
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
+          "title": "SN Priority: 41. How to Remember Antibiotic Drug Classes ~7 mins",
+          "progress": "0%",
+          "timeSpent": "—"
+        }
+      ],
+      "message": ""
     }
   ]
 }
