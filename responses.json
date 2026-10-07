@@ -78,24 +78,24 @@
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     },
     {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-10-07T11:21:52.978Z",
       "date": "2026-10-07",
+      "message": "",
+      "submittedAt": "2026-10-07T11:21:52.978Z",
       "tasks": [
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "SN Community Health: 6. Rural & Urban Health ~13 mins",
           "progress": "30%",
-          "timeSpent": "6h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "timeSpent": "6h",
+          "title": "SN Community Health: 6. Rural & Urban Health ~13 mins"
         },
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
-          "title": "SN Priority: 40. NCLEX Acid–Base Questions Made Easy ~5 mins (1)",
           "progress": "100%",
-          "timeSpent": "2h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
+          "timeSpent": "2h",
+          "title": "SN Priority: 40. NCLEX Acid–Base Questions Made Easy ~5 mins (1)"
         }
       ],
-      "message": ""
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     }
   ]
 }
