@@ -10,14 +10,14 @@
           "progress": "80%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
           "timeSpent": "8h",
-          "title": "BD videos: HRRP #77 tiÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿p"
+          "title": "BD videos: HRRP #77 tiÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ¿p"
         }
       ],
       "userId": "ou_e273fec35061a42660190f8c70f19882"
     },
     {
       "date": "2026-10-07",
-      "message": "em sÃÂ¡ÃÂ»ÃÂ­a 41. How to Remember Antibiotic Drug Classes hÃÂ¡ÃÂºÃÂ¿t 1h vÃÂÃÂ  sÃÂ¡ÃÂ»ÃÂ­a 6. Rural & Urban Health hÃÂ¡ÃÂºÃÂ¿t 2.5h ÃÂ¡ÃÂºÃÂ¡",
+      "message": "em sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a 41. How to Remember Antibiotic Drug Classes hÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿t 1h vÃÂÃÂÃÂÃÂ  sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a 6. Rural & Urban Health hÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿t 2.5h ÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¡",
       "submittedAt": "2026-10-07T10:51:54.232Z",
       "tasks": [
         {
@@ -38,7 +38,7 @@
           "progress": "100%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
           "timeSpent": "8h",
-          "title": "SN Community Health: 7. Home Visit tiÃ¡ÂºÂ¿p\n16/10"
+          "title": "SN Community Health: 7. Home Visit tiÃÂ¡ÃÂºÃÂ¿p\n16/10"
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
@@ -57,7 +57,7 @@
         {
           "progress": "0%",
           "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
-          "timeSpent": "â",
+          "timeSpent": "Ã¢ÂÂ",
           "title": "SN Priority: 41. How to Remember Antibiotic Drug Classes ~7 mins"
         }
       ],
@@ -65,7 +65,7 @@
     },
     {
       "date": "2026-10-07",
-      "message": "1h thỉnh thoảng check mấy câu hỏi tư vấn SN, pdf UV, mấy thứ linh tinh",
+      "message": "1h thá»nh thoáº£ng check máº¥y cÃ¢u há»i tÆ° váº¥n SN, pdf UV, máº¥y thá»© linh tinh",
       "submittedAt": "2026-10-07T11:11:38.287Z",
       "tasks": [
         {
@@ -76,6 +76,26 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-10-07T11:21:52.978Z",
+      "date": "2026-10-07",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "SN Community Health: 6. Rural & Urban Health ~13 mins",
+          "progress": "30%",
+          "timeSpent": "6h"
+        },
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
+          "title": "SN Priority: 40. NCLEX Acid–Base Questions Made Easy ~5 mins (1)",
+          "progress": "100%",
+          "timeSpent": "2h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
