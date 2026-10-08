@@ -1,12 +1,12 @@
 {
-  "date": "7-Oct",
-  "generatedAt": "2026-10-07T10:45:10.932Z",
+  "date": "8-Oct",
+  "generatedAt": "2026-10-08T10:45:17.963Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "7-Oct",
+          "date": "8-Oct",
           "dueDate": null,
           "task": "BD videos: Pre-Op Video #21 Before Cardiac Catheterization"
         }
@@ -16,9 +16,9 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "7-Oct",
+          "date": "8-Oct",
           "dueDate": null,
-          "task": "SN Community Health: 7. Home Visit tiếp\n16/10"
+          "task": "Careum: Style frame (1.5)\n14/10"
         }
       ]
     },
@@ -26,9 +26,14 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "7-Oct",
+          "date": "8-Oct",
           "dueDate": "16/10",
           "task": "SN Priority: 42. Antibiotics You Should Never Mix Up ~7 mins"
+        },
+        {
+          "date": "8-Oct",
+          "dueDate": null,
+          "task": "SN Community Health: 6. tiếp 0.5"
         }
       ]
     },
@@ -36,7 +41,7 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "7-Oct",
+          "date": "8-Oct",
           "dueDate": null,
           "task": "BD videos: HRRP #77 tiếp"
         }
@@ -46,12 +51,7 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "7-Oct",
-          "dueDate": null,
-          "task": "BD videos: Pre-Op Video #13 Bariatric Pre-Op Diet"
-        },
-        {
-          "date": "7-Oct",
+          "date": "8-Oct",
           "dueDate": "16/10",
           "task": "SN Priority: 41. How to Remember Antibiotic Drug Classes ~7 mins"
         }
@@ -61,18 +61,13 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "7-Oct",
+          "date": "8-Oct",
           "dueDate": "20/10",
           "task": "SN Community Health: 6. Rural & Urban Health ~13 mins"
-        },
-        {
-          "date": "7-Oct",
-          "dueDate": "16/10",
-          "task": "SN Priority: 40. NCLEX Acid–Base Questions Made Easy ~5 mins (1)"
         }
       ]
     }
   ],
   "totalMembers": 6,
-  "totalTasks": 8
+  "totalTasks": 7
 }
