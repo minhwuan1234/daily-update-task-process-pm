@@ -16,18 +16,18 @@
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     },
     {
-      "userId": "ou_e273fec35061a42660190f8c70f19882",
-      "submittedAt": "2026-10-08T10:56:20.992Z",
       "date": "2026-10-08",
+      "message": "fix SN internal 1 tiếng\nSFPA tiếp 3 tiếng (90%)",
+      "submittedAt": "2026-10-08T10:56:20.992Z",
       "tasks": [
         {
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "title": "BD videos: HRRP #77 tiếp",
           "progress": "100%",
-          "timeSpent": "4.5h"
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
+          "timeSpent": "4.5h",
+          "title": "BD videos: HRRP #77 tiếp"
         }
       ],
-      "message": "fix SN internal 1 tiếng\nSFPA tiếp 3 tiếng (90%)"
+      "userId": "ou_e273fec35061a42660190f8c70f19882"
     }
   ]
 }
