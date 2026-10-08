@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-10-08",
-      "message": "thÃÂ¡ÃÂ»ÃÂnh thoÃÂ¡ÃÂºÃÂ£ng cÃÂÃÂ³ vÃÂÃÂ i thÃÂ¡ÃÂ»ÃÂ© nhÃÂ¡ÃÂ»ÃÂ nhÃÂÃÂ° UV sÃÂ¡ÃÂ»ÃÂ­a hoÃÂ¡ÃÂºÃÂ·c bÃÂÃÂ¡o time project bÃÂÃÂªn hÃÂ¡ÃÂ»ÃÂi lao ÃÂÃÂÃÂ¡ÃÂ»ÃÂng",
+      "message": "thÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂnh thoÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ£ng cÃÂÃÂÃÂÃÂ³ vÃÂÃÂÃÂÃÂ i thÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ© nhÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ nhÃÂÃÂÃÂÃÂ° UV sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a hoÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ·c bÃÂÃÂÃÂÃÂ¡o time project bÃÂÃÂÃÂÃÂªn hÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂi lao ÃÂÃÂÃÂÃÂÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂng",
       "submittedAt": "2026-10-08T10:46:58.732Z",
       "tasks": [
         {
@@ -17,21 +17,21 @@
     },
     {
       "date": "2026-10-08",
-      "message": "fix SN internal 1 tiÃ¡ÂºÂ¿ng\nSFPA tiÃ¡ÂºÂ¿p 3 tiÃ¡ÂºÂ¿ng (90%)",
+      "message": "fix SN internal 1 tiÃÂ¡ÃÂºÃÂ¿ng\nSFPA tiÃÂ¡ÃÂºÃÂ¿p 3 tiÃÂ¡ÃÂºÃÂ¿ng (90%)",
       "submittedAt": "2026-10-08T10:56:20.992Z",
       "tasks": [
         {
           "progress": "100%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
           "timeSpent": "4.5h",
-          "title": "BD videos: HRRP #77 tiÃ¡ÂºÂ¿p"
+          "title": "BD videos: HRRP #77 tiÃÂ¡ÃÂºÃÂ¿p"
         }
       ],
       "userId": "ou_e273fec35061a42660190f8c70f19882"
     },
     {
       "date": "2026-10-08",
-      "message": "em ngá»i tÃ¬m ref [Georgetown University] háº¿t 15 phÃºt, em lÃ m HRRP 77 cá»§a BD series háº¿t 3h 15 phÃºt áº¡",
+      "message": "em ngÃ¡Â»Âi tÃÂ¬m ref [Georgetown University] hÃ¡ÂºÂ¿t 15 phÃÂºt, em lÃÂ m HRRP 77 cÃ¡Â»Â§a BD series hÃ¡ÂºÂ¿t 3h 15 phÃÂºt Ã¡ÂºÂ¡",
       "submittedAt": "2026-10-08T10:59:13.063Z",
       "tasks": [
         {
@@ -43,8 +43,8 @@
         {
           "progress": "0%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-1",
-          "timeSpent": "â",
-          "title": "SN Community Health: 6. tiáº¿p 0.5"
+          "timeSpent": "Ã¢ÂÂ",
+          "title": "SN Community Health: 6. tiÃ¡ÂºÂ¿p 0.5"
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
@@ -62,6 +62,20 @@
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-10-08T16:09:21.344Z",
+      "date": "2026-10-08",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "SN Community Health: 6. Rural & Urban Health ~13 mins",
+          "progress": "50%",
+          "timeSpent": "5h"
+        }
+      ],
+      "message": "1h fix SN 39, 2h fix AMD"
     }
   ]
 }
