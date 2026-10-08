@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-10-08",
-      "message": "thỉnh thoảng có vài thứ nhỏ như UV sửa hoặc báo time project bên hội lao động",
+      "message": "thá»nh thoáº£ng cÃ³ vÃ i thá»© nhá» nhÆ° UV sá»­a hoáº·c bÃ¡o time project bÃªn há»i lao Äá»ng",
       "submittedAt": "2026-10-08T10:46:58.732Z",
       "tasks": [
         {
@@ -14,6 +14,20 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_e273fec35061a42660190f8c70f19882",
+      "submittedAt": "2026-10-08T10:56:20.992Z",
+      "date": "2026-10-08",
+      "tasks": [
+        {
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
+          "title": "BD videos: HRRP #77 tiếp",
+          "progress": "100%",
+          "timeSpent": "4.5h"
+        }
+      ],
+      "message": "fix SN internal 1 tiếng\nSFPA tiếp 3 tiếng (90%)"
     }
   ]
 }
