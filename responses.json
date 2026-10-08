@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-10-08",
-      "message": "thá»nh thoáº£ng cÃ³ vÃ i thá»© nhá» nhÆ° UV sá»­a hoáº·c bÃ¡o time project bÃªn há»i lao Äá»ng",
+      "message": "thÃ¡Â»Ânh thoÃ¡ÂºÂ£ng cÃÂ³ vÃÂ i thÃ¡Â»Â© nhÃ¡Â»Â nhÃÂ° UV sÃ¡Â»Â­a hoÃ¡ÂºÂ·c bÃÂ¡o time project bÃÂªn hÃ¡Â»Âi lao ÃÂÃ¡Â»Âng",
       "submittedAt": "2026-10-08T10:46:58.732Z",
       "tasks": [
         {
@@ -17,17 +17,37 @@
     },
     {
       "date": "2026-10-08",
-      "message": "fix SN internal 1 tiếng\nSFPA tiếp 3 tiếng (90%)",
+      "message": "fix SN internal 1 tiáº¿ng\nSFPA tiáº¿p 3 tiáº¿ng (90%)",
       "submittedAt": "2026-10-08T10:56:20.992Z",
       "tasks": [
         {
           "progress": "100%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
           "timeSpent": "4.5h",
-          "title": "BD videos: HRRP #77 tiếp"
+          "title": "BD videos: HRRP #77 tiáº¿p"
         }
       ],
       "userId": "ou_e273fec35061a42660190f8c70f19882"
+    },
+    {
+      "userId": "ou_e0897ef23f084625d708cd50c16468db",
+      "submittedAt": "2026-10-08T10:59:13.063Z",
+      "date": "2026-10-08",
+      "tasks": [
+        {
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
+          "title": "SN Priority: 42. Antibiotics You Should Never Mix Up ~7 mins",
+          "progress": "100%",
+          "timeSpent": "4.5h"
+        },
+        {
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-1",
+          "title": "SN Community Health: 6. tiếp 0.5",
+          "progress": "0%",
+          "timeSpent": "—"
+        }
+      ],
+      "message": "em ngồi tìm ref [Georgetown University] hết 15 phút, em làm HRRP 77 của BD series hết 3h 15 phút ạ"
     }
   ]
 }
