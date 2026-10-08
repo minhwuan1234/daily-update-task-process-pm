@@ -1,101 +1,19 @@
 {
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "responses": [
     {
-      "date": "2026-10-07",
-      "message": "",
-      "submittedAt": "2026-10-07T10:48:16.556Z",
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-10-08T10:46:58.732Z",
+      "date": "2026-10-08",
       "tasks": [
         {
-          "progress": "80%",
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "8h",
-          "title": "BD videos: HRRP #77 tiÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ¿p"
-        }
-      ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
-    },
-    {
-      "date": "2026-10-07",
-      "message": "em sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a 41. How to Remember Antibiotic Drug Classes hÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿t 1h vÃÂÃÂÃÂÃÂ  sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a 6. Rural & Urban Health hÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿t 2.5h ÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¡",
-      "submittedAt": "2026-10-07T10:51:54.232Z",
-      "tasks": [
-        {
-          "progress": "70%",
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "4.5h",
-          "title": "SN Priority: 42. Antibiotics You Should Never Mix Up ~7 mins"
-        }
-      ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
-    },
-    {
-      "date": "2026-10-07",
-      "message": "",
-      "submittedAt": "2026-10-07T11:01:15.375Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "8h",
-          "title": "SN Community Health: 7. Home Visit tiÃÂ¡ÃÂºÃÂ¿p\n16/10"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-10-07",
-      "message": "",
-      "submittedAt": "2026-10-07T11:04:41.172Z",
-      "tasks": [
-        {
-          "progress": "80%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "8h",
-          "title": "BD videos: Pre-Op Video #13 Bariatric Pre-Op Diet"
-        },
-        {
-          "progress": "0%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
-          "timeSpent": "Ã¢ÂÂ",
-          "title": "SN Priority: 41. How to Remember Antibiotic Drug Classes ~7 mins"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-10-07",
-      "message": "1h thá»nh thoáº£ng check máº¥y cÃ¢u há»i tÆ° váº¥n SN, pdf UV, máº¥y thá»© linh tinh",
-      "submittedAt": "2026-10-07T11:11:38.287Z",
-      "tasks": [
-        {
-          "progress": "40%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "7h",
-          "title": "BD videos: Pre-Op Video #21 Before Cardiac Catheterization"
+          "title": "BD videos: Pre-Op Video #21 Before Cardiac Catheterization",
+          "progress": "80%",
+          "timeSpent": "7h"
         }
       ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-10-07",
-      "message": "",
-      "submittedAt": "2026-10-07T11:21:52.978Z",
-      "tasks": [
-        {
-          "progress": "30%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "6h",
-          "title": "SN Community Health: 6. Rural & Urban Health ~13 mins"
-        },
-        {
-          "progress": "100%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
-          "timeSpent": "2h",
-          "title": "SN Priority: 40. NCLEX Acid–Base Questions Made Easy ~5 mins (1)"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": "thỉnh thoảng có vài thứ nhỏ như UV sửa hoặc báo time project bên hội lao động"
     }
   ]
 }
