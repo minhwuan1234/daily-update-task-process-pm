@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-10-08",
-      "message": "thÃ¡Â»Ânh thoÃ¡ÂºÂ£ng cÃÂ³ vÃÂ i thÃ¡Â»Â© nhÃ¡Â»Â nhÃÂ° UV sÃ¡Â»Â­a hoÃ¡ÂºÂ·c bÃÂ¡o time project bÃÂªn hÃ¡Â»Âi lao ÃÂÃ¡Â»Âng",
+      "message": "thÃÂ¡ÃÂ»ÃÂnh thoÃÂ¡ÃÂºÃÂ£ng cÃÂÃÂ³ vÃÂÃÂ i thÃÂ¡ÃÂ»ÃÂ© nhÃÂ¡ÃÂ»ÃÂ nhÃÂÃÂ° UV sÃÂ¡ÃÂ»ÃÂ­a hoÃÂ¡ÃÂºÃÂ·c bÃÂÃÂ¡o time project bÃÂÃÂªn hÃÂ¡ÃÂ»ÃÂi lao ÃÂÃÂÃÂ¡ÃÂ»ÃÂng",
       "submittedAt": "2026-10-08T10:46:58.732Z",
       "tasks": [
         {
@@ -17,21 +17,21 @@
     },
     {
       "date": "2026-10-08",
-      "message": "fix SN internal 1 tiáº¿ng\nSFPA tiáº¿p 3 tiáº¿ng (90%)",
+      "message": "fix SN internal 1 tiÃ¡ÂºÂ¿ng\nSFPA tiÃ¡ÂºÂ¿p 3 tiÃ¡ÂºÂ¿ng (90%)",
       "submittedAt": "2026-10-08T10:56:20.992Z",
       "tasks": [
         {
           "progress": "100%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
           "timeSpent": "4.5h",
-          "title": "BD videos: HRRP #77 tiáº¿p"
+          "title": "BD videos: HRRP #77 tiÃ¡ÂºÂ¿p"
         }
       ],
       "userId": "ou_e273fec35061a42660190f8c70f19882"
     },
     {
       "date": "2026-10-08",
-      "message": "em ngồi tìm ref [Georgetown University] hết 15 phút, em làm HRRP 77 của BD series hết 3h 15 phút ạ",
+      "message": "em ngá»i tÃ¬m ref [Georgetown University] háº¿t 15 phÃºt, em lÃ m HRRP 77 cá»§a BD series háº¿t 3h 15 phÃºt áº¡",
       "submittedAt": "2026-10-08T10:59:13.063Z",
       "tasks": [
         {
@@ -43,11 +43,25 @@
         {
           "progress": "0%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-1",
-          "timeSpent": "—",
-          "title": "SN Community Health: 6. tiếp 0.5"
+          "timeSpent": "â",
+          "title": "SN Community Health: 6. tiáº¿p 0.5"
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-10-08T11:27:22.777Z",
+      "date": "2026-10-08",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "SN Priority: 41. How to Remember Antibiotic Drug Classes ~7 mins",
+          "progress": "50%",
+          "timeSpent": "7h"
+        }
+      ],
+      "message": "BD videos: Pre-Op Video #13 Bariatric Pre-Op Diet (1h)"
     }
   ]
 }
