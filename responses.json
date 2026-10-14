@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-10-14",
-      "message": "2 tiáº¿ng sá»­a SN home visit\n30p sá»­a Klett 5.04\n1h thá»­ test tool AI áº£nh -> SVG",
+      "message": "2 tiÃ¡ÂºÂ¿ng sÃ¡Â»Â­a SN home visit\n30p sÃ¡Â»Â­a Klett 5.04\n1h thÃ¡Â»Â­ test tool AI Ã¡ÂºÂ£nh -> SVG",
       "submittedAt": "2026-10-14T10:50:18.016Z",
       "tasks": [
         {
@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-10-14",
-      "message": "em họp đầu tuần 15 phút và sửa 42. Antibiotics You Should Never Mix Up hết 15 phút ạ",
+      "message": "em há»p Äáº§u tuáº§n 15 phÃºt vÃ  sá»­a 42. Antibiotics You Should Never Mix Up háº¿t 15 phÃºt áº¡",
       "submittedAt": "2026-10-14T11:15:37.122Z",
       "tasks": [
         {
@@ -28,6 +28,20 @@
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-10-14T11:20:00.791Z",
+      "date": "2026-10-14",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "OKR: Personal project: Improve anim quality",
+          "progress": "90%",
+          "timeSpent": "4h"
+        }
+      ],
+      "message": "- SN Priority ep 41 (4h)"
     }
   ]
 }
