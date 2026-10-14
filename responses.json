@@ -44,18 +44,18 @@
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     },
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-10-14T11:24:15.533Z",
       "date": "2026-10-14",
+      "message": "họp + sửa UV 25+ offer + upload ảnh high-res",
+      "submittedAt": "2026-10-14T11:24:15.533Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "SN Community Health: 8 tiếp",
           "progress": "60%",
-          "timeSpent": "7h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "7h",
+          "title": "SN Community Health: 8 tiếp"
         }
       ],
-      "message": "họp + sửa UV 25+ offer + upload ảnh high-res"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }
