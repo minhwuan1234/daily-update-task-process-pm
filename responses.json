@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-10-14",
-      "message": "2 tiÃ¡ÂºÂ¿ng sÃ¡Â»Â­a SN home visit\n30p sÃ¡Â»Â­a Klett 5.04\n1h thÃ¡Â»Â­ test tool AI Ã¡ÂºÂ£nh -> SVG",
+      "message": "2 tiÃÂ¡ÃÂºÃÂ¿ng sÃÂ¡ÃÂ»ÃÂ­a SN home visit\n30p sÃÂ¡ÃÂ»ÃÂ­a Klett 5.04\n1h thÃÂ¡ÃÂ»ÃÂ­ test tool AI ÃÂ¡ÃÂºÃÂ£nh -> SVG",
       "submittedAt": "2026-10-14T10:50:18.016Z",
       "tasks": [
         {
@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-10-14",
-      "message": "em há»p Äáº§u tuáº§n 15 phÃºt vÃ  sá»­a 42. Antibiotics You Should Never Mix Up háº¿t 15 phÃºt áº¡",
+      "message": "em hÃ¡Â»Âp ÃÂÃ¡ÂºÂ§u tuÃ¡ÂºÂ§n 15 phÃÂºt vÃÂ  sÃ¡Â»Â­a 42. Antibiotics You Should Never Mix Up hÃ¡ÂºÂ¿t 15 phÃÂºt Ã¡ÂºÂ¡",
       "submittedAt": "2026-10-14T11:15:37.122Z",
       "tasks": [
         {
@@ -42,6 +42,20 @@
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-10-14T11:24:15.533Z",
+      "date": "2026-10-14",
+      "tasks": [
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "title": "SN Community Health: 8 tiếp",
+          "progress": "60%",
+          "timeSpent": "7h"
+        }
+      ],
+      "message": "họp + sửa UV 25+ offer + upload ảnh high-res"
     }
   ]
 }
