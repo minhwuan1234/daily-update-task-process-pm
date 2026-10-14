@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-10-14",
-      "message": "2 tiếng sửa SN home visit\n30p sửa Klett 5.04\n1h thử test tool AI ảnh -> SVG",
+      "message": "2 tiáº¿ng sá»­a SN home visit\n30p sá»­a Klett 5.04\n1h thá»­ test tool AI áº£nh -> SVG",
       "submittedAt": "2026-10-14T10:50:18.016Z",
       "tasks": [
         {
@@ -14,6 +14,20 @@
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+    },
+    {
+      "userId": "ou_e0897ef23f084625d708cd50c16468db",
+      "submittedAt": "2026-10-14T11:15:37.122Z",
+      "date": "2026-10-14",
+      "tasks": [
+        {
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
+          "title": "SN Priority: 43. Major Antibiotic Side Effects ~6 mins",
+          "progress": "60%",
+          "timeSpent": "7.5h"
+        }
+      ],
+      "message": "em họp đầu tuần 15 phút và sửa 42. Antibiotics You Should Never Mix Up hết 15 phút ạ"
     }
   ]
 }
