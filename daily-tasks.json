@@ -1,14 +1,14 @@
 {
-  "date": "8-Oct",
-  "generatedAt": "2026-10-08T10:45:17.963Z",
+  "date": "14-Oct",
+  "generatedAt": "2026-10-14T10:45:09.601Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "8-Oct",
-          "dueDate": null,
-          "task": "BD videos: Pre-Op Video #21 Before Cardiac Catheterization"
+          "date": "14-Oct",
+          "dueDate": "16/10",
+          "task": "SN Community Health: 8 tiếp"
         }
       ]
     },
@@ -16,9 +16,9 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "8-Oct",
+          "date": "14-Oct",
           "dueDate": null,
-          "task": "Careum: Style frame (1.5)\n14/10"
+          "task": "SN Community Health: 9. Infectious Diseases ~20 mins\n13/11"
         }
       ]
     },
@@ -26,14 +26,9 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "8-Oct",
-          "dueDate": "16/10",
-          "task": "SN Priority: 42. Antibiotics You Should Never Mix Up ~7 mins"
-        },
-        {
-          "date": "8-Oct",
-          "dueDate": null,
-          "task": "SN Community Health: 6. tiếp 0.5"
+          "date": "14-Oct",
+          "dueDate": "23/10",
+          "task": "SN Priority: 43. Major Antibiotic Side Effects ~6 mins"
         }
       ]
     },
@@ -41,9 +36,9 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "8-Oct",
-          "dueDate": null,
-          "task": "BD videos: HRRP #77 tiếp"
+          "date": "14-Oct",
+          "dueDate": "27/10",
+          "task": "SN Community Health: 7. Home Visit ~14 mins"
         }
       ]
     },
@@ -51,9 +46,9 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "8-Oct",
-          "dueDate": "16/10",
-          "task": "SN Priority: 41. How to Remember Antibiotic Drug Classes ~7 mins"
+          "date": "14-Oct",
+          "dueDate": null,
+          "task": "OKR: Personal project: Improve anim quality"
         }
       ]
     },
@@ -61,13 +56,13 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "8-Oct",
+          "date": "14-Oct",
           "dueDate": "20/10",
-          "task": "SN Community Health: 6. Rural & Urban Health ~13 mins"
+          "task": "SN Community Health: 6. tiếp"
         }
       ]
     }
   ],
   "totalMembers": 6,
-  "totalTasks": 7
+  "totalTasks": 6
 }
