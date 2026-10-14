@@ -1,81 +1,19 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-14",
   "responses": [
     {
-      "date": "2026-10-08",
-      "message": "thÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂnh thoÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ£ng cÃÂÃÂÃÂÃÂ³ vÃÂÃÂÃÂÃÂ i thÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ© nhÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ nhÃÂÃÂÃÂÃÂ° UV sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a hoÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ·c bÃÂÃÂÃÂÃÂ¡o time project bÃÂÃÂÃÂÃÂªn hÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂi lao ÃÂÃÂÃÂÃÂÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂng",
-      "submittedAt": "2026-10-08T10:46:58.732Z",
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-10-14T10:50:18.016Z",
+      "date": "2026-10-14",
       "tasks": [
         {
-          "progress": "80%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "7h",
-          "title": "BD videos: Pre-Op Video #21 Before Cardiac Catheterization"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "SN Community Health: 9. Infectious Diseases ~20 mins\n13/11",
+          "progress": "10%",
+          "timeSpent": "4h"
         }
       ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-10-08",
-      "message": "fix SN internal 1 tiÃÂ¡ÃÂºÃÂ¿ng\nSFPA tiÃÂ¡ÃÂºÃÂ¿p 3 tiÃÂ¡ÃÂºÃÂ¿ng (90%)",
-      "submittedAt": "2026-10-08T10:56:20.992Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "4.5h",
-          "title": "BD videos: HRRP #77 tiÃÂ¡ÃÂºÃÂ¿p"
-        }
-      ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
-    },
-    {
-      "date": "2026-10-08",
-      "message": "em ngÃ¡Â»Âi tÃÂ¬m ref [Georgetown University] hÃ¡ÂºÂ¿t 15 phÃÂºt, em lÃÂ m HRRP 77 cÃ¡Â»Â§a BD series hÃ¡ÂºÂ¿t 3h 15 phÃÂºt Ã¡ÂºÂ¡",
-      "submittedAt": "2026-10-08T10:59:13.063Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "4.5h",
-          "title": "SN Priority: 42. Antibiotics You Should Never Mix Up ~7 mins"
-        },
-        {
-          "progress": "0%",
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-1",
-          "timeSpent": "Ã¢ÂÂ",
-          "title": "SN Community Health: 6. tiÃ¡ÂºÂ¿p 0.5"
-        }
-      ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
-    },
-    {
-      "date": "2026-10-08",
-      "message": "BD videos: Pre-Op Video #13 Bariatric Pre-Op Diet (1h)",
-      "submittedAt": "2026-10-08T11:27:22.777Z",
-      "tasks": [
-        {
-          "progress": "50%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "7h",
-          "title": "SN Priority: 41. How to Remember Antibiotic Drug Classes ~7 mins"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-10-08",
-      "message": "1h fix SN 39, 2h fix AMD",
-      "submittedAt": "2026-10-08T16:09:21.344Z",
-      "tasks": [
-        {
-          "progress": "50%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "5h",
-          "title": "SN Community Health: 6. Rural & Urban Health ~13 mins"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": "2 tiếng sửa SN home visit\n30p sửa Klett 5.04\n1h thử test tool AI ảnh -> SVG"
     }
   ]
 }
