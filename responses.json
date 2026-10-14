@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-10-14",
-      "message": "2 tiÃÂ¡ÃÂºÃÂ¿ng sÃÂ¡ÃÂ»ÃÂ­a SN home visit\n30p sÃÂ¡ÃÂ»ÃÂ­a Klett 5.04\n1h thÃÂ¡ÃÂ»ÃÂ­ test tool AI ÃÂ¡ÃÂºÃÂ£nh -> SVG",
+      "message": "2 tiÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿ng sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a SN home visit\n30p sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a Klett 5.04\n1h thÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­ test tool AI ÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ£nh -> SVG",
       "submittedAt": "2026-10-14T10:50:18.016Z",
       "tasks": [
         {
@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-10-14",
-      "message": "em hÃ¡Â»Âp ÃÂÃ¡ÂºÂ§u tuÃ¡ÂºÂ§n 15 phÃÂºt vÃÂ  sÃ¡Â»Â­a 42. Antibiotics You Should Never Mix Up hÃ¡ÂºÂ¿t 15 phÃÂºt Ã¡ÂºÂ¡",
+      "message": "em hÃÂ¡ÃÂ»ÃÂp ÃÂÃÂÃÂ¡ÃÂºÃÂ§u tuÃÂ¡ÃÂºÃÂ§n 15 phÃÂÃÂºt vÃÂÃÂ  sÃÂ¡ÃÂ»ÃÂ­a 42. Antibiotics You Should Never Mix Up hÃÂ¡ÃÂºÃÂ¿t 15 phÃÂÃÂºt ÃÂ¡ÃÂºÃÂ¡",
       "submittedAt": "2026-10-14T11:15:37.122Z",
       "tasks": [
         {
@@ -45,17 +45,31 @@
     },
     {
       "date": "2026-10-14",
-      "message": "họp + sửa UV 25+ offer + upload ảnh high-res",
+      "message": "há»p + sá»­a UV 25+ offer + upload áº£nh high-res",
       "submittedAt": "2026-10-14T11:24:15.533Z",
       "tasks": [
         {
           "progress": "60%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
           "timeSpent": "7h",
-          "title": "SN Community Health: 8 tiếp"
+          "title": "SN Community Health: 8 tiáº¿p"
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-10-14T15:04:05.388Z",
+      "date": "2026-10-14",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "SN Community Health: 6. tiếp",
+          "progress": "100%",
+          "timeSpent": "4.5h"
+        }
+      ],
+      "message": "0.25h hop dau tuan, 3h SN 42"
     }
   ]
 }
