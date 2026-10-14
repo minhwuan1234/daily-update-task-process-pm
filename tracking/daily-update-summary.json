@@ -8128,11 +8128,11 @@
     "toolName": "Daily Update Task Process PM",
     "date": "2026-10-14",
     "timezone": "Asia/Ho_Chi_Minh",
-    "updatedAt": "2026-10-14T10:50:28.107500+00:00",
+    "updatedAt": "2026-10-14T11:15:47.768000+00:00",
     "totalMembers": 11,
-    "submittedMembers": 1,
-    "missingMembers": 10,
-    "submissionRate": 9.09,
+    "submittedMembers": 2,
+    "missingMembers": 9,
+    "submissionRate": 18.18,
     "members": {
       "ou_7efb0c22f47740644cf374252d01fdba": {
         "memberName": "Ánh",
@@ -8207,9 +8207,9 @@
       "ou_e0897ef23f084625d708cd50c16468db": {
         "memberName": "Thế Anh",
         "userId": "ou_e0897ef23f084625d708cd50c16468db",
-        "status": "missing",
-        "submittedAt": null,
-        "submissionCountToday": 0
+        "status": "submitted",
+        "submittedAt": "2026-10-14T11:15:37.122Z",
+        "submissionCountToday": 1
       }
     }
   }

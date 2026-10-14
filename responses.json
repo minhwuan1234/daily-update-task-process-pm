@@ -16,18 +16,18 @@
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     },
     {
-      "userId": "ou_e0897ef23f084625d708cd50c16468db",
-      "submittedAt": "2026-10-14T11:15:37.122Z",
       "date": "2026-10-14",
+      "message": "em họp đầu tuần 15 phút và sửa 42. Antibiotics You Should Never Mix Up hết 15 phút ạ",
+      "submittedAt": "2026-10-14T11:15:37.122Z",
       "tasks": [
         {
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "title": "SN Priority: 43. Major Antibiotic Side Effects ~6 mins",
           "progress": "60%",
-          "timeSpent": "7.5h"
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
+          "timeSpent": "7.5h",
+          "title": "SN Priority: 43. Major Antibiotic Side Effects ~6 mins"
         }
       ],
-      "message": "em họp đầu tuần 15 phút và sửa 42. Antibiotics You Should Never Mix Up hết 15 phút ạ"
+      "userId": "ou_e0897ef23f084625d708cd50c16468db"
     }
   ]
 }
