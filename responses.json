@@ -58,18 +58,18 @@
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     },
     {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-10-14T15:04:05.388Z",
       "date": "2026-10-14",
+      "message": "0.25h hop dau tuan, 3h SN 42",
+      "submittedAt": "2026-10-14T15:04:05.388Z",
       "tasks": [
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "SN Community Health: 6. tiếp",
           "progress": "100%",
-          "timeSpent": "4.5h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "timeSpent": "4.5h",
+          "title": "SN Community Health: 6. tiếp"
         }
       ],
-      "message": "0.25h hop dau tuan, 3h SN 42"
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     }
   ]
 }
