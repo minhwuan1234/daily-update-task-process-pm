@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-10-15",
-      "message": "Em sá»­a ná»i bá» SN 5. Family studyguide háº¿t 1h vÃ  cáº­p nháº­t tin AI/sá»­a láº¡i video BD lÃ m báº±ng claude háº¿t 30 phÃºt áº¡",
+      "message": "Em sÃ¡Â»Â­a nÃ¡Â»Âi bÃ¡Â»Â SN 5. Family studyguide hÃ¡ÂºÂ¿t 1h vÃÂ  cÃ¡ÂºÂ­p nhÃ¡ÂºÂ­t tin AI/sÃ¡Â»Â­a lÃ¡ÂºÂ¡i video BD lÃÂ m bÃ¡ÂºÂ±ng claude hÃ¡ÂºÂ¿t 30 phÃÂºt Ã¡ÂºÂ¡",
       "submittedAt": "2026-10-15T10:49:57.319Z",
       "tasks": [
         {
@@ -28,6 +28,20 @@
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-10-15T11:05:17.448Z",
+      "date": "2026-10-15",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "OKR: Personal project: Improve anim quality",
+          "progress": "90%",
+          "timeSpent": "5h"
+        }
+      ],
+      "message": "BD videos: HRRP #10 Your 7-days follow up (3h)"
     }
   ]
 }
