@@ -2,18 +2,18 @@
   "date": "2026-10-15",
   "responses": [
     {
-      "userId": "ou_e0897ef23f084625d708cd50c16468db",
-      "submittedAt": "2026-10-15T10:49:57.319Z",
       "date": "2026-10-15",
+      "message": "Em sửa nội bộ SN 5. Family studyguide hết 1h và cập nhật tin AI/sửa lại video BD làm bằng claude hết 30 phút ạ",
+      "submittedAt": "2026-10-15T10:49:57.319Z",
       "tasks": [
         {
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "title": "SN Priority: 43. Major Antibiotic Side Effects ~6 mins",
           "progress": "100%",
-          "timeSpent": "6.5h"
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
+          "timeSpent": "6.5h",
+          "title": "SN Priority: 43. Major Antibiotic Side Effects ~6 mins"
         }
       ],
-      "message": "Em sửa nội bộ SN 5. Family studyguide hết 1h và cập nhật tin AI/sửa lại video BD làm bằng claude hết 30 phút ạ"
+      "userId": "ou_e0897ef23f084625d708cd50c16468db"
     }
   ]
 }
