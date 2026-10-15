@@ -1,75 +1,19 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "responses": [
     {
-      "date": "2026-10-14",
-      "message": "2 tiÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿ng sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a SN home visit\n30p sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a Klett 5.04\n1h thÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­ test tool AI ÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ£nh -> SVG",
-      "submittedAt": "2026-10-14T10:50:18.016Z",
+      "userId": "ou_e0897ef23f084625d708cd50c16468db",
+      "submittedAt": "2026-10-15T10:49:57.319Z",
+      "date": "2026-10-15",
       "tasks": [
         {
-          "progress": "10%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "4h",
-          "title": "SN Community Health: 9. Infectious Diseases ~20 mins\n13/11"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-10-14",
-      "message": "em hÃÂ¡ÃÂ»ÃÂp ÃÂÃÂÃÂ¡ÃÂºÃÂ§u tuÃÂ¡ÃÂºÃÂ§n 15 phÃÂÃÂºt vÃÂÃÂ  sÃÂ¡ÃÂ»ÃÂ­a 42. Antibiotics You Should Never Mix Up hÃÂ¡ÃÂºÃÂ¿t 15 phÃÂÃÂºt ÃÂ¡ÃÂºÃÂ¡",
-      "submittedAt": "2026-10-14T11:15:37.122Z",
-      "tasks": [
-        {
-          "progress": "60%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "7.5h",
-          "title": "SN Priority: 43. Major Antibiotic Side Effects ~6 mins"
-        }
-      ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
-    },
-    {
-      "date": "2026-10-14",
-      "message": "- SN Priority ep 41 (4h)",
-      "submittedAt": "2026-10-14T11:20:00.791Z",
-      "tasks": [
-        {
-          "progress": "90%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "4h",
-          "title": "OKR: Personal project: Improve anim quality"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-10-14",
-      "message": "há»p + sá»­a UV 25+ offer + upload áº£nh high-res",
-      "submittedAt": "2026-10-14T11:24:15.533Z",
-      "tasks": [
-        {
-          "progress": "60%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "7h",
-          "title": "SN Community Health: 8 tiáº¿p"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-10-14",
-      "message": "0.25h hop dau tuan, 3h SN 42",
-      "submittedAt": "2026-10-14T15:04:05.388Z",
-      "tasks": [
-        {
+          "title": "SN Priority: 43. Major Antibiotic Side Effects ~6 mins",
           "progress": "100%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "4.5h",
-          "title": "SN Community Health: 6. tiếp"
+          "timeSpent": "6.5h"
         }
       ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": "Em sửa nội bộ SN 5. Family studyguide hết 1h và cập nhật tin AI/sửa lại video BD làm bằng claude hết 30 phút ạ"
     }
   ]
 }
