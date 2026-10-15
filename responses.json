@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-10-15",
-      "message": "Em sÃÂ¡ÃÂ»ÃÂ­a nÃÂ¡ÃÂ»ÃÂi bÃÂ¡ÃÂ»ÃÂ SN 5. Family studyguide hÃÂ¡ÃÂºÃÂ¿t 1h vÃÂÃÂ  cÃÂ¡ÃÂºÃÂ­p nhÃÂ¡ÃÂºÃÂ­t tin AI/sÃÂ¡ÃÂ»ÃÂ­a lÃÂ¡ÃÂºÃÂ¡i video BD lÃÂÃÂ m bÃÂ¡ÃÂºÃÂ±ng claude hÃÂ¡ÃÂºÃÂ¿t 30 phÃÂÃÂºt ÃÂ¡ÃÂºÃÂ¡",
+      "message": "Em sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a nÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂi bÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ SN 5. Family studyguide hÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿t 1h vÃÂÃÂÃÂÃÂ  cÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ­p nhÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ­t tin AI/sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a lÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¡i video BD lÃÂÃÂÃÂÃÂ m bÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ±ng claude hÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿t 30 phÃÂÃÂÃÂÃÂºt ÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¡",
       "submittedAt": "2026-10-15T10:49:57.319Z",
       "tasks": [
         {
@@ -52,7 +52,7 @@
           "progress": "80%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
           "timeSpent": "6.5h",
-          "title": "SN Community Health: 8 tiếp"
+          "title": "SN Community Health: 8 tiáº¿p"
         },
         {
           "progress": "100%",
@@ -62,6 +62,20 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-10-15T11:26:31.183Z",
+      "date": "2026-10-15",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "SN Priority: 42. Antibiotics You Should Never Mix Up ~7 mins",
+          "progress": "70%",
+          "timeSpent": "7h"
+        }
+      ],
+      "message": "1h fix SN 40"
     }
   ]
 }
