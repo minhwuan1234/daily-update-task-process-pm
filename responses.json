@@ -3,21 +3,21 @@
   "responses": [
     {
       "date": "2026-10-16",
-      "message": "30p há»p + 1h sá»­a D25 ENT brochure",
+      "message": "30p hÃ¡Â»Âp + 1h sÃ¡Â»Â­a D25 ENT brochure",
       "submittedAt": "2026-10-16T11:05:09.935Z",
       "tasks": [
         {
           "progress": "100%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
           "timeSpent": "6.5h",
-          "title": "SN Community Health: 8 tiáº¿p"
+          "title": "SN Community Health: 8 tiÃ¡ÂºÂ¿p"
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     },
     {
       "date": "2026-10-16",
-      "message": "em sửa nội bộ 43. Major Antibiotic Side Effects hết 30 phút và họp cuối tuần 30 phút ạ",
+      "message": "em sá»­a ná»i bá» 43. Major Antibiotic Side Effects háº¿t 30 phÃºt vÃ  há»p cuá»i tuáº§n 30 phÃºt áº¡",
       "submittedAt": "2026-10-16T11:17:35.515Z",
       "tasks": [
         {
@@ -28,6 +28,20 @@
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-10-16T11:18:06.070Z",
+      "date": "2026-10-16",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "OKR: Personal project: Improve anim quality",
+          "progress": "90%",
+          "timeSpent": "6.5h"
+        }
+      ],
+      "message": "- Xem kịch bản Cengage + SN Priority ep 41 + Họp (1.5h)"
     }
   ]
 }
