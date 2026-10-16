@@ -2,18 +2,18 @@
   "date": "2026-10-16",
   "responses": [
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-10-16T11:05:09.935Z",
       "date": "2026-10-16",
+      "message": "30p họp + 1h sửa D25 ENT brochure",
+      "submittedAt": "2026-10-16T11:05:09.935Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "SN Community Health: 8 tiếp",
           "progress": "100%",
-          "timeSpent": "6.5h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "6.5h",
+          "title": "SN Community Health: 8 tiếp"
         }
       ],
-      "message": "30p họp + 1h sửa D25 ENT brochure"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }
