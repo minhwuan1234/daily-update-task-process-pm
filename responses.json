@@ -1,95 +1,19 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "responses": [
     {
-      "date": "2026-10-15",
-      "message": "Em sÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ»ÃÂÃÂÃÂÃÂ­a nÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ»ÃÂÃÂÃÂÃÂi bÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ»ÃÂÃÂÃÂÃÂ SN 5. Family studyguide hÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ¿t 1h vÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ  cÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ­p nhÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ­t tin AI/sÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ»ÃÂÃÂÃÂÃÂ­a lÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ¡i video BD lÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ m bÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ±ng claude hÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ¿t 30 phÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂºt ÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ¡",
-      "submittedAt": "2026-10-15T10:49:57.319Z",
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-10-16T11:05:09.935Z",
+      "date": "2026-10-16",
       "tasks": [
         {
-          "progress": "100%",
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "6.5h",
-          "title": "SN Priority: 43. Major Antibiotic Side Effects ~6 mins"
-        }
-      ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
-    },
-    {
-      "date": "2026-10-15",
-      "message": "",
-      "submittedAt": "2026-10-15T10:55:24.521Z",
-      "tasks": [
-        {
-          "progress": "30%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "8h",
-          "title": "SN Community Health: 9. Infectious Diseases ~20 mins\n13/11"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-10-15",
-      "message": "BD videos: HRRP #10 Your 7-days follow up (3h)",
-      "submittedAt": "2026-10-15T11:05:17.448Z",
-      "tasks": [
-        {
-          "progress": "90%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "5h",
-          "title": "OKR: Personal project: Improve anim quality"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-10-15",
-      "message": "khum a",
-      "submittedAt": "2026-10-15T11:06:51.275Z",
-      "tasks": [
-        {
-          "progress": "80%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "6.5h",
-          "title": "SN Community Health: 8 tiÃ¡ÂºÂ¿p"
-        },
-        {
+          "title": "SN Community Health: 8 tiếp",
           "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "timeSpent": "1.5h",
-          "title": "UV Smart: New D25+ ENT brochure (2h)"
+          "timeSpent": "6.5h"
         }
       ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-10-15",
-      "message": "1h fix SN 40",
-      "submittedAt": "2026-10-15T11:26:31.183Z",
-      "tasks": [
-        {
-          "progress": "70%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "7h",
-          "title": "SN Priority: 42. Antibiotics You Should Never Mix Up ~7 mins"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
-    },
-    {
-      "date": "2026-10-15",
-      "message": "",
-      "submittedAt": "2026-10-15T12:54:49.640Z",
-      "tasks": [
-        {
-          "progress": "40%",
-          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "8h",
-          "title": "SN Community Health: 7. Home Visit ~14 mins"
-        }
-      ],
-      "userId": "ou_e273fec35061a42660190f8c70f19882"
+      "message": "30p họp + 1h sửa D25 ENT brochure"
     }
   ]
 }
