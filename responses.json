@@ -3,17 +3,31 @@
   "responses": [
     {
       "date": "2026-10-16",
-      "message": "30p họp + 1h sửa D25 ENT brochure",
+      "message": "30p há»p + 1h sá»­a D25 ENT brochure",
       "submittedAt": "2026-10-16T11:05:09.935Z",
       "tasks": [
         {
           "progress": "100%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
           "timeSpent": "6.5h",
-          "title": "SN Community Health: 8 tiếp"
+          "title": "SN Community Health: 8 tiáº¿p"
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_e0897ef23f084625d708cd50c16468db",
+      "submittedAt": "2026-10-16T11:17:35.515Z",
+      "date": "2026-10-16",
+      "tasks": [
+        {
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
+          "title": "RnD: AI experiments",
+          "progress": "20%",
+          "timeSpent": "7h"
+        }
+      ],
+      "message": "em sửa nội bộ 43. Major Antibiotic Side Effects hết 30 phút và họp cuối tuần 30 phút ạ"
     }
   ]
 }
