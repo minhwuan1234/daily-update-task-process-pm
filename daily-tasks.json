@@ -1,19 +1,14 @@
 {
-  "date": "15-Oct",
-  "generatedAt": "2026-10-15T10:45:08.207Z",
+  "date": "16-Oct",
+  "generatedAt": "2026-10-16T10:45:08.454Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "15-Oct",
+          "date": "16-Oct",
           "dueDate": "16/10",
           "task": "SN Community Health: 8 tiếp"
-        },
-        {
-          "date": "15-Oct",
-          "dueDate": "16/10",
-          "task": "UV Smart: New D25+ ENT brochure (2h)"
         }
       ]
     },
@@ -21,9 +16,9 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "15-Oct",
+          "date": "16-Oct",
           "dueDate": null,
-          "task": "SN Community Health: 9. Infectious Diseases ~20 mins\n13/11"
+          "task": "SN Community Health: 9. Infectious Diseases ~20 mins\n13/11\n0.5"
         }
       ]
     },
@@ -31,9 +26,9 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "15-Oct",
-          "dueDate": "23/10",
-          "task": "SN Priority: 43. Major Antibiotic Side Effects ~6 mins"
+          "date": "16-Oct",
+          "dueDate": null,
+          "task": "RnD: AI experiments"
         }
       ]
     },
@@ -41,7 +36,7 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "15-Oct",
+          "date": "16-Oct",
           "dueDate": "27/10",
           "task": "SN Community Health: 7. Home Visit ~14 mins"
         }
@@ -51,23 +46,13 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "15-Oct",
+          "date": "16-Oct",
           "dueDate": null,
           "task": "OKR: Personal project: Improve anim quality"
         }
       ]
-    },
-    {
-      "member": "Quân",
-      "tasks": [
-        {
-          "date": "15-Oct",
-          "dueDate": "23/10",
-          "task": "SN Priority: 42. Antibiotics You Should Never Mix Up ~7 mins"
-        }
-      ]
     }
   ],
-  "totalMembers": 6,
-  "totalTasks": 7
+  "totalMembers": 5,
+  "totalTasks": 5
 }
