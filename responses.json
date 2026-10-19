@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-10-19",
-      "message": "~30p sá»­a SN 8\ncÃ²n láº¡i lÃ m BD 21",
+      "message": "~30p sÃ¡Â»Â­a SN 8\ncÃÂ²n lÃ¡ÂºÂ¡i lÃÂ m BD 21",
       "submittedAt": "2026-10-19T10:51:32.117Z",
       "tasks": [
         {
@@ -23,7 +23,7 @@
     },
     {
       "date": "2026-10-19",
-      "message": "Em sửa SN Priority: 43. Major Antibiotic Side Effects hết 15 phút và họp đầu tuần 15 phút ạ",
+      "message": "Em sá»­a SN Priority: 43. Major Antibiotic Side Effects háº¿t 15 phÃºt vÃ  há»p Äáº§u tuáº§n 15 phÃºt áº¡",
       "submittedAt": "2026-10-19T11:06:03.700Z",
       "tasks": [
         {
@@ -34,6 +34,20 @@
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-10-19T12:15:21.132Z",
+      "date": "2026-10-19",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "SN Community Health: 8. Vulnerable Populations ~14 mins\n\n27/10",
+          "progress": "30%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
