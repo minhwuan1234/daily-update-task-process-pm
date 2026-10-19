@@ -1,14 +1,19 @@
 {
-  "date": "16-Oct",
-  "generatedAt": "2026-10-16T10:45:08.454Z",
+  "date": "19-Oct",
+  "generatedAt": "2026-10-19T10:45:10.100Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "16-Oct",
-          "dueDate": "16/10",
-          "task": "SN Community Health: 8 tiếp"
+          "date": "19-Oct",
+          "dueDate": "20/10",
+          "task": "KCL: Giant Panda styleframe (0.75)"
+        },
+        {
+          "date": "19-Oct",
+          "dueDate": null,
+          "task": "UV Smart: update D45 EMEA brochure (2h)\n21/10"
         }
       ]
     },
@@ -16,9 +21,14 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "16-Oct",
+          "date": "19-Oct",
           "dueDate": null,
-          "task": "SN Community Health: 9. Infectious Diseases ~20 mins\n13/11\n0.5"
+          "task": "SN 9 tiếp"
+        },
+        {
+          "date": "19-Oct",
+          "dueDate": "19/10",
+          "task": "Careum: Style frame fix (0.5)"
         }
       ]
     },
@@ -26,7 +36,7 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "16-Oct",
+          "date": "19-Oct",
           "dueDate": null,
           "task": "RnD: AI experiments"
         }
@@ -36,9 +46,9 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "16-Oct",
-          "dueDate": "27/10",
-          "task": "SN Community Health: 7. Home Visit ~14 mins"
+          "date": "19-Oct",
+          "dueDate": null,
+          "task": "SN 7 tiếp"
         }
       ]
     },
@@ -46,13 +56,23 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "16-Oct",
+          "date": "19-Oct",
           "dueDate": null,
-          "task": "OKR: Personal project: Improve anim quality"
+          "task": "SN Community Health: 8. Vulnerable Populations ~14 mins\n\n27/10"
+        }
+      ]
+    },
+    {
+      "member": "Quân",
+      "tasks": [
+        {
+          "date": "19-Oct",
+          "dueDate": "6/11",
+          "task": "SN Priority: 43. Major Antibiotic Side Effects ~6 mins"
         }
       ]
     }
   ],
-  "totalMembers": 5,
-  "totalTasks": 5
+  "totalMembers": 6,
+  "totalTasks": 8
 }
