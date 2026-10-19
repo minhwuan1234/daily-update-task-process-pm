@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-10-19",
-      "message": "~30p sÃ¡Â»Â­a SN 8\ncÃÂ²n lÃ¡ÂºÂ¡i lÃÂ m BD 21",
+      "message": "~30p sÃÂ¡ÃÂ»ÃÂ­a SN 8\ncÃÂÃÂ²n lÃÂ¡ÃÂºÃÂ¡i lÃÂÃÂ m BD 21",
       "submittedAt": "2026-10-19T10:51:32.117Z",
       "tasks": [
         {
@@ -23,7 +23,7 @@
     },
     {
       "date": "2026-10-19",
-      "message": "Em sá»­a SN Priority: 43. Major Antibiotic Side Effects háº¿t 15 phÃºt vÃ  há»p Äáº§u tuáº§n 15 phÃºt áº¡",
+      "message": "Em sÃ¡Â»Â­a SN Priority: 43. Major Antibiotic Side Effects hÃ¡ÂºÂ¿t 15 phÃÂºt vÃÂ  hÃ¡Â»Âp ÃÂÃ¡ÂºÂ§u tuÃ¡ÂºÂ§n 15 phÃÂºt Ã¡ÂºÂ¡",
       "submittedAt": "2026-10-19T11:06:03.700Z",
       "tasks": [
         {
@@ -48,6 +48,20 @@
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-10-19T15:13:33.756Z",
+      "date": "2026-10-19",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "SN Priority: 43. Major Antibiotic Side Effects ~6 mins",
+          "progress": "70%",
+          "timeSpent": "7.5h"
+        }
+      ],
+      "message": "0,5 h fix AMD (khách)"
     }
   ]
 }
