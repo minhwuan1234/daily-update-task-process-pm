@@ -1,47 +1,25 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-19",
   "responses": [
     {
-      "date": "2026-10-16",
-      "message": "30p hÃ¡Â»Âp + 1h sÃ¡Â»Â­a D25 ENT brochure",
-      "submittedAt": "2026-10-16T11:05:09.935Z",
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-10-19T10:51:32.117Z",
+      "date": "2026-10-19",
       "tasks": [
         {
-          "progress": "100%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "6.5h",
-          "title": "SN Community Health: 8 tiÃ¡ÂºÂ¿p"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-10-16",
-      "message": "em sá»­a ná»i bá» 43. Major Antibiotic Side Effects háº¿t 30 phÃºt vÃ  há»p cuá»i tuáº§n 30 phÃºt áº¡",
-      "submittedAt": "2026-10-16T11:17:35.515Z",
-      "tasks": [
+          "title": "KCL: Giant Panda styleframe (0.75)",
+          "progress": "100%",
+          "timeSpent": "4h"
+        },
         {
-          "progress": "20%",
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "7h",
-          "title": "RnD: AI experiments"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
+          "title": "UV Smart: update D45 EMEA brochure (2h)\n21/10",
+          "progress": "100%",
+          "timeSpent": "1h"
         }
       ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
-    },
-    {
-      "date": "2026-10-16",
-      "message": "- Xem kịch bản Cengage + SN Priority ep 41 + Họp (1.5h)",
-      "submittedAt": "2026-10-16T11:18:06.070Z",
-      "tasks": [
-        {
-          "progress": "90%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "6.5h",
-          "title": "OKR: Personal project: Improve anim quality"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+      "message": "~30p sửa SN 8\ncòn lại làm BD 21"
     }
   ]
 }
