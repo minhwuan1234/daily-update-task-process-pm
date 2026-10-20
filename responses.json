@@ -2,18 +2,18 @@
   "date": "2026-10-20",
   "responses": [
     {
-      "userId": "ou_e0897ef23f084625d708cd50c16468db",
-      "submittedAt": "2026-10-20T14:53:28.049Z",
       "date": "2026-10-20",
+      "message": "Em làm 6. Rural & Urban Health - study guide hết 3h, em nhầm do không đọc kỹ task này của chị Thư, em sẽ làm bù task LnD vào ngoài thời gian làm việc ạ",
+      "submittedAt": "2026-10-20T14:53:28.049Z",
       "tasks": [
         {
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "title": "RnD: AI experiments",
           "progress": "30%",
-          "timeSpent": "3h"
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
+          "timeSpent": "3h",
+          "title": "RnD: AI experiments"
         }
       ],
-      "message": "Em làm 6. Rural & Urban Health - study guide hết 3h, em nhầm do không đọc kỹ task này của chị Thư, em sẽ làm bù task LnD vào ngoài thời gian làm việc ạ"
+      "userId": "ou_e0897ef23f084625d708cd50c16468db"
     }
   ]
 }
