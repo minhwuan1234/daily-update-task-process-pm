@@ -1,67 +1,19 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "responses": [
     {
-      "date": "2026-10-19",
-      "message": "~30p sÃÂ¡ÃÂ»ÃÂ­a SN 8\ncÃÂÃÂ²n lÃÂ¡ÃÂºÃÂ¡i lÃÂÃÂ m BD 21",
-      "submittedAt": "2026-10-19T10:51:32.117Z",
+      "userId": "ou_e0897ef23f084625d708cd50c16468db",
+      "submittedAt": "2026-10-20T14:53:28.049Z",
+      "date": "2026-10-20",
       "tasks": [
         {
-          "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "4h",
-          "title": "KCL: Giant Panda styleframe (0.75)"
-        },
-        {
-          "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "timeSpent": "1h",
-          "title": "UV Smart: update D45 EMEA brochure (2h)\n21/10"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-10-19",
-      "message": "Em sÃ¡Â»Â­a SN Priority: 43. Major Antibiotic Side Effects hÃ¡ÂºÂ¿t 15 phÃÂºt vÃÂ  hÃ¡Â»Âp ÃÂÃ¡ÂºÂ§u tuÃ¡ÂºÂ§n 15 phÃÂºt Ã¡ÂºÂ¡",
-      "submittedAt": "2026-10-19T11:06:03.700Z",
-      "tasks": [
-        {
-          "progress": "30%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "7.5h",
-          "title": "RnD: AI experiments"
-        }
-      ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
-    },
-    {
-      "date": "2026-10-19",
-      "message": "",
-      "submittedAt": "2026-10-19T12:15:21.132Z",
-      "tasks": [
-        {
+          "title": "RnD: AI experiments",
           "progress": "30%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "8h",
-          "title": "SN Community Health: 8. Vulnerable Populations ~14 mins\n\n27/10"
+          "timeSpent": "3h"
         }
       ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-10-19T15:13:33.756Z",
-      "date": "2026-10-19",
-      "tasks": [
-        {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "SN Priority: 43. Major Antibiotic Side Effects ~6 mins",
-          "progress": "70%",
-          "timeSpent": "7.5h"
-        }
-      ],
-      "message": "0,5 h fix AMD (khách)"
+      "message": "Em làm 6. Rural & Urban Health - study guide hết 3h, em nhầm do không đọc kỹ task này của chị Thư, em sẽ làm bù task LnD vào ngoài thời gian làm việc ạ"
     }
   ]
 }
