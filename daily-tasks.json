@@ -1,19 +1,14 @@
 {
-  "date": "20-Oct",
-  "generatedAt": "2026-10-20T10:45:09.581Z",
+  "date": "22-Oct",
+  "generatedAt": "2026-10-22T10:48:04.352Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "20-Oct",
+          "date": "22-Oct",
           "dueDate": null,
-          "task": "SN Community Health: 6. studyguide (0.5)\n27/10"
-        },
-        {
-          "date": "20-Oct",
-          "dueDate": null,
-          "task": "BD videos: Pre-Op Video #21 Before Cardiac Catheterization tiếp 3h"
+          "task": "SN Community Health: 10. Communicable Diseases - HIV~23 mins (6)\n13/11"
         }
       ]
     },
@@ -21,9 +16,14 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "20-Oct",
+          "date": "22-Oct",
           "dueDate": null,
           "task": "SN 9 tiếp"
+        },
+        {
+          "date": "22-Oct",
+          "dueDate": "27/10",
+          "task": "Careum: video 1. Subkutane Injektion illus - Ger ~4.6mins (2.5)"
         }
       ]
     },
@@ -31,7 +31,7 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "20-Oct",
+          "date": "22-Oct",
           "dueDate": null,
           "task": "RnD: AI experiments"
         }
@@ -41,7 +41,12 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "20-Oct",
+          "date": "22-Oct",
+          "dueDate": null,
+          "task": "CSL Coillte OPM Sample (2h)\nDue anim 23/10"
+        },
+        {
+          "date": "22-Oct",
           "dueDate": null,
           "task": "RnD: AI experiment vs các low budget SR (staneconomic/ pulsestart/ jolyart)"
         }
@@ -51,9 +56,9 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "20-Oct",
+          "date": "22-Oct",
           "dueDate": null,
-          "task": "SN Community Health: 8. Vulnerable Populations ~14 mins\n\n27/10"
+          "task": "BD videos: Pre-Op Video #21 Before Cardiac Catheterization"
         }
       ]
     },
@@ -61,13 +66,13 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "20-Oct",
-          "dueDate": "6/11",
-          "task": "SN Priority: 43. Major Antibiotic Side Effects ~6 mins"
+          "date": "22-Oct",
+          "dueDate": null,
+          "task": "SN Community Health: 9. Infectious Diseases ~20 mins\n27/11"
         }
       ]
     }
   ],
   "totalMembers": 6,
-  "totalTasks": 7
+  "totalTasks": 8
 }
