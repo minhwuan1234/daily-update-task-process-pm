@@ -1,33 +1,19 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-22",
   "responses": [
     {
-      "date": "2026-10-20",
-      "message": "Em lÃ m 6. Rural & Urban Health - study guide háº¿t 3h, em nháº§m do khÃ´ng Äá»c ká»¹ task nÃ y cá»§a chá» ThÆ°, em sáº½ lÃ m bÃ¹ task LnD vÃ o ngoÃ i thá»i gian lÃ m viá»c áº¡",
-      "submittedAt": "2026-10-20T14:53:28.049Z",
+      "userId": "ou_e0897ef23f084625d708cd50c16468db",
+      "submittedAt": "2026-10-22T10:50:31.247Z",
+      "date": "2026-10-22",
       "tasks": [
         {
-          "progress": "30%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "3h",
-          "title": "RnD: AI experiments"
+          "title": "RnD: AI experiments",
+          "progress": "30%",
+          "timeSpent": "—"
         }
       ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
-    },
-    {
-      "date": "2026-10-20",
-      "message": "0,5h fix SN6, 2h off som 20/10",
-      "submittedAt": "2026-10-20T15:38:31.285Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "5.5h",
-          "title": "SN Priority: 43. Major Antibiotic Side Effects ~6 mins"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": "Em làm 44. Antibiotics and Allergic Reactions hết 8h, đc 80% ạ"
     }
   ]
 }
