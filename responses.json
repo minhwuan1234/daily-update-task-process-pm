@@ -3,13 +3,13 @@
   "responses": [
     {
       "date": "2026-10-22",
-      "message": "Em lÃÂ m 44. Antibiotics and Allergic Reactions hÃ¡ÂºÂ¿t 8h, ÃÂc 80% Ã¡ÂºÂ¡",
+      "message": "Em lÃÂÃÂ m 44. Antibiotics and Allergic Reactions hÃÂ¡ÃÂºÃÂ¿t 8h, ÃÂÃÂc 80% ÃÂ¡ÃÂºÃÂ¡",
       "submittedAt": "2026-10-22T10:50:31.247Z",
       "tasks": [
         {
           "progress": "30%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "Ã¢ÂÂ",
+          "timeSpent": "ÃÂ¢ÃÂÃÂ",
           "title": "RnD: AI experiments"
         }
       ],
@@ -17,19 +17,19 @@
     },
     {
       "date": "2026-10-22",
-      "message": "HÃ´m nay chÆ°a lÃ m Äc careum",
+      "message": "HÃÂ´m nay chÃÂ°a lÃÂ m ÃÂc careum",
       "submittedAt": "2026-10-22T10:55:43.678Z",
       "tasks": [
         {
           "progress": "90%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "â",
-          "title": "SN 9 tiáº¿p"
+          "timeSpent": "Ã¢ÂÂ",
+          "title": "SN 9 tiÃ¡ÂºÂ¿p"
         },
         {
           "progress": "0%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
-          "timeSpent": "â",
+          "timeSpent": "Ã¢ÂÂ",
           "title": "Careum: video 1. Subkutane Injektion illus - Ger ~4.6mins (2.5)"
         }
       ],
@@ -37,17 +37,31 @@
     },
     {
       "date": "2026-10-22",
-      "message": "SN đang ở trang 2/19 =))) \n1h30 - sửa UV D45 + sửa OPM + sửa Studyguide 8.\nkhoảng 30p sửa lại size rollup banner D45 D60",
+      "message": "SN Äang á» trang 2/19 =))) \n1h30 - sá»­a UV D45 + sá»­a OPM + sá»­a Studyguide 8.\nkhoáº£ng 30p sá»­a láº¡i size rollup banner D45 D60",
       "submittedAt": "2026-10-22T10:57:38.398Z",
       "tasks": [
         {
           "progress": "10%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "—",
+          "timeSpent": "â",
           "title": "SN Community Health: 10. Communicable Diseases - HIV~23 mins (6)\n13/11"
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-10-22T11:01:40.425Z",
+      "date": "2026-10-22",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "BD videos: Pre-Op Video #21 Before Cardiac Catheterization",
+          "progress": "40%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
