@@ -2,18 +2,18 @@
   "date": "2026-10-22",
   "responses": [
     {
-      "userId": "ou_e0897ef23f084625d708cd50c16468db",
-      "submittedAt": "2026-10-22T10:50:31.247Z",
       "date": "2026-10-22",
+      "message": "Em làm 44. Antibiotics and Allergic Reactions hết 8h, đc 80% ạ",
+      "submittedAt": "2026-10-22T10:50:31.247Z",
       "tasks": [
         {
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "title": "RnD: AI experiments",
           "progress": "30%",
-          "timeSpent": "—"
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
+          "timeSpent": "—",
+          "title": "RnD: AI experiments"
         }
       ],
-      "message": "Em làm 44. Antibiotics and Allergic Reactions hết 8h, đc 80% ạ"
+      "userId": "ou_e0897ef23f084625d708cd50c16468db"
     }
   ]
 }
