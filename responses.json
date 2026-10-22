@@ -3,17 +3,37 @@
   "responses": [
     {
       "date": "2026-10-22",
-      "message": "Em làm 44. Antibiotics and Allergic Reactions hết 8h, đc 80% ạ",
+      "message": "Em lÃ m 44. Antibiotics and Allergic Reactions háº¿t 8h, Äc 80% áº¡",
       "submittedAt": "2026-10-22T10:50:31.247Z",
       "tasks": [
         {
           "progress": "30%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "—",
+          "timeSpent": "â",
           "title": "RnD: AI experiments"
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
+    },
+    {
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-10-22T10:55:43.678Z",
+      "date": "2026-10-22",
+      "tasks": [
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "SN 9 tiếp",
+          "progress": "90%",
+          "timeSpent": "—"
+        },
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
+          "title": "Careum: video 1. Subkutane Injektion illus - Ger ~4.6mins (2.5)",
+          "progress": "0%",
+          "timeSpent": "—"
+        }
+      ],
+      "message": "Hôm nay chưa làm đc careum"
     }
   ]
 }
