@@ -1,81 +1,19 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "responses": [
     {
-      "date": "2026-10-22",
-      "message": "Em lÃÂÃÂÃÂÃÂ m 44. Antibiotics and Allergic Reactions hÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿t 8h, ÃÂÃÂÃÂÃÂc 80% ÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¡",
-      "submittedAt": "2026-10-22T10:50:31.247Z",
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-10-23T11:19:56.091Z",
+      "date": "2026-10-23",
       "tasks": [
         {
-          "progress": "30%",
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ",
-          "title": "RnD: AI experiments"
-        }
-      ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
-    },
-    {
-      "date": "2026-10-22",
-      "message": "HÃÂÃÂ´m nay chÃÂÃÂ°a lÃÂÃÂ m ÃÂÃÂc careum",
-      "submittedAt": "2026-10-22T10:55:43.678Z",
-      "tasks": [
-        {
-          "progress": "90%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "ÃÂ¢ÃÂÃÂ",
-          "title": "SN 9 tiÃÂ¡ÃÂºÃÂ¿p"
-        },
-        {
-          "progress": "0%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
-          "timeSpent": "ÃÂ¢ÃÂÃÂ",
-          "title": "Careum: video 1. Subkutane Injektion illus - Ger ~4.6mins (2.5)"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-10-22",
-      "message": "SN ÃÂang Ã¡Â»Â trang 2/19 =))) \n1h30 - sÃ¡Â»Â­a UV D45 + sÃ¡Â»Â­a OPM + sÃ¡Â»Â­a Studyguide 8.\nkhoÃ¡ÂºÂ£ng 30p sÃ¡Â»Â­a lÃ¡ÂºÂ¡i size rollup banner D45 D60",
-      "submittedAt": "2026-10-22T10:57:38.398Z",
-      "tasks": [
-        {
-          "progress": "10%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "Ã¢ÂÂ",
-          "title": "SN Community Health: 10. Communicable Diseases - HIV~23 mins (6)\n13/11"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-10-22",
-      "message": "",
-      "submittedAt": "2026-10-22T11:01:40.425Z",
-      "tasks": [
-        {
+          "title": "SN Community Health: 10. Communicable Diseases - HIV~11 mins (2.5)\n13/11",
           "progress": "40%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "8h",
-          "title": "BD videos: Pre-Op Video #21 Before Cardiac Catheterization"
+          "timeSpent": "4h"
         }
       ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-10-22",
-      "message": "1h AMD fix (khach), 0,5h fix SN 43, 4h Sahel animatic fix, 2,5h Epioxa",
-      "submittedAt": "2026-10-22T11:26:13.956Z",
-      "tasks": [
-        {
-          "progress": "0%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "0.5h",
-          "title": "SN Community Health: 9. Infectious Diseases ~20 mins\n27/11"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": ""
     }
   ]
 }
