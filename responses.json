@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-10-23",
-      "message": "em lÃ m 44. Antibiotics and Allergic Reactions háº¿t 3.5h, xong 100%, sá»­a ná»i bá» 0.5h vÃ  há»p cuá»i tuáº§n 0.5h",
+      "message": "em lÃÂ m 44. Antibiotics and Allergic Reactions hÃ¡ÂºÂ¿t 3.5h, xong 100%, sÃ¡Â»Â­a nÃ¡Â»Âi bÃ¡Â»Â 0.5h vÃÂ  hÃ¡Â»Âp cuÃ¡Â»Âi tuÃ¡ÂºÂ§n 0.5h",
       "submittedAt": "2026-10-23T11:52:51.757Z",
       "tasks": [
         {
@@ -31,7 +31,7 @@
     },
     {
       "date": "2026-10-23",
-      "message": "- Sửa Klett DA6.01 Water cycle + SN CH ep 8 (1h)\n- Họp (0.5h)",
+      "message": "- Sá»­a Klett DA6.01 Water cycle + SN CH ep 8 (1h)\n- Há»p (0.5h)",
       "submittedAt": "2026-10-23T13:57:29.710Z",
       "tasks": [
         {
@@ -42,6 +42,20 @@
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-10-23T15:40:52.206Z",
+      "date": "2026-10-23",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "Test: Conation media",
+          "progress": "100%",
+          "timeSpent": "7.5h"
+        }
+      ],
+      "message": "0,5h hop"
     }
   ]
 }
