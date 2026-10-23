@@ -1,29 +1,14 @@
 {
-  "date": "22-Oct",
-  "generatedAt": "2026-10-22T10:48:04.352Z",
+  "date": "23-Oct",
+  "generatedAt": "2026-10-23T10:45:09.477Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "22-Oct",
+          "date": "23-Oct",
           "dueDate": null,
-          "task": "SN Community Health: 10. Communicable Diseases - HIV~23 mins (6)\n13/11"
-        }
-      ]
-    },
-    {
-      "member": "Thảo Vi",
-      "tasks": [
-        {
-          "date": "22-Oct",
-          "dueDate": null,
-          "task": "SN 9 tiếp"
-        },
-        {
-          "date": "22-Oct",
-          "dueDate": "27/10",
-          "task": "Careum: video 1. Subkutane Injektion illus - Ger ~4.6mins (2.5)"
+          "task": "SN Community Health: 10. Communicable Diseases - HIV~11 mins (2.5)\n13/11"
         }
       ]
     },
@@ -31,7 +16,7 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "22-Oct",
+          "date": "23-Oct",
           "dueDate": null,
           "task": "RnD: AI experiments"
         }
@@ -41,12 +26,7 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "22-Oct",
-          "dueDate": null,
-          "task": "CSL Coillte OPM Sample (2h)\nDue anim 23/10"
-        },
-        {
-          "date": "22-Oct",
+          "date": "23-Oct",
           "dueDate": null,
           "task": "RnD: AI experiment vs các low budget SR (staneconomic/ pulsestart/ jolyart)"
         }
@@ -56,7 +36,7 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "22-Oct",
+          "date": "23-Oct",
           "dueDate": null,
           "task": "BD videos: Pre-Op Video #21 Before Cardiac Catheterization"
         }
@@ -66,13 +46,13 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "22-Oct",
+          "date": "23-Oct",
           "dueDate": null,
-          "task": "SN Community Health: 9. Infectious Diseases ~20 mins\n27/11"
+          "task": "Test: Conation media"
         }
       ]
     }
   ],
-  "totalMembers": 6,
-  "totalTasks": 8
+  "totalMembers": 5,
+  "totalTasks": 5
 }
