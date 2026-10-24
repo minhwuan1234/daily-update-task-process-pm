@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-10-24",
-      "message": "em sửa nội bộ 44. Antibiotics and Allergic Reactions hết 0.5h và điền bảng chấm điểm AI experiment hết 1.5h ạ",
+      "message": "em sá»­a ná»i bá» 44. Antibiotics and Allergic Reactions háº¿t 0.5h vÃ  Äiá»n báº£ng cháº¥m Äiá»m AI experiment háº¿t 1.5h áº¡",
       "submittedAt": "2026-10-24T10:49:51.222Z",
       "tasks": [
         {
@@ -20,6 +20,20 @@
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
+    },
+    {
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-10-24T10:57:44.747Z",
+      "date": "2026-10-24",
+      "tasks": [
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "Careum: video 1. Subkutane Injektion illus - Ger ~4.6mins (2.5)",
+          "progress": "20%",
+          "timeSpent": "3h"
+        }
+      ],
+      "message": "SN Comm health 9 nốt 5h"
     }
   ]
 }
