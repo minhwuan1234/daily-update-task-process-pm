@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-10-24",
-      "message": "em sÃÂ¡ÃÂ»ÃÂ­a nÃÂ¡ÃÂ»ÃÂi bÃÂ¡ÃÂ»ÃÂ 44. Antibiotics and Allergic Reactions hÃÂ¡ÃÂºÃÂ¿t 0.5h vÃÂÃÂ  ÃÂÃÂiÃÂ¡ÃÂ»ÃÂn bÃÂ¡ÃÂºÃÂ£ng chÃÂ¡ÃÂºÃÂ¥m ÃÂÃÂiÃÂ¡ÃÂ»ÃÂm AI experiment hÃÂ¡ÃÂºÃÂ¿t 1.5h ÃÂ¡ÃÂºÃÂ¡",
+      "message": "em sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a nÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂi bÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ 44. Antibiotics and Allergic Reactions hÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿t 0.5h vÃÂÃÂÃÂÃÂ  ÃÂÃÂÃÂÃÂiÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂn bÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ£ng chÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¥m ÃÂÃÂÃÂÃÂiÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂm AI experiment hÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿t 1.5h ÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¡",
       "submittedAt": "2026-10-24T10:49:51.222Z",
       "tasks": [
         {
@@ -23,7 +23,7 @@
     },
     {
       "date": "2026-10-24",
-      "message": "SN Comm health 9 nÃ¡Â»Ât 5h",
+      "message": "SN Comm health 9 nÃÂ¡ÃÂ»ÃÂt 5h",
       "submittedAt": "2026-10-24T10:57:44.747Z",
       "tasks": [
         {
@@ -37,7 +37,7 @@
     },
     {
       "date": "2026-10-24",
-      "message": "lÃ m tiáº¿p SN 10. vÃ  off chiá»u áº¡ T_T",
+      "message": "lÃÂ m tiÃ¡ÂºÂ¿p SN 10. vÃÂ  off chiÃ¡Â»Âu Ã¡ÂºÂ¡ T_T",
       "submittedAt": "2026-10-24T11:09:57.146Z",
       "tasks": [
         {
@@ -63,11 +63,25 @@
         {
           "progress": "100%",
           "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
-          "timeSpent": "—",
+          "timeSpent": "â",
           "title": "Fix Klett DA6.01 Water cycle + SN CH ep 8 (1h)"
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-10-24T11:58:18.831Z",
+      "date": "2026-10-24",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "Test: Digi XL",
+          "progress": "60%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
