@@ -2,24 +2,24 @@
   "date": "2026-10-24",
   "responses": [
     {
-      "userId": "ou_e0897ef23f084625d708cd50c16468db",
-      "submittedAt": "2026-10-24T10:49:51.222Z",
       "date": "2026-10-24",
+      "message": "em sửa nội bộ 44. Antibiotics and Allergic Reactions hết 0.5h và điền bảng chấm điểm AI experiment hết 1.5h ạ",
+      "submittedAt": "2026-10-24T10:49:51.222Z",
       "tasks": [
         {
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "title": "SN Priority: 45. NCLEX Antibiotic Questions You WILL See ~11 mins",
           "progress": "10%",
-          "timeSpent": "2h"
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
+          "timeSpent": "2h",
+          "title": "SN Priority: 45. NCLEX Antibiotic Questions You WILL See ~11 mins"
         },
         {
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-1",
-          "title": "RnD: AI experiments",
           "progress": "40%",
-          "timeSpent": "4h"
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-1",
+          "timeSpent": "4h",
+          "title": "RnD: AI experiments"
         }
       ],
-      "message": "em sửa nội bộ 44. Antibiotics and Allergic Reactions hết 0.5h và điền bảng chấm điểm AI experiment hết 1.5h ạ"
+      "userId": "ou_e0897ef23f084625d708cd50c16468db"
     }
   ]
 }
