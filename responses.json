@@ -50,24 +50,24 @@
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     },
     {
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
-      "submittedAt": "2026-10-24T11:10:42.303Z",
       "date": "2026-10-24",
+      "message": "",
+      "submittedAt": "2026-10-24T11:10:42.303Z",
       "tasks": [
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "title": "BD videos: Pre-Op Video #21 Before Cardiac Catheterization",
           "progress": "90%",
-          "timeSpent": "4.5h"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "timeSpent": "4.5h",
+          "title": "BD videos: Pre-Op Video #21 Before Cardiac Catheterization"
         },
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
-          "title": "Fix Klett DA6.01 Water cycle + SN CH ep 8 (1h)",
           "progress": "100%",
-          "timeSpent": "—"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
+          "timeSpent": "—",
+          "title": "Fix Klett DA6.01 Water cycle + SN CH ep 8 (1h)"
         }
       ],
-      "message": ""
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     }
   ]
 }
