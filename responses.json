@@ -36,18 +36,18 @@
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     },
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-10-24T11:09:57.146Z",
       "date": "2026-10-24",
+      "message": "làm tiếp SN 10. và off chiều ạ T_T",
+      "submittedAt": "2026-10-24T11:09:57.146Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "UV Smart: \nD25+ ENT one-pager (2h)",
           "progress": "100%",
-          "timeSpent": "2h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "2h",
+          "title": "UV Smart: \nD25+ ENT one-pager (2h)"
         }
       ],
-      "message": "làm tiếp SN 10. và off chiều ạ T_T"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }
