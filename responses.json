@@ -1,87 +1,25 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-26",
   "responses": [
     {
-      "date": "2026-10-24",
-      "message": "em sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a nÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂi bÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ 44. Antibiotics and Allergic Reactions hÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿t 0.5h vÃÂÃÂÃÂÃÂ  ÃÂÃÂÃÂÃÂiÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂn bÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ£ng chÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¥m ÃÂÃÂÃÂÃÂiÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂm AI experiment hÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¿t 1.5h ÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¡",
-      "submittedAt": "2026-10-24T10:49:51.222Z",
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-10-26T10:46:41.382Z",
+      "date": "2026-10-26",
       "tasks": [
         {
-          "progress": "10%",
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "2h",
-          "title": "SN Priority: 45. NCLEX Antibiotic Questions You WILL See ~11 mins"
-        },
-        {
-          "progress": "40%",
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-1",
-          "timeSpent": "4h",
-          "title": "RnD: AI experiments"
-        }
-      ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
-    },
-    {
-      "date": "2026-10-24",
-      "message": "SN Comm health 9 nÃÂ¡ÃÂ»ÃÂt 5h",
-      "submittedAt": "2026-10-24T10:57:44.747Z",
-      "tasks": [
-        {
-          "progress": "20%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "3h",
-          "title": "Careum: video 1. Subkutane Injektion illus - Ger ~4.6mins (2.5)"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-10-24",
-      "message": "lÃÂ m tiÃ¡ÂºÂ¿p SN 10. vÃÂ  off chiÃ¡Â»Âu Ã¡ÂºÂ¡ T_T",
-      "submittedAt": "2026-10-24T11:09:57.146Z",
-      "tasks": [
-        {
-          "progress": "100%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "2h",
-          "title": "UV Smart: \nD25+ ENT one-pager (2h)"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-10-24",
-      "message": "",
-      "submittedAt": "2026-10-24T11:10:42.303Z",
-      "tasks": [
-        {
-          "progress": "90%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "4.5h",
-          "title": "BD videos: Pre-Op Video #21 Before Cardiac Catheterization"
+          "title": "Careum: video 1. Subkutane Injektion illus - Ger ~2 in 5 mins (1)",
+          "progress": "20%",
+          "timeSpent": "2.5h"
         },
         {
-          "progress": "100%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-1",
-          "timeSpent": "â",
-          "title": "Fix Klett DA6.01 Water cycle + SN CH ep 8 (1h)"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
+          "title": "SN Community Health: 10. Communicable Diseases - HIV~11 mins \n13/11",
+          "progress": "70%",
+          "timeSpent": "4h"
         }
       ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-10-24",
-      "message": "",
-      "submittedAt": "2026-10-24T11:58:18.831Z",
-      "tasks": [
-        {
-          "progress": "60%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "8h",
-          "title": "Test: Digi XL"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": "30p họp\ncòn lại sửa D45 Canada brochure"
     }
   ]
 }
