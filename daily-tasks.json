@@ -1,14 +1,19 @@
 {
-  "date": "24-Oct",
-  "generatedAt": "2026-10-24T10:45:08.647Z",
+  "date": "26-Oct",
+  "generatedAt": "2026-10-26T10:45:07.303Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "24-Oct",
-          "dueDate": "26/10",
-          "task": "UV Smart: \nD25+ ENT one-pager (2h)"
+          "date": "26-Oct",
+          "dueDate": "27/10",
+          "task": "Careum: video 1. Subkutane Injektion illus - Ger ~2 in 5 mins (1)"
+        },
+        {
+          "date": "26-Oct",
+          "dueDate": null,
+          "task": "SN Community Health: 10. Communicable Diseases - HIV~11 mins \n13/11"
         }
       ]
     },
@@ -16,9 +21,9 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "24-Oct",
+          "date": "26-Oct",
           "dueDate": "27/10",
-          "task": "Careum: video 1. Subkutane Injektion illus - Ger ~4.6mins (2.5)"
+          "task": "Careum: video 1. Subkutane Injektion illus - Ger ~3 in 5 mins (1.5)"
         }
       ]
     },
@@ -26,24 +31,9 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "24-Oct",
+          "date": "26-Oct",
           "dueDate": "6/11",
           "task": "SN Priority: 45. NCLEX Antibiotic Questions You WILL See ~11 mins"
-        },
-        {
-          "date": "24-Oct",
-          "dueDate": null,
-          "task": "RnD: AI experiments"
-        }
-      ]
-    },
-    {
-      "member": "Duy Anh",
-      "tasks": [
-        {
-          "date": "24-Oct",
-          "dueDate": null,
-          "task": "RnD: AI experiment vs các low budget SR (staneconomic/ pulsestart/ jolyart)"
         }
       ]
     },
@@ -51,14 +41,9 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "24-Oct",
+          "date": "26-Oct",
           "dueDate": null,
-          "task": "BD videos: Pre-Op Video #21 Before Cardiac Catheterization"
-        },
-        {
-          "date": "24-Oct",
-          "dueDate": null,
-          "task": "Fix Klett DA6.01 Water cycle + SN CH ep 8 (1h)"
+          "task": "OKR: Personal project: Improve anim quality"
         }
       ]
     },
@@ -66,13 +51,13 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "24-Oct",
+          "date": "26-Oct",
           "dueDate": null,
           "task": "Test: Digi XL"
         }
       ]
     }
   ],
-  "totalMembers": 6,
-  "totalTasks": 8
+  "totalMembers": 5,
+  "totalTasks": 6
 }
