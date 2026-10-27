@@ -1,67 +1,25 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "responses": [
     {
-      "date": "2026-10-26",
-      "message": "30p hÃÂ¡ÃÂ»ÃÂp\ncÃÂÃÂ²n lÃÂ¡ÃÂºÃÂ¡i sÃÂ¡ÃÂ»ÃÂ­a D45 Canada brochure",
-      "submittedAt": "2026-10-26T10:46:41.382Z",
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-10-27T10:51:30.354Z",
+      "date": "2026-10-27",
       "tasks": [
         {
-          "progress": "20%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "2.5h",
-          "title": "Careum: video 1. Subkutane Injektion illus - Ger ~2 in 5 mins (1)"
+          "title": "Careum: video 1. Subkutane Injektion illus - Ger ~2 in 5 mins (1)",
+          "progress": "100%",
+          "timeSpent": "4h"
         },
         {
-          "progress": "70%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "timeSpent": "4h",
-          "title": "SN Community Health: 10. Communicable Diseases - HIV~11 mins \n13/11"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-10-26",
-      "message": "",
-      "submittedAt": "2026-10-26T10:46:57.369Z",
-      "tasks": [
-        {
-          "progress": "30%",
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "8h",
-          "title": "SN Priority: 45. NCLEX Antibiotic Questions You WILL See ~11 mins"
-        }
-      ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
-    },
-    {
-      "date": "2026-10-26",
-      "message": "- BD videos: Pre-Op Video #21 Before Cardiac Catheterization (1.5h)",
-      "submittedAt": "2026-10-26T12:13:10.924Z",
-      "tasks": [
-        {
-          "progress": "90%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "6.5h",
-          "title": "OKR: Personal project: Improve anim quality"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-10-26",
-      "message": "0,25 h hop dau tuan, 3,75h test climate centre",
-      "submittedAt": "2026-10-26T15:05:31.751Z",
-      "tasks": [
-        {
+          "title": "SN Community Health: 10 tiếp\n13/11",
           "progress": "100%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "4h",
-          "title": "Test: Digi XL"
+          "timeSpent": "4h"
         }
       ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": "sửa D25 1 tẹo chắc khoảng 10p ạ"
     }
   ]
 }
