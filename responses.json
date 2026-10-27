@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-10-27",
-      "message": "sÃ¡Â»Â­a D25 1 tÃ¡ÂºÂ¹o chÃ¡ÂºÂ¯c khoÃ¡ÂºÂ£ng 10p Ã¡ÂºÂ¡",
+      "message": "sÃÂ¡ÃÂ»ÃÂ­a D25 1 tÃÂ¡ÃÂºÃÂ¹o chÃÂ¡ÃÂºÃÂ¯c khoÃÂ¡ÃÂºÃÂ£ng 10p ÃÂ¡ÃÂºÃÂ¡",
       "submittedAt": "2026-10-27T10:51:30.354Z",
       "tasks": [
         {
@@ -16,7 +16,7 @@
           "progress": "100%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
           "timeSpent": "4h",
-          "title": "SN Community Health: 10 tiÃ¡ÂºÂ¿p\n13/11"
+          "title": "SN Community Health: 10 tiÃÂ¡ÃÂºÃÂ¿p\n13/11"
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
@@ -48,6 +48,20 @@
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-10-27T15:33:07.565Z",
+      "date": "2026-10-27",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "Test: Climate Center 1.5",
+          "progress": "80%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
