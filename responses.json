@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-10-27",
-      "message": "sá»­a D25 1 táº¹o cháº¯c khoáº£ng 10p áº¡",
+      "message": "sÃ¡Â»Â­a D25 1 tÃ¡ÂºÂ¹o chÃ¡ÂºÂ¯c khoÃ¡ÂºÂ£ng 10p Ã¡ÂºÂ¡",
       "submittedAt": "2026-10-27T10:51:30.354Z",
       "tasks": [
         {
@@ -16,7 +16,7 @@
           "progress": "100%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
           "timeSpent": "4h",
-          "title": "SN Community Health: 10 tiáº¿p\n13/11"
+          "title": "SN Community Health: 10 tiÃ¡ÂºÂ¿p\n13/11"
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
@@ -34,6 +34,20 @@
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-10-27T11:10:54.676Z",
+      "date": "2026-10-27",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "OKR: Personal project: Improve anim quality",
+          "progress": "90%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
