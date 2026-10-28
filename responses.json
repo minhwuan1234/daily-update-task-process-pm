@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-10-28",
-      "message": "em sửa SN 44. Antibiotics and Allergic Reactions hết 15 phút, trao đổi với chị Ánh về task AI experiment 30 phút và làm task AI experiment 45 phút ạ",
+      "message": "em sá»­a SN 44. Antibiotics and Allergic Reactions háº¿t 15 phÃºt, trao Äá»i vá»i chá» Ãnh vá» task AI experiment 30 phÃºt vÃ  lÃ m task AI experiment 45 phÃºt áº¡",
       "submittedAt": "2026-10-28T10:52:15.987Z",
       "tasks": [
         {
@@ -14,6 +14,20 @@
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-10-28T11:02:14.670Z",
+      "date": "2026-10-28",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "SN Community Health: 9. Infectious Diseases ~23 mins\n27/11",
+          "progress": "20%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
