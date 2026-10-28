@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-10-28",
-      "message": "em sá»­a SN 44. Antibiotics and Allergic Reactions háº¿t 15 phÃºt, trao Äá»i vá»i chá» Ãnh vá» task AI experiment 30 phÃºt vÃ  lÃ m task AI experiment 45 phÃºt áº¡",
+      "message": "em sÃ¡Â»Â­a SN 44. Antibiotics and Allergic Reactions hÃ¡ÂºÂ¿t 15 phÃÂºt, trao ÃÂÃ¡Â»Âi vÃ¡Â»Âi chÃ¡Â»Â ÃÂnh vÃ¡Â»Â task AI experiment 30 phÃÂºt vÃÂ  lÃÂ m task AI experiment 45 phÃÂºt Ã¡ÂºÂ¡",
       "submittedAt": "2026-10-28T10:52:15.987Z",
       "tasks": [
         {
@@ -28,6 +28,20 @@
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-10-28T11:10:07.821Z",
+      "date": "2026-10-28",
+      "tasks": [
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "Pitching: Impluse 2 map style direction (2)",
+          "progress": "100%",
+          "timeSpent": "6.5h"
+        }
+      ],
+      "message": "Sửa SN comm 1h"
     }
   ]
 }
