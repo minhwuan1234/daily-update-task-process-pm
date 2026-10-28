@@ -2,18 +2,18 @@
   "date": "2026-10-28",
   "responses": [
     {
-      "userId": "ou_e0897ef23f084625d708cd50c16468db",
-      "submittedAt": "2026-10-28T10:52:15.987Z",
       "date": "2026-10-28",
+      "message": "em sửa SN 44. Antibiotics and Allergic Reactions hết 15 phút, trao đổi với chị Ánh về task AI experiment 30 phút và làm task AI experiment 45 phút ạ",
+      "submittedAt": "2026-10-28T10:52:15.987Z",
       "tasks": [
         {
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "title": "SN Priority: 45. NCLEX Antibiotic Questions You WILL See ~11 mins",
           "progress": "100%",
-          "timeSpent": "6.5h"
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
+          "timeSpent": "6.5h",
+          "title": "SN Priority: 45. NCLEX Antibiotic Questions You WILL See ~11 mins"
         }
       ],
-      "message": "em sửa SN 44. Antibiotics and Allergic Reactions hết 15 phút, trao đổi với chị Ánh về task AI experiment 30 phút và làm task AI experiment 45 phút ạ"
+      "userId": "ou_e0897ef23f084625d708cd50c16468db"
     }
   ]
 }
