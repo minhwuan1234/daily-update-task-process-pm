@@ -1,19 +1,14 @@
 {
-  "date": "27-Oct",
-  "generatedAt": "2026-10-27T10:45:10.458Z",
+  "date": "28-Oct",
+  "generatedAt": "2026-10-28T10:45:07.408Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "27-Oct",
-          "dueDate": "27/10",
-          "task": "Careum: video 1. Subkutane Injektion illus - Ger ~2 in 5 mins (1)"
-        },
-        {
-          "date": "27-Oct",
+          "date": "28-Oct",
           "dueDate": null,
-          "task": "SN Community Health: 10 tiếp\n13/11"
+          "task": "SN Community Health: 10 tiếp (1)\n13/11"
         }
       ]
     },
@@ -21,9 +16,9 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "27-Oct",
-          "dueDate": "27/10",
-          "task": "Careum: video 1. Subkutane Injektion illus - Ger ~3 in 5 mins"
+          "date": "28-Oct",
+          "dueDate": null,
+          "task": "Pitching: Impluse 2 map style direction (2)"
         }
       ]
     },
@@ -31,7 +26,7 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "27-Oct",
+          "date": "28-Oct",
           "dueDate": "6/11",
           "task": "SN Priority: 45. NCLEX Antibiotic Questions You WILL See ~11 mins"
         }
@@ -41,9 +36,9 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "27-Oct",
+          "date": "28-Oct",
           "dueDate": null,
-          "task": "OKR: Personal project: Improve anim quality"
+          "task": "SN Community Health: 9. Infectious Diseases ~23 mins\n27/11"
         }
       ]
     },
@@ -51,7 +46,7 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "27-Oct",
+          "date": "28-Oct",
           "dueDate": null,
           "task": "Test: Climate Center 1.5"
         }
@@ -59,5 +54,5 @@
     }
   ],
   "totalMembers": 5,
-  "totalTasks": 6
+  "totalTasks": 5
 }
