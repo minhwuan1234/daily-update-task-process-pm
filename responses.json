@@ -30,18 +30,18 @@
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     },
     {
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-10-28T11:10:07.821Z",
       "date": "2026-10-28",
+      "message": "Sửa SN comm 1h",
+      "submittedAt": "2026-10-28T11:10:07.821Z",
       "tasks": [
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "Pitching: Impluse 2 map style direction (2)",
           "progress": "100%",
-          "timeSpent": "6.5h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "timeSpent": "6.5h",
+          "title": "Pitching: Impluse 2 map style direction (2)"
         }
       ],
-      "message": "Sửa SN comm 1h"
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     }
   ]
 }
