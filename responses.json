@@ -1,67 +1,19 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "responses": [
     {
-      "date": "2026-10-27",
-      "message": "sÃÂ¡ÃÂ»ÃÂ­a D25 1 tÃÂ¡ÃÂºÃÂ¹o chÃÂ¡ÃÂºÃÂ¯c khoÃÂ¡ÃÂºÃÂ£ng 10p ÃÂ¡ÃÂºÃÂ¡",
-      "submittedAt": "2026-10-27T10:51:30.354Z",
+      "userId": "ou_e0897ef23f084625d708cd50c16468db",
+      "submittedAt": "2026-10-28T10:52:15.987Z",
+      "date": "2026-10-28",
       "tasks": [
         {
-          "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "4h",
-          "title": "Careum: video 1. Subkutane Injektion illus - Ger ~2 in 5 mins (1)"
-        },
-        {
-          "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "timeSpent": "4h",
-          "title": "SN Community Health: 10 tiÃÂ¡ÃÂºÃÂ¿p\n13/11"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-10-27",
-      "message": "",
-      "submittedAt": "2026-10-27T11:07:30.863Z",
-      "tasks": [
-        {
-          "progress": "70%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "8h",
-          "title": "SN Priority: 45. NCLEX Antibiotic Questions You WILL See ~11 mins"
+          "title": "SN Priority: 45. NCLEX Antibiotic Questions You WILL See ~11 mins",
+          "progress": "100%",
+          "timeSpent": "6.5h"
         }
       ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
-    },
-    {
-      "date": "2026-10-27",
-      "message": "",
-      "submittedAt": "2026-10-27T11:10:54.676Z",
-      "tasks": [
-        {
-          "progress": "90%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "8h",
-          "title": "OKR: Personal project: Improve anim quality"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-10-27",
-      "message": "",
-      "submittedAt": "2026-10-27T15:33:07.565Z",
-      "tasks": [
-        {
-          "progress": "80%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "8h",
-          "title": "Test: Climate Center 1.5"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": "em sửa SN 44. Antibiotics and Allergic Reactions hết 15 phút, trao đổi với chị Ánh về task AI experiment 30 phút và làm task AI experiment 45 phút ạ"
     }
   ]
 }
