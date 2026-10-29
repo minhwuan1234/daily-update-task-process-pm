@@ -30,18 +30,18 @@
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     },
     {
-      "userId": "ou_e0897ef23f084625d708cd50c16468db",
-      "submittedAt": "2026-10-29T11:03:27.439Z",
       "date": "2026-10-29",
+      "message": "",
+      "submittedAt": "2026-10-29T11:03:27.439Z",
       "tasks": [
         {
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "title": "RnD: AI experiments",
           "progress": "60%",
-          "timeSpent": "8h"
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
+          "timeSpent": "8h",
+          "title": "RnD: AI experiments"
         }
       ],
-      "message": ""
+      "userId": "ou_e0897ef23f084625d708cd50c16468db"
     }
   ]
 }
