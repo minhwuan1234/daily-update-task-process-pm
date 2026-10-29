@@ -1,12 +1,12 @@
 {
-  "date": "28-Oct",
-  "generatedAt": "2026-10-28T10:45:07.408Z",
+  "date": "29-Oct",
+  "generatedAt": "2026-10-29T10:47:40.055Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "28-Oct",
+          "date": "29-Oct",
           "dueDate": null,
           "task": "SN Community Health: 10 tiếp (1)\n13/11"
         }
@@ -16,9 +16,9 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "28-Oct",
+          "date": "29-Oct",
           "dueDate": null,
-          "task": "Pitching: Impluse 2 map style direction (2)"
+          "task": "Pitching: Impluse 3 styleframs (2)"
         }
       ]
     },
@@ -26,9 +26,19 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "28-Oct",
-          "dueDate": "6/11",
-          "task": "SN Priority: 45. NCLEX Antibiotic Questions You WILL See ~11 mins"
+          "date": "29-Oct",
+          "dueDate": null,
+          "task": "RnD: AI experiments"
+        }
+      ]
+    },
+    {
+      "member": "Duy Anh",
+      "tasks": [
+        {
+          "date": "29-Oct",
+          "dueDate": null,
+          "task": "SN Community Health: 10. Communicable Diseases - HIV~11 mins\n27/11"
         }
       ]
     },
@@ -36,7 +46,7 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "28-Oct",
+          "date": "29-Oct",
           "dueDate": null,
           "task": "SN Community Health: 9. Infectious Diseases ~23 mins\n27/11"
         }
@@ -46,13 +56,13 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "28-Oct",
-          "dueDate": null,
-          "task": "Test: Climate Center 1.5"
+          "date": "29-Oct",
+          "dueDate": "13/11",
+          "task": "SN Priority: 44. Antibiotics and Allergic Reactions ~9 mins (2)"
         }
       ]
     }
   ],
-  "totalMembers": 5,
-  "totalTasks": 5
+  "totalMembers": 6,
+  "totalTasks": 6
 }
