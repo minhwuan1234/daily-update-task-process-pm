@@ -1,61 +1,19 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "responses": [
     {
-      "date": "2026-10-28",
-      "message": "em sÃÂ¡ÃÂ»ÃÂ­a SN 44. Antibiotics and Allergic Reactions hÃÂ¡ÃÂºÃÂ¿t 15 phÃÂÃÂºt, trao ÃÂÃÂÃÂ¡ÃÂ»ÃÂi vÃÂ¡ÃÂ»ÃÂi chÃÂ¡ÃÂ»ÃÂ ÃÂÃÂnh vÃÂ¡ÃÂ»ÃÂ task AI experiment 30 phÃÂÃÂºt vÃÂÃÂ  lÃÂÃÂ m task AI experiment 45 phÃÂÃÂºt ÃÂ¡ÃÂºÃÂ¡",
-      "submittedAt": "2026-10-28T10:52:15.987Z",
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-10-29T10:48:22.956Z",
+      "date": "2026-10-29",
       "tasks": [
         {
-          "progress": "100%",
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "6.5h",
-          "title": "SN Priority: 45. NCLEX Antibiotic Questions You WILL See ~11 mins"
-        }
-      ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
-    },
-    {
-      "date": "2026-10-28",
-      "message": "",
-      "submittedAt": "2026-10-28T11:02:14.670Z",
-      "tasks": [
-        {
-          "progress": "20%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "8h",
-          "title": "SN Community Health: 9. Infectious Diseases ~23 mins\n27/11"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-10-28",
-      "message": "Sá»­a SN comm 1h",
-      "submittedAt": "2026-10-28T11:10:07.821Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "6.5h",
-          "title": "Pitching: Impluse 2 map style direction (2)"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-10-28",
-      "message": "",
-      "submittedAt": "2026-10-28T15:40:01.090Z",
-      "tasks": [
-        {
-          "progress": "100%",
           "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "8h",
-          "title": "Test: Climate Center 1.5"
+          "title": "SN Priority: 44. Antibiotics and Allergic Reactions ~9 mins (2)",
+          "progress": "100%",
+          "timeSpent": "8h"
         }
       ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": ""
     }
   ]
 }
