@@ -1,14 +1,24 @@
 {
-  "date": "29-Oct",
-  "generatedAt": "2026-10-29T10:47:40.055Z",
+  "date": "30-Oct",
+  "generatedAt": "2026-10-30T10:45:08.271Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "29-Oct",
+          "date": "30-Oct",
+          "dueDate": "30/10",
+          "task": "SN Community Health: 8 study guide (3h)"
+        },
+        {
+          "date": "30-Oct",
           "dueDate": null,
-          "task": "SN Community Health: 10 tiếp (1)\n13/11"
+          "task": "SN Community Health: 10 fix (2h)"
+        },
+        {
+          "date": "30-Oct",
+          "dueDate": null,
+          "task": "UV Smart: \nD45 USA brochure fix (1h)"
         }
       ]
     },
@@ -16,9 +26,19 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "29-Oct",
+          "date": "30-Oct",
           "dueDate": null,
-          "task": "Pitching: Impluse 3 styleframs (2)"
+          "task": "SN Community Health: 7. Home Visit fix"
+        },
+        {
+          "date": "30-Oct",
+          "dueDate": null,
+          "task": "SN Community Health: 7. Home Visit study guide (0.5)\n30/10"
+        },
+        {
+          "date": "30-Oct",
+          "dueDate": "30/10",
+          "task": "Careum: video 1. Subkutane Injektion illus - Ger fix"
         }
       ]
     },
@@ -26,7 +46,7 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "29-Oct",
+          "date": "30-Oct",
           "dueDate": null,
           "task": "RnD: AI experiments"
         }
@@ -36,7 +56,7 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "29-Oct",
+          "date": "30-Oct",
           "dueDate": null,
           "task": "SN Community Health: 10. Communicable Diseases - HIV~11 mins\n27/11"
         }
@@ -46,9 +66,9 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "29-Oct",
+          "date": "30-Oct",
           "dueDate": null,
-          "task": "SN Community Health: 9. Infectious Diseases ~23 mins\n27/11"
+          "task": "SN Community Health: 9. Infectious Diseases 15 in ~23 mins\n27/11"
         }
       ]
     },
@@ -56,13 +76,13 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "29-Oct",
-          "dueDate": "13/11",
-          "task": "SN Priority: 44. Antibiotics and Allergic Reactions ~9 mins (2)"
+          "date": "30-Oct",
+          "dueDate": null,
+          "task": "SN Community Health: 9. Infectious Diseases 8 in ~23 mins\n27/11"
         }
       ]
     }
   ],
   "totalMembers": 6,
-  "totalTasks": 6
+  "totalTasks": 10
 }
