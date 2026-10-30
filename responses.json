@@ -1,47 +1,25 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "responses": [
     {
-      "date": "2026-10-29",
-      "message": "",
-      "submittedAt": "2026-10-29T10:48:22.956Z",
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-10-30T11:15:55.363Z",
+      "date": "2026-10-30",
       "tasks": [
         {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "title": "SN Community Health: 8 study guide (3h)",
           "progress": "100%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "8h",
-          "title": "SN Priority: 44. Antibiotics and Allergic Reactions ~9 mins (2)"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
-    },
-    {
-      "date": "2026-10-29",
-      "message": "BD videos: Pre-Op Video #21 (1h)",
-      "submittedAt": "2026-10-29T11:00:16.668Z",
-      "tasks": [
+          "timeSpent": "3.5h"
+        },
         {
-          "progress": "40%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "7h",
-          "title": "SN Community Health: 9. Infectious Diseases ~23 mins\n27/11"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
+          "title": "SN Community Health: 10 fix (2h)",
+          "progress": "100%",
+          "timeSpent": "1h"
         }
       ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-10-29",
-      "message": "",
-      "submittedAt": "2026-10-29T11:03:27.439Z",
-      "tasks": [
-        {
-          "progress": "60%",
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "8h",
-          "title": "RnD: AI experiments"
-        }
-      ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
+      "message": "1h sờ vào SN priority 46\ncòn lại sửa D45 USA Brochure + Careum"
     }
   ]
 }
