@@ -22,18 +22,18 @@
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     },
     {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-10-30T14:10:22.223Z",
       "date": "2026-10-30",
+      "message": "0,5h hop",
+      "submittedAt": "2026-10-30T14:10:22.223Z",
       "tasks": [
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "SN Community Health: 9. Infectious Diseases 8 in ~23 mins\n27/11",
           "progress": "100%",
-          "timeSpent": "7.5h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "timeSpent": "7.5h",
+          "title": "SN Community Health: 9. Infectious Diseases 8 in ~23 mins\n27/11"
         }
       ],
-      "message": "0,5h hop"
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     }
   ]
 }
