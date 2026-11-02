@@ -50,18 +50,18 @@
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     },
     {
-      "userId": "ou_e0897ef23f084625d708cd50c16468db",
-      "submittedAt": "2026-11-02T11:17:25.057Z",
       "date": "2026-11-02",
+      "message": "Em sửa nội bộ SN 45. NCLEX Antibiotic Questions You WILL See hết 2.5h, họp tổng kết thử việc hết nửa tiếng, họp đầu tuần 15 phút và trao đổi với chị Ánh về task AI 15 phút ạ",
+      "submittedAt": "2026-11-02T11:17:25.057Z",
       "tasks": [
         {
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "title": "SN Priority: 47. ECG Changes You’ll See in an MI ~5 mins (1.5)",
           "progress": "40%",
-          "timeSpent": "4.5h"
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
+          "timeSpent": "4.5h",
+          "title": "SN Priority: 47. ECG Changes You’ll See in an MI ~5 mins (1.5)"
         }
       ],
-      "message": "Em sửa nội bộ SN 45. NCLEX Antibiotic Questions You WILL See hết 2.5h, họp tổng kết thử việc hết nửa tiếng, họp đầu tuần 15 phút và trao đổi với chị Ánh về task AI 15 phút ạ"
+      "userId": "ou_e0897ef23f084625d708cd50c16468db"
     }
   ]
 }
