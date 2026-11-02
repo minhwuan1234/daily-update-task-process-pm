@@ -3,14 +3,14 @@
   "responses": [
     {
       "date": "2026-11-02",
-      "message": "45p há»p Äáº§u ngÃ y \n1h cÃ²n láº¡i em ngá»i ngÃ¢m cá»©u cengage chap 1 (chÆ°a váº½)",
+      "message": "45p hÃ¡Â»Âp ÃÂÃ¡ÂºÂ§u ngÃÂ y \n1h cÃÂ²n lÃ¡ÂºÂ¡i em ngÃ¡Â»Âi ngÃÂ¢m cÃ¡Â»Â©u cengage chap 1 (chÃÂ°a vÃ¡ÂºÂ½)",
       "submittedAt": "2026-11-02T10:51:37.505Z",
       "tasks": [
         {
           "progress": "100%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
           "timeSpent": "6.5h",
-          "title": "SN Priority: 46. MI vs Angina â Donât Confuse These  ~5 mins (1.5)"
+          "title": "SN Priority: 46. MI vs Angina Ã¢ÂÂ DonÃ¢ÂÂt Confuse These  ~5 mins (1.5)"
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
@@ -28,6 +28,26 @@
         }
       ],
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+    },
+    {
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-11-02T11:09:08.009Z",
+      "date": "2026-11-02",
+      "tasks": [
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "SN: Cyber Monday Sale ~1 min",
+          "progress": "50%",
+          "timeSpent": "2h"
+        },
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
+          "title": "SN Community Health: 7. Home Visit study guide tiếp\n3/11",
+          "progress": "100%",
+          "timeSpent": "6h"
+        }
+      ],
+      "message": "Khum"
     }
   ]
 }
