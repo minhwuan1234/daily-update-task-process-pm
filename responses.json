@@ -3,14 +3,14 @@
   "responses": [
     {
       "date": "2026-11-02",
-      "message": "45p hÃ¡Â»Âp ÃÂÃ¡ÂºÂ§u ngÃÂ y \n1h cÃÂ²n lÃ¡ÂºÂ¡i em ngÃ¡Â»Âi ngÃÂ¢m cÃ¡Â»Â©u cengage chap 1 (chÃÂ°a vÃ¡ÂºÂ½)",
+      "message": "45p hÃÂ¡ÃÂ»ÃÂp ÃÂÃÂÃÂ¡ÃÂºÃÂ§u ngÃÂÃÂ y \n1h cÃÂÃÂ²n lÃÂ¡ÃÂºÃÂ¡i em ngÃÂ¡ÃÂ»ÃÂi ngÃÂÃÂ¢m cÃÂ¡ÃÂ»ÃÂ©u cengage chap 1 (chÃÂÃÂ°a vÃÂ¡ÃÂºÃÂ½)",
       "submittedAt": "2026-11-02T10:51:37.505Z",
       "tasks": [
         {
           "progress": "100%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
           "timeSpent": "6.5h",
-          "title": "SN Priority: 46. MI vs Angina Ã¢ÂÂ DonÃ¢ÂÂt Confuse These  ~5 mins (1.5)"
+          "title": "SN Priority: 46. MI vs Angina ÃÂ¢ÃÂÃÂ DonÃÂ¢ÃÂÃÂt Confuse These  ~5 mins (1.5)"
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
@@ -44,10 +44,24 @@
           "progress": "100%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
           "timeSpent": "6h",
-          "title": "SN Community Health: 7. Home Visit study guide tiếp\n3/11"
+          "title": "SN Community Health: 7. Home Visit study guide tiáº¿p\n3/11"
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+    },
+    {
+      "userId": "ou_e0897ef23f084625d708cd50c16468db",
+      "submittedAt": "2026-11-02T11:17:25.057Z",
+      "date": "2026-11-02",
+      "tasks": [
+        {
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
+          "title": "SN Priority: 47. ECG Changes You’ll See in an MI ~5 mins (1.5)",
+          "progress": "40%",
+          "timeSpent": "4.5h"
+        }
+      ],
+      "message": "Em sửa nội bộ SN 45. NCLEX Antibiotic Questions You WILL See hết 2.5h, họp tổng kết thử việc hết nửa tiếng, họp đầu tuần 15 phút và trao đổi với chị Ánh về task AI 15 phút ạ"
     }
   ]
 }
