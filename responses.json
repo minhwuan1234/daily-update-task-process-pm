@@ -30,24 +30,24 @@
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     },
     {
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-11-02T11:09:08.009Z",
       "date": "2026-11-02",
+      "message": "Khum",
+      "submittedAt": "2026-11-02T11:09:08.009Z",
       "tasks": [
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "SN: Cyber Monday Sale ~1 min",
           "progress": "50%",
-          "timeSpent": "2h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "timeSpent": "2h",
+          "title": "SN: Cyber Monday Sale ~1 min"
         },
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
-          "title": "SN Community Health: 7. Home Visit study guide tiếp\n3/11",
           "progress": "100%",
-          "timeSpent": "6h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
+          "timeSpent": "6h",
+          "title": "SN Community Health: 7. Home Visit study guide tiếp\n3/11"
         }
       ],
-      "message": "Khum"
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     }
   ]
 }
