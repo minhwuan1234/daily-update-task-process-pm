@@ -1,39 +1,19 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-11-02",
   "responses": [
     {
-      "date": "2026-10-30",
-      "message": "1h sá» vÃ o SN priority 46\ncÃ²n láº¡i sá»­a D45 USA Brochure + Careum",
-      "submittedAt": "2026-10-30T11:15:55.363Z",
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-11-02T10:51:37.505Z",
+      "date": "2026-11-02",
       "tasks": [
         {
-          "progress": "100%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "3.5h",
-          "title": "SN Community Health: 8 study guide (3h)"
-        },
-        {
+          "title": "SN Priority: 46. MI vs Angina — Don’t Confuse These  ~5 mins (1.5)",
           "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "timeSpent": "1h",
-          "title": "SN Community Health: 10 fix (2h)"
+          "timeSpent": "6.5h"
         }
       ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-10-30",
-      "message": "0,5h hop",
-      "submittedAt": "2026-10-30T14:10:22.223Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "7.5h",
-          "title": "SN Community Health: 9. Infectious Diseases 8 in ~23 mins\n27/11"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": "45p họp đầu ngày \n1h còn lại em ngồi ngâm cứu cengage chap 1 (chưa vẽ)"
     }
   ]
 }
