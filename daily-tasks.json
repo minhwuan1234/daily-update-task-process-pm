@@ -1,24 +1,14 @@
 {
-  "date": "30-Oct",
-  "generatedAt": "2026-10-30T10:45:08.271Z",
+  "date": "2-Nov",
+  "generatedAt": "2026-11-02T10:46:45.832Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "30-Oct",
-          "dueDate": "30/10",
-          "task": "SN Community Health: 8 study guide (3h)"
-        },
-        {
-          "date": "30-Oct",
-          "dueDate": null,
-          "task": "SN Community Health: 10 fix (2h)"
-        },
-        {
-          "date": "30-Oct",
-          "dueDate": null,
-          "task": "UV Smart: \nD45 USA brochure fix (1h)"
+          "date": "2-Nov",
+          "dueDate": "6/11",
+          "task": "SN Priority: 46. MI vs Angina — Don’t Confuse These  ~5 mins (1.5)"
         }
       ]
     },
@@ -26,19 +16,14 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "30-Oct",
-          "dueDate": null,
-          "task": "SN Community Health: 7. Home Visit fix"
+          "date": "2-Nov",
+          "dueDate": "5/11",
+          "task": "SN: Cyber Monday Sale ~1 min"
         },
         {
-          "date": "30-Oct",
+          "date": "2-Nov",
           "dueDate": null,
-          "task": "SN Community Health: 7. Home Visit study guide (0.5)\n30/10"
-        },
-        {
-          "date": "30-Oct",
-          "dueDate": "30/10",
-          "task": "Careum: video 1. Subkutane Injektion illus - Ger fix"
+          "task": "SN Community Health: 7. Home Visit study guide tiếp\n3/11"
         }
       ]
     },
@@ -46,9 +31,9 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "30-Oct",
-          "dueDate": null,
-          "task": "RnD: AI experiments"
+          "date": "2-Nov",
+          "dueDate": "13/11",
+          "task": "SN Priority: 47. ECG Changes You’ll See in an MI ~5 mins (1.5)"
         }
       ]
     },
@@ -56,9 +41,9 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "30-Oct",
+          "date": "2-Nov",
           "dueDate": null,
-          "task": "SN Community Health: 10. Communicable Diseases - HIV~11 mins\n27/11"
+          "task": "SN Community Health: 10. Communicable Diseases - HIV~11 mins tiếp\n27/11"
         }
       ]
     },
@@ -66,9 +51,9 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "30-Oct",
+          "date": "2-Nov",
           "dueDate": null,
-          "task": "SN Community Health: 9. Infectious Diseases 15 in ~23 mins\n27/11"
+          "task": "SN Community Health: 9. Infectious Diseases 15 in ~23 mins  tiếp\n27/11"
         }
       ]
     },
@@ -76,13 +61,13 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "30-Oct",
+          "date": "2-Nov",
           "dueDate": null,
-          "task": "SN Community Health: 9. Infectious Diseases 8 in ~23 mins\n27/11"
+          "task": "Test: Digi XL 0.5"
         }
       ]
     }
   ],
   "totalMembers": 6,
-  "totalTasks": 10
+  "totalTasks": 7
 }
