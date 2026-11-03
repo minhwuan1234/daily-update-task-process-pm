@@ -1,14 +1,14 @@
 {
-  "date": "2-Nov",
-  "generatedAt": "2026-11-02T10:46:45.832Z",
+  "date": "3-Nov",
+  "generatedAt": "2026-11-03T10:45:08.289Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "2-Nov",
-          "dueDate": "6/11",
-          "task": "SN Priority: 46. MI vs Angina — Don’t Confuse These  ~5 mins (1.5)"
+          "date": "3-Nov",
+          "dueDate": "12/11",
+          "task": "Cengage: Video 1 ~7.5 mins (5.5)"
         }
       ]
     },
@@ -16,14 +16,9 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "2-Nov",
-          "dueDate": "5/11",
-          "task": "SN: Cyber Monday Sale ~1 min"
-        },
-        {
-          "date": "2-Nov",
+          "date": "3-Nov",
           "dueDate": null,
-          "task": "SN Community Health: 7. Home Visit study guide tiếp\n3/11"
+          "task": "SN Community Health: 11. Communicable Diseases - STDs ~18 mins (5.5)\n20/11"
         }
       ]
     },
@@ -31,7 +26,7 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "2-Nov",
+          "date": "3-Nov",
           "dueDate": "13/11",
           "task": "SN Priority: 47. ECG Changes You’ll See in an MI ~5 mins (1.5)"
         }
@@ -41,9 +36,9 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "2-Nov",
-          "dueDate": null,
-          "task": "SN Community Health: 10. Communicable Diseases - HIV~11 mins tiếp\n27/11"
+          "date": "3-Nov",
+          "dueDate": "6/11",
+          "task": "Careum: video 1. Subkutane Injektion anim - Ger ~4.6mins (1.5)"
         }
       ]
     },
@@ -51,9 +46,9 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "2-Nov",
+          "date": "3-Nov",
           "dueDate": null,
-          "task": "SN Community Health: 9. Infectious Diseases 15 in ~23 mins  tiếp\n27/11"
+          "task": "OKR: Personal project: Improve anim quality"
         }
       ]
     },
@@ -61,7 +56,7 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "2-Nov",
+          "date": "3-Nov",
           "dueDate": null,
           "task": "Test: Digi XL 0.5"
         }
@@ -69,5 +64,5 @@
     }
   ],
   "totalMembers": 6,
-  "totalTasks": 7
+  "totalTasks": 6
 }
