@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-11-03",
-      "message": "LÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ m SN black friday 3,5h",
+      "message": "LÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ m SN black friday 3,5h",
       "submittedAt": "2026-11-03T10:49:21.307Z",
       "tasks": [
         {
@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-11-03",
-      "message": "khoÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ£ng 15p sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a mÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¥y thÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ© lÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ·t vÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ·t SN",
+      "message": "khoÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ£ng 15p sÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ»ÃÂÃÂÃÂÃÂ­a mÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ¥y thÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ»ÃÂÃÂÃÂÃÂ© lÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ·t vÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ·t SN",
       "submittedAt": "2026-11-03T10:50:37.560Z",
       "tasks": [
         {
@@ -45,31 +45,31 @@
     },
     {
       "date": "2026-11-03",
-      "message": "em sÃ¡Â»Â­a SN 45. NCLEX Antibiotic Questions hÃ¡ÂºÂ¿t 1h Ã¡ÂºÂ¡",
+      "message": "em sÃÂ¡ÃÂ»ÃÂ­a SN 45. NCLEX Antibiotic Questions hÃÂ¡ÃÂºÃÂ¿t 1h ÃÂ¡ÃÂºÃÂ¡",
       "submittedAt": "2026-11-03T15:26:26.145Z",
       "tasks": [
         {
           "progress": "100%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
           "timeSpent": "7h",
-          "title": "SN Priority: 47. ECG Changes YouÃ¢ÂÂll See in an MI ~5 mins (1.5)"
+          "title": "SN Priority: 47. ECG Changes YouÃÂ¢ÃÂÃÂll See in an MI ~5 mins (1.5)"
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
     },
     {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-11-03T16:02:47.544Z",
       "date": "2026-11-03",
-      "message": "8h OKR AI",
-      "submittedAt": "2026-11-03T16:02:28.252Z",
       "tasks": [
         {
-          "progress": "0%",
           "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "—",
-          "title": "Test: Digi XL 0.5"
+          "title": "Test: Digi XL 0.5",
+          "progress": "0%",
+          "timeSpent": "0.5h"
         }
       ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": "8h OKR AI"
     }
   ]
 }
