@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-11-03",
-      "message": "LÃ m SN black friday 3,5h",
+      "message": "LÃÂ m SN black friday 3,5h",
       "submittedAt": "2026-11-03T10:49:21.307Z",
       "tasks": [
         {
@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-11-03",
-      "message": "khoảng 15p sửa mấy thứ lặt vặt SN",
+      "message": "khoáº£ng 15p sá»­a máº¥y thá»© láº·t váº·t SN",
       "submittedAt": "2026-11-03T10:50:37.560Z",
       "tasks": [
         {
@@ -28,6 +28,20 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-11-03T11:04:34.069Z",
+      "date": "2026-11-03",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "OKR: Personal project: Improve anim quality",
+          "progress": "90%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
