@@ -58,18 +58,18 @@
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
     },
     {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-11-03T16:02:47.544Z",
       "date": "2026-11-03",
+      "message": "8h OKR AI",
+      "submittedAt": "2026-11-03T16:02:47.544Z",
       "tasks": [
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "Test: Digi XL 0.5",
           "progress": "0%",
-          "timeSpent": "0.5h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "timeSpent": "0.5h",
+          "title": "Test: Digi XL 0.5"
         }
       ],
-      "message": "8h OKR AI"
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     }
   ]
 }
