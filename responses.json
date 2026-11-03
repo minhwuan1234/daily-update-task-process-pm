@@ -16,18 +16,18 @@
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     },
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-11-03T10:50:37.560Z",
       "date": "2026-11-03",
+      "message": "khoảng 15p sửa mấy thứ lặt vặt SN",
+      "submittedAt": "2026-11-03T10:50:37.560Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "Cengage: Video 1 ~7.5 mins (5.5)",
           "progress": "30%",
-          "timeSpent": "7.5h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "7.5h",
+          "title": "Cengage: Video 1 ~7.5 mins (5.5)"
         }
       ],
-      "message": "khoảng 15p sửa mấy thứ lặt vặt SN"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }
