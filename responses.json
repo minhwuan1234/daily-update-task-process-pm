@@ -16,18 +16,18 @@
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
     },
     {
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
-      "submittedAt": "2026-11-04T10:59:39.195Z",
       "date": "2026-11-04",
+      "message": "",
+      "submittedAt": "2026-11-04T10:59:39.195Z",
       "tasks": [
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "title": "OKR: Personal project: Improve anim quality",
           "progress": "90%",
-          "timeSpent": "8h"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "timeSpent": "8h",
+          "title": "OKR: Personal project: Improve anim quality"
         }
       ],
-      "message": ""
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     }
   ]
 }
