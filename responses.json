@@ -42,6 +42,20 @@
         }
       ],
       "message": ""
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-11-04T13:34:18.284Z",
+      "date": "2026-11-04",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "OKR: AI",
+          "progress": "80%",
+          "timeSpent": "3.5h"
+        }
+      ],
+      "message": "4,5h fix DIGIXL Test"
     }
   ]
 }
