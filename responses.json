@@ -1,75 +1,19 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "responses": [
     {
-      "date": "2026-11-03",
-      "message": "LÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ m SN black friday 3,5h",
-      "submittedAt": "2026-11-03T10:49:21.307Z",
+      "userId": "ou_e0897ef23f084625d708cd50c16468db",
+      "submittedAt": "2026-11-04T10:47:31.701Z",
+      "date": "2026-11-04",
       "tasks": [
         {
-          "progress": "20%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "4.5h",
-          "title": "SN Community Health: 11. Communicable Diseases - STDs ~18 mins (5.5)\n20/11"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-11-03",
-      "message": "khoÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ£ng 15p sÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ»ÃÂÃÂÃÂÃÂ­a mÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ¥y thÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ»ÃÂÃÂÃÂÃÂ© lÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ·t vÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ·t SN",
-      "submittedAt": "2026-11-03T10:50:37.560Z",
-      "tasks": [
-        {
-          "progress": "30%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "7.5h",
-          "title": "Cengage: Video 1 ~7.5 mins (5.5)"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-11-03",
-      "message": "",
-      "submittedAt": "2026-11-03T11:04:34.069Z",
-      "tasks": [
-        {
-          "progress": "90%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "8h",
-          "title": "OKR: Personal project: Improve anim quality"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-11-03",
-      "message": "em sÃÂ¡ÃÂ»ÃÂ­a SN 45. NCLEX Antibiotic Questions hÃÂ¡ÃÂºÃÂ¿t 1h ÃÂ¡ÃÂºÃÂ¡",
-      "submittedAt": "2026-11-03T15:26:26.145Z",
-      "tasks": [
-        {
-          "progress": "100%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "7h",
-          "title": "SN Priority: 47. ECG Changes YouÃÂ¢ÃÂÃÂll See in an MI ~5 mins (1.5)"
+          "title": "RnD: AI experiments",
+          "progress": "70%",
+          "timeSpent": "8h"
         }
       ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
-    },
-    {
-      "date": "2026-11-03",
-      "message": "8h OKR AI",
-      "submittedAt": "2026-11-03T16:02:47.544Z",
-      "tasks": [
-        {
-          "progress": "0%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "0.5h",
-          "title": "Test: Digi XL 0.5"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": ""
     }
   ]
 }
