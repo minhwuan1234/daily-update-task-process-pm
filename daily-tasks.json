@@ -1,12 +1,12 @@
 {
-  "date": "3-Nov",
-  "generatedAt": "2026-11-03T10:46:42.226Z",
+  "date": "4-Nov",
+  "generatedAt": "2026-11-04T10:45:12.483Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "3-Nov",
+          "date": "4-Nov",
           "dueDate": "12/11",
           "task": "Cengage: Video 1 ~7.5 mins (5.5)"
         }
@@ -16,7 +16,7 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "3-Nov",
+          "date": "4-Nov",
           "dueDate": null,
           "task": "SN Community Health: 11. Communicable Diseases - STDs ~18 mins (5.5)\n20/11"
         }
@@ -26,9 +26,9 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "3-Nov",
-          "dueDate": "13/11",
-          "task": "SN Priority: 47. ECG Changes You’ll See in an MI ~5 mins (1.5)"
+          "date": "4-Nov",
+          "dueDate": null,
+          "task": "RnD: AI experiments"
         }
       ]
     },
@@ -36,9 +36,9 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "3-Nov",
-          "dueDate": "6/11",
-          "task": "Careum: video 1. Subkutane Injektion anim - Ger ~4.6mins (1.5)"
+          "date": "4-Nov",
+          "dueDate": null,
+          "task": "RnD: AI experiment vs các low budget SR (staneconomic/ pulsestart/ jolyart)"
         }
       ]
     },
@@ -46,7 +46,7 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "3-Nov",
+          "date": "4-Nov",
           "dueDate": null,
           "task": "OKR: Personal project: Improve anim quality"
         }
@@ -56,9 +56,9 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "3-Nov",
+          "date": "4-Nov",
           "dueDate": null,
-          "task": "Test: Digi XL 0.5"
+          "task": "OKR: AI"
         }
       ]
     }
