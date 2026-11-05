@@ -9,8 +9,8 @@
         {
           "progress": "10%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "â",
-          "title": "RnD: AI experiment vs cÃ¡c low budget SR (staneconomic/ pulsestart/ jolyart)"
+          "timeSpent": "Ã¢ÂÂ",
+          "title": "RnD: AI experiment vs cÃÂ¡c low budget SR (staneconomic/ pulsestart/ jolyart)"
         },
         {
           "progress": "50%",
@@ -33,7 +33,21 @@
           "timeSpent": "6h"
         }
       ],
-      "message": "còn lại sửa linh tinh SN + UV"
+      "message": "cÃ²n láº¡i sá»­a linh tinh SN + UV"
+    },
+    {
+      "userId": "ou_e0897ef23f084625d708cd50c16468db",
+      "submittedAt": "2026-11-05T11:06:11.473Z",
+      "date": "2026-11-05",
+      "tasks": [
+        {
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
+          "title": "RnD: AI experiments",
+          "progress": "70%",
+          "timeSpent": "7.5h"
+        }
+      ],
+      "message": "Em sửa SN 45. NCLEX Antibiotic Questions hết 15 phút ạ"
     }
   ]
 }
