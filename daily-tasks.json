@@ -1,14 +1,14 @@
 {
-  "date": "4-Nov",
-  "generatedAt": "2026-11-04T10:45:12.483Z",
+  "date": "5-Nov",
+  "generatedAt": "2026-11-05T10:45:12.360Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "4-Nov",
+          "date": "5-Nov",
           "dueDate": "12/11",
-          "task": "Cengage: Video 1 ~7.5 mins (5.5)"
+          "task": "CSL Forest: 8. Moistrure Control ~2 mins (1.5)"
         }
       ]
     },
@@ -16,7 +16,7 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "4-Nov",
+          "date": "5-Nov",
           "dueDate": null,
           "task": "SN Community Health: 11. Communicable Diseases - STDs ~18 mins (5.5)\n20/11"
         }
@@ -26,7 +26,7 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "4-Nov",
+          "date": "5-Nov",
           "dueDate": null,
           "task": "RnD: AI experiments"
         }
@@ -36,9 +36,14 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "4-Nov",
+          "date": "5-Nov",
           "dueDate": null,
           "task": "RnD: AI experiment vs các low budget SR (staneconomic/ pulsestart/ jolyart)"
+        },
+        {
+          "date": "5-Nov",
+          "dueDate": "10/11",
+          "task": "Careum: video 1. Subkutane Injektion anim - Ger ~4.6mins (1.5)"
         }
       ]
     },
@@ -46,9 +51,9 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "4-Nov",
-          "dueDate": null,
-          "task": "OKR: Personal project: Improve anim quality"
+          "date": "5-Nov",
+          "dueDate": "10/11",
+          "task": "SN: Cyber Monday Sale ~1 min"
         }
       ]
     },
@@ -56,13 +61,13 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "4-Nov",
-          "dueDate": null,
-          "task": "OKR: AI"
+          "date": "5-Nov",
+          "dueDate": "20/11",
+          "task": "SN Priority: 45. NCLEX Antibiotic Questions You WILL See ~11 mins (2.5)"
         }
       ]
     }
   ],
   "totalMembers": 6,
-  "totalTasks": 6
+  "totalTasks": 7
 }
