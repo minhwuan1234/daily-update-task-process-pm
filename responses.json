@@ -1,61 +1,25 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "responses": [
     {
-      "date": "2026-11-04",
-      "message": "",
-      "submittedAt": "2026-11-04T10:47:31.701Z",
+      "userId": "ou_e273fec35061a42660190f8c70f19882",
+      "submittedAt": "2026-11-05T10:48:42.849Z",
+      "date": "2026-11-05",
       "tasks": [
         {
-          "progress": "70%",
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "8h",
-          "title": "RnD: AI experiments"
-        }
-      ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
-    },
-    {
-      "date": "2026-11-04",
-      "message": "",
-      "submittedAt": "2026-11-04T10:59:39.195Z",
-      "tasks": [
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
+          "title": "RnD: AI experiment vs các low budget SR (staneconomic/ pulsestart/ jolyart)",
+          "progress": "10%",
+          "timeSpent": "—"
+        },
         {
-          "progress": "90%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "8h",
-          "title": "OKR: Personal project: Improve anim quality"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-11-04T11:03:23.534Z",
-      "date": "2026-11-04",
-      "tasks": [
-        {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "Cengage: Video 1 ~7.5 mins (5.5)",
-          "progress": "100%",
-          "timeSpent": "7.5h"
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
+          "title": "Careum: video 1. Subkutane Injektion anim - Ger ~4.6mins (1.5)",
+          "progress": "50%",
+          "timeSpent": "8h"
         }
       ],
       "message": ""
-    },
-    {
-      "date": "2026-11-04",
-      "message": "4,5h fix DIGIXL Test",
-      "submittedAt": "2026-11-04T13:34:18.284Z",
-      "tasks": [
-        {
-          "progress": "80%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "3.5h",
-          "title": "OKR: AI"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     }
   ]
 }
