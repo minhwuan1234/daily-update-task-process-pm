@@ -36,18 +36,18 @@
       "message": "cÃ²n láº¡i sá»­a linh tinh SN + UV"
     },
     {
-      "userId": "ou_e0897ef23f084625d708cd50c16468db",
-      "submittedAt": "2026-11-05T11:06:11.473Z",
       "date": "2026-11-05",
+      "message": "Em sửa SN 45. NCLEX Antibiotic Questions hết 15 phút ạ",
+      "submittedAt": "2026-11-05T11:06:11.473Z",
       "tasks": [
         {
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "title": "RnD: AI experiments",
           "progress": "70%",
-          "timeSpent": "7.5h"
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
+          "timeSpent": "7.5h",
+          "title": "RnD: AI experiments"
         }
       ],
-      "message": "Em sửa SN 45. NCLEX Antibiotic Questions hết 15 phút ạ"
+      "userId": "ou_e0897ef23f084625d708cd50c16468db"
     }
   ]
 }
