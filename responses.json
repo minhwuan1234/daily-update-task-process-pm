@@ -9,8 +9,8 @@
         {
           "progress": "10%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "—",
-          "title": "RnD: AI experiment vs các low budget SR (staneconomic/ pulsestart/ jolyart)"
+          "timeSpent": "â",
+          "title": "RnD: AI experiment vs cÃ¡c low budget SR (staneconomic/ pulsestart/ jolyart)"
         },
         {
           "progress": "50%",
@@ -20,6 +20,20 @@
         }
       ],
       "userId": "ou_e273fec35061a42660190f8c70f19882"
+    },
+    {
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-11-05T11:06:07.840Z",
+      "date": "2026-11-05",
+      "tasks": [
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "title": "CSL Forest: 8. Moistrure Control ~2 mins (1.5)",
+          "progress": "20%",
+          "timeSpent": "6h"
+        }
+      ],
+      "message": "còn lại sửa linh tinh SN + UV"
     }
   ]
 }
