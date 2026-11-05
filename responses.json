@@ -9,8 +9,8 @@
         {
           "progress": "10%",
           "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
-          "timeSpent": "ÃÂ¢ÃÂÃÂ",
-          "title": "RnD: AI experiment vs cÃÂÃÂ¡c low budget SR (staneconomic/ pulsestart/ jolyart)"
+          "timeSpent": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ",
+          "title": "RnD: AI experiment vs cÃÂÃÂÃÂÃÂ¡c low budget SR (staneconomic/ pulsestart/ jolyart)"
         },
         {
           "progress": "50%",
@@ -33,11 +33,11 @@
           "timeSpent": "6h"
         }
       ],
-      "message": "cÃÂ²n lÃ¡ÂºÂ¡i sÃ¡Â»Â­a linh tinh SN + UV"
+      "message": "cÃÂÃÂ²n lÃÂ¡ÃÂºÃÂ¡i sÃÂ¡ÃÂ»ÃÂ­a linh tinh SN + UV"
     },
     {
       "date": "2026-11-05",
-      "message": "Em sá»­a SN 45. NCLEX Antibiotic Questions háº¿t 15 phÃºt áº¡",
+      "message": "Em sÃ¡Â»Â­a SN 45. NCLEX Antibiotic Questions hÃ¡ÂºÂ¿t 15 phÃÂºt Ã¡ÂºÂ¡",
       "submittedAt": "2026-11-05T11:06:11.473Z",
       "tasks": [
         {
@@ -62,6 +62,20 @@
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-11-05T14:36:30.779Z",
+      "date": "2026-11-05",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "SN Priority: 45. NCLEX Antibiotic Questions You WILL See ~11 mins (2.5)",
+          "progress": "60%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
