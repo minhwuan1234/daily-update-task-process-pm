@@ -28,6 +28,20 @@
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_e0897ef23f084625d708cd50c16468db",
+      "submittedAt": "2026-11-06T11:09:08.905Z",
+      "date": "2026-11-06",
+      "tasks": [
+        {
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
+          "title": "RnD: AI experiments",
+          "progress": "70%",
+          "timeSpent": "7h"
+        }
+      ],
+      "message": "em họp cuối tuần 1h ạ"
     }
   ]
 }
