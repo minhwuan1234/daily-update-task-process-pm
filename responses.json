@@ -31,7 +31,7 @@
     },
     {
       "date": "2026-11-06",
-      "message": "em họp cuối tuần 1h ạ",
+      "message": "em há»p cuá»i tuáº§n 1h áº¡",
       "submittedAt": "2026-11-06T11:09:08.905Z",
       "tasks": [
         {
@@ -42,6 +42,26 @@
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
+    },
+    {
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-11-06T11:17:19.451Z",
+      "date": "2026-11-06",
+      "tasks": [
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "title": "CSL Forest: 8. Moistrure Control ~2 mins (1.5)",
+          "progress": "50%",
+          "timeSpent": "1.5h"
+        },
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
+          "title": "UV: product images adaptation (0.5)",
+          "progress": "100%",
+          "timeSpent": "4h"
+        }
+      ],
+      "message": "2,5h sửa các thể loại UV"
     }
   ]
 }
