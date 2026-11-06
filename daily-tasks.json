@@ -1,14 +1,19 @@
 {
-  "date": "5-Nov",
-  "generatedAt": "2026-11-05T10:45:12.360Z",
+  "date": "6-Nov",
+  "generatedAt": "2026-11-06T10:45:08.142Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "5-Nov",
+          "date": "6-Nov",
           "dueDate": "12/11",
           "task": "CSL Forest: 8. Moistrure Control ~2 mins (1.5)"
+        },
+        {
+          "date": "6-Nov",
+          "dueDate": "9/11",
+          "task": "UV: product images adaptation (0.5)"
         }
       ]
     },
@@ -16,7 +21,7 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "5-Nov",
+          "date": "6-Nov",
           "dueDate": null,
           "task": "SN Community Health: 11. Communicable Diseases - STDs ~18 mins (5.5)\n20/11"
         }
@@ -26,7 +31,7 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "5-Nov",
+          "date": "6-Nov",
           "dueDate": null,
           "task": "RnD: AI experiments"
         }
@@ -36,12 +41,7 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "5-Nov",
-          "dueDate": null,
-          "task": "RnD: AI experiment vs các low budget SR (staneconomic/ pulsestart/ jolyart)"
-        },
-        {
-          "date": "5-Nov",
+          "date": "6-Nov",
           "dueDate": "10/11",
           "task": "Careum: video 1. Subkutane Injektion anim - Ger ~4.6mins (1.5)"
         }
@@ -51,9 +51,9 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "5-Nov",
-          "dueDate": "10/11",
-          "task": "SN: Cyber Monday Sale ~1 min"
+          "date": "6-Nov",
+          "dueDate": null,
+          "task": "OKR: Personal project: Improve anim quality"
         }
       ]
     },
@@ -61,9 +61,9 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "5-Nov",
+          "date": "6-Nov",
           "dueDate": "20/11",
-          "task": "SN Priority: 45. NCLEX Antibiotic Questions You WILL See ~11 mins (2.5)"
+          "task": "SN Priority: 45. NCLEX Antibiotic Questions You WILL See ~11 mins (2)"
         }
       ]
     }
