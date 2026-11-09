@@ -1,19 +1,19 @@
 {
-  "date": "6-Nov",
-  "generatedAt": "2026-11-06T10:45:08.142Z",
+  "date": "9-Nov",
+  "generatedAt": "2026-11-09T11:10:20.871Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "6-Nov",
+          "date": "9-Nov",
           "dueDate": "12/11",
-          "task": "CSL Forest: 8. Moistrure Control ~2 mins (1.5)"
+          "task": "CSL Forest: 8. Moistrure Control ~2 mins tiếp"
         },
         {
-          "date": "6-Nov",
-          "dueDate": "9/11",
-          "task": "UV: product images adaptation (0.5)"
+          "date": "9-Nov",
+          "dueDate": "10/11",
+          "task": "Conation media: fix 0.5"
         }
       ]
     },
@@ -21,9 +21,9 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "6-Nov",
-          "dueDate": null,
-          "task": "SN Community Health: 11. Communicable Diseases - STDs ~18 mins (5.5)\n20/11"
+          "date": "9-Nov",
+          "dueDate": "20/11",
+          "task": "SN Community Health: 11 tiếp"
         }
       ]
     },
@@ -31,9 +31,9 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "6-Nov",
-          "dueDate": null,
-          "task": "RnD: AI experiments"
+          "date": "9-Nov",
+          "dueDate": "27/11",
+          "task": "SN Priority: 48. Priority Nursing Actions During an MI  ~8 mins (2.5)"
         }
       ]
     },
@@ -41,19 +41,14 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "6-Nov",
+          "date": "9-Nov",
+          "dueDate": null,
+          "task": "RnD: AI experiment vs các low budget SR (staneconomic/ pulsestart/ jolyart)"
+        },
+        {
+          "date": "9-Nov",
           "dueDate": "10/11",
           "task": "Careum: video 1. Subkutane Injektion anim - Ger ~4.6mins (1.5)"
-        }
-      ]
-    },
-    {
-      "member": "Oanh",
-      "tasks": [
-        {
-          "date": "6-Nov",
-          "dueDate": null,
-          "task": "OKR: Personal project: Improve anim quality"
         }
       ]
     },
@@ -61,13 +56,33 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "6-Nov",
+          "date": "9-Nov",
           "dueDate": "20/11",
-          "task": "SN Priority: 45. NCLEX Antibiotic Questions You WILL See ~11 mins (2)"
+          "task": "SN Priority: 46. MI vs Angina — Don’t Confuse These  ~5 mins"
+        }
+      ]
+    },
+    {
+      "member": "Waiting line..",
+      "tasks": [
+        {
+          "date": "9-Nov",
+          "dueDate": null,
+          "task": "Studiohumanity anim 1 trong 3.5mins -- wait for illus \nDue:"
+        },
+        {
+          "date": "9-Nov",
+          "dueDate": null,
+          "task": "Studiohumanity anim 2.5 trong 3.5mins -- wait for illus \nDue:"
+        },
+        {
+          "date": "9-Nov",
+          "dueDate": "24/9",
+          "task": "Studiohumanity anim fix #1 -- feedback 22/9?"
         }
       ]
     }
   ],
   "totalMembers": 6,
-  "totalTasks": 7
+  "totalTasks": 10
 }
