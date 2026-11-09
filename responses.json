@@ -30,24 +30,24 @@
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     },
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-11-09T11:40:08.045Z",
       "date": "2026-11-09",
+      "message": "1h sửa cengage",
+      "submittedAt": "2026-11-09T11:40:08.045Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "CSL Forest: 8. Moistrure Control ~2 mins tiếp",
           "progress": "100%",
-          "timeSpent": "4.5h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "4.5h",
+          "title": "CSL Forest: 8. Moistrure Control ~2 mins tiếp"
         },
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "title": "Conation media: fix 0.5",
           "progress": "100%",
-          "timeSpent": "2h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
+          "timeSpent": "2h",
+          "title": "Conation media: fix 0.5"
         }
       ],
-      "message": "1h sửa cengage"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }
