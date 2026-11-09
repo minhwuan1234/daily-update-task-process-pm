@@ -10,7 +10,7 @@
           "progress": "80%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
           "timeSpent": "8h",
-          "title": "SN Community Health: 11 tiáº¿p"
+          "title": "SN Community Health: 11 tiÃ¡ÂºÂ¿p"
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
@@ -24,10 +24,30 @@
           "progress": "100%",
           "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
           "timeSpent": "4h",
-          "title": "SN Priority: 46. MI vs Angina — Don’t Confuse These  ~5 mins"
+          "title": "SN Priority: 46. MI vs Angina â Donât Confuse These  ~5 mins"
         }
       ],
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+    },
+    {
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-11-09T11:40:08.045Z",
+      "date": "2026-11-09",
+      "tasks": [
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "title": "CSL Forest: 8. Moistrure Control ~2 mins tiếp",
+          "progress": "100%",
+          "timeSpent": "4.5h"
+        },
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
+          "title": "Conation media: fix 0.5",
+          "progress": "100%",
+          "timeSpent": "2h"
+        }
+      ],
+      "message": "1h sửa cengage"
     }
   ]
 }
