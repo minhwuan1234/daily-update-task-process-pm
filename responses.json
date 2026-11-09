@@ -10,7 +10,7 @@
           "progress": "80%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
           "timeSpent": "8h",
-          "title": "SN Community Health: 11 tiÃ¡ÂºÂ¿p"
+          "title": "SN Community Health: 11 tiÃÂ¡ÃÂºÃÂ¿p"
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
@@ -24,21 +24,21 @@
           "progress": "100%",
           "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
           "timeSpent": "4h",
-          "title": "SN Priority: 46. MI vs Angina â Donât Confuse These  ~5 mins"
+          "title": "SN Priority: 46. MI vs Angina Ã¢ÂÂ DonÃ¢ÂÂt Confuse These  ~5 mins"
         }
       ],
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     },
     {
       "date": "2026-11-09",
-      "message": "1h sửa cengage",
+      "message": "1h sá»­a cengage",
       "submittedAt": "2026-11-09T11:40:08.045Z",
       "tasks": [
         {
           "progress": "100%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
           "timeSpent": "4.5h",
-          "title": "CSL Forest: 8. Moistrure Control ~2 mins tiếp"
+          "title": "CSL Forest: 8. Moistrure Control ~2 mins tiáº¿p"
         },
         {
           "progress": "100%",
@@ -48,6 +48,26 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_e273fec35061a42660190f8c70f19882",
+      "submittedAt": "2026-11-09T11:43:31.746Z",
+      "date": "2026-11-09",
+      "tasks": [
+        {
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-0",
+          "title": "RnD: AI experiment vs các low budget SR (staneconomic/ pulsestart/ jolyart)",
+          "progress": "20%",
+          "timeSpent": "—"
+        },
+        {
+          "taskId": "ou_e273fec35061a42660190f8c70f19882-1",
+          "title": "Careum: video 1. Subkutane Injektion anim - Ger ~4.6mins (1.5)",
+          "progress": "100%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
