@@ -9748,11 +9748,11 @@
     "toolName": "Daily Update Task Process PM",
     "date": "2026-11-09",
     "timezone": "Asia/Ho_Chi_Minh",
-    "updatedAt": "2026-11-09T11:43:40.412692+00:00",
+    "updatedAt": "2026-11-09T13:22:45.432001+00:00",
     "totalMembers": 11,
-    "submittedMembers": 4,
-    "missingMembers": 7,
-    "submissionRate": 36.36,
+    "submittedMembers": 5,
+    "missingMembers": 6,
+    "submissionRate": 45.45,
     "members": {
       "ou_7efb0c22f47740644cf374252d01fdba": {
         "memberName": "Ánh",
@@ -9827,9 +9827,9 @@
       "ou_e0897ef23f084625d708cd50c16468db": {
         "memberName": "Thế Anh",
         "userId": "ou_e0897ef23f084625d708cd50c16468db",
-        "status": "missing",
-        "submittedAt": null,
-        "submissionCountToday": 0
+        "status": "submitted",
+        "submittedAt": "2026-11-09T13:22:35.482Z",
+        "submissionCountToday": 1
       }
     }
   }
