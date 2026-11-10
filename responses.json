@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-11-10",
-      "message": "- Sửa SN ComHealth ep 9 (1.5h)\n- SN: Cyber Monday Sale (0.5h)\n- Workshop: Làm animation SimpleNursing với Claude (1.5h)\n- Phân tích Staneconomics Script 3.2, 3.3 (1h)",
+      "message": "- Sá»­a SN ComHealth ep 9 (1.5h)\n- SN: Cyber Monday Sale (0.5h)\n- Workshop: LÃ m animation SimpleNursing vá»i Claude (1.5h)\n- PhÃ¢n tÃ­ch Staneconomics Script 3.2, 3.3 (1h)",
       "submittedAt": "2026-11-10T11:04:11.549Z",
       "tasks": [
         {
@@ -14,6 +14,20 @@
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-11-10T11:13:17.535Z",
+      "date": "2026-11-10",
+      "tasks": [
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "title": "KCL: Giant Panda illus (1.5)",
+          "progress": "80%",
+          "timeSpent": "6h"
+        }
+      ],
+      "message": "1h họp claude anim\ncòn lại là những niềm sửa UV"
     }
   ]
 }
