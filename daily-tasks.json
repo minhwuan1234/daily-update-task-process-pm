@@ -1,19 +1,14 @@
 {
-  "date": "9-Nov",
-  "generatedAt": "2026-11-09T11:10:20.871Z",
+  "date": "10-Nov",
+  "generatedAt": "2026-11-10T10:53:38.244Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "9-Nov",
-          "dueDate": "12/11",
-          "task": "CSL Forest: 8. Moistrure Control ~2 mins tiếp"
-        },
-        {
-          "date": "9-Nov",
-          "dueDate": "10/11",
-          "task": "Conation media: fix 0.5"
+          "date": "10-Nov",
+          "dueDate": "11/11",
+          "task": "KCL: Giant Panda illus (1.5)"
         }
       ]
     },
@@ -21,7 +16,7 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "9-Nov",
+          "date": "10-Nov",
           "dueDate": "20/11",
           "task": "SN Community Health: 11 tiếp"
         }
@@ -31,7 +26,7 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "9-Nov",
+          "date": "10-Nov",
           "dueDate": "27/11",
           "task": "SN Priority: 48. Priority Nursing Actions During an MI  ~8 mins (2.5)"
         }
@@ -41,14 +36,19 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "9-Nov",
+          "date": "10-Nov",
           "dueDate": null,
           "task": "RnD: AI experiment vs các low budget SR (staneconomic/ pulsestart/ jolyart)"
-        },
+        }
+      ]
+    },
+    {
+      "member": "Oanh",
+      "tasks": [
         {
-          "date": "9-Nov",
-          "dueDate": "10/11",
-          "task": "Careum: video 1. Subkutane Injektion anim - Ger ~4.6mins (1.5)"
+          "date": "10-Nov",
+          "dueDate": null,
+          "task": "OKR: Personal project: Improve anim quality"
         }
       ]
     },
@@ -56,9 +56,9 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "9-Nov",
-          "dueDate": "20/11",
-          "task": "SN Priority: 46. MI vs Angina — Don’t Confuse These  ~5 mins"
+          "date": "10-Nov",
+          "dueDate": null,
+          "task": "OKR– R&D: AI Proposal & Interactive Course Workflow"
         }
       ]
     },
@@ -66,23 +66,23 @@
       "member": "Waiting line..",
       "tasks": [
         {
-          "date": "9-Nov",
+          "date": "10-Nov",
           "dueDate": null,
           "task": "Studiohumanity anim 1 trong 3.5mins -- wait for illus \nDue:"
         },
         {
-          "date": "9-Nov",
+          "date": "10-Nov",
           "dueDate": null,
           "task": "Studiohumanity anim 2.5 trong 3.5mins -- wait for illus \nDue:"
         },
         {
-          "date": "9-Nov",
+          "date": "10-Nov",
           "dueDate": "24/9",
           "task": "Studiohumanity anim fix #1 -- feedback 22/9?"
         }
       ]
     }
   ],
-  "totalMembers": 6,
-  "totalTasks": 10
+  "totalMembers": 7,
+  "totalTasks": 9
 }
