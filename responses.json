@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-11-10",
-      "message": "- Sá»­a SN ComHealth ep 9 (1.5h)\n- SN: Cyber Monday Sale (0.5h)\n- Workshop: LÃ m animation SimpleNursing vá»i Claude (1.5h)\n- PhÃ¢n tÃ­ch Staneconomics Script 3.2, 3.3 (1h)",
+      "message": "- SÃ¡Â»Â­a SN ComHealth ep 9 (1.5h)\n- SN: Cyber Monday Sale (0.5h)\n- Workshop: LÃÂ m animation SimpleNursing vÃ¡Â»Âi Claude (1.5h)\n- PhÃÂ¢n tÃÂ­ch Staneconomics Script 3.2, 3.3 (1h)",
       "submittedAt": "2026-11-10T11:04:11.549Z",
       "tasks": [
         {
@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-11-10",
-      "message": "1h họp claude anim\ncòn lại là những niềm sửa UV",
+      "message": "1h há»p claude anim\ncÃ²n láº¡i lÃ  nhá»¯ng niá»m sá»­a UV",
       "submittedAt": "2026-11-10T11:13:17.535Z",
       "tasks": [
         {
@@ -28,6 +28,20 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_e0897ef23f084625d708cd50c16468db",
+      "submittedAt": "2026-11-10T11:21:20.839Z",
+      "date": "2026-11-10",
+      "tasks": [
+        {
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
+          "title": "SN Priority: 48. Priority Nursing Actions During an MI  ~8 mins (2.5)",
+          "progress": "60%",
+          "timeSpent": "6.5h"
+        }
+      ],
+      "message": "Em làm workshop 1.5h ạ"
     }
   ]
 }
