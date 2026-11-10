@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-11-10",
-      "message": "- SÃ¡Â»Â­a SN ComHealth ep 9 (1.5h)\n- SN: Cyber Monday Sale (0.5h)\n- Workshop: LÃÂ m animation SimpleNursing vÃ¡Â»Âi Claude (1.5h)\n- PhÃÂ¢n tÃÂ­ch Staneconomics Script 3.2, 3.3 (1h)",
+      "message": "- SÃÂ¡ÃÂ»ÃÂ­a SN ComHealth ep 9 (1.5h)\n- SN: Cyber Monday Sale (0.5h)\n- Workshop: LÃÂÃÂ m animation SimpleNursing vÃÂ¡ÃÂ»ÃÂi Claude (1.5h)\n- PhÃÂÃÂ¢n tÃÂÃÂ­ch Staneconomics Script 3.2, 3.3 (1h)",
       "submittedAt": "2026-11-10T11:04:11.549Z",
       "tasks": [
         {
@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-11-10",
-      "message": "1h há»p claude anim\ncÃ²n láº¡i lÃ  nhá»¯ng niá»m sá»­a UV",
+      "message": "1h hÃ¡Â»Âp claude anim\ncÃÂ²n lÃ¡ÂºÂ¡i lÃÂ  nhÃ¡Â»Â¯ng niÃ¡Â»Âm sÃ¡Â»Â­a UV",
       "submittedAt": "2026-11-10T11:13:17.535Z",
       "tasks": [
         {
@@ -31,7 +31,7 @@
     },
     {
       "date": "2026-11-10",
-      "message": "Em làm workshop 1.5h ạ",
+      "message": "Em lÃ m workshop 1.5h áº¡",
       "submittedAt": "2026-11-10T11:21:20.839Z",
       "tasks": [
         {
@@ -42,6 +42,20 @@
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-11-10T16:44:26.350Z",
+      "date": "2026-11-10",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "OKR– R&D: AI Proposal & Interactive Course Workflow",
+          "progress": "50%",
+          "timeSpent": "6h"
+        }
+      ],
+      "message": "1,25h WORKSHOP, 0,75h SN 46"
     }
   ]
 }
