@@ -30,24 +30,24 @@
       "message": ""
     },
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-11-11T11:06:26.604Z",
       "date": "2026-11-11",
+      "message": "1h còn lại sửa UV, CSL các kiểu",
+      "submittedAt": "2026-11-11T11:06:26.604Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "KCL: Giant Panda illus (1.5)",
           "progress": "100%",
-          "timeSpent": "3h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "3h",
+          "title": "KCL: Giant Panda illus (1.5)"
         },
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "title": "SN Community Health: 10 study guide",
           "progress": "100%",
-          "timeSpent": "4h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
+          "timeSpent": "4h",
+          "title": "SN Community Health: 10 study guide"
         }
       ],
-      "message": "1h còn lại sửa UV, CSL các kiểu"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }
