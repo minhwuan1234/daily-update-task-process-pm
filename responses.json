@@ -64,18 +64,18 @@
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     },
     {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-11-11T15:21:03.148Z",
       "date": "2026-11-11",
+      "message": "",
+      "submittedAt": "2026-11-11T15:21:03.148Z",
       "tasks": [
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "OKR– R&D: AI Proposal & Interactive Course Workflow",
           "progress": "50%",
-          "timeSpent": "8h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "timeSpent": "8h",
+          "title": "OKR– R&D: AI Proposal & Interactive Course Workflow"
         }
       ],
-      "message": ""
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     }
   ]
 }
