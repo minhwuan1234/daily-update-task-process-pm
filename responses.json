@@ -31,7 +31,7 @@
     },
     {
       "date": "2026-11-11",
-      "message": "1h cÃ²n láº¡i sá»­a UV, CSL cÃ¡c kiá»u",
+      "message": "1h cÃÂ²n lÃ¡ÂºÂ¡i sÃ¡Â»Â­a UV, CSL cÃÂ¡c kiÃ¡Â»Âu",
       "submittedAt": "2026-11-11T11:06:26.604Z",
       "tasks": [
         {
@@ -51,7 +51,7 @@
     },
     {
       "date": "2026-11-11",
-      "message": "Support Klett: 1h\nSửa SN Comm health 11: 1.5h",
+      "message": "Support Klett: 1h\nSá»­a SN Comm health 11: 1.5h",
       "submittedAt": "2026-11-11T11:27:38.141Z",
       "tasks": [
         {
@@ -62,6 +62,20 @@
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-11-11T15:21:03.148Z",
+      "date": "2026-11-11",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "OKR– R&D: AI Proposal & Interactive Course Workflow",
+          "progress": "50%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
