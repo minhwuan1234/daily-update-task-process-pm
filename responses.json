@@ -1,61 +1,19 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "responses": [
     {
-      "date": "2026-11-10",
-      "message": "- SÃÂ¡ÃÂ»ÃÂ­a SN ComHealth ep 9 (1.5h)\n- SN: Cyber Monday Sale (0.5h)\n- Workshop: LÃÂÃÂ m animation SimpleNursing vÃÂ¡ÃÂ»ÃÂi Claude (1.5h)\n- PhÃÂÃÂ¢n tÃÂÃÂ­ch Staneconomics Script 3.2, 3.3 (1h)",
-      "submittedAt": "2026-11-10T11:04:11.549Z",
+      "userId": "ou_e0897ef23f084625d708cd50c16468db",
+      "submittedAt": "2026-11-11T11:01:00.986Z",
+      "date": "2026-11-11",
       "tasks": [
         {
-          "progress": "90%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "3.5h",
-          "title": "OKR: Personal project: Improve anim quality"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-11-10",
-      "message": "1h hÃ¡Â»Âp claude anim\ncÃÂ²n lÃ¡ÂºÂ¡i lÃÂ  nhÃ¡Â»Â¯ng niÃ¡Â»Âm sÃ¡Â»Â­a UV",
-      "submittedAt": "2026-11-10T11:13:17.535Z",
-      "tasks": [
-        {
-          "progress": "80%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "6h",
-          "title": "KCL: Giant Panda illus (1.5)"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-11-10",
-      "message": "Em lÃ m workshop 1.5h áº¡",
-      "submittedAt": "2026-11-10T11:21:20.839Z",
-      "tasks": [
-        {
-          "progress": "60%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "6.5h",
-          "title": "SN Priority: 48. Priority Nursing Actions During an MI  ~8 mins (2.5)"
+          "title": "RnD: AI experiments\nStaneconomic 303 (1p44)",
+          "progress": "60%",
+          "timeSpent": "8h"
         }
       ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
-    },
-    {
-      "date": "2026-11-10",
-      "message": "1,25h WORKSHOP, 0,75h SN 46",
-      "submittedAt": "2026-11-10T16:44:26.350Z",
-      "tasks": [
-        {
-          "progress": "50%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "6h",
-          "title": "OKR– R&D: AI Proposal & Interactive Course Workflow"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": ""
     }
   ]
 }
