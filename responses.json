@@ -31,7 +31,7 @@
     },
     {
       "date": "2026-11-11",
-      "message": "1h còn lại sửa UV, CSL các kiểu",
+      "message": "1h cÃ²n láº¡i sá»­a UV, CSL cÃ¡c kiá»u",
       "submittedAt": "2026-11-11T11:06:26.604Z",
       "tasks": [
         {
@@ -48,6 +48,20 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-11-11T11:27:38.141Z",
+      "date": "2026-11-11",
+      "tasks": [
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "SN Community Health: 9 study guide",
+          "progress": "30%",
+          "timeSpent": "1.5h"
+        }
+      ],
+      "message": "Support Klett: 1h\nSửa SN Comm health 11: 1.5h"
     }
   ]
 }
