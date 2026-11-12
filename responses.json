@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-11-12",
-      "message": "2h cÃÂ²n lÃ¡ÂºÂ¡i sÃ¡Â»Â­a UV cÃÂ¡c kiÃ¡Â»Âu",
+      "message": "2h cÃÂÃÂ²n lÃÂ¡ÃÂºÃÂ¡i sÃÂ¡ÃÂ»ÃÂ­a UV cÃÂÃÂ¡c kiÃÂ¡ÃÂ»ÃÂu",
       "submittedAt": "2026-11-12T10:58:46.617Z",
       "tasks": [
         {
@@ -23,7 +23,7 @@
     },
     {
       "date": "2026-11-12",
-      "message": "Sá»­a SN CH ep 9 + TÃ¬m ref Mitrade (1h)",
+      "message": "SÃ¡Â»Â­a SN CH ep 9 + TÃÂ¬m ref Mitrade (1h)",
       "submittedAt": "2026-11-12T11:04:23.251Z",
       "tasks": [
         {
@@ -37,7 +37,7 @@
     },
     {
       "date": "2026-11-12",
-      "message": "Em làm SN 48. Priority Nursing Actions During an MI hết 6h15 phút và sửa SN 47. ECG Changes You’ll See in an MI hết 15 phút ạ",
+      "message": "Em lÃ m SN 48. Priority Nursing Actions During an MI háº¿t 6h15 phÃºt vÃ  sá»­a SN 47. ECG Changes Youâll See in an MI háº¿t 15 phÃºt áº¡",
       "submittedAt": "2026-11-12T11:11:26.341Z",
       "tasks": [
         {
@@ -48,6 +48,26 @@
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
+    },
+    {
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-11-12T11:18:21.533Z",
+      "date": "2026-11-12",
+      "tasks": [
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "Cengage: Video 3 ~6.5 mins (3.5)",
+          "progress": "10%",
+          "timeSpent": "1.5h"
+        },
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
+          "title": "SN Community Health: 9 study guide",
+          "progress": "100%",
+          "timeSpent": "6h"
+        }
+      ],
+      "message": "Check SR Mitrade 30p"
     }
   ]
 }
