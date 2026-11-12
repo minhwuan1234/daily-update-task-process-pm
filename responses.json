@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-11-12",
-      "message": "2h cÃ²n láº¡i sá»­a UV cÃ¡c kiá»u",
+      "message": "2h cÃÂ²n lÃ¡ÂºÂ¡i sÃ¡Â»Â­a UV cÃÂ¡c kiÃ¡Â»Âu",
       "submittedAt": "2026-11-12T10:58:46.617Z",
       "tasks": [
         {
@@ -23,7 +23,7 @@
     },
     {
       "date": "2026-11-12",
-      "message": "Sửa SN CH ep 9 + Tìm ref Mitrade (1h)",
+      "message": "Sá»­a SN CH ep 9 + TÃ¬m ref Mitrade (1h)",
       "submittedAt": "2026-11-12T11:04:23.251Z",
       "tasks": [
         {
@@ -34,6 +34,20 @@
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_e0897ef23f084625d708cd50c16468db",
+      "submittedAt": "2026-11-12T11:11:26.341Z",
+      "date": "2026-11-12",
+      "tasks": [
+        {
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
+          "title": "RnD: AI experiments\nStaneconomic 303 (1p44)",
+          "progress": "60%",
+          "timeSpent": "1.5h"
+        }
+      ],
+      "message": "Em làm SN 48. Priority Nursing Actions During an MI hết 6h15 phút và sửa SN 47. ECG Changes You’ll See in an MI hết 15 phút ạ"
     }
   ]
 }
