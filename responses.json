@@ -2,24 +2,24 @@
   "date": "2026-11-12",
   "responses": [
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-11-12T10:58:46.617Z",
       "date": "2026-11-12",
+      "message": "2h còn lại sửa UV các kiểu",
+      "submittedAt": "2026-11-12T10:58:46.617Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "UV: LinkedIn posts (0.5)",
           "progress": "100%",
-          "timeSpent": "3h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "3h",
+          "title": "UV: LinkedIn posts (0.5)"
         },
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "title": "Cengage: Video 2 ~7 mins (3.5)",
           "progress": "10%",
-          "timeSpent": "2h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
+          "timeSpent": "2h",
+          "title": "Cengage: Video 2 ~7 mins (3.5)"
         }
       ],
-      "message": "2h còn lại sửa UV các kiểu"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }
