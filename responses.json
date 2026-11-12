@@ -36,18 +36,18 @@
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     },
     {
-      "userId": "ou_e0897ef23f084625d708cd50c16468db",
-      "submittedAt": "2026-11-12T11:11:26.341Z",
       "date": "2026-11-12",
+      "message": "Em làm SN 48. Priority Nursing Actions During an MI hết 6h15 phút và sửa SN 47. ECG Changes You’ll See in an MI hết 15 phút ạ",
+      "submittedAt": "2026-11-12T11:11:26.341Z",
       "tasks": [
         {
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "title": "RnD: AI experiments\nStaneconomic 303 (1p44)",
           "progress": "60%",
-          "timeSpent": "1.5h"
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
+          "timeSpent": "1.5h",
+          "title": "RnD: AI experiments\nStaneconomic 303 (1p44)"
         }
       ],
-      "message": "Em làm SN 48. Priority Nursing Actions During an MI hết 6h15 phút và sửa SN 47. ECG Changes You’ll See in an MI hết 15 phút ạ"
+      "userId": "ou_e0897ef23f084625d708cd50c16468db"
     }
   ]
 }
