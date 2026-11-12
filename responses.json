@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-11-12",
-      "message": "2h cÃÂÃÂ²n lÃÂ¡ÃÂºÃÂ¡i sÃÂ¡ÃÂ»ÃÂ­a UV cÃÂÃÂ¡c kiÃÂ¡ÃÂ»ÃÂu",
+      "message": "2h cÃÂÃÂÃÂÃÂ²n lÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¡i sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a UV cÃÂÃÂÃÂÃÂ¡c kiÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂu",
       "submittedAt": "2026-11-12T10:58:46.617Z",
       "tasks": [
         {
@@ -23,7 +23,7 @@
     },
     {
       "date": "2026-11-12",
-      "message": "SÃ¡Â»Â­a SN CH ep 9 + TÃÂ¬m ref Mitrade (1h)",
+      "message": "SÃÂ¡ÃÂ»ÃÂ­a SN CH ep 9 + TÃÂÃÂ¬m ref Mitrade (1h)",
       "submittedAt": "2026-11-12T11:04:23.251Z",
       "tasks": [
         {
@@ -37,7 +37,7 @@
     },
     {
       "date": "2026-11-12",
-      "message": "Em lÃ m SN 48. Priority Nursing Actions During an MI háº¿t 6h15 phÃºt vÃ  sá»­a SN 47. ECG Changes Youâll See in an MI háº¿t 15 phÃºt áº¡",
+      "message": "Em lÃÂ m SN 48. Priority Nursing Actions During an MI hÃ¡ÂºÂ¿t 6h15 phÃÂºt vÃÂ  sÃ¡Â»Â­a SN 47. ECG Changes YouÃ¢ÂÂll See in an MI hÃ¡ÂºÂ¿t 15 phÃÂºt Ã¡ÂºÂ¡",
       "submittedAt": "2026-11-12T11:11:26.341Z",
       "tasks": [
         {
@@ -68,6 +68,20 @@
         }
       ],
       "userId": "ou_8bc85db08b634120548400c90c38d7c1"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-11-12T16:15:57.591Z",
+      "date": "2026-11-12",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "SN Priority: 47. ECG Changes You’ll See in an MI ~5 mins",
+          "progress": "90%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
