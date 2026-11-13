@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-11-13",
-      "message": "sÃÂ¡ÃÂ»ÃÂ­a SN comm 11 1.5h",
+      "message": "sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a SN comm 11 1.5h",
       "submittedAt": "2026-11-13T10:53:23.339Z",
       "tasks": [
         {
@@ -31,7 +31,7 @@
     },
     {
       "date": "2026-11-13",
-      "message": "1h sá»­a UV size\n~30p thá»nh thoáº£ng sá»­a nÃ y sá»­a kia UV cÃ²n láº¡i",
+      "message": "1h sÃ¡Â»Â­a UV size\n~30p thÃ¡Â»Ânh thoÃ¡ÂºÂ£ng sÃ¡Â»Â­a nÃÂ y sÃ¡Â»Â­a kia UV cÃÂ²n lÃ¡ÂºÂ¡i",
       "submittedAt": "2026-11-13T11:01:39.487Z",
       "tasks": [
         {
@@ -52,7 +52,7 @@
           "progress": "100%",
           "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
           "timeSpent": "1h",
-          "title": "SN Priority: 47. ECG Changes You’ll See in an MI ~5 mins"
+          "title": "SN Priority: 47. ECG Changes Youâll See in an MI ~5 mins"
         },
         {
           "progress": "20%",
@@ -62,6 +62,20 @@
         }
       ],
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+    },
+    {
+      "userId": "ou_e0897ef23f084625d708cd50c16468db",
+      "submittedAt": "2026-11-13T12:47:38.475Z",
+      "date": "2026-11-13",
+      "tasks": [
+        {
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
+          "title": "SN Priority: 48. tiếp (1)",
+          "progress": "100%",
+          "timeSpent": "1.5h"
+        }
+      ],
+      "message": "Em làm Staneconomics hết 6h và họp cuối tuần 0.5h ạ"
     }
   ]
 }
