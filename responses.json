@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-11-13",
-      "message": "sÃ¡Â»Â­a SN comm 11 1.5h",
+      "message": "sÃÂ¡ÃÂ»ÃÂ­a SN comm 11 1.5h",
       "submittedAt": "2026-11-13T10:53:23.339Z",
       "tasks": [
         {
@@ -31,7 +31,7 @@
     },
     {
       "date": "2026-11-13",
-      "message": "1h sửa UV size\n~30p thỉnh thoảng sửa này sửa kia UV còn lại",
+      "message": "1h sá»­a UV size\n~30p thá»nh thoáº£ng sá»­a nÃ y sá»­a kia UV cÃ²n láº¡i",
       "submittedAt": "2026-11-13T11:01:39.487Z",
       "tasks": [
         {
@@ -42,6 +42,26 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-11-13T11:33:05.108Z",
+      "date": "2026-11-13",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "SN Priority: 47. ECG Changes You’ll See in an MI ~5 mins",
+          "progress": "100%",
+          "timeSpent": "1h"
+        },
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
+          "title": "SN Community Health: 11. Communicable Diseases - STDs ~18 mins (5.5)\n20/11",
+          "progress": "20%",
+          "timeSpent": "6h"
+        }
+      ],
+      "message": "0,25h SN 45 FIX, 0,25H SN 46 FIX, 0,5H HOPP TEAM"
     }
   ]
 }
