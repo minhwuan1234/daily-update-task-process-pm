@@ -64,18 +64,18 @@
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     },
     {
-      "userId": "ou_e0897ef23f084625d708cd50c16468db",
-      "submittedAt": "2026-11-13T12:47:38.475Z",
       "date": "2026-11-13",
+      "message": "Em làm Staneconomics hết 6h và họp cuối tuần 0.5h ạ",
+      "submittedAt": "2026-11-13T12:47:38.475Z",
       "tasks": [
         {
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "title": "SN Priority: 48. tiếp (1)",
           "progress": "100%",
-          "timeSpent": "1.5h"
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
+          "timeSpent": "1.5h",
+          "title": "SN Priority: 48. tiếp (1)"
         }
       ],
-      "message": "Em làm Staneconomics hết 6h và họp cuối tuần 0.5h ạ"
+      "userId": "ou_e0897ef23f084625d708cd50c16468db"
     }
   ]
 }
