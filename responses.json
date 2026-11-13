@@ -1,87 +1,19 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "responses": [
     {
-      "date": "2026-11-12",
-      "message": "2h cÃÂÃÂÃÂÃÂ²n lÃÂÃÂ¡ÃÂÃÂºÃÂÃÂ¡i sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a UV cÃÂÃÂÃÂÃÂ¡c kiÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂu",
-      "submittedAt": "2026-11-12T10:58:46.617Z",
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-11-13T10:53:23.339Z",
+      "date": "2026-11-13",
       "tasks": [
         {
-          "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "3h",
-          "title": "UV: LinkedIn posts (0.5)"
-        },
-        {
-          "progress": "10%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "timeSpent": "2h",
-          "title": "Cengage: Video 2 ~7 mins (3.5)"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-11-12",
-      "message": "SÃÂ¡ÃÂ»ÃÂ­a SN CH ep 9 + TÃÂÃÂ¬m ref Mitrade (1h)",
-      "submittedAt": "2026-11-12T11:04:23.251Z",
-      "tasks": [
-        {
-          "progress": "90%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "7h",
-          "title": "OKR: Personal project: Improve anim quality"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-11-12",
-      "message": "Em lÃÂ m SN 48. Priority Nursing Actions During an MI hÃ¡ÂºÂ¿t 6h15 phÃÂºt vÃÂ  sÃ¡Â»Â­a SN 47. ECG Changes YouÃ¢ÂÂll See in an MI hÃ¡ÂºÂ¿t 15 phÃÂºt Ã¡ÂºÂ¡",
-      "submittedAt": "2026-11-12T11:11:26.341Z",
-      "tasks": [
-        {
-          "progress": "60%",
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "1.5h",
-          "title": "RnD: AI experiments\nStaneconomic 303 (1p44)"
-        }
-      ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
-    },
-    {
-      "date": "2026-11-12",
-      "message": "Check SR Mitrade 30p",
-      "submittedAt": "2026-11-12T11:18:21.533Z",
-      "tasks": [
-        {
-          "progress": "10%",
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "1.5h",
-          "title": "Cengage: Video 3 ~6.5 mins (3.5)"
-        },
-        {
-          "progress": "100%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-1",
-          "timeSpent": "6h",
-          "title": "SN Community Health: 9 study guide"
+          "title": "Cengage: Video 3 ~6.5 mins (3.5)",
+          "progress": "30%",
+          "timeSpent": "6.5h"
         }
       ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-11-12",
-      "message": "",
-      "submittedAt": "2026-11-12T16:15:57.591Z",
-      "tasks": [
-        {
-          "progress": "90%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "8h",
-          "title": "SN Priority: 47. ECG Changes You’ll See in an MI ~5 mins"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": "sửa SN comm 11 1.5h"
     }
   ]
 }
