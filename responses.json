@@ -2,18 +2,18 @@
   "date": "2026-11-13",
   "responses": [
     {
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
-      "submittedAt": "2026-11-13T10:53:23.339Z",
       "date": "2026-11-13",
+      "message": "sửa SN comm 11 1.5h",
+      "submittedAt": "2026-11-13T10:53:23.339Z",
       "tasks": [
         {
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "Cengage: Video 3 ~6.5 mins (3.5)",
           "progress": "30%",
-          "timeSpent": "6.5h"
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "timeSpent": "6.5h",
+          "title": "Cengage: Video 3 ~6.5 mins (3.5)"
         }
       ],
-      "message": "sửa SN comm 11 1.5h"
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
     }
   ]
 }
