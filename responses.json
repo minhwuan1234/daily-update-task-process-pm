@@ -3,14 +3,14 @@
   "responses": [
     {
       "date": "2026-11-16",
-      "message": "Em hÃ¡Â»Âp ÃÂÃ¡ÂºÂ§u tuÃ¡ÂºÂ§n 15 phÃÂºt vÃÂ  lÃÂ m R&D AI Experiment 2h15 phÃÂºt Ã¡ÂºÂ¡",
+      "message": "Em hÃÂ¡ÃÂ»ÃÂp ÃÂÃÂÃÂ¡ÃÂºÃÂ§u tuÃÂ¡ÃÂºÃÂ§n 15 phÃÂÃÂºt vÃÂÃÂ  lÃÂÃÂ m R&D AI Experiment 2h15 phÃÂÃÂºt ÃÂ¡ÃÂºÃÂ¡",
       "submittedAt": "2026-11-16T10:54:18.390Z",
       "tasks": [
         {
           "progress": "20%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
           "timeSpent": "5.5h",
-          "title": "SN Priority: 49. PostÃ¢ÂÂMI Complications Nursing Students Must Know ~13 mins"
+          "title": "SN Priority: 49. PostÃÂ¢ÃÂÃÂMI Complications Nursing Students Must Know ~13 mins"
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
@@ -22,7 +22,7 @@
       "tasks": [
         {
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "Cengage: Video 3 tiáº¿p",
+          "title": "Cengage: Video 3 tiÃ¡ÂºÂ¿p",
           "progress": "70%",
           "timeSpent": "8h"
         }
@@ -31,7 +31,7 @@
     },
     {
       "date": "2026-11-16",
-      "message": "1h họp + thỉnh thoảng sửa UV\n30p tạo file characters + lipsync cho Oanh",
+      "message": "1h há»p + thá»nh thoáº£ng sá»­a UV\n30p táº¡o file characters + lipsync cho Oanh",
       "submittedAt": "2026-11-16T11:49:16.421Z",
       "tasks": [
         {
@@ -44,10 +44,24 @@
           "progress": "100%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
           "timeSpent": "2.5h",
-          "title": "Cengage: Video 2 tiếp"
+          "title": "Cengage: Video 2 tiáº¿p"
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-11-16T15:16:35.071Z",
+      "date": "2026-11-16",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "SN Community Health: 11. tiếp\n20/11",
+          "progress": "70%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
