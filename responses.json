@@ -3,14 +3,14 @@
   "responses": [
     {
       "date": "2026-11-16",
-      "message": "Em há»p Äáº§u tuáº§n 15 phÃºt vÃ  lÃ m R&D AI Experiment 2h15 phÃºt áº¡",
+      "message": "Em hÃ¡Â»Âp ÃÂÃ¡ÂºÂ§u tuÃ¡ÂºÂ§n 15 phÃÂºt vÃÂ  lÃÂ m R&D AI Experiment 2h15 phÃÂºt Ã¡ÂºÂ¡",
       "submittedAt": "2026-11-16T10:54:18.390Z",
       "tasks": [
         {
           "progress": "20%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
           "timeSpent": "5.5h",
-          "title": "SN Priority: 49. PostâMI Complications Nursing Students Must Know ~13 mins"
+          "title": "SN Priority: 49. PostÃ¢ÂÂMI Complications Nursing Students Must Know ~13 mins"
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
@@ -22,12 +22,32 @@
       "tasks": [
         {
           "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "title": "Cengage: Video 3 tiếp",
+          "title": "Cengage: Video 3 tiáº¿p",
           "progress": "70%",
           "timeSpent": "8h"
         }
       ],
       "message": "Khum"
+    },
+    {
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-11-16T11:49:16.421Z",
+      "date": "2026-11-16",
+      "tasks": [
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "title": "KCL: Giant Panda infographic (2)",
+          "progress": "50%",
+          "timeSpent": "4h"
+        },
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
+          "title": "Cengage: Video 2 tiếp",
+          "progress": "100%",
+          "timeSpent": "2.5h"
+        }
+      ],
+      "message": "1h họp + thỉnh thoảng sửa UV\n30p tạo file characters + lipsync cho Oanh"
     }
   ]
 }
