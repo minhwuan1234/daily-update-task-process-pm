@@ -1,81 +1,19 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-16",
   "responses": [
     {
-      "date": "2026-11-13",
-      "message": "sÃÂÃÂ¡ÃÂÃÂ»ÃÂÃÂ­a SN comm 11 1.5h",
-      "submittedAt": "2026-11-13T10:53:23.339Z",
+      "userId": "ou_e0897ef23f084625d708cd50c16468db",
+      "submittedAt": "2026-11-16T10:54:18.390Z",
+      "date": "2026-11-16",
       "tasks": [
         {
-          "progress": "30%",
-          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
-          "timeSpent": "6.5h",
-          "title": "Cengage: Video 3 ~6.5 mins (3.5)"
-        }
-      ],
-      "userId": "ou_8bc85db08b634120548400c90c38d7c1"
-    },
-    {
-      "date": "2026-11-13",
-      "message": "",
-      "submittedAt": "2026-11-13T10:57:34.536Z",
-      "tasks": [
-        {
-          "progress": "90%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "8h",
-          "title": "OKR: Personal project: Improve anim quality"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-11-13",
-      "message": "1h sÃ¡Â»Â­a UV size\n~30p thÃ¡Â»Ânh thoÃ¡ÂºÂ£ng sÃ¡Â»Â­a nÃÂ y sÃ¡Â»Â­a kia UV cÃÂ²n lÃ¡ÂºÂ¡i",
-      "submittedAt": "2026-11-13T11:01:39.487Z",
-      "tasks": [
-        {
-          "progress": "50%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "6.5h",
-          "title": "Cengage: Video 2 ~7 mins (3.5)"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-11-13",
-      "message": "0,25h SN 45 FIX, 0,25H SN 46 FIX, 0,5H HOPP TEAM",
-      "submittedAt": "2026-11-13T11:33:05.108Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "1h",
-          "title": "SN Priority: 47. ECG Changes Youâll See in an MI ~5 mins"
-        },
-        {
-          "progress": "20%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
-          "timeSpent": "6h",
-          "title": "SN Community Health: 11. Communicable Diseases - STDs ~18 mins (5.5)\n20/11"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
-    },
-    {
-      "date": "2026-11-13",
-      "message": "Em làm Staneconomics hết 6h và họp cuối tuần 0.5h ạ",
-      "submittedAt": "2026-11-13T12:47:38.475Z",
-      "tasks": [
-        {
-          "progress": "100%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "1.5h",
-          "title": "SN Priority: 48. tiếp (1)"
+          "title": "SN Priority: 49. Post‑MI Complications Nursing Students Must Know ~13 mins",
+          "progress": "20%",
+          "timeSpent": "5.5h"
         }
       ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
+      "message": "Em họp đầu tuần 15 phút và làm R&D AI Experiment 2h15 phút ạ"
     }
   ]
 }
