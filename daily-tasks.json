@@ -1,14 +1,19 @@
 {
-  "date": "13-Nov",
-  "generatedAt": "2026-11-13T10:45:08.463Z",
+  "date": "16-Nov",
+  "generatedAt": "2026-11-16T10:45:11.925Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "13-Nov",
+          "date": "16-Nov",
+          "dueDate": "23/11",
+          "task": "KCL: Giant Panda infographic (2)"
+        },
+        {
+          "date": "16-Nov",
           "dueDate": "19/11",
-          "task": "Cengage: Video 2 ~7 mins (3.5)"
+          "task": "Cengage: Video 2 tiếp"
         }
       ]
     },
@@ -16,9 +21,9 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "13-Nov",
+          "date": "16-Nov",
           "dueDate": "19/11",
-          "task": "Cengage: Video 3 ~6.5 mins (3.5)"
+          "task": "Cengage: Video 3 tiếp"
         }
       ]
     },
@@ -26,9 +31,9 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "13-Nov",
-          "dueDate": "27/11",
-          "task": "SN Priority: 48. tiếp (1)"
+          "date": "16-Nov",
+          "dueDate": "4/12",
+          "task": "SN Priority: 49. Post‑MI Complications Nursing Students Must Know ~13 mins"
         }
       ]
     },
@@ -36,9 +41,9 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "13-Nov",
+          "date": "16-Nov",
           "dueDate": null,
-          "task": "RnD: AI experiment vs các low budget SR (staneconomic/ pulsestart/ jolyart)"
+          "task": "RnD: AI experiment\nStaneconomic 303 (1p44)\nLow budget series Brief 4"
         }
       ]
     },
@@ -46,9 +51,14 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "13-Nov",
-          "dueDate": null,
-          "task": "OKR: Personal project: Improve anim quality"
+          "date": "16-Nov",
+          "dueDate": "16/11",
+          "task": "UV: LinkedIn post 1h"
+        },
+        {
+          "date": "16-Nov",
+          "dueDate": "19/11",
+          "task": "Cengage: Video 1 ~7.5 mins (4)"
         }
       ]
     },
@@ -56,18 +66,13 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "13-Nov",
-          "dueDate": "27/11",
-          "task": "SN Priority: 47. ECG Changes You’ll See in an MI ~5 mins"
-        },
-        {
-          "date": "13-Nov",
+          "date": "16-Nov",
           "dueDate": null,
-          "task": "SN Community Health: 11. Communicable Diseases - STDs ~18 mins (5.5)\n20/11"
+          "task": "SN Community Health: 11. tiếp\n20/11"
         }
       ]
     }
   ],
   "totalMembers": 6,
-  "totalTasks": 7
+  "totalTasks": 8
 }
