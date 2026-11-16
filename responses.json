@@ -3,17 +3,31 @@
   "responses": [
     {
       "date": "2026-11-16",
-      "message": "Em họp đầu tuần 15 phút và làm R&D AI Experiment 2h15 phút ạ",
+      "message": "Em há»p Äáº§u tuáº§n 15 phÃºt vÃ  lÃ m R&D AI Experiment 2h15 phÃºt áº¡",
       "submittedAt": "2026-11-16T10:54:18.390Z",
       "tasks": [
         {
           "progress": "20%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
           "timeSpent": "5.5h",
-          "title": "SN Priority: 49. Post‑MI Complications Nursing Students Must Know ~13 mins"
+          "title": "SN Priority: 49. PostâMI Complications Nursing Students Must Know ~13 mins"
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
+    },
+    {
+      "userId": "ou_8bc85db08b634120548400c90c38d7c1",
+      "submittedAt": "2026-11-16T11:00:45.915Z",
+      "date": "2026-11-16",
+      "tasks": [
+        {
+          "taskId": "ou_8bc85db08b634120548400c90c38d7c1-0",
+          "title": "Cengage: Video 3 tiếp",
+          "progress": "70%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": "Khum"
     }
   ]
 }
