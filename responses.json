@@ -30,24 +30,24 @@
       "message": "Khum"
     },
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-11-16T11:49:16.421Z",
       "date": "2026-11-16",
+      "message": "1h họp + thỉnh thoảng sửa UV\n30p tạo file characters + lipsync cho Oanh",
+      "submittedAt": "2026-11-16T11:49:16.421Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "KCL: Giant Panda infographic (2)",
           "progress": "50%",
-          "timeSpent": "4h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "4h",
+          "title": "KCL: Giant Panda infographic (2)"
         },
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "title": "Cengage: Video 2 tiếp",
           "progress": "100%",
-          "timeSpent": "2.5h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
+          "timeSpent": "2.5h",
+          "title": "Cengage: Video 2 tiếp"
         }
       ],
-      "message": "1h họp + thỉnh thoảng sửa UV\n30p tạo file characters + lipsync cho Oanh"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }
