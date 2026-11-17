@@ -1,0 +1,45 @@
+name: TEST - Send to 2 test users only
+
+# Chạy thủ công từ tab Actions. Mọi tin nhắn chỉ gửi tới 2 người test
+# (hardcode trong scripts/test-send.py), không động tới members.json,
+# daily-tasks.json, responses.json hay PM thật.
+
+on:
+  workflow_dispatch:
+    inputs:
+      type:
+        description: "Loại card"
+        type: choice
+        default: form
+        options: [form, reminder, report]
+      reminder_index:
+        description: "Lần nhắc (chỉ dùng khi type=reminder)"
+        type: choice
+        default: "1"
+        options: ["1", "2", "3"]
+      dry_run:
+        description: "Chỉ in ra, không gửi"
+        type: boolean
+        default: false
+
+jobs:
+  test-send:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Send test card
+        env:
+          LARK_APP_ID: ${{ secrets.LARK_APP_ID }}
+          LARK_APP_SECRET: ${{ secrets.LARK_APP_SECRET }}
+          TYPE: ${{ inputs.type }}
+          IDX: ${{ inputs.reminder_index }}
+          DRY: ${{ inputs.dry_run }}
+        run: |
+          args="--type $TYPE --reminder-index $IDX"
+          [ "$DRY" = "true" ] || args="$args --send"
+          python scripts/test-send.py $args
