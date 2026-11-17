@@ -13,11 +13,11 @@
           "timeSpent": "5.5h"
         }
       ],
-      "message": "- Feedback Staneconomics (1h)\n- Sá»­a UV: LinkedIn post (1h)\n- Sá»­a SN: Cyber Monday Sale (0.5h)"
+      "message": "- Feedback Staneconomics (1h)\n- SÃ¡Â»Â­a UV: LinkedIn post (1h)\n- SÃ¡Â»Â­a SN: Cyber Monday Sale (0.5h)"
     },
     {
       "date": "2026-11-17",
-      "message": "đang làm dở thì phát hiện ra chưa final script nên đang tạm dừng ạ\ncả ngày hnay (~7h) dành cho IHF Video 1\ncòn lại là UV sửa sửa",
+      "message": "Äang lÃ m dá» thÃ¬ phÃ¡t hiá»n ra chÆ°a final script nÃªn Äang táº¡m dá»«ng áº¡\ncáº£ ngÃ y hnay (~7h) dÃ nh cho IHF Video 1\ncÃ²n láº¡i lÃ  UV sá»­a sá»­a",
       "submittedAt": "2026-11-17T11:07:07.126Z",
       "tasks": [
         {
@@ -28,6 +28,20 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_e0897ef23f084625d708cd50c16468db",
+      "submittedAt": "2026-11-17T11:15:55.090Z",
+      "date": "2026-11-17",
+      "tasks": [
+        {
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
+          "title": "SN Priority: 49. Post‑MI Complications Nursing Students Must Know ~13 mins",
+          "progress": "50%",
+          "timeSpent": "7.5h"
+        }
+      ],
+      "message": "Em làm L&D AI Experiment 0.5h ạ"
     }
   ]
 }
