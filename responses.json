@@ -16,18 +16,18 @@
       "message": "- Feedback Staneconomics (1h)\n- Sá»­a UV: LinkedIn post (1h)\n- Sá»­a SN: Cyber Monday Sale (0.5h)"
     },
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-11-17T11:07:07.126Z",
       "date": "2026-11-17",
+      "message": "đang làm dở thì phát hiện ra chưa final script nên đang tạm dừng ạ\ncả ngày hnay (~7h) dành cho IHF Video 1\ncòn lại là UV sửa sửa",
+      "submittedAt": "2026-11-17T11:07:07.126Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "KCL: Giant Panda infographic (2)",
           "progress": "70%",
-          "timeSpent": "0.5h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "0.5h",
+          "title": "KCL: Giant Panda infographic (2)"
         }
       ],
-      "message": "đang làm dở thì phát hiện ra chưa final script nên đang tạm dừng ạ\ncả ngày hnay (~7h) dành cho IHF Video 1\ncòn lại là UV sửa sửa"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }
