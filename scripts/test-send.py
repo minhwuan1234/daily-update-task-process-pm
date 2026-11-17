@@ -1,9 +1,14 @@
 #!/usr/bin/env python3
-"""Test: gửi card Lark chỉ cho 2 người test (không đụng members.json / daily-tasks.json).
+"""Test: 2 người test nhận card của TẤT CẢ member (quyền xem giống Minh Quân).
 
-Chạy thử (không gửi):   python scripts/test-send.py
-Gửi thật:               LARK_APP_ID=... LARK_APP_SECRET=... python scripts/test-send.py --send
-Test card nhắc lần 2:   python scripts/test-send.py --send --type reminder --reminder-index 2
+Dùng dữ liệu thật từ daily-tasks.json / members.json / responses.json, nhưng
+mọi tin nhắn chỉ gửi tới 2 người test, không gửi cho member hay PM thật.
+
+  python scripts/test-send.py                      # xem trước, không gửi
+  python scripts/test-send.py --send --type form   # card form-link của từng member
+  python scripts/test-send.py --send --type reminder --reminder-index 2
+  python scripts/test-send.py --send --type report # card báo cáo của từng response
+Cần LARK_APP_ID, LARK_APP_SECRET khi --send.
 """
 
 import argparse
@@ -11,22 +16,17 @@ import importlib.util
 import json
 import os
 from datetime import datetime
-from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT_SPEC = importlib.util.spec_from_file_location(
+    "reminders", os.path.join(os.path.dirname(__file__), "send-reminders.py")
+)
+rem = importlib.util.module_from_spec(ROOT_SPEC)
+ROOT_SPEC.loader.exec_module(rem)
+ROOT = rem.ROOT
 
-# Tái sử dụng logic thật của script reminder để test đúng card/URL production.
-spec = importlib.util.spec_from_file_location("reminders", ROOT / "scripts" / "send-reminders.py")
-rem = importlib.util.module_from_spec(spec)
-spec.loader.exec_module(rem)
-
-TEST_USERS = [
+TEST_RECEIVERS = [
     {"name": "lptrang.neu", "userId": "ou_c953d63832eddba640d56be2c2df3ef6"},
     {"name": "tranmaianh100505", "userId": "ou_4c47a96f203274778fdfbf5d6cfcc283"},
-]
-SAMPLE_TASKS = [
-    {"task": "[TEST] Task mẫu 1", "dueDate": "20/11"},
-    {"task": "[TEST] Task mẫu 2", "dueDate": "21/11"},
 ]
 FORM_BASE_URL = os.environ.get(
     "FORM_BASE_URL",
@@ -34,26 +34,53 @@ FORM_BASE_URL = os.environ.get(
 )
 
 
-def build_form_link_card(form_url: str, today_label: str) -> dict:
-    """Card giống send-form-links.yml."""
-    elements = []
-    for i, t in enumerate(SAMPLE_TASKS, 1):
-        elements.append({"tag": "div", "text": {"tag": "lark_md",
-                         "content": f"{i}. {t['task']} · due **{t['dueDate']}**"}})
-        elements.append({"tag": "hr"})
+def form_card(name: str, tasks: list, form_url: str, label: str) -> dict:
+    """Card giống send-form-links.yml, gắn tên member để biết là form của ai."""
+    els = []
+    for i, t in enumerate(tasks[:2], 1):
+        due = f" · due **{t.get('dueDate')}**" if t.get("dueDate") else ""
+        els += [{"tag": "div", "text": {"tag": "lark_md", "content": f"{i}. {t.get('task', '')}{due}"}},
+                {"tag": "hr"}]
     return {
         "config": {"wide_screen_mode": True},
-        "header": {"title": {"tag": "plain_text", "content": f"🧪 TEST · Update tình hình — {today_label}"},
+        "header": {"title": {"tag": "plain_text", "content": f"🧪 TEST · {name} — {label}"},
                    "template": "green"},
         "elements": [
             {"tag": "div", "text": {"tag": "lark_md",
-                                    "content": f"Xin chào! Hôm nay bạn có **{len(SAMPLE_TASKS)} task** cần update:"}},
-            {"tag": "hr"},
-            *elements,
+                                    "content": f"Form của **{name}** — **{len(tasks[:2])} task**:"}},
+            {"tag": "hr"}, *els,
             {"tag": "action", "actions": [{"tag": "button",
-                                           "text": {"tag": "plain_text", "content": "✍️ Điền Daily Standup"},
+                                           "text": {"tag": "plain_text", "content": "✍️ Mở form của " + name},
                                            "type": "primary", "url": form_url}]},
-            {"tag": "note", "elements": [{"tag": "plain_text", "content": "Tin nhắn test, bỏ qua nếu không liên quan."}]},
+        ],
+    }
+
+
+def report_card(name: str, resp: dict, submitted: int, total: int, label: str) -> dict:
+    """Card báo cáo giống collect-response.yml."""
+    els = []
+    tasks = resp.get("tasks", [])
+    for i, t in enumerate(tasks):
+        spent = t.get("timeSpent", "")
+        line = f"\n  ⏱️ Thời gian: {spent}" if spent and spent != "—" else ""
+        els.append({"tag": "div", "text": {"tag": "lark_md",
+                    "content": f"**{t.get('title', '')}**\n  📈 Progress: {t.get('progress', '—')}{line}"}})
+        if i < len(tasks) - 1:
+            els.append({"tag": "hr"})
+    msg = (resp.get("message") or "").strip()
+    if msg not in ("", "."):
+        els += [{"tag": "hr"}, {"tag": "div", "text": {"tag": "lark_md",
+                "content": f"🆕 Task khác hoặc Task phát sinh nếu có: _{msg}_"}}]
+    return {
+        "config": {"wide_screen_mode": True},
+        "header": {"title": {"tag": "plain_text", "content": f"🧪 TEST · Update tình hình — {label}"},
+                   "template": "green"},
+        "elements": [
+            {"tag": "div", "text": {"tag": "lark_md",
+                                    "content": f"👤 **{name}** đã submit\n📅 {resp.get('submittedAt', '')}"}},
+            {"tag": "hr"}, *els, {"tag": "hr"},
+            {"tag": "div", "text": {"tag": "lark_md",
+                                    "content": f"✅ Đã submit: **{submitted}/{total}** thành viên"}},
         ],
     }
 
@@ -61,32 +88,56 @@ def build_form_link_card(form_url: str, today_label: str) -> dict:
 def main() -> int:
     p = argparse.ArgumentParser()
     p.add_argument("--send", action="store_true", help="Gửi thật (mặc định chỉ in ra)")
-    p.add_argument("--type", choices=("form", "reminder"), default="form")
+    p.add_argument("--type", choices=("form", "reminder", "report"), default="form")
     p.add_argument("--reminder-index", type=int, choices=(1, 2, 3), default=1)
     args = p.parse_args()
 
     now = datetime.now(rem.VN_TZ)
-    today_label = now.strftime("%d/%m/%Y")
+    label = now.strftime("%d/%m/%Y")
+    daily = rem.read_json(ROOT / "daily-tasks.json", {})
+    members = rem.read_json(ROOT / "members.json", {})
+    responses = rem.read_json(ROOT / "responses.json", {})
+    id_to_name = {v: k for k, v in members.items()}
+    print(f"Data: tasks date={daily.get('date')} ({daily.get('generatedAt')}), "
+          f"responses date={responses.get('date')}")
 
+    # (tên member, card) — mỗi card gửi cho cả 2 người test
+    jobs = []
+    assigned = [e for e in daily.get("members", []) if e.get("tasks") and members.get(e.get("member"))]
+    if args.type == "form":
+        for e in assigned:
+            url = rem.build_form_url(FORM_BASE_URL, members[e["member"]], now)
+            jobs.append((e["member"], form_card(e["member"], e["tasks"], url, label)))
+    elif args.type == "reminder":
+        done = {r.get("userId") for r in responses.get("responses", [])}
+        msg = rem.REMINDER_MESSAGES[args.reminder_index]
+        for e in assigned:
+            uid = members[e["member"]]
+            if uid in done:
+                continue
+            card = rem.build_card(f"**{e['member']}**: {msg}",
+                                  rem.build_form_url(FORM_BASE_URL, uid, now), args.reminder_index)
+            jobs.append((e["member"], card))
+    else:
+        rs = responses.get("responses", [])
+        for r in rs:
+            name = id_to_name.get(r.get("userId"), r.get("userId", "?"))
+            jobs.append((name, report_card(name, r, len(rs), len(assigned), label)))
+
+    print(f"{args.type}: {len(jobs)} card × {len(TEST_RECEIVERS)} người test")
     token = None
-    if args.send:
+    if args.send and jobs:
         token = rem.get_bot_token(os.environ["LARK_APP_ID"], os.environ["LARK_APP_SECRET"])
-
-    for u in TEST_USERS:
-        url = rem.build_form_url(FORM_BASE_URL, u["userId"], now)
-        if args.type == "form":
-            card = build_form_link_card(url, today_label)
-        else:
-            card = rem.build_card(rem.REMINDER_MESSAGES[args.reminder_index], url, args.reminder_index)
-
-        if not args.send:
-            print(f"DRY RUN → {u['name']} ({u['userId']})\n  {url}")
-            continue
-        try:
-            rem.send_lark_card(token, u["userId"], card)
-            print(f"Sent {args.type} to {u['name']}")
-        except Exception as e:
-            print(f"ERROR {u['name']}: {e}")
+    for name, card in jobs:
+        for rc in TEST_RECEIVERS:
+            if not args.send:
+                print(f"DRY RUN: [{name}] → {rc['name']}")
+                continue
+            try:
+                rem.send_lark_card(token, rc["userId"], card)
+                print(f"Sent [{name}] → {rc['name']}")
+            except Exception as e:
+                print(f"ERROR [{name}] → {rc['name']}: {e}")
     return 0
 
 
