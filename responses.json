@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-11-18",
-      "message": "còn lại là làm 2 task mới urgen của UV linkedin post + one-pager",
+      "message": "cÃ²n láº¡i lÃ  lÃ m 2 task má»i urgen cá»§a UV linkedin post + one-pager",
       "submittedAt": "2026-11-18T11:04:34.394Z",
       "tasks": [
         {
@@ -34,6 +34,20 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_e0897ef23f084625d708cd50c16468db",
+      "submittedAt": "2026-11-18T11:27:23.698Z",
+      "date": "2026-11-18",
+      "tasks": [
+        {
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
+          "title": "SN Priority: 49. Post‑MI Complications Nursing Students Must Know ~13 mins",
+          "progress": "90%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
