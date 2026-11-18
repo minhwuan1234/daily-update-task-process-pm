@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-11-18",
-      "message": "cÃ²n láº¡i lÃ  lÃ m 2 task má»i urgen cá»§a UV linkedin post + one-pager",
+      "message": "cÃÂ²n lÃ¡ÂºÂ¡i lÃÂ  lÃÂ m 2 task mÃ¡Â»Âi urgen cÃ¡Â»Â§a UV linkedin post + one-pager",
       "submittedAt": "2026-11-18T11:04:34.394Z",
       "tasks": [
         {
@@ -44,10 +44,24 @@
           "progress": "90%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
           "timeSpent": "8h",
-          "title": "SN Priority: 49. Post‑MI Complications Nursing Students Must Know ~13 mins"
+          "title": "SN Priority: 49. PostâMI Complications Nursing Students Must Know ~13 mins"
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-11-18T15:30:28.047Z",
+      "date": "2026-11-18",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "SN Community Health: 11. tiếp\n27/11",
+          "progress": "80%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
