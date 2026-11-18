@@ -2,18 +2,18 @@
   "date": "2026-11-18",
   "responses": [
     {
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
-      "submittedAt": "2026-11-18T10:52:55.794Z",
       "date": "2026-11-18",
+      "message": "",
+      "submittedAt": "2026-11-18T10:52:55.794Z",
       "tasks": [
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "title": "Cengage: Video 1 ~7.5 mins (4)",
           "progress": "60%",
-          "timeSpent": "8h"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "timeSpent": "8h",
+          "title": "Cengage: Video 1 ~7.5 mins (4)"
         }
       ],
-      "message": ""
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     }
   ]
 }
