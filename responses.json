@@ -14,6 +14,26 @@
         }
       ],
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
+    },
+    {
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-11-18T11:04:34.394Z",
+      "date": "2026-11-18",
+      "tasks": [
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "title": "CSL IHF: M8 2/4 parts ~1.8 min (1.5)",
+          "progress": "70%",
+          "timeSpent": "6h"
+        },
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
+          "title": "UV fix 1h",
+          "progress": "100%",
+          "timeSpent": "0.5h"
+        }
+      ],
+      "message": "còn lại là làm 2 task mới urgen của UV linkedin post + one-pager"
     }
   ]
 }
