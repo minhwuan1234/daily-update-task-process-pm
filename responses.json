@@ -1,56 +1,14 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "responses": [
     {
       "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
-      "submittedAt": "2026-11-17T11:03:18.297Z",
-      "date": "2026-11-17",
+      "submittedAt": "2026-11-18T10:52:55.794Z",
+      "date": "2026-11-18",
       "tasks": [
         {
           "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
           "title": "Cengage: Video 1 ~7.5 mins (4)",
-          "progress": "20%",
-          "timeSpent": "5.5h"
-        }
-      ],
-      "message": "- Feedback Staneconomics (1h)\n- SÃÂ¡ÃÂ»ÃÂ­a UV: LinkedIn post (1h)\n- SÃÂ¡ÃÂ»ÃÂ­a SN: Cyber Monday Sale (0.5h)"
-    },
-    {
-      "date": "2026-11-17",
-      "message": "ÃÂang lÃÂ m dÃ¡Â»Â thÃÂ¬ phÃÂ¡t hiÃ¡Â»Ân ra chÃÂ°a final script nÃÂªn ÃÂang tÃ¡ÂºÂ¡m dÃ¡Â»Â«ng Ã¡ÂºÂ¡\ncÃ¡ÂºÂ£ ngÃÂ y hnay (~7h) dÃÂ nh cho IHF Video 1\ncÃÂ²n lÃ¡ÂºÂ¡i lÃÂ  UV sÃ¡Â»Â­a sÃ¡Â»Â­a",
-      "submittedAt": "2026-11-17T11:07:07.126Z",
-      "tasks": [
-        {
-          "progress": "70%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "0.5h",
-          "title": "KCL: Giant Panda infographic (2)"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-11-17",
-      "message": "Em lÃ m L&D AI Experiment 0.5h áº¡",
-      "submittedAt": "2026-11-17T11:15:55.090Z",
-      "tasks": [
-        {
-          "progress": "50%",
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "7.5h",
-          "title": "SN Priority: 49. PostâMI Complications Nursing Students Must Know ~13 mins"
-        }
-      ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
-    },
-    {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-11-17T15:40:07.189Z",
-      "date": "2026-11-17",
-      "tasks": [
-        {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "SN Community Health: 11. tiếp\n27/11",
           "progress": "60%",
           "timeSpent": "8h"
         }
