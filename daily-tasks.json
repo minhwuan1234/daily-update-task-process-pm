@@ -1,19 +1,14 @@
 {
-  "date": "18-Nov",
-  "generatedAt": "2026-11-18T10:45:09.876Z",
+  "date": "19-Nov",
+  "generatedAt": "2026-11-19T10:45:10.681Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "18-Nov",
-          "dueDate": "27/11",
-          "task": "CSL IHF: M8 2/4 parts ~1.8 min (1.5)"
-        },
-        {
-          "date": "18-Nov",
-          "dueDate": null,
-          "task": "UV fix 1h"
+          "date": "19-Nov",
+          "dueDate": "26/11",
+          "task": "Cengage: Video 4 ~7.5 mins"
         }
       ]
     },
@@ -21,7 +16,7 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "18-Nov",
+          "date": "19-Nov",
           "dueDate": null,
           "task": "Pitching styleframes Musée d’histoire de Nantes"
         }
@@ -31,9 +26,9 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "18-Nov",
-          "dueDate": "4/12",
-          "task": "SN Priority: 49. Post‑MI Complications Nursing Students Must Know ~13 mins"
+          "date": "19-Nov",
+          "dueDate": null,
+          "task": "RnD: AI experiments Cengage"
         }
       ]
     },
@@ -41,7 +36,7 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "18-Nov",
+          "date": "19-Nov",
           "dueDate": "20/11",
           "task": "Careum: video 1 anim - Italian + French adapt (2)"
         }
@@ -51,7 +46,7 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "18-Nov",
+          "date": "19-Nov",
           "dueDate": "19/11",
           "task": "Cengage: Video 1 ~7.5 mins (4)"
         }
@@ -61,7 +56,7 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "18-Nov",
+          "date": "19-Nov",
           "dueDate": null,
           "task": "SN Community Health: 11. tiếp\n27/11"
         }
@@ -69,5 +64,5 @@
     }
   ],
   "totalMembers": 6,
-  "totalTasks": 7
+  "totalTasks": 6
 }
