@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-11-19",
-      "message": "ÃÂ¡ chÃÂ°a lÃÂ m gÃÂ¬ cÃ¡ÂºÂ¡\nhnay lÃÂ m IHF chapter 2\n~3,5h sÃ¡Â»Â­a UV vÃÂ  giantPANDA",
+      "message": "ÃÂÃÂ¡ chÃÂÃÂ°a lÃÂÃÂ m gÃÂÃÂ¬ cÃÂ¡ÃÂºÃÂ¡\nhnay lÃÂÃÂ m IHF chapter 2\n~3,5h sÃÂ¡ÃÂ»ÃÂ­a UV vÃÂÃÂ  giantPANDA",
       "submittedAt": "2026-11-19T10:48:31.408Z",
       "tasks": [
         {
@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-11-19",
-      "message": "Em lÃ m SN 49. PostâMI Complications Nursing Students Must Know háº¿t 1.5h, sá»­a ná»i bá»  48. Priority Nursing Actions During an MI háº¿t 1.5h, sá»­a tool dá»±ng SN háº¿t 2.5h (lá»i xáº£y ra do code tiáº¿t kiá»m token) vÃ  ká»· niá»m 19.11 trong 0.5h áº¡",
+      "message": "Em lÃÂ m SN 49. PostÃ¢ÂÂMI Complications Nursing Students Must Know hÃ¡ÂºÂ¿t 1.5h, sÃ¡Â»Â­a nÃ¡Â»Âi bÃ¡Â»Â  48. Priority Nursing Actions During an MI hÃ¡ÂºÂ¿t 1.5h, sÃ¡Â»Â­a tool dÃ¡Â»Â±ng SN hÃ¡ÂºÂ¿t 2.5h (lÃ¡Â»Âi xÃ¡ÂºÂ£y ra do code tiÃ¡ÂºÂ¿t kiÃ¡Â»Âm token) vÃÂ  kÃ¡Â»Â· niÃ¡Â»Âm 19.11 trong 0.5h Ã¡ÂºÂ¡",
       "submittedAt": "2026-11-19T10:49:41.575Z",
       "tasks": [
         {
@@ -41,7 +41,21 @@
           "timeSpent": "7h"
         }
       ],
-      "message": "Sửa UV LinkedIn post (0.5h)"
+      "message": "Sá»­a UV LinkedIn post (0.5h)"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-11-19T11:14:24.290Z",
+      "date": "2026-11-19",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "SN Community Health: 11. tiếp\n27/11",
+          "progress": "100%",
+          "timeSpent": "7.5h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
