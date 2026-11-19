@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-11-19",
-      "message": "Æ¡ chÆ°a lÃ m gÃ¬ cáº¡\nhnay lÃ m IHF chapter 2\n~3,5h sá»­a UV vÃ  giantPANDA",
+      "message": "ÃÂ¡ chÃÂ°a lÃÂ m gÃÂ¬ cÃ¡ÂºÂ¡\nhnay lÃÂ m IHF chapter 2\n~3,5h sÃ¡Â»Â­a UV vÃÂ  giantPANDA",
       "submittedAt": "2026-11-19T10:48:31.408Z",
       "tasks": [
         {
@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-11-19",
-      "message": "Em làm SN 49. Post‑MI Complications Nursing Students Must Know hết 1.5h, sửa nội bộ  48. Priority Nursing Actions During an MI hết 1.5h, sửa tool dựng SN hết 2.5h (lỗi xảy ra do code tiết kiệm token) và kỷ niệm 19.11 trong 0.5h ạ",
+      "message": "Em lÃ m SN 49. PostâMI Complications Nursing Students Must Know háº¿t 1.5h, sá»­a ná»i bá»  48. Priority Nursing Actions During an MI háº¿t 1.5h, sá»­a tool dá»±ng SN háº¿t 2.5h (lá»i xáº£y ra do code tiáº¿t kiá»m token) vÃ  ká»· niá»m 19.11 trong 0.5h áº¡",
       "submittedAt": "2026-11-19T10:49:41.575Z",
       "tasks": [
         {
@@ -28,6 +28,20 @@
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-11-19T10:50:15.681Z",
+      "date": "2026-11-19",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "Cengage: Video 1 ~7.5 mins (4)",
+          "progress": "90%",
+          "timeSpent": "7h"
+        }
+      ],
+      "message": "Sửa UV LinkedIn post (0.5h)"
     }
   ]
 }
