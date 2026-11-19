@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-11-19",
-      "message": "ơ chưa làm gì cạ\nhnay làm IHF chapter 2\n~3,5h sửa UV và giantPANDA",
+      "message": "Æ¡ chÆ°a lÃ m gÃ¬ cáº¡\nhnay lÃ m IHF chapter 2\n~3,5h sá»­a UV vÃ  giantPANDA",
       "submittedAt": "2026-11-19T10:48:31.408Z",
       "tasks": [
         {
@@ -14,6 +14,20 @@
         }
       ],
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
+    },
+    {
+      "userId": "ou_e0897ef23f084625d708cd50c16468db",
+      "submittedAt": "2026-11-19T10:49:41.575Z",
+      "date": "2026-11-19",
+      "tasks": [
+        {
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
+          "title": "RnD: AI experiments Cengage",
+          "progress": "10%",
+          "timeSpent": "2h"
+        }
+      ],
+      "message": "Em làm SN 49. Post‑MI Complications Nursing Students Must Know hết 1.5h, sửa nội bộ  48. Priority Nursing Actions During an MI hết 1.5h, sửa tool dựng SN hết 2.5h (lỗi xảy ra do code tiết kiệm token) và kỷ niệm 19.11 trong 0.5h ạ"
     }
   ]
 }
