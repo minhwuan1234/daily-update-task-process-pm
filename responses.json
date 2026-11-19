@@ -1,67 +1,19 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "responses": [
     {
-      "date": "2026-11-18",
-      "message": "",
-      "submittedAt": "2026-11-18T10:52:55.794Z",
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-11-19T10:48:31.408Z",
+      "date": "2026-11-19",
       "tasks": [
         {
-          "progress": "60%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "8h",
-          "title": "Cengage: Video 1 ~7.5 mins (4)"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-11-18",
-      "message": "cÃÂ²n lÃ¡ÂºÂ¡i lÃÂ  lÃÂ m 2 task mÃ¡Â»Âi urgen cÃ¡Â»Â§a UV linkedin post + one-pager",
-      "submittedAt": "2026-11-18T11:04:34.394Z",
-      "tasks": [
-        {
-          "progress": "70%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "6h",
-          "title": "CSL IHF: M8 2/4 parts ~1.8 min (1.5)"
-        },
-        {
-          "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "timeSpent": "0.5h",
-          "title": "UV fix 1h"
+          "title": "Cengage: Video 4 ~7.5 mins",
+          "progress": "0%",
+          "timeSpent": "0.5h"
         }
       ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-11-18",
-      "message": "",
-      "submittedAt": "2026-11-18T11:27:23.698Z",
-      "tasks": [
-        {
-          "progress": "90%",
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "8h",
-          "title": "SN Priority: 49. PostâMI Complications Nursing Students Must Know ~13 mins"
-        }
-      ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
-    },
-    {
-      "date": "2026-11-18",
-      "message": "",
-      "submittedAt": "2026-11-18T15:30:28.047Z",
-      "tasks": [
-        {
-          "progress": "80%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "8h",
-          "title": "SN Community Health: 11. tiếp\n27/11"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": "ơ chưa làm gì cạ\nhnay làm IHF chapter 2\n~3,5h sửa UV và giantPANDA"
     }
   ]
 }
