@@ -1,61 +1,19 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "responses": [
     {
-      "date": "2026-11-19",
-      "message": "ÃÂÃÂ¡ chÃÂÃÂ°a lÃÂÃÂ m gÃÂÃÂ¬ cÃÂ¡ÃÂºÃÂ¡\nhnay lÃÂÃÂ m IHF chapter 2\n~3,5h sÃÂ¡ÃÂ»ÃÂ­a UV vÃÂÃÂ  giantPANDA",
-      "submittedAt": "2026-11-19T10:48:31.408Z",
+      "userId": "ou_e0897ef23f084625d708cd50c16468db",
+      "submittedAt": "2026-11-20T10:47:00.958Z",
+      "date": "2026-11-20",
       "tasks": [
         {
-          "progress": "0%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "0.5h",
-          "title": "Cengage: Video 4 ~7.5 mins"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-11-19",
-      "message": "Em lÃÂ m SN 49. PostÃ¢ÂÂMI Complications Nursing Students Must Know hÃ¡ÂºÂ¿t 1.5h, sÃ¡Â»Â­a nÃ¡Â»Âi bÃ¡Â»Â  48. Priority Nursing Actions During an MI hÃ¡ÂºÂ¿t 1.5h, sÃ¡Â»Â­a tool dÃ¡Â»Â±ng SN hÃ¡ÂºÂ¿t 2.5h (lÃ¡Â»Âi xÃ¡ÂºÂ£y ra do code tiÃ¡ÂºÂ¿t kiÃ¡Â»Âm token) vÃÂ  kÃ¡Â»Â· niÃ¡Â»Âm 19.11 trong 0.5h Ã¡ÂºÂ¡",
-      "submittedAt": "2026-11-19T10:49:41.575Z",
-      "tasks": [
-        {
-          "progress": "10%",
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "2h",
-          "title": "RnD: AI experiments Cengage"
+          "title": "RnD: AI experiments Cengage",
+          "progress": "30%",
+          "timeSpent": "7.5h"
         }
       ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
-    },
-    {
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
-      "submittedAt": "2026-11-19T10:50:15.681Z",
-      "date": "2026-11-19",
-      "tasks": [
-        {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "title": "Cengage: Video 1 ~7.5 mins (4)",
-          "progress": "90%",
-          "timeSpent": "7h"
-        }
-      ],
-      "message": "Sá»­a UV LinkedIn post (0.5h)"
-    },
-    {
-      "date": "2026-11-19",
-      "message": "",
-      "submittedAt": "2026-11-19T11:14:24.290Z",
-      "tasks": [
-        {
-          "progress": "100%",
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "timeSpent": "7.5h",
-          "title": "SN Community Health: 11. tiếp\n27/11"
-        }
-      ],
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+      "message": "em họp cuối tuần 15 phút ạ"
     }
   ]
 }
