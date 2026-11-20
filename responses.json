@@ -2,18 +2,18 @@
   "date": "2026-11-20",
   "responses": [
     {
-      "userId": "ou_e0897ef23f084625d708cd50c16468db",
-      "submittedAt": "2026-11-20T10:47:00.958Z",
       "date": "2026-11-20",
+      "message": "em họp cuối tuần 15 phút ạ",
+      "submittedAt": "2026-11-20T10:47:00.958Z",
       "tasks": [
         {
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "title": "RnD: AI experiments Cengage",
           "progress": "30%",
-          "timeSpent": "7.5h"
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
+          "timeSpent": "7.5h",
+          "title": "RnD: AI experiments Cengage"
         }
       ],
-      "message": "em họp cuối tuần 15 phút ạ"
+      "userId": "ou_e0897ef23f084625d708cd50c16468db"
     }
   ]
 }
