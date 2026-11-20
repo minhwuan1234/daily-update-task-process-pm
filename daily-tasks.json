@@ -1,12 +1,12 @@
 {
-  "date": "19-Nov",
-  "generatedAt": "2026-11-19T10:45:10.681Z",
+  "date": "20-Nov",
+  "generatedAt": "2026-11-20T10:45:09.665Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "19-Nov",
+          "date": "20-Nov",
           "dueDate": "26/11",
           "task": "Cengage: Video 4 ~7.5 mins"
         }
@@ -16,9 +16,9 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "19-Nov",
-          "dueDate": null,
-          "task": "Pitching styleframes Musée d’histoire de Nantes"
+          "date": "20-Nov",
+          "dueDate": "27/11",
+          "task": "CSL IHF: M8 2/4 parts ~1 min"
         }
       ]
     },
@@ -26,7 +26,7 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "19-Nov",
+          "date": "20-Nov",
           "dueDate": null,
           "task": "RnD: AI experiments Cengage"
         }
@@ -36,7 +36,7 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "19-Nov",
+          "date": "20-Nov",
           "dueDate": "20/11",
           "task": "Careum: video 1 anim - Italian + French adapt (2)"
         }
@@ -46,9 +46,9 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "19-Nov",
-          "dueDate": "19/11",
-          "task": "Cengage: Video 1 ~7.5 mins (4)"
+          "date": "20-Nov",
+          "dueDate": null,
+          "task": "OKR: Personal project: Improve anim quality"
         }
       ]
     },
@@ -56,9 +56,9 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "19-Nov",
+          "date": "20-Nov",
           "dueDate": null,
-          "task": "SN Community Health: 11. tiếp\n27/11"
+          "task": "OKR– R&D: AI Proposal & Interactive Course Workflow"
         }
       ]
     }
