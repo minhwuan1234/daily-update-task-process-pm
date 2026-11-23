@@ -1,14 +1,14 @@
 {
-  "date": "20-Nov",
-  "generatedAt": "2026-11-20T10:45:09.665Z",
+  "date": "23-Nov",
+  "generatedAt": "2026-11-23T10:45:10.065Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "20-Nov",
+          "date": "23-Nov",
           "dueDate": "26/11",
-          "task": "Cengage: Video 4 ~7.5 mins"
+          "task": "Cengage: Video 4 tiếp"
         }
       ]
     },
@@ -16,9 +16,9 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "20-Nov",
-          "dueDate": "27/11",
-          "task": "CSL IHF: M8 2/4 parts ~1 min"
+          "date": "23-Nov",
+          "dueDate": "25/11",
+          "task": "Mitrage moodboard direction 2"
         }
       ]
     },
@@ -26,9 +26,9 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "20-Nov",
-          "dueDate": null,
-          "task": "RnD: AI experiments Cengage"
+          "date": "23-Nov",
+          "dueDate": "4/12",
+          "task": "SN Priority: 50. NCLEX MI Questions Nursing Students Miss ~13 mins (3.25)"
         }
       ]
     },
@@ -36,9 +36,9 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "20-Nov",
-          "dueDate": "20/11",
-          "task": "Careum: video 1 anim - Italian + French adapt (2)"
+          "date": "23-Nov",
+          "dueDate": null,
+          "task": "RnD: AI experiment"
         }
       ]
     },
@@ -46,23 +46,13 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "20-Nov",
+          "date": "23-Nov",
           "dueDate": null,
           "task": "OKR: Personal project: Improve anim quality"
         }
       ]
-    },
-    {
-      "member": "Quân",
-      "tasks": [
-        {
-          "date": "20-Nov",
-          "dueDate": null,
-          "task": "OKR– R&D: AI Proposal & Interactive Course Workflow"
-        }
-      ]
     }
   ],
-  "totalMembers": 6,
-  "totalTasks": 6
+  "totalMembers": 5,
+  "totalTasks": 5
 }
