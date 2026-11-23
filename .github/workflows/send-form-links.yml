@@ -144,7 +144,6 @@ jobs:
           PM_RECEIVERS = [
               "ou_7efb0c22f47740644cf374252d01fdba",  # Ánh
               "ou_f56b91faf68ec98016490c56aac3daf2",  # Hà
-              "ou_e7ba57d42ce06163819095c8ed4685ab",  # Giang
               "ou_a3cd717fbf6c8058d12c76c980f52eb7",  # Minh Quân
           ]
 
