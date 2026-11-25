@@ -1,33 +1,19 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-25",
   "responses": [
     {
-      "date": "2026-11-23",
-      "message": "1,5h IHF 4\n30p chÆ¡i vÄn hÃ³a\nhá»p sÃ¡ng",
-      "submittedAt": "2026-11-23T11:21:22.222Z",
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-11-25T10:56:59.579Z",
+      "date": "2026-11-25",
       "tasks": [
         {
-          "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "4.5h",
-          "title": "Cengage: Video 4 tiáº¿p"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "SN Priority: 50. NCLEX MI Questions Nursing Students Miss ~13 mins (3.25)",
+          "progress": "0%",
+          "timeSpent": "—"
         }
       ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "date": "2026-11-23",
-      "message": "Em họp đầu tuần 15 phút và sự kiện 24.11 trong 0.5h ạ",
-      "submittedAt": "2026-11-23T11:22:21.994Z",
-      "tasks": [
-        {
-          "progress": "20%",
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "7h",
-          "title": "SN Priority: 50. NCLEX MI Questions Nursing Students Miss ~13 mins (3.25)"
-        }
-      ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
+      "message": "OKR (8h)"
     }
   ]
 }
