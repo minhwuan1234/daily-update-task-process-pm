@@ -9,7 +9,7 @@
         {
           "progress": "0%",
           "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "â",
+          "timeSpent": "Ã¢ÂÂ",
           "title": "SN Priority: 50. NCLEX MI Questions Nursing Students Miss ~13 mins (3.25)"
         }
       ],
@@ -28,6 +28,26 @@
         }
       ],
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
+    },
+    {
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-11-25T11:21:23.354Z",
+      "date": "2026-11-25",
+      "tasks": [
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "title": "UV Smart: D60 USA brochure - new version (2h)",
+          "progress": "100%",
+          "timeSpent": "2.5h"
+        },
+        {
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
+          "title": "CSL IHF: M8 part 4 ~0.6 min",
+          "progress": "100%",
+          "timeSpent": "5h"
+        }
+      ],
+      "message": "30p sửa CSL 8"
     }
   ]
 }
