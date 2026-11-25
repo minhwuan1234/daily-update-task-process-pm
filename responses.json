@@ -30,24 +30,24 @@
       "userId": "ou_e0897ef23f084625d708cd50c16468db"
     },
     {
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
-      "submittedAt": "2026-11-25T11:21:23.354Z",
       "date": "2026-11-25",
+      "message": "30p sửa CSL 8",
+      "submittedAt": "2026-11-25T11:21:23.354Z",
       "tasks": [
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "title": "UV Smart: D60 USA brochure - new version (2h)",
           "progress": "100%",
-          "timeSpent": "2.5h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
+          "timeSpent": "2.5h",
+          "title": "UV Smart: D60 USA brochure - new version (2h)"
         },
         {
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "title": "CSL IHF: M8 part 4 ~0.6 min",
           "progress": "100%",
-          "timeSpent": "5h"
+          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
+          "timeSpent": "5h",
+          "title": "CSL IHF: M8 part 4 ~0.6 min"
         }
       ],
-      "message": "30p sửa CSL 8"
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     }
   ]
 }
