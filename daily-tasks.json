@@ -1,14 +1,24 @@
 {
-  "date": "23-Nov",
-  "generatedAt": "2026-11-23T10:45:10.065Z",
+  "date": "25-Nov",
+  "generatedAt": "2026-11-25T10:45:11.728Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "23-Nov",
-          "dueDate": "26/11",
-          "task": "Cengage: Video 4 tiếp"
+          "date": "25-Nov",
+          "dueDate": null,
+          "task": "UV Smart: D60 USA brochure - new version (2h)"
+        },
+        {
+          "date": "25-Nov",
+          "dueDate": "27/11",
+          "task": "CSL IHF: M8 part 4 ~0.6 min"
+        },
+        {
+          "date": "25-Nov",
+          "dueDate": null,
+          "task": "CSL Forest 8 fix"
         }
       ]
     },
@@ -16,9 +26,9 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "23-Nov",
+          "date": "25-Nov",
           "dueDate": "25/11",
-          "task": "Mitrage moodboard direction 2"
+          "task": "Mitrage moodboard direction 1"
         }
       ]
     },
@@ -26,7 +36,7 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "23-Nov",
+          "date": "25-Nov",
           "dueDate": "4/12",
           "task": "SN Priority: 50. NCLEX MI Questions Nursing Students Miss ~13 mins (3.25)"
         }
@@ -36,9 +46,9 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "23-Nov",
-          "dueDate": null,
-          "task": "RnD: AI experiment"
+          "date": "25-Nov",
+          "dueDate": "3/12",
+          "task": "Cengage: Video 2 ~7 mins (4)"
         }
       ]
     },
@@ -46,13 +56,28 @@
       "member": "Oanh",
       "tasks": [
         {
-          "date": "23-Nov",
+          "date": "25-Nov",
+          "dueDate": "4/12",
+          "task": "SN Priority: 50. NCLEX MI Questions Nursing Students Miss ~13 mins (3.25)"
+        }
+      ]
+    },
+    {
+      "member": "Quân",
+      "tasks": [
+        {
+          "date": "25-Nov",
           "dueDate": null,
-          "task": "OKR: Personal project: Improve anim quality"
+          "task": "OKR– R&D: AI Proposal & Interactive Course Workflow"
+        },
+        {
+          "date": "25-Nov",
+          "dueDate": "25/11",
+          "task": "Conation media: fix 0.5"
         }
       ]
     }
   ],
-  "totalMembers": 5,
-  "totalTasks": 5
+  "totalMembers": 6,
+  "totalTasks": 9
 }
