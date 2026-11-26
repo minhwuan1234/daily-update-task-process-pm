@@ -1,73 +1,25 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "responses": [
     {
-      "date": "2026-11-25",
-      "message": "OKR (8h)",
-      "submittedAt": "2026-11-25T10:56:59.579Z",
+      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d",
+      "submittedAt": "2026-11-26T11:01:42.281Z",
+      "date": "2026-11-26",
       "tasks": [
         {
-          "progress": "0%",
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "timeSpent": "ÃÂ¢ÃÂÃÂ",
-          "title": "SN Priority: 50. NCLEX MI Questions Nursing Students Miss ~13 mins (3.25)"
-        }
-      ],
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
-    },
-    {
-      "date": "2026-11-25",
-      "message": "",
-      "submittedAt": "2026-11-25T11:15:34.176Z",
-      "tasks": [
-        {
-          "progress": "50%",
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "timeSpent": "8h",
-          "title": "SN Priority: 50. NCLEX MI Questions Nursing Students Miss ~13 mins (3.25)"
-        }
-      ],
-      "userId": "ou_e0897ef23f084625d708cd50c16468db"
-    },
-    {
-      "date": "2026-11-25",
-      "message": "30p sá»­a CSL 8",
-      "submittedAt": "2026-11-25T11:21:23.354Z",
-      "tasks": [
-        {
-          "progress": "100%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "2.5h",
-          "title": "UV Smart: D60 USA brochure - new version (2h)"
+          "title": "Cengage: Video 5 ~7 mins (3.5)",
+          "progress": "0%",
+          "timeSpent": "0.5h"
         },
         {
-          "progress": "100%",
           "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "timeSpent": "5h",
-          "title": "CSL IHF: M8 part 4 ~0.6 min"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-11-25T15:31:23.768Z",
-      "date": "2026-11-25",
-      "tasks": [
-        {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "OKR– R&D: AI Proposal & Interactive Course Workflow",
-          "progress": "80%",
-          "timeSpent": "4h"
-        },
-        {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-1",
-          "title": "Conation media: fix 0.5",
+          "title": "UV Smart: post 2 - phase 1 (4 opts)",
           "progress": "100%",
-          "timeSpent": "3h"
+          "timeSpent": "2h"
         }
       ],
-      "message": "1h cengage"
+      "message": "chưa làm cengage 5 vì bận cài adobe mất 1,5h ạ huhu\nkhoảng 30p sửa IHF 8 (3 script)\nkhoảng 2h sửa infographic PANDA\nthời gian còn lại sửa lung tung các thứ UV liên tiếp (gồm UV D60 brochure new version + update product images D45 D60 + update line cho D45 opened device)"
     }
   ]
 }
