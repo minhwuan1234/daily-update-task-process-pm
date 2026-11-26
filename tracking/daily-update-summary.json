@@ -10828,11 +10828,11 @@
     "toolName": "Daily Update Task Process PM",
     "date": "2026-11-26",
     "timezone": "Asia/Ho_Chi_Minh",
-    "updatedAt": "2026-11-26T11:01:51.492874+00:00",
+    "updatedAt": "2026-11-26T11:08:36.611Z",
     "totalMembers": 11,
-    "submittedMembers": 1,
-    "missingMembers": 10,
-    "submissionRate": 9.09,
+    "submittedMembers": 2,
+    "missingMembers": 9,
+    "submissionRate": 18,
     "members": {
       "ou_7efb0c22f47740644cf374252d01fdba": {
         "memberName": "Ánh",
