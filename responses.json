@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-11-26",
-      "message": "chÆ°a lÃ m cengage 5 vÃ¬ báº­n cÃ i adobe máº¥t 1,5h áº¡ huhu\nkhoáº£ng 30p sá»­a IHF 8 (3 script)\nkhoáº£ng 2h sá»­a infographic PANDA\nthá»i gian cÃ²n láº¡i sá»­a lung tung cÃ¡c thá»© UV liÃªn tiáº¿p (gá»m UV D60 brochure new version + update product images D45 D60 + update line cho D45 opened device)",
+      "message": "chÃÂ°a lÃÂ m cengage 5 vÃÂ¬ bÃ¡ÂºÂ­n cÃÂ i adobe mÃ¡ÂºÂ¥t 1,5h Ã¡ÂºÂ¡ huhu\nkhoÃ¡ÂºÂ£ng 30p sÃ¡Â»Â­a IHF 8 (3 script)\nkhoÃ¡ÂºÂ£ng 2h sÃ¡Â»Â­a infographic PANDA\nthÃ¡Â»Âi gian cÃÂ²n lÃ¡ÂºÂ¡i sÃ¡Â»Â­a lung tung cÃÂ¡c thÃ¡Â»Â© UV liÃÂªn tiÃ¡ÂºÂ¿p (gÃ¡Â»Âm UV D60 brochure new version + update product images D45 D60 + update line cho D45 opened device)",
       "submittedAt": "2026-11-26T11:01:42.281Z",
       "tasks": [
         {
@@ -33,7 +33,21 @@
           "timeSpent": "7h"
         }
       ],
-      "message": "Em làm và sửa lại file hướng dẫn artifact Simple Nursing Animation trong 45 phút và sửa SN 48 trong 15 phút ạ"
+      "message": "Em lÃ m vÃ  sá»­a láº¡i file hÆ°á»ng dáº«n artifact Simple Nursing Animation trong 45 phÃºt vÃ  sá»­a SN 48 trong 15 phÃºt áº¡"
+    },
+    {
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
+      "submittedAt": "2026-11-26T15:31:14.497Z",
+      "date": "2026-11-26",
+      "tasks": [
+        {
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "title": "Cengage: Video 3 ~6.5 mins (3.5)",
+          "progress": "30%",
+          "timeSpent": "8h"
+        }
+      ],
+      "message": ""
     }
   ]
 }
