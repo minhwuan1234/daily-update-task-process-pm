@@ -30,18 +30,18 @@
       "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
     },
     {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-11-27T14:21:04.462Z",
       "date": "2026-11-27",
+      "message": "0,5h hop team",
+      "submittedAt": "2026-11-27T14:21:04.462Z",
       "tasks": [
         {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "Cengage: Video 3 ~6.5 mins (3.5)",
           "progress": "60%",
-          "timeSpent": "7.5h"
+          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
+          "timeSpent": "7.5h",
+          "title": "Cengage: Video 3 ~6.5 mins (3.5)"
         }
       ],
-      "message": "0,5h hop team"
+      "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     }
   ]
 }
