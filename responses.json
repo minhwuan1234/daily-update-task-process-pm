@@ -1,53 +1,19 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "responses": [
     {
-      "date": "2026-11-26",
-      "message": "chÃÂ°a lÃÂ m cengage 5 vÃÂ¬ bÃ¡ÂºÂ­n cÃÂ i adobe mÃ¡ÂºÂ¥t 1,5h Ã¡ÂºÂ¡ huhu\nkhoÃ¡ÂºÂ£ng 30p sÃ¡Â»Â­a IHF 8 (3 script)\nkhoÃ¡ÂºÂ£ng 2h sÃ¡Â»Â­a infographic PANDA\nthÃ¡Â»Âi gian cÃÂ²n lÃ¡ÂºÂ¡i sÃ¡Â»Â­a lung tung cÃÂ¡c thÃ¡Â»Â© UV liÃÂªn tiÃ¡ÂºÂ¿p (gÃ¡Â»Âm UV D60 brochure new version + update product images D45 D60 + update line cho D45 opened device)",
-      "submittedAt": "2026-11-26T11:01:42.281Z",
-      "tasks": [
-        {
-          "progress": "0%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-0",
-          "timeSpent": "0.5h",
-          "title": "Cengage: Video 5 ~7 mins (3.5)"
-        },
-        {
-          "progress": "100%",
-          "taskId": "ou_5164f9cd3ea33166c65a61b378bb114d-1",
-          "timeSpent": "2h",
-          "title": "UV Smart: post 2 - phase 1 (4 opts)"
-        }
-      ],
-      "userId": "ou_5164f9cd3ea33166c65a61b378bb114d"
-    },
-    {
       "userId": "ou_e0897ef23f084625d708cd50c16468db",
-      "submittedAt": "2026-11-26T11:08:24.616Z",
-      "date": "2026-11-26",
+      "submittedAt": "2026-11-27T10:47:01.121Z",
+      "date": "2026-11-27",
       "tasks": [
         {
           "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "title": "SN Priority: 50. NCLEX MI Questions Nursing Students Miss ~13 mins (3.25)",
-          "progress": "80%",
-          "timeSpent": "7h"
-        }
-      ],
-      "message": "Em lÃ m vÃ  sá»­a láº¡i file hÆ°á»ng dáº«n artifact Simple Nursing Animation trong 45 phÃºt vÃ  sá»­a SN 48 trong 15 phÃºt áº¡"
-    },
-    {
-      "userId": "ou_029556a9a2b266d13eead0db7af96c5b",
-      "submittedAt": "2026-11-26T15:31:14.497Z",
-      "date": "2026-11-26",
-      "tasks": [
-        {
-          "taskId": "ou_029556a9a2b266d13eead0db7af96c5b-0",
-          "title": "Cengage: Video 3 ~6.5 mins (3.5)",
+          "title": "RnD: AI experiment",
           "progress": "30%",
-          "timeSpent": "8h"
+          "timeSpent": "6h"
         }
       ],
-      "message": ""
+      "message": "em làm nốt SN50 trong 1.5h, cài adobe bản mới 15 phút, họp cuối tuần 15 phút ạ"
     }
   ]
 }
