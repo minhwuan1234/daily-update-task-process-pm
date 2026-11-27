@@ -1,19 +1,14 @@
 {
-  "date": "26-Nov",
-  "generatedAt": "2026-11-26T10:45:10.130Z",
+  "date": "27-Nov",
+  "generatedAt": "2026-11-27T10:45:08.172Z",
   "members": [
     {
       "member": "Thư",
       "tasks": [
         {
-          "date": "26-Nov",
+          "date": "27-Nov",
           "dueDate": "3/12",
           "task": "Cengage: Video 5 ~7 mins (3.5)"
-        },
-        {
-          "date": "26-Nov",
-          "dueDate": "30/12",
-          "task": "UV Smart: post 2 - phase 1 (4 opts)"
         }
       ]
     },
@@ -21,7 +16,7 @@
       "member": "Thảo Vi",
       "tasks": [
         {
-          "date": "26-Nov",
+          "date": "27-Nov",
           "dueDate": "30/11",
           "task": "WWF Tonle Sap concept art"
         }
@@ -31,9 +26,9 @@
       "member": "Thế Anh",
       "tasks": [
         {
-          "date": "26-Nov",
-          "dueDate": "4/12",
-          "task": "SN Priority: 50. NCLEX MI Questions Nursing Students Miss ~13 mins (3.25)"
+          "date": "27-Nov",
+          "dueDate": null,
+          "task": "RnD: AI experiment"
         }
       ]
     },
@@ -41,9 +36,19 @@
       "member": "Duy Anh",
       "tasks": [
         {
-          "date": "26-Nov",
+          "date": "27-Nov",
           "dueDate": "3/12",
           "task": "Cengage: Video 2 ~7 mins (4)"
+        }
+      ]
+    },
+    {
+      "member": "Oanh",
+      "tasks": [
+        {
+          "date": "27-Nov",
+          "dueDate": "3/12",
+          "task": "Cengage: Video 4 ~7 mins (3.5)"
         }
       ]
     },
@@ -51,13 +56,13 @@
       "member": "Quân",
       "tasks": [
         {
-          "date": "26-Nov",
+          "date": "27-Nov",
           "dueDate": "3/12",
           "task": "Cengage: Video 3 ~6.5 mins (3.5)"
         }
       ]
     }
   ],
-  "totalMembers": 5,
+  "totalMembers": 6,
   "totalTasks": 6
 }
