@@ -44,18 +44,18 @@
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
     },
     {
-      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
-      "submittedAt": "2026-11-27T15:26:22.801Z",
       "date": "2026-11-27",
+      "message": "- Set up máy tính (1.5h)",
+      "submittedAt": "2026-11-27T15:26:22.801Z",
       "tasks": [
         {
-          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
-          "title": "Cengage: Video 4 ~7 mins (3.5)",
           "progress": "30%",
-          "timeSpent": "6.5h"
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "timeSpent": "6.5h",
+          "title": "Cengage: Video 4 ~7 mins (3.5)"
         }
       ],
-      "message": "- Set up máy tính (1.5h)"
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70"
     }
   ]
 }
