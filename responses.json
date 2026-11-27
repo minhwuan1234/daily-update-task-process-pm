@@ -2,18 +2,18 @@
   "date": "2026-11-27",
   "responses": [
     {
-      "userId": "ou_e0897ef23f084625d708cd50c16468db",
-      "submittedAt": "2026-11-27T10:47:01.121Z",
       "date": "2026-11-27",
+      "message": "em làm nốt SN50 trong 1.5h, cài adobe bản mới 15 phút, họp cuối tuần 15 phút ạ",
+      "submittedAt": "2026-11-27T10:47:01.121Z",
       "tasks": [
         {
-          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
-          "title": "RnD: AI experiment",
           "progress": "30%",
-          "timeSpent": "6h"
+          "taskId": "ou_e0897ef23f084625d708cd50c16468db-0",
+          "timeSpent": "6h",
+          "title": "RnD: AI experiment"
         }
       ],
-      "message": "em làm nốt SN50 trong 1.5h, cài adobe bản mới 15 phút, họp cuối tuần 15 phút ạ"
+      "userId": "ou_e0897ef23f084625d708cd50c16468db"
     }
   ]
 }
