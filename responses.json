@@ -3,7 +3,7 @@
   "responses": [
     {
       "date": "2026-11-27",
-      "message": "em lÃÂ m nÃ¡Â»Ât SN50 trong 1.5h, cÃÂ i adobe bÃ¡ÂºÂ£n mÃ¡Â»Âi 15 phÃÂºt, hÃ¡Â»Âp cuÃ¡Â»Âi tuÃ¡ÂºÂ§n 15 phÃÂºt Ã¡ÂºÂ¡",
+      "message": "em lÃÂÃÂ m nÃÂ¡ÃÂ»ÃÂt SN50 trong 1.5h, cÃÂÃÂ i adobe bÃÂ¡ÃÂºÃÂ£n mÃÂ¡ÃÂ»ÃÂi 15 phÃÂÃÂºt, hÃÂ¡ÃÂ»ÃÂp cuÃÂ¡ÃÂ»ÃÂi tuÃÂ¡ÃÂºÃÂ§n 15 phÃÂÃÂºt ÃÂ¡ÃÂºÃÂ¡",
       "submittedAt": "2026-11-27T10:47:01.121Z",
       "tasks": [
         {
@@ -17,7 +17,7 @@
     },
     {
       "date": "2026-11-27",
-      "message": "~3h sá»­a OPM, Forest M8, PANDA infographic, UV D45 FDA\ncÃ²n láº¡i sinh nháº­t + há»p + cháº¡y Äi cháº¡y láº¡i",
+      "message": "~3h sÃ¡Â»Â­a OPM, Forest M8, PANDA infographic, UV D45 FDA\ncÃÂ²n lÃ¡ÂºÂ¡i sinh nhÃ¡ÂºÂ­t + hÃ¡Â»Âp + chÃ¡ÂºÂ¡y ÃÂi chÃ¡ÂºÂ¡y lÃ¡ÂºÂ¡i",
       "submittedAt": "2026-11-27T10:48:09.325Z",
       "tasks": [
         {
@@ -42,6 +42,20 @@
         }
       ],
       "userId": "ou_029556a9a2b266d13eead0db7af96c5b"
+    },
+    {
+      "userId": "ou_ce056c51b867b816a10b42f6466bcd70",
+      "submittedAt": "2026-11-27T15:26:22.801Z",
+      "date": "2026-11-27",
+      "tasks": [
+        {
+          "taskId": "ou_ce056c51b867b816a10b42f6466bcd70-0",
+          "title": "Cengage: Video 4 ~7 mins (3.5)",
+          "progress": "30%",
+          "timeSpent": "6.5h"
+        }
+      ],
+      "message": "- Set up máy tính (1.5h)"
     }
   ]
 }
